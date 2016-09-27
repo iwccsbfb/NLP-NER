@@ -112,11 +112,12 @@ class NewsCorpusGenerator(object):
 #      pdb.set_trace()
 
       if ex_body == '':
+        print("Cannot parse article from : %s" % link)
         self.stats['empty_body_articles'] += 1
         continue
       self._save_article({'title':ex_title, 'URL': link, 'body': ex_body,
         'category':category})
-    print("empty body articles count: %d" % self.stats['empty_body_articles'])
+    #print("empty body articles count: %d" % self.stats['empty_body_articles'])
 
   def _unicode2ascii(self, text):
     return "".join([str(ch) if ord(ch) < 128 else ' ' for ch in text])
