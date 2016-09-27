@@ -11,7 +11,7 @@ if(__name__ == '__main__'):
   # Save results to sqlite or  files per article 
   ex = NewsCorpusGenerator(corpus_dir,'file')
   # Retrieve 50 links related to the search term dogs and assign a category of Pet to the retrieved links
-  links = ex.google_news_search('aapl','tech',50)
+  links = ex.google_news_search('aapl bond','tech',50)
 
   # Generate and save corpus
   ex.generate_corpus(links)
