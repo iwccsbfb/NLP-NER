@@ -14,7 +14,7 @@ import pdb
 
 
 class NewsCorpusGenerator(object):
-  def __init__(self,corpus_dir,datastore_type='file',db_name='corpus.db'):
+  def __init__(self, corpus_dir, datastore_type='file', db_name='corpus.db'):
     '''
     Read links and associated categories for specified articles 
     in text file seperated by a space
@@ -38,98 +38,13 @@ class NewsCorpusGenerator(object):
       self.db = self.corpus_dir + '/' + self.db_name
       self._set_up_db(self.db)
 
-  def _create_corpus_dir(self,directory):
-    if not os.path.exists(directory):
-      os.makedirs(directory)
 
-  def read_links_file(self,file_path):
-    '''
-    Read links and associated categories for specified articles 
-    in text file seperated by a space
-
-    Args:
-      file_path (str): The path to text file with news article links
-               and category
-
-    Returns:
-      articles: Array of tuples that contains article link & cateogory
-            ex. [('IPO','www.cs.columbia.edu')]
-    '''
-
-    articles = []
-    with open(file_path) as f:
-      for line in f:
-        line = line.strip()
-        #Ignore blank lines
-        if len(line) != 0:
-          link,category = line.split(' ')
-          articles.append((category.rstrip(),link.strip()))
-
-    return articles
-
-  def generate_corpus(self,articles):
-    # TODO parallelize extraction process
-    print 'Extracting  content from links...'
-    for article in articles:
-      category = article[0]
-      link = article[1]
-      ex_article = None
-      try:
-        ex_article = self.g.extract(url=link)
-      except Exception as e:
-        print(e)
-        print('failed to extract article: %s' % link)
-        pdb.set_trace()
-        continue
-
-      ex_title = ex_article.title
-      ex_body = ex_article.cleaned_text
-
-      if ex_body == '':
-        self.stats['empty_body_articles'] += 1
-        continue
-      self._save_article({'title':ex_title, 'URL': link, 'body': ex_body,
-        'category':category})
-
-  def _save_article(self,clean_article):
-    print "Saving article %s..." %(clean_article['title'])
-    if self.datastore_type == 'file':
-      self._save_flat_file(clean_article)
-    elif self.datastore_type == 'sqlite':
-      self._save_to_db(clean_article)
-    else:
-      raise Exception("Unsupported datastore type. Please specify file or sqlite")
-
-  def _remove_punctuations(self,title):
-    # TODO optimize for python 3
-    #title.translate(title.maketrans("",""), string.punctuation)
-    return "".join(char for char in title if char not in string.punctuation)
-
-  def _save_flat_file(self,clean_article):
-    directory = self.corpus_dir + '/' + 'google_news' 
-    # create category directory
-    if not os.path.exists(directory):
-      os.makedirs(directory)
-
-    file_name = directory + '/' + \
-    self._remove_punctuations(clean_article['title']).replace(" ","_") + '.json'
-    with open(file_name, 'w') as f:
-#        f.write(clean_article['body'])
-        f.write(json.dumps(clean_article))
-#        json.dumps(clean_article, f)
-
-  def _encode_query(self,query):
-    # TODO Python 3 urllib.parse.quote 
-    return urllib.quote(query)
-
-
-  def google_news_search(self,query,category_label,num=50):
+  def google_news_search(self, query, category_label, num=50):
     '''
     Searches Google News.
     NOTE: Official Google News API is deprecated https://developers.google.com/news-search/?hl=en
     NOTE: Google limits the maximum number of documents per query to 100.
-        Use multiple related queries to get a bigger corpus. 
-
+        Use multiple related queries to get a bigger corpus.
     Args:
       query (str): The search term.
       category_label (str): The category to assign to the articles. These
@@ -149,9 +64,98 @@ class NewsCorpusGenerator(object):
     articles = []
 
     for entry in entries:
-      link = entry['link']
+      link = self._unicode2ascii(entry['link'])
+      idx = link.find('url=')
+      if idx != -1: link = link[idx+4:]
       articles.append((category_label,link))
     return articles
+
+
+  def read_links_file(self, file_path):
+    '''
+    Read links and associated categories for specified articles 
+    in text file seperated by a space
+    Args:
+      file_path (str): The path to text file with news article links
+               and category
+    Returns:
+      articles: Array of tuples that contains article link & cateogory
+            ex. [('IPO','www.cs.columbia.edu')]
+    '''
+    articles = []
+    with open(file_path) as f:
+      for line in f:
+        line = line.strip()
+        #Ignore blank lines
+        if len(line) != 0:
+          link,category = line.split(' ')
+          articles.append((category.rstrip(), link.strip()))
+    return articles
+
+  def generate_corpus(self, articles):
+    # TODO parallelize extraction process
+    print 'Extracting  content from links...'
+    for article in articles:
+      category = article[0]
+      link = article[1]
+      ex_article = None
+      try:
+        ex_article = self.g.extract(url=link)
+      except Exception as e:
+        print(e)
+        print('failed to extract article: %s' % link)
+        pdb.set_trace()
+        continue
+
+      ex_title = self._unicode2ascii(ex_article.title)
+      ex_body = self._unicode2ascii(ex_article.cleaned_text)
+#      pdb.set_trace()
+
+      if ex_body == '':
+        self.stats['empty_body_articles'] += 1
+        continue
+      self._save_article({'title':ex_title, 'URL': link, 'body': ex_body,
+        'category':category})
+    print("empty body articles count: %d" % self.stats['empty_body_articles'])
+
+  def _unicode2ascii(self, text):
+    return "".join([str(ch) if ord(ch) < 128 else ' ' for ch in text])
+
+
+  def _encode_query(self,query):
+    # TODO Python 3 urllib.parse.quote
+    return urllib.quote(query)
+
+  def _remove_punctuations(self,title):
+    # TODO optimize for python 3
+    #title.translate(title.maketrans("",""), string.punctuation)
+    return "".join(char for char in title if char not in string.punctuation)
+
+  def _create_corpus_dir(self,directory):
+    if not os.path.exists(directory):
+      os.makedirs(directory)
+
+  def _save_article(self,clean_article):
+    print "Saving article %s \n link: %s" % (clean_article['title'], clean_article['URL'])
+    if self.datastore_type == 'file':
+      self._save_flat_file(clean_article)
+    elif self.datastore_type == 'sqlite':
+      self._save_to_db(clean_article)
+    else:
+      raise Exception("Unsupported datastore type. Please specify file or sqlite")
+
+  def _save_flat_file(self,clean_article):
+    directory = self.corpus_dir + '/' + 'google_news' 
+    # create category directory
+    if not os.path.exists(directory):
+      os.makedirs(directory)
+
+    file_name = directory + '/' + \
+    self._remove_punctuations(clean_article['title']).replace(" ","_") + '.json'
+    with open(file_name, 'w') as f:
+#        f.write(clean_article['body'])
+        f.write(json.dumps(clean_article))
+#        json.dumps(clean_article, f)
 
   def _set_up_db(self,db):
     if os.path.exists(db):
