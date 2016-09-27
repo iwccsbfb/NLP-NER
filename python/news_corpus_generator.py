@@ -106,7 +106,7 @@ class NewsCorpusGenerator(object):
     return "".join(char for char in title if char not in string.punctuation)
 
   def _save_flat_file(self,clean_article):
-    directory = self.corpus_dir + '/' + clean_article['category']
+    directory = self.corpus_dir + '/' + 'google_news' 
     # create category directory
     if not os.path.exists(directory):
       os.makedirs(directory)
