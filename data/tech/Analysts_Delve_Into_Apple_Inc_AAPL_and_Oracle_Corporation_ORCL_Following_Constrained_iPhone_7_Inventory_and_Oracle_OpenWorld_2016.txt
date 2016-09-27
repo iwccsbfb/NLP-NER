@@ -1,0 +1,33 @@
+Analysts from Piper Jaffray and Drexel Hamilton are chiming in on tech world giants Apple Inc. (NASDAQ:AAPL) and Oracle Corporation (NYSE:ORCL) after a top analyst investigates the iPhone 7’s in-store availability and an analyst details feature highlights from an executive conference and an analyst day, respectively. Let’s take a closer look:
+
+Piper Jaffray top analyst Gene Munster offers perspective on Apple after 134 in-store iPhone 7 availability checks have indicated 20% of stock keeping units (SKUs) checked were available in-store to be picked up, with an iPhone 7 majority compared to the iPhone 7 Plus.
+
+Munster believes inventory data points align with the tech giant’s commentary regarding the iPhone 7 Plus selling out before the launch and mirrors that of a “typical of a number-change phone launch.” The analyst noted “We view the data as positive given some negative point of sale data reported on Friday. We remain positive on shares of AAPL on our continued belief in an iPhone 7 cycle in-line with iPhone 6 and up mid-teens y/y vs the iPhone 6S.”
+
+Additionally, Munster notes a third party data service expressed on Friday that weekend sales for the newest iPhone launch had fallen 25% year-over-year “in a basket of launch countries” when assessing point of sale data.
+
+Nonetheless, “While the stock reacted negatively, we believe that point of sale would have been impacted by the fact that Apple had essentially zero iPhone 7 Plus units available for retail purchase in the launch weekend, while there were negligible iPhone 6 inventory constraints last launch. We also note the data does not correlate with positive commentary and Apple’s own commentary about stock outs, which we view as a more reliable indicator of demand,” Munster concludes.
+
+As such, the analyst reiterates an Overweight rating on shares of AAPL with a $151 price target, which represents a nearly 35% increase from where the stock is currently trading.
+
+As usual, we like to include the analyst’s track record when reporting on new analyst notes to give a perspective on the effect it has on stock performance. According to TipRanks, top five-star analyst Gene Munster has achieved a high ranking of #4 out of 4,183 analysts. Munster upholds a 68% success rate and yields 19.1% in his annual returns. When recommending AAPL, Munster earns 12.5% in average profits on the stock.
+
+TipRanks analytics demonstrate AAPL as a Strong Buy. Based on 36 analysts polled in the last 3 months, 31 rate a Buy on AAPL, 4 maintain a Hold, while 1 issues a Sell. The 12-month price target stands at $127.83, marking a 13% upside from where the shares last closed.
+
+Last week, Oracle Corporation hosted its Oracle OpenWorld 2016 conference, where its executives, partners, and leading industry experts share insight into Oracle Cloud, customer success in the cloud, and forthcoming enterprise opportunities. Oracle CEO Larry Ellison asserted that he expects “the best years of Oracle are in front of it” and predicts the upcoming years will be “very, very exciting” ones indeed.
+
+Drexel Hamilton analyst Brian White “walked away encouraged by Oracle’s cloud progress, new product announcements and future direction,” and therefore reiterates a Buy rating on ORCL with a price target of $47, which represents a 21% increase from where the shares last closed.
+
+White underscores, “Recall, Oracle is trying to become the first cloud company to reach $10 billion in SaaS/PaaS revenue. In our view, the “cloudification” of Oracle provides for a larger market opportunity, higher levels of recurring revenue, attractive margins and the potential for market share gains.”
+
+At the conference, the software giant introduced “more robust” platform-as-a-service (PaS) and infrastructure-as-a-service (IaaS) solutions, which White anticipates will “provide the necessary arsenal for the Oracle Cloud to take on AWS.” White notes a greater focus on Amazon Web Services (AWS) as a “key theme” at the conference, with a defense for why ORCL’s database portfolio outclasses that of AWS. ORCL is not sitting still and announced an allegedly 11.5 times faster-than-AWS Generation 2 Infrastructure that also is 20% lesser expensive.
+
+Though ORCL’s chief attention is on battling AWS, the analyst notes the company also recognizes cloud players like Workday (SaaS), Salesforce (SaaS), together with Microsoft (PaaS) as big rivals.
+
+Furthermore, the company intends to use its Accelerated Buying Experience that commenced in the third quarter of the fiscal year of 2016 to make buying cloud solutions for customers an easier process than before.
+
+White remains bullish on Oracle’s future, believing, “the shift of customer workloads into the cloud will allow Oracle to capture a much larger TAM as the company sells all three layers of the cloud.”
+
+According to TipRanks, five-star analyst Brian White is ranked #118 out of 4,183 analysts. White has a 59% success rate and gains 8.9% in his yearly returns. However, when recommending OCRL, White loses 1.9% in average profits on the stock.
+
+TipRanks analytics exhibit ORCL as a Buy. Based on 28 analysts polled in the last 3 months, 19 rate a Buy on ORCL, 7 maintain a Hold, while 2 issue a Sell. The consensus price target stands at $44.83, marking a 15% upside from where the stock is currently trading.
