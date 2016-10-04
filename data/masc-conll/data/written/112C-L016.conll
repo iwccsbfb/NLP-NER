@@ -1,0 +1,232 @@
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	_	_	_
+2	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_	_
+3	hard	hard	JJ	_	hard	hard	JJ	2	PRD	_	_	_	_
+4	to	to	TO	_	to	to	TO	2	EXTR	_	_	_	_
+5	believe	believe	VB	_	believe	believe	VB	4	IM	believe.01	_	_	_
+6	that	that	IN	_	that	that	IN	5	OBJ	_	A1	_	_
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+8	holiday	holiday	NN	_	holiday	holiday	NN	9	NMOD	_	_	A1	_
+9	season	season	NN	_	season	season	NN	10	SBJ	season.01	_	_	A1
+10	is	is	VBZ	_	is	be	VBZ	6	SUB	be.01	_	_	_
+11	only	only	RB	_	only	only	RB	13	NMOD	_	_	_	_
+12	two	two	CD	_	two	two	CD	11	DEP	_	_	_	_
+13	months	months	NNS	_	months	month	NNS	14	AMOD	_	_	_	_
+14	away	away	RB	_	away	away	RB	10	TMP	_	_	_	AM-TMP
+15	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	At	at	IN	_	At	at	IN	7	LOC	_	AM-LOC	_	_
+2	Pleasant	pleasant	NNP	_	Pleasant	pleasant	NNP	3	NAME	_	_	_	_
+3	Run	run	NNP	_	Run	run	NNP	5	NMOD	_	_	_	_
+4	,	,	,	_	,	,	,	5	P	_	_	_	_
+5	Inc.	inc.	NNP	_	Inc.	inc.	NNP	1	PMOD	_	_	_	_
+6	we	we	PRP	_	we	we	PRP	7	SBJ	_	A1	A0	_
+7	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+8	making	making	VBG	_	making	make	VBG	7	VC	make.01	A2	_	_
+9	plans	plans	NNS	_	plans	plan	NNS	8	OBJ	plan.01	_	A1	_
+10	and	and	CC	_	and	and	CC	9	COORD	_	_	_	_
+11	arrangements	arrangements	NNS	_	arrangements	arrangement	NNS	10	CONJ	_	_	_	_
+12	for	for	IN	_	for	for	IN	9	NMOD	_	_	_	A1
+13	our	our	PRP$	_	our	our	PRP$	14	NMOD	_	_	_	_
+14	children	children	NNS	_	children	child	NNS	12	PMOD	_	_	_	_
+15	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_
+16	families	families	NNS	_	families	family	NNS	15	CONJ	_	_	_	_
+17	.	.	.	_	.	.	.	7	P	_	_	_	_
+
+1	Every	every	DT	_	Every	every	DT	2	NMOD	_	_	_	_	_
+2	year	year	NN	_	year	year	NN	4	TMP	year.04	A2	AM-TMP	_	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	_	A0	_	_
+4	seek	seek	VBP	_	seek	seek	VBP	0	ROOT	seek.01	SU	_	_	_
+5	companies	companies	NNS	_	companies	company	NNS	4	OBJ	_	A1	A1	A0	_
+6	,	,	,	_	,	,	,	5	P	_	_	_	_	_
+7	organizations	organizations	NNS	_	organizations	organization	NNS	5	COORD	_	_	_	_	_
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_
+9	individuals	individuals	NNS	_	individuals	individual	NNS	8	CONJ	_	_	_	_	_
+10	to	to	TO	_	to	to	TO	5	NMOD	_	_	_	_	_
+11	sponsor	sponsor	VB	_	sponsor	sponsor	VB	10	IM	sponsor.01	_	_	_	_
+12	one	one	CD	_	one	one	CD	11	PRD	_	_	_	A1	_
+13	or	or	CC	_	or	or	CC	12	COORD	_	_	_	_	_
+14	more	more	JJR	_	more	more	DT	13	CONJ	_	_	_	_	_
+15	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	_	_
+16	our	our	PRP$	_	our	our	PRP$	17	NMOD	_	_	_	_	A2
+17	families	families	NNS	_	families	family	NNS	15	PMOD	family.01	_	_	_	_
+18	.	.	.	_	.	.	.	4	P	_	_	_	_	_
+
+1	These	these	DT	_	These	these	DT	2	NMOD	_	_	_	_	_
+2	families	families	NNS	_	families	family	NNS	3	SBJ	_	A1	_	_	_
+3	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_
+4	participants	participants	NNS	_	participants	participant	NNS	3	PRD	participant.01	A2	A0	_	_
+5	in	in	IN	_	in	in	IN	4	NMOD	_	_	A1	_	_
+6	our	our	PRP$	_	our	our	PRP$	10	NMOD	_	_	_	_	A0
+7	community	community	NN	_	community	community	NN	10	NMOD	_	_	_	A1	A1
+8	-	-	HYPH	_	-	-	HYPH	7	AMOD	_	_	_	_	_
+9	based	based	VBN	_	based	base	VBN	7	NMOD	base.01	_	_	_	_
+10	programs	programs	NNS	_	programs	program	NNS	5	PMOD	program.02	_	_	_	_
+11	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	These	these	DT	_	These	these	DT	2	NMOD	_	_	_	_	_	_	_
+2	programs	programs	NNS	_	programs	program	NNS	3	SBJ	program.01	_	A0	A0	A0	_	_
+3	focus	focus	VBP	_	focus	focus	VBP	0	ROOT	focus.01	_	_	_	_	_	_
+4	on	on	IN	_	on	on	IN	3	ADV	_	_	A1	_	_	_	_
+5	keeping	keeping	VBG	_	keeping	keep	VBG	4	PMOD	keep.01	SU	_	_	_	SU	SU
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+7	family	family	NN	_	family	family	NN	5	OBJ	_	A0	_	A1	_	A0	A0
+8	together	together	RB	_	together	together	RB	5	ADV	_	_	_	AM-MNR	_	_	_
+9	by	by	IN	_	by	by	IN	5	MNR	_	_	_	AM-MNR	_	_	_
+10	providing	providing	VBG	_	providing	provide	VBG	9	PMOD	provide.01	SU	_	_	_	_	_
+11	counseling	counseling	NN	_	counseling	counseling	NN	10	OBJ	counseling.01	A1	_	_	A1	_	_
+12	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_	_
+13	other	other	JJ	_	other	other	JJ	14	NMOD	_	_	_	_	_	_	_
+14	services	services	NNS	_	services	services	NNS	12	CONJ	service.03	_	_	_	_	_	_
+15	to	to	TO	_	to	to	TO	10	ADV	_	_	_	_	A2	_	_
+16	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_	_	_
+17	entire	entire	JJ	_	entire	entire	JJ	18	NMOD	_	_	_	_	_	_	_
+18	family	family	NN	_	family	family	NN	15	PMOD	_	_	_	_	_	_	_
+19	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_
+
+1	After	after	IN	_	After	after	IN	13	TMP	_	_	AM-TMP	_	_
+2	our	our	PRP$	_	our	our	PRP$	3	NMOD	_	_	_	_	_
+3	caseworkers	caseworkers	NNS	_	caseworkers	caseworker	NNS	4	SBJ	_	A0	_	_	_
+4	meet	meet	VBP	_	meet	meet	VBP	1	SUB	meet.01	_	_	_	_
+5	with	with	IN	_	with	with	IN	4	ADV	_	A1	_	_	_
+6	these	these	DT	_	these	these	DT	7	NMOD	_	_	_	_	_
+7	families	families	NNS	_	families	family	NNS	5	PMOD	_	_	_	_	_
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_
+9	their	their	PRP$	_	their	their	PRP$	10	NMOD	_	_	_	_	_
+10	children	children	NNS	_	children	child	NNS	8	CONJ	_	_	_	_	_
+11	they	they	PRP	_	they	they	PRP	13	SBJ	_	_	A0	_	_
+12	often	often	RB	_	often	often	RB	13	TMP	_	_	AM-TMP	_	_
+13	find	find	VBP	_	find	find	VBP	0	ROOT	find.01	_	_	_	_
+14	they	they	PRP	_	they	they	PRP	15	SBJ	_	_	_	A0	_
+15	lack	lack	VBP	_	lack	lack	VBP	13	OBJ	lack.01	_	A1	_	_
+16	even	even	RB	_	even	even	RB	19	NMOD	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_
+18	basic	basic	JJ	_	basic	basic	JJ	19	NMOD	_	_	_	_	_
+19	necessities	necessities	NNS	_	necessities	necessity	NNS	15	OBJ	_	_	_	A1	_
+20	such	such	JJ	_	such	such	JJ	21	DEP	_	_	_	_	_
+21	as	as	IN	_	as	as	IN	19	NMOD	_	_	_	_	_
+22	cooking	cooking	NN	_	cooking	cooking	NN	23	NMOD	_	_	_	_	_
+23	utensils	utensils	NNS	_	utensils	utensil	NNS	30	NMOD	_	_	_	_	_
+24	,	,	,	_	,	,	,	30	P	_	_	_	_	_
+25	beds	beds	NNS	_	beds	bed	NNS	30	NMOD	_	_	_	_	_
+26	,	,	,	_	,	,	,	30	P	_	_	_	_	_
+27	cleaning	cleaning	NN	_	cleaning	cleaning	NN	28	NMOD	_	_	_	_	A1
+28	supplies	supplies	NNS	_	supplies	supply	NNS	30	NMOD	supply.01	_	_	_	_
+29	,	,	,	_	,	,	,	30	P	_	_	_	_	_
+30	etc	etc	FW	_	etc	etc	CC	21	PMOD	_	_	_	_	_
+31	.	.	.	_	.	.	.	13	P	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0
+2	meet	meet	VBP	_	meet	meet	VBP	0	ROOT	meet.01	_
+3	these	these	DT	_	these	these	DT	4	NMOD	_	_
+4	needs	needs	NNS	_	needs	need	NNS	2	OBJ	_	A1
+5	immediately	immediately	RB	_	immediately	immediately	RB	2	TMP	_	AM-TMP
+6	.	.	.	_	.	.	.	2	P	_	_
+
+1	But	but	CC	_	But	but	CC	6	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	6	P	_	_	_	_
+3	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_
+4	holiday	holiday	NN	_	holiday	holiday	NN	5	NMOD	_	A1	_	_
+5	season	season	NN	_	season	season	NN	6	SBJ	season.01	_	A1	_
+6	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_
+7	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_
+8	particularly	particularly	RB	_	particularly	particularly	RB	9	AMOD	_	_	_	_
+9	difficult	difficult	JJ	_	difficult	difficult	JJ	10	NMOD	_	_	_	_
+10	time	time	NN	_	time	time	NN	6	PRD	time.07	SU	A2	_
+11	for	for	IN	_	for	for	IN	10	NMOD	_	A0	_	A1
+12	these	these	DT	_	these	these	DT	13	NMOD	_	_	_	_
+13	families	families	NNS	_	families	family	NNS	11	PMOD	_	_	_	_
+14	.	.	.	_	.	.	.	6	P	_	_	_	_
+
+1	They	they	PRP	_	They	they	PRP	2	SBJ	_	A0	A0	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_
+3	not	not	RB	_	not	not	RB	2	ADV	_	AM-NEG	_	_
+4	have	have	VB	_	have	have	VB	2	VC	have.04	A1	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_
+6	resources	resources	NNS	_	resources	resource	NNS	4	OBJ	_	_	A1	A0
+7	necessary	necessary	JJ	_	necessary	necessary	JJ	6	APPO	_	_	_	_
+8	to	to	TO	_	to	to	TO	7	AMOD	_	_	_	_
+9	purchase	purchase	VB	_	purchase	purchase	VB	8	IM	purchase.01	_	_	_
+10	gifts	gifts	NNS	_	gifts	gift	NNS	9	OBJ	_	_	_	A1
+11	or	or	CC	_	or	or	CC	10	COORD	_	_	_	_
+12	food	food	NN	_	food	food	NN	11	CONJ	_	_	_	_
+13	for	for	IN	_	for	for	IN	12	NMOD	_	_	_	_
+14	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_
+15	holiday	holiday	NN	_	holiday	holiday	NN	16	NMOD	_	_	_	_
+16	meal	meal	NN	_	meal	meal	NN	13	PMOD	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A1	A0	_	_	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_
+3	asking	asking	VBG	_	asking	ask	VBG	2	VC	ask.01	A2	_	_	_	_	_
+4	you	you	PRP	_	you	you	PRP	3	OBJ	_	_	A1	A0	A0	_	_
+5	to	to	TO	_	to	to	TO	3	OPRD	_	_	A3	_	_	_	_
+6	consider	consider	VB	_	consider	consider	VB	5	IM	consider.02	_	_	_	_	_	_
+7	sponsoring	sponsoring	VBG	_	sponsoring	sponsor	VBG	6	OPRD	sponsor.01	_	_	A1	_	_	_
+8	one	one	CD	_	one	one	CD	7	OBJ	_	_	_	_	A1	_	_
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	_	_	_	_	_
+10	our	our	PRP$	_	our	our	PRP$	11	NMOD	_	_	_	_	_	A2	_
+11	families	families	NNS	_	families	family	NNS	9	PMOD	family.01	_	_	_	_	_	_
+12	for	for	IN	_	for	for	IN	7	TMP	_	_	_	_	AM-TMP	_	_
+13	this	this	DT	_	this	this	DT	15	NMOD	_	_	_	_	_	_	_
+14	holiday	holiday	NN	_	holiday	holiday	NN	15	NMOD	_	_	_	_	_	_	A1
+15	season	season	NN	_	season	season	NN	12	PMOD	season.01	_	_	_	_	_	_
+16	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+
+1	If	if	IN	_	If	if	IN	12	ADV	_	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A1	A0	A0	_
+3	are	are	VBP	_	are	be	VBP	1	SUB	be.01	_	_	_	_
+4	interested	interested	JJ	_	interested	interested	JJ	3	PRD	_	A2	_	_	_
+5	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_
+6	would	would	MD	_	would	would	MD	5	CONJ	_	_	_	_	_
+7	like	like	VB	_	like	like	VB	6	VC	like.01	_	_	SU	_
+8	more	more	JJR	_	more	more	DT	9	NMOD	_	_	_	_	_
+9	information	information	NN	_	information	information	NN	7	OBJ	information.01	_	A1	_	_
+10	,	,	,	_	,	,	,	12	P	_	_	_	_	_
+11	please	please	UH	_	please	please	UH	12	DEP	_	_	_	_	_
+12	contact	contact	VB	_	contact	contact	VB	0	ROOT	contact.01	_	_	_	_
+13	Lisa	lisa	NNP	_	Lisa	lisa	NNP	14	NAME	_	_	_	_	_
+14	Lusk	lusk	NNP	_	Lusk	lusk	NNP	12	OBJ	_	_	_	_	A1
+15	or	or	CC	_	or	or	CC	14	COORD	_	_	_	_	_
+16	Marcia	marcia	NNP	_	Marcia	marcia	NNP	17	NAME	_	_	_	_	_
+17	Whited	whited	NNP	_	Whited	whited	NNP	15	CONJ	_	_	_	_	_
+18	at	at	IN	_	at	at	IN	12	LOC	_	_	_	_	AM-LOC
+19	693-9222	693-9222	CD	_	693-9222	693-9222	CD	18	PMOD	_	_	_	_	_
+20	.	.	.	_	.	.	.	12	P	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	A0	_
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_
+3	like	like	VB	_	like	like	VB	2	VC	like.01	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	A1	_	_
+5	have	have	VB	_	have	have	VB	4	IM	have.04	_	_	_
+6	families	families	NNS	_	families	family	NNS	5	OBJ	_	_	_	A0
+7	matched	matched	VBN	_	matched	match	VBD	5	OPRD	match.01	_	A1	_
+8	with	with	IN	_	with	with	IN	7	ADV	_	_	_	AM-MNR
+9	sponsors	sponsors	NNS	_	sponsors	sponsor	NNS	8	PMOD	_	_	_	_
+10	no	no	RB	_	no	no	DT	11	AMOD	_	_	_	_
+11	later	later	RB	_	later	later	RB	5	TMP	_	_	AM-TMP	_
+12	than	than	IN	_	than	than	IN	11	AMOD	_	_	_	_
+13	xxxx	xxxx	NN	_	xxxx	xxxx	NN	12	PMOD	_	_	_	_
+14	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Thank	thank	VBP	_	Thank	thank	VBP	0	ROOT	thank.01	_	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	1	OBJ	_	A1	A0	_	A0	_
+3	for	for	IN	_	for	for	IN	1	ADV	_	A2	_	_	_	_
+4	considering	considering	VBG	_	considering	consider	VBG	3	PMOD	consider.01	_	_	_	_	_
+5	this	this	DT	_	this	this	DT	6	NMOD	_	_	_	_	_	_
+6	opportunity	opportunity	NN	_	opportunity	opportunity	NN	4	OBJ	opportunity.01	_	A1	_	_	_
+7	to	to	TO	_	to	to	TO	6	NMOD	_	_	_	A1	_	_
+8	make	make	VB	_	make	make	VB	7	IM	make.08	_	_	_	_	_
+9	this	this	DT	_	this	this	DT	8	OBJ	_	_	_	_	_	_
+10	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_
+11	memorable	memorable	JJ	_	memorable	memorable	JJ	13	NMOD	_	_	_	_	_	_
+12	holiday	holiday	NN	_	holiday	holiday	NN	13	NMOD	_	_	_	_	_	A1
+13	season	season	NN	_	season	season	NN	8	OPRD	season.01	_	_	_	A2	_
+14	for	for	IN	_	for	for	IN	13	NMOD	_	_	_	_	_	_
+15	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_
+16	family	family	NN	_	family	family	NN	14	PMOD	_	_	_	_	_	_
+17	in	in	IN	_	in	in	IN	16	NMOD	_	_	_	_	_	_
+18	need	need	NN	_	need	need	NN	17	PMOD	_	_	_	_	_	_
+19	.	.	.	_	.	.	.	1	P	_	_	_	_	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	0	ROOT	_
+2	,	,	.	_	,	,	.	1	P	_

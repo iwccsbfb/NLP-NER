@@ -1,0 +1,921 @@
+
+1	Fashioning	fashioning	VBG	_	Fashioning	fashion	VBG	0	ROOT	fashion.01	_
+2	Paula	paula	NNP	_	Paula	paula	NNP	1	OBJ	_	A1
+
+1	USA	usa	NNP	_	USA	usa	NNP	2	NAME	_	_	_	_	_
+2	Today	today	NNP	_	Today	today	NNP	3	SBJ	_	A0	_	_	_
+3	leads	leads	VBZ	_	leads	lead	VBZ	0	ROOT	lead.04	_	_	_	_
+4	with	with	IN	_	with	with	IN	3	ADV	_	A2	_	_	_
+5	Texas	texas	NNP	_	Texas	texas	NNP	7	NMOD	_	_	A0	_	_
+6	'	'	POS	_	'	'	POS	5	SUFFIX	_	_	_	_	_
+7	settlement	settlement	NN	_	settlement	settlement	NN	4	PMOD	settlement.01	_	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A1	_	_
+9	its	its	PRP$	_	its	its	PRP$	13	NMOD	_	_	_	A0	_
+10	product	product	NN	_	product	product	NN	12	NMOD	_	_	_	_	_
+11	-	-	HYPH	_	-	-	HYPH	12	NMOD	_	_	_	_	_
+12	liability	liability	NN	_	liability	liability	NN	13	NMOD	_	_	_	A1	_
+13	lawsuit	lawsuit	NN	_	lawsuit	lawsuit	NN	8	PMOD	lawsuit.01	_	_	_	_
+14	against	against	IN	_	against	against	IN	13	NMOD	_	_	_	_	_
+15	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_
+16	leading	leading	VBG	_	leading	lead	VBG	18	NMOD	_	_	_	_	_
+17	tobacco	tobacco	NN	_	tobacco	tobacco	NN	18	NMOD	_	_	_	_	A1
+18	companies	companies	NNS	_	companies	company	NNS	14	PMOD	company.01	_	_	_	A3
+19	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_	_	_
+2	top	top	JJ	_	top	top	JJ	4	NMOD	_	_	_	_	_	_	_
+3	nonlocal	nonlocal	JJ	_	nonlocal	nonlocal	JJ	4	NMOD	_	_	_	_	_	_	_
+4	story	story	NN	_	story	story	NN	9	SBJ	_	A1	_	_	_	_	_
+5	at	at	IN	_	at	at	IN	4	NMOD	_	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_	_
+7	Washington	washington	NNP	_	Washington	washington	NNP	8	NAME	_	_	_	_	_	_	_
+8	Post	post	NNP	_	Post	post	NNP	5	PMOD	_	_	_	_	_	_	_
+9	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_
+11	latest	latest	JJS	_	latest	latest	JJS	12	NMOD	_	_	_	_	_	_	_
+12	development	development	NN	_	development	development	NN	9	PRD	_	A2	_	_	_	_	_
+13	in	in	IN	_	in	in	IN	12	NMOD	_	_	_	_	_	_	_
+14	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_
+15	Indonesian	indonesian	JJ	_	Indonesian	indonesian	JJ	17	NMOD	_	_	A0	_	_	_	_
+16	economic	economic	JJ	_	economic	economic	JJ	17	NMOD	_	_	_	_	_	_	_
+17	crisis	crisis	NN	_	crisis	crisis	NN	13	PMOD	crisis.01	_	_	_	_	_	_
+18	--	--	:	_	--	--	:	12	P	_	_	_	_	_	_	_
+19	a	a	DT	_	a	a	DT	25	NMOD	_	_	_	_	_	_	_
+20	rare	rare	JJ	_	rare	rare	JJ	25	NMOD	_	_	_	AM-TMP	AM-TMP	_	_
+21	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_
+22	boosterish	boosterish	JJ	_	boosterish	boosterish	JJ	21	CONJ	_	_	_	_	_	_	_
+23	Suharto	suharto	NNP	_	Suharto	suharto	NNP	25	NMOD	_	_	_	A2	A0	_	_
+24	press	press	NN	_	press	press	NN	25	NMOD	press.04	_	_	A0	A1	_	_
+25	conference	conference	NN	_	conference	conference	NN	12	APPO	conference.01	_	_	_	_	_	_
+26	in	in	IN	_	in	in	IN	25	NMOD	_	_	_	_	_	_	_
+27	contrast	contrast	NN	_	contrast	contrast	NN	26	PMOD	contrast.01	_	_	_	_	_	_
+28	to	to	TO	_	to	to	TO	27	NMOD	_	_	_	_	_	A1	_
+29	a	a	DT	_	a	a	DT	33	NMOD	_	_	_	_	_	_	_
+30	further	further	RB	_	further	further	RB	31	AMOD	_	_	_	_	_	_	AM-DIS
+31	plunging	plunging	VBG	_	plunging	plunge	VBG	33	NMOD	plunge.01	_	_	_	_	_	_
+32	stock	stock	NN	_	stock	stock	NN	33	NMOD	_	_	_	_	_	_	_
+33	market	market	NN	_	market	market	NN	28	PMOD	_	_	_	_	_	_	_
+34	and	and	CC	_	and	and	CC	33	COORD	_	_	_	_	_	_	_
+35	food	food	NN	_	food	food	NN	36	NMOD	_	_	_	_	_	_	_
+36	riots	riots	NNS	_	riots	riot	NNS	34	CONJ	_	_	_	_	_	_	_
+37	in	in	IN	_	in	in	IN	36	LOC	_	_	_	_	_	_	_
+38	outlying	outlying	JJ	_	outlying	outlying	JJ	39	NMOD	_	_	_	_	_	_	_
+39	towns	towns	NNS	_	towns	town	NNS	37	PMOD	_	_	_	_	_	_	_
+40	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_
+2	New	new	NNP	_	New	new	NNP	3	NAME	_	_	_	_	_
+3	York	york	NNP	_	York	york	NNP	4	NMOD	_	_	_	_	_
+4	Times	times	NNP	_	Times	times	NNP	5	SBJ	_	A0	_	_	_
+5	leads	leads	VBZ	_	leads	lead	VBZ	0	ROOT	lead.04	_	_	_	_
+6	with	with	IN	_	with	with	IN	5	ADV	_	A2	_	_	_
+7	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_	_
+8	comprehensive	comprehensive	JJ	_	comprehensive	comprehensive	JJ	9	NMOD	_	_	_	_	_
+9	poll	poll	NN	_	poll	poll	NN	6	PMOD	poll.01	_	_	_	_
+10	about	about	IN	_	about	about	IN	9	NMOD	_	_	A2	_	_
+11	American	american	JJ	_	American	american	JJ	12	NMOD	_	_	_	A1	_
+12	attitudes	attitudes	NNS	_	attitudes	attitude	NNS	10	PMOD	attitude.01	_	_	_	A0
+13	concerning	concerning	VBG	_	concerning	concern	VBG	12	APPO	concern.01	_	_	_	_
+14	abortion	abortion	NN	_	abortion	abortion	NN	13	OBJ	_	_	_	_	A1
+15	.	.	.	_	.	.	.	5	P	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	12	ADV	_	_	_	_	AM-LOC	_	_	_	_	_	_
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_	_	_	_	_	_
+3	Texas	texas	NNP	_	Texas	texas	NNP	4	NMOD	_	A0	_	_	_	_	_	_	_	_	_
+4	case	case	NN	_	case	case	NN	1	PMOD	case.04	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_	_	_	_	_	_
+6	reports	reports	VBZ	_	reports	report	VBZ	12	PRN	report.01	_	_	_	_	_	_	_	_	_	_
+7	USAT	usat	NNP	_	USAT	usat	NNP	6	SBJ	_	_	A0	_	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_	_	_	_	_
+10	defendant	defendant	NN	_	defendant	defendant	NN	11	NMOD	_	_	_	A1	_	_	_	_	_	_	_
+11	companies	companies	NNS	_	companies	company	NNS	12	SBJ	company.01	_	_	A3	A0	A0	A0	A0	_	_	_
+12	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	A1	_	_	_	_	_	_	_	_
+13	agreed	agreed	VBN	_	agreed	agree	VBN	12	VC	agree.01	_	_	_	A1	_	_	_	_	_	_
+14	to	to	TO	_	to	to	TO	13	OPRD	_	_	_	_	_	_	_	_	_	_	_
+15	pay	pay	VB	_	pay	pay	VB	14	IM	pay.01	_	_	_	_	_	_	_	_	_	_
+16	about	about	RB	_	about	about	RB	17	DEP	_	_	_	_	_	_	_	_	_	_	_
+17	$	$	$	_	$	$	$	15	OBJ	_	_	_	_	_	_	A1	_	_	_	_
+18	15	15	CD	_	15	15	CD	17	DEP	_	_	_	_	_	_	_	_	_	_	_
+19	billion	billion	CD	_	billion	billion	CD	17	DEP	_	_	_	_	_	_	_	_	_	_	_
+20	over	over	IN	_	over	over	IN	15	TMP	_	_	_	_	_	_	AM-TMP	_	_	_	_
+21	25	25	CD	_	25	25	CD	22	NMOD	_	_	_	_	_	_	_	_	_	_	_
+22	years	years	NNS	_	years	years	NNS	20	PMOD	_	_	_	_	_	_	_	_	_	_	_
+23	to	to	TO	_	to	to	TO	15	PRP	_	_	_	_	_	_	_	_	_	_	_
+24	reimburse	reimburse	VB	_	reimburse	reimburse	VB	23	IM	reimburse.01	_	_	_	_	_	_	_	_	_	_
+25	the	the	DT	_	the	the	DT	26	NMOD	_	_	_	_	_	_	_	_	_	_	_
+26	state	state	NN	_	state	state	NN	24	OBJ	_	_	_	_	_	_	_	A1	_	_	_
+27	for	for	IN	_	for	for	IN	24	ADV	_	_	_	_	_	_	_	A3	_	_	_
+28	expenses	expenses	NNS	_	expenses	expense	NNS	27	PMOD	_	_	_	_	_	_	_	_	A1	_	_
+29	it	it	PRP	_	it	it	PRP	30	SBJ	_	_	_	_	_	_	_	_	A0	_	_
+30	incurred	incurred	VBD	_	incurred	incur	VBD	28	NMOD	incur.01	_	_	_	_	_	_	_	_	_	_
+31	in	in	IN	_	in	in	IN	30	LOC	_	_	_	_	_	_	_	_	AM-LOC	_	_
+32	the	the	DT	_	the	the	DT	33	NMOD	_	_	_	_	_	_	_	_	_	_	_
+33	treatment	treatment	NN	_	treatment	treatment	NN	31	PMOD	_	_	_	_	_	_	_	_	_	_	_
+34	of	of	IN	_	of	of	IN	33	NMOD	_	_	_	_	_	_	_	_	_	_	_
+35	smoking	smoking	NN	_	smoking	smoking	NN	38	NMOD	_	_	_	_	_	_	_	_	_	A1	A1
+36	-	-	HYPH	_	-	-	HYPH	35	AMOD	_	_	_	_	_	_	_	_	_	_	_
+37	related	related	VBN	_	related	relate	VBN	35	NMOD	relate.01	_	_	_	_	_	_	_	_	_	_
+38	illnesses	illnesses	NNS	_	illnesses	illness	NNS	34	PMOD	illness.01	_	_	_	_	_	_	_	_	_	A2
+39	.	.	.	_	.	.	.	12	P	_	_	_	_	_	_	_	_	_	_	_
+
+1	That	that	DT	_	That	that	DT	2	SBJ	_	A0	A1	_	_
+2	makes	makes	VBZ	_	makes	make	VBZ	0	ROOT	make.08	_	SU	_	_
+3	Texas	texas	NNP	_	Texas	texas	NNP	2	OBJ	_	_	_	_	A0
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_
+5	third	third	JJ	_	third	third	JJ	6	NMOD	_	_	_	_	_
+6	state	state	NN	_	state	state	NN	2	OPRD	state.01	A2	A2	A0	_
+7	to	to	TO	_	to	to	TO	6	NMOD	_	_	_	_	_
+8	settle	settle	VB	_	settle	settle	VB	7	IM	settle.01	_	_	_	_
+9	such	such	PDT	_	such	such	PDT	11	NMOD	_	_	_	_	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_	_
+11	case	case	NN	_	case	case	NN	8	OBJ	_	_	_	A1	_
+12	,	,	,	_	,	,	,	6	P	_	_	_	_	_
+13	joining	joining	VBG	_	joining	join	VBG	6	ADV	join.01	_	_	_	_
+14	Florida	florida	NNP	_	Florida	florida	NNP	13	OBJ	_	_	_	_	A1
+15	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_	_
+16	Mississippi	mississippi	NNP	_	Mississippi	mississippi	NNP	15	CONJ	_	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_	_
+
+1	There	there	EX	_	There	there	EX	2	SBJ	_	_	_	_	_	_	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_	_
+3	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_	_
+4	says	says	VBZ	_	says	say	VBZ	2	PRN	say.01	AM-ADV	_	SU	_	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_
+6	paper	paper	NN	_	paper	paper	NN	4	SBJ	paper.01	_	A0	_	_	_	_	_
+7	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_	_	_	_	_
+9	total	total	NN	_	total	total	NN	2	PRD	total.01	A1	_	_	A2	_	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	_	_	A1	_	_	_
+11	40	40	CD	_	40	40	CD	13	NMOD	_	_	_	_	_	_	_	_
+12	such	such	JJ	_	such	such	DT	11	NMOD	_	_	_	_	_	_	_	_
+13	suits	suits	NNS	_	suits	suit	NNS	10	PMOD	_	_	_	_	_	_	_	_
+14	on	on	IN	_	on	on	IN	9	LOC	_	_	_	_	_	_	_	_
+15	file	file	NN	_	file	file	NN	14	PMOD	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_	_
+17	with	with	IN	_	with	with	IN	2	ADV	_	AM-MNR	_	_	_	_	_	_
+18	Minnesota	minnesota	NNP	_	Minnesota	minnesota	NNP	20	NMOD	_	_	_	_	_	A0	_	_
+19	's	's	POS	_	's	's	POS	18	SUFFIX	_	_	_	_	_	_	_	_
+20	turn	turn	NN	_	turn	turn	NN	21	SBJ	turn.02	_	_	_	_	_	A1	A1
+21	coming	coming	VBG	_	coming	come	VBG	17	PMOD	come.01	_	_	_	_	_	_	SU
+22	next	next	JJ	_	next	next	JJ	23	NMOD	_	_	_	_	_	_	_	AM-TMP
+23	week	week	NN	_	week	week	NN	21	TMP	week.03	_	_	_	_	_	AM-TMP	A2
+24	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_	_	_	_
+2	Wall	wall	NNP	_	Wall	wall	NNP	3	NAME	_	_	_	_	_	_	_	_
+3	Street	street	NNP	_	Street	street	NNP	4	NMOD	_	_	_	_	_	_	_	_
+4	Journal	journal	NNP	_	Journal	journal	NNP	5	SBJ	_	A0	_	_	_	_	_	_
+5	states	states	VBZ	_	states	state	VBZ	0	ROOT	state.01	_	_	_	_	_	_	_
+6	that	that	IN	_	that	that	IN	5	OBJ	_	A1	_	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_	_	_
+8	plaintiffs	plaintiffs	NNS	_	plaintiffs	plaintiff	NNS	10	NMOD	_	_	A1	_	_	_	_	_
+9	'	'	POS	_	'	'	POS	8	SUFFIX	_	_	_	_	_	_	_	_
+10	lawyers	lawyers	NNS	_	lawyers	lawyer	NNS	18	SBJ	lawyer.01	_	A0	A2	_	A0	_	_
+11	hired	hired	VBN	_	hired	hire	VBN	10	APPO	hire.01	_	_	_	_	_	_	_
+12	by	by	IN	_	by	by	IN	11	LGS	_	_	_	_	_	_	_	_
+13	Texas	texas	NNP	_	Texas	texas	NNP	12	PMOD	_	_	_	A0	_	_	_	_
+14	to	to	TO	_	to	to	TO	11	OPRD	_	_	_	_	_	_	_	_
+15	try	try	VB	_	try	try	VB	14	IM	try.01	_	_	_	_	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_	_
+17	case	case	NN	_	case	case	NN	15	OBJ	_	_	_	_	A1	_	_	_
+18	will	will	MD	_	will	will	MD	6	SUB	_	_	_	_	_	_	_	_
+19	receive	receive	VB	_	receive	receive	VB	18	VC	receive.01	_	_	_	_	_	_	_
+20	as	as	IN	_	as	as	IN	19	PRP	_	_	_	_	_	_	_	_
+21	part	part	NN	_	part	part	NN	20	PMOD	part.04	_	_	_	_	AM-TMP	_	SU
+22	of	of	IN	_	of	of	IN	21	NMOD	_	_	_	_	_	_	A1	A0
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_	_
+24	deal	deal	NN	_	deal	deal	NN	22	PMOD	_	_	_	_	_	_	_	_
+25	almost	almost	RB	_	almost	almost	RB	26	DEP	_	_	_	_	_	_	_	_
+26	$	$	$	_	$	$	$	19	OBJ	_	_	_	_	_	A1	_	_
+27	2.2	2.2	CD	_	2.2	2.2	CD	26	DEP	_	_	_	_	_	_	_	_
+28	billion	billion	CD	_	billion	billion	CD	26	DEP	_	_	_	_	_	_	_	_
+29	in	in	IN	_	in	in	IN	26	NMOD	_	_	_	_	_	_	_	_
+30	fees	fees	NNS	_	fees	fee	NNS	29	PMOD	fee.01	_	_	_	_	_	_	_
+31	.	.	.	_	.	.	.	5	P	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	NYT	nyt	NNP	_	NYT	nyt	NNP	4	NMOD	_	A0	A0	_	_	_	_	_	_	_	_	_	_
+3	abortion	abortion	NN	_	abortion	abortion	NN	4	NMOD	abortion.01	_	A1	_	_	_	_	_	_	_	_	_	_
+4	survey	survey	NN	_	survey	survey	NN	15	SBJ	survey.01	_	_	_	_	A1	A0	_	A0	_	_	A0	A0
+5	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	first	first	JJ	_	first	first	JJ	4	APPO	_	_	_	A1	_	_	_	_	_	_	_	_	_
+8	conducted	conducted	VBN	_	conducted	conduct	VBN	7	APPO	conduct.01	_	_	_	_	_	_	_	_	_	_	_	_
+9	by	by	IN	_	by	by	IN	8	LGS	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	paper	paper	NN	_	paper	paper	NN	9	PMOD	paper.01	_	_	A0	_	_	_	_	_	_	_	_	_
+12	since	since	IN	_	since	since	IN	8	TMP	_	_	_	AM-TMP	_	_	_	_	_	_	_	_	_
+13	1989	1989	CD	_	1989	1989	CD	12	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_	_	_	_
+16	based	based	VBN	_	based	base	VBN	15	VC	base.02	_	_	_	_	A2	_	_	_	_	_	_	_
+17	on	on	IN	_	on	on	IN	16	ADV	_	_	_	_	_	_	A1	_	_	_	_	_	_
+18	telephone	telephone	NN	_	telephone	telephone	NN	19	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	interviews	interviews	NNS	_	interviews	interview	NNS	17	PMOD	interview.01	_	_	_	_	_	_	_	_	_	_	_	_
+20	of	of	IN	_	of	of	IN	19	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_
+21	1,101	1,101	CD	_	1,101	1,101	CD	22	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	people	people	NNS	_	people	people	NNS	20	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	detects	detects	VBZ	_	detects	detect	VBZ	23	CONJ	detect.01	_	_	_	_	_	_	_	_	_	_	_	_
+25	"	"	''	_	"	"	''	24	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	a	a	DT	_	a	a	DT	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	notable	notable	JJ	_	notable	notable	JJ	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	shift	shift	NN	_	shift	shift	NN	24	OBJ	shift.02	_	_	_	_	_	_	_	A1	_	_	_	_
+29	from	from	IN	_	from	from	IN	28	NMOD	_	_	_	_	_	_	_	_	_	A2	_	_	_
+30	general	general	JJ	_	general	general	JJ	31	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	acceptance	acceptance	NN	_	acceptance	acceptance	NN	29	PMOD	acceptance.01	_	_	_	_	_	_	_	_	_	_	_	_
+32	"	"	''	_	"	"	''	31	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	of	of	IN	_	of	of	IN	31	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_	_
+34	having	having	VBG	_	having	have	VBG	33	PMOD	have.03	_	_	_	SU	_	_	_	_	_	_	_	SU
+35	the	the	DT	_	the	the	DT	36	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	procedure	procedure	NN	_	procedure	procedure	NN	34	OBJ	procedure.01	_	_	_	A1	_	_	_	_	_	_	A1	_
+37	:	:	:	_	:	:	:	28	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	from	from	IN	_	from	from	IN	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	40	40	CD	_	40	40	CD	40	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	percent	percent	NN	_	percent	percent	NN	38	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	to	to	TO	_	to	to	TO	38	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	32	32	CD	_	32	32	CD	43	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	percent	percent	NN	_	percent	percent	NN	41	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	.	.	.	_	.	.	.	15	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	5	DEP	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_
+3	pollsters	pollsters	NNS	_	pollsters	pollster	NNS	5	SBJ	_	A0	_	_
+4	also	also	RB	_	also	also	RB	5	ADV	_	AM-DIS	_	_
+5	detected	detected	VBD	_	detected	detect	VBD	0	ROOT	detect.01	_	_	_
+6	an	an	DT	_	an	an	DT	9	NMOD	_	_	_	_
+7	increasingly	increasingly	RB	_	increasingly	increasingly	RB	8	AMOD	_	_	_	_
+8	acute	acute	JJ	_	acute	acute	JJ	9	NMOD	_	_	_	_
+9	sensitivity	sensitivity	NN	_	sensitivity	sensitivity	NN	5	OBJ	sensitivity.01	A1	_	_
+10	to	to	TO	_	to	to	TO	9	NMOD	_	_	A1	_
+11	abortion	abortion	NN	_	abortion	abortion	NN	12	NMOD	_	_	_	A1
+12	timing	timing	NN	_	timing	timing	NN	10	PMOD	timing.01	_	_	_
+13	:	:	.	_	:	:	.	5	P	_	_	_	_
+
+1	Sixty-one	sixty-one	CD	_	Sixty	sixty	CD	3	HMOD	_	_	_	_	_
+2	_	_	_	_	-	-	HYPH	1	HYPH	_	_	_	_	_
+3	_	_	_	_	one	one	CD	4	NMOD	_	_	_	_	_
+4	percent	percent	NN	_	percent	percent	NN	8	SBJ	_	_	A0	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	_	_	_	_
+6	those	those	DT	_	those	those	DT	5	PMOD	_	A1	_	_	_
+7	polled	polled	VBN	_	polled	poll	VBN	6	APPO	poll.01	_	_	_	_
+8	thought	thought	VBD	_	thought	think	VBD	0	ROOT	think.01	_	_	_	_
+9	abortions	abortions	NNS	_	abortions	abortion	NNS	10	SBJ	_	_	_	A1	A0
+10	should	should	MD	_	should	should	MD	8	OBJ	_	_	_	_	_
+11	be	be	VB	_	be	be	VB	10	VC	be.01	_	_	_	_
+12	permitted	permitted	VBN	_	permitted	permit	VBN	11	VC	permit.01	_	_	A2	_
+13	during	during	IN	_	during	during	IN	12	TMP	_	_	_	_	AM-TMP
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_
+15	first	first	JJ	_	first	first	JJ	16	NMOD	_	_	_	_	_
+16	trimester	trimester	NN	_	trimester	trimester	NN	13	PMOD	_	_	_	_	_
+17	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+18	but	but	CC	_	but	but	CC	8	COORD	_	_	_	_	_
+19	only	only	RB	_	only	only	RB	21	NMOD	_	_	_	_	_
+20	15	15	CD	_	15	15	CD	19	DEP	_	_	_	_	_
+21	percent	percent	NN	_	percent	percent	NN	18	GAP-SBJ	_	_	_	_	_
+22	in	in	IN	_	in	in	IN	18	GAP-TMP	_	_	_	_	_
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_
+24	second	second	JJ	_	second	second	JJ	22	PMOD	_	_	_	_	_
+25	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_
+26	just	just	RB	_	just	just	RB	28	NMOD	_	_	_	_	_
+27	7	7	CD	_	7	7	CD	26	DEP	_	_	_	_	_
+28	percent	percent	NN	_	percent	percent	NN	18	GAP-SBJ	_	_	_	_	_
+29	in	in	IN	_	in	in	IN	18	GAP-TMP	_	_	_	_	_
+30	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_	_
+31	third	third	JJ	_	third	third	JJ	29	PMOD	_	_	_	_	_
+32	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+
+1	(	-lrb-	(	_	(	-lrb-	(	4	P	_	_	_	_	_	_	_	_	_	_
+2	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_	_	_	_
+3	piece	piece	NN	_	piece	piece	NN	4	SBJ	piece.03	_	A0	_	_	_	_	_	_	_
+4	notes	notes	VBZ	_	notes	note	VBZ	0	ROOT	note.01	SU	_	_	_	_	_	_	_	_
+5	that	that	IN	_	that	that	IN	4	OBJ	_	A1	A1	_	_	_	_	_	_	_
+6	this	this	DT	_	this	this	DT	8	NMOD	_	_	_	_	_	_	_	_	_	_
+7	last	last	JJ	_	last	last	JJ	8	NMOD	_	_	_	_	_	_	_	_	_	_
+8	stat	stat	NN	_	stat	stat	NN	9	SBJ	_	_	_	A0	A0	_	_	_	_	_
+9	helps	helps	VBZ	_	helps	help	VBZ	5	SUB	help.01	_	_	_	_	_	_	_	_	_
+10	explain	explain	VB	_	explain	explain	VB	9	OPRD	explain.01	_	_	A1	_	_	_	_	_	_
+11	why	why	WRB	_	why	why	WRB	20	PRP	_	_	_	_	A1	_	_	_	_	_
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_	_	_	_	_
+13	focus	focus	NN	_	focus	focus	NN	19	SBJ	focus.01	_	_	_	_	_	_	A0	A0	_
+14	on	on	IN	_	on	on	IN	13	NMOD	_	_	_	_	_	A1	_	_	_	_
+15	partial	partial	JJ	_	partial	partial	JJ	17	NMOD	_	_	_	_	_	_	_	_	_	_
+16	-	-	HYPH	_	-	-	HYPH	17	NMOD	_	_	_	_	_	_	_	_	_	_
+17	birth	birth	NN	_	birth	birth	NN	18	NMOD	_	_	_	_	_	_	A1	_	_	_
+18	abortions	abortions	NNS	_	abortions	abortion	NNS	14	PMOD	abortion.01	_	_	_	_	_	_	_	_	_
+19	has	has	VBZ	_	has	have	VBZ	10	OBJ	have.03	_	_	_	_	_	_	_	_	_
+20	proven	proven	VBN	_	proven	prove	VBN	19	VC	prove.01	_	_	_	_	_	_	A1	_	_
+21	politically	politically	RB	_	politically	politically	RB	22	AMOD	_	_	_	_	_	_	_	_	_	_
+22	advantageous	advantageous	JJ	_	advantageous	advantageous	JJ	20	PRD	_	_	_	_	_	_	_	_	_	_
+23	for	for	IN	_	for	for	IN	22	AMOD	_	_	_	_	_	_	_	_	_	_
+24	abortion	abortion	NN	_	abortion	abortion	NN	25	NMOD	_	_	_	_	_	_	_	_	_	A1
+25	foes	foes	NNS	_	foes	foe	NNS	23	PMOD	foe.01	_	_	_	_	_	_	_	_	A0
+26	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_	_	_
+27	)	-rrb-	)	_	)	-rrb-	)	4	P	_	_	_	_	_	_	_	_	_	_
+
+1	Nearly	nearly	RB	_	Nearly	nearly	RB	3	NMOD	_	_	_	_	_
+2	45	45	CD	_	45	45	CD	1	DEP	_	_	_	_	_
+3	percent	percent	NN	_	percent	percent	NN	14	SBJ	_	_	_	_	A0
+4	of	of	IN	_	of	of	IN	3	NMOD	_	_	_	_	_
+5	those	those	DT	_	those	those	DT	4	PMOD	_	A0	_	_	_
+6	asked	asked	VBN	_	asked	ask	VBN	5	APPO	ask.01	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	A3	_	_	_
+8	state	state	VB	_	state	state	VB	7	IM	state.01	_	_	_	_
+9	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_
+10	present	present	JJ	_	present	present	JJ	11	NMOD	_	_	_	AM-TMP	_
+11	law	law	NN	_	law	law	NN	8	OBJ	law.01	_	A1	_	_
+12	on	on	IN	_	on	on	IN	11	NMOD	_	_	_	A1	_
+13	abortion	abortion	NN	_	abortion	abortion	NN	12	PMOD	_	_	_	_	_
+14	could	could	MD	_	could	could	MD	0	ROOT	_	_	_	_	_
+15	not	not	RB	_	not	not	RB	14	ADV	_	_	_	_	_
+16	give	give	VB	_	give	give	VB	14	VC	give.01	_	_	SU	_
+17	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_
+18	correct	correct	JJ	_	correct	correct	JJ	19	NMOD	_	_	_	_	_
+19	answer	answer	NN	_	answer	answer	NN	16	OBJ	_	_	_	A0	A1
+20	.	.	.	_	.	.	.	14	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_
+2	WSJ	wsj	NNP	_	WSJ	wsj	NNP	3	SBJ	_	A0	_	_	_	_
+3	notes	notes	VBZ	_	notes	note	VBZ	0	ROOT	note.01	_	_	_	_	_
+4	that	that	IN	_	that	that	IN	3	OBJ	_	A1	_	_	_	_
+5	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_
+6	just	just	RB	_	just	just	RB	8	AMOD	_	_	AM-MNR	_	_	_
+7	-	-	HYPH	_	-	-	HYPH	8	AMOD	_	_	_	_	_	_
+8	concluded	concluded	VBN	_	concluded	conclude	VBN	12	NMOD	conclude.01	_	_	_	_	_
+9	football	football	NN	_	football	football	NN	11	NMOD	_	_	_	_	_	_
+10	/	/	SYM	_	/	/	SYM	11	NMOD	_	_	_	_	_	_
+11	TV	tv	NN	_	TV	tv	NN	12	NMOD	_	_	_	A1	_	_
+12	deal	deal	NN	_	deal	deal	NN	13	SBJ	deal.02	_	A1	_	A0	_
+13	will	will	MD	_	will	will	MD	4	SUB	_	_	_	_	_	_
+14	probably	probably	RB	_	probably	probably	RB	13	ADV	_	_	_	_	_	_
+15	mean	mean	VB	_	mean	mean	VB	13	VC	mean.01	_	_	_	_	_
+16	even	even	RB	_	even	even	RB	17	AMOD	_	_	_	_	_	_
+17	steeper	steeper	JJR	_	steeper	steep	JJR	19	NMOD	_	_	_	_	_	_
+18	cable	cable	NN	_	cable	cable	NN	19	NMOD	_	_	_	_	_	A1
+19	bills	bills	NNS	_	bills	bill	NNS	15	OBJ	bill.05	_	_	_	A1	_
+20	in	in	IN	_	in	in	IN	15	TMP	_	_	_	_	AM-TMP	_
+21	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_	_
+22	near	near	JJ	_	near	near	JJ	23	NMOD	_	_	_	_	_	_
+23	future	future	NN	_	future	future	NN	20	PMOD	_	_	_	_	_	_
+24	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+
+1	Some	some	DT	_	Some	some	DT	4	NMOD	_	_	_	_	_	_	_
+2	local	local	JJ	_	local	local	JJ	4	NMOD	_	_	_	_	_	_	_
+3	cable	cable	NN	_	cable	cable	NN	4	NMOD	_	A1	_	_	_	_	_
+4	companies	companies	NNS	_	companies	company	NNS	10	SBJ	company.01	A3	_	_	A0	_	_
+5	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+7	paper	paper	NN	_	paper	paper	NN	8	SBJ	paper.01	_	_	A0	_	_	_
+8	says	says	VBZ	_	says	say	VBZ	10	PRN	say.01	_	SU	_	_	_	_
+9	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_
+10	expect	expect	VBP	_	expect	expect	VBP	0	ROOT	expect.01	_	A1	A1	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_
+12	fees	fees	NNS	_	fees	fee	NNS	10	OBJ	_	_	_	_	_	A1	A1
+13	they	they	PRP	_	they	they	PRP	14	SBJ	_	_	_	_	_	_	_
+14	'll	'll	MD	_	'll	'll	MD	12	NMOD	_	_	_	_	_	_	_
+15	pay	pay	VB	_	pay	pay	VB	14	VC	pay.01	_	_	_	_	_	_
+16	ESPN	espn	NNP	_	ESPN	espn	NNP	15	OBJ	_	_	_	_	_	A2	_
+17	to	to	TO	_	to	to	TO	10	OPRD	_	_	_	_	A1	_	_
+18	go	go	VB	_	go	go	VB	17	IM	go.01	_	_	_	_	_	_
+19	up	up	RB	_	up	up	RB	18	DIR	_	_	_	_	_	_	A3
+20	more	more	JJR	_	more	more	RBR	22	DEP	_	_	_	_	_	_	_
+21	than	than	IN	_	than	than	IN	22	DEP	_	_	_	_	_	_	_
+22	20	20	CD	_	20	20	CD	23	NMOD	_	_	_	_	_	_	_
+23	percent	percent	NN	_	percent	percent	NN	18	EXT	_	_	_	_	_	_	A2
+24	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	_	A0
+3	're	're	VBP	_	're	're	VBP	0	ROOT	_	_	_
+4	in	in	IN	_	in	in	IN	3	PRD	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+6	habit	habit	NN	_	habit	habit	NN	4	PMOD	habit.01	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	A1	_
+8	passing	passing	VBG	_	passing	pass	VBG	7	PMOD	pass.05	_	_
+9	expenses	expenses	NNS	_	expenses	expense	NNS	8	OBJ	_	_	A1
+10	along	along	RB	_	along	along	RB	8	PRT	_	_	_
+11	to	to	TO	_	to	to	TO	8	ADV	_	_	A2
+12	Joe	joe	NNP	_	Joe	joe	NNP	13	NAME	_	_	_
+13	Remote	remote	NNP	_	Remote	remote	NNP	11	PMOD	_	_	_
+14	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	Even	even	RB	_	Even	even	RB	5	NMOD	_	_	_	_	_	_	_	_
+2	non	non	AFX	_	non	non	AFX	5	NMOD	_	_	_	_	_	_	_	_
+3	-	-	HYPH	_	-	-	HYPH	5	NMOD	_	_	_	_	_	_	_	_
+4	sports	sports	NNS	_	sports	sport	NNS	5	NMOD	_	A1	_	_	_	_	_	_
+5	fans	fans	NNS	_	fans	fan	NNS	6	SBJ	fan.01	A0	A1	A0	_	_	_	_
+6	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_	_	_	_
+7	be	be	VB	_	be	be	VB	6	VC	be.01	_	_	_	_	_	_	_
+8	affected	affected	VBN	_	affected	affect	VBN	7	VC	affect.02	_	A2	_	_	_	_	_
+9	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_	_	_
+10	notes	notes	VBZ	_	notes	note	VBZ	8	PRN	note.01	_	_	AM-ADV	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_
+12	Journal	journal	NNP	_	Journal	journal	NNP	10	SBJ	_	_	_	_	A0	_	_	_
+13	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_	_	_
+14	because	because	IN	_	because	because	IN	8	PRP	_	_	_	_	_	_	_	_
+15	ESPN	espn	NNP	_	ESPN	espn	NNP	16	SBJ	_	_	_	_	_	A1	_	_
+16	is	is	VBZ	_	is	be	VBZ	14	SUB	be.01	_	_	_	_	_	_	_
+17	usually	usually	RB	_	usually	usually	RB	16	ADV	_	_	_	_	_	AM-TMP	_	_
+18	part	part	NN	_	part	part	NN	16	PRD	part.04	_	_	_	_	A2	_	_
+19	of	of	IN	_	of	of	IN	18	NMOD	_	_	_	_	_	_	A1	_
+20	basic	basic	JJ	_	basic	basic	JJ	22	NMOD	_	_	_	_	_	_	_	_
+21	cable	cable	NN	_	cable	cable	NN	22	NMOD	_	_	_	_	_	_	_	A1
+22	service	service	NN	_	service	service	NN	19	PMOD	service.03	_	_	_	_	_	_	_
+23	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_	_	_
+
+1	(	-lrb-	(	_	(	-lrb-	(	3	P	_	_	_	_	_	_	_	_	_
+2	Which	which	WDT	_	Which	which	WDT	3	SBJ	_	A0	_	_	_	_	_	_	_
+3	raises	raises	VBZ	_	raises	raise	VBZ	0	ROOT	raise.01	_	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_	_	_	_
+5	question	question	NN	_	question	question	NN	3	PRD	question.01	A1	_	_	_	_	_	_	_
+6	:	:	,	_	:	:	,	5	P	_	_	_	_	_	_	_	_	_
+7	Has	has	VBZ	_	Has	have	VBZ	5	NMOD	_	_	_	_	_	_	_	_	_
+8	n't	not	RB	_	n't	not	RB	7	ADV	_	_	_	_	_	_	_	_	_
+9	technology	technology	NN	_	technology	technology	NN	7	SBJ	technology.01	_	_	_	A1	A0	_	_	_
+10	progressed	progressed	VBN	_	progressed	progress	VBN	7	VC	progress.01	_	A1	_	_	_	_	_	_
+11	to	to	TO	_	to	to	TO	10	ADV	_	_	_	_	A3	_	_	_	_
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_	_	_	_
+13	point	point	NN	_	point	point	NN	11	PMOD	_	_	_	_	_	_	_	_	_
+14	that	that	WDT	_	that	that	WDT	15	SBJ	_	_	_	_	_	_	_	_	_
+15	would	would	MD	_	would	would	MD	13	NMOD	_	_	_	_	_	_	_	_	_
+16	allow	allow	VB	_	allow	allow	VB	15	VC	allow.01	_	_	SU	_	_	_	_	_
+17	cafeteria-style	cafeteria-style	JJ	_	cafeteria	cafeteria	NN	19	HMOD	_	_	_	_	_	_	_	_	_
+18	_	_	_	_	-	-	HYPH	17	HYPH	_	_	_	_	_	_	_	_	_
+19	_	_	_	_	style	style	NN	21	NMOD	style.01	_	_	_	_	_	_	A1	_
+20	programming	programming	NN	_	programming	programming	NN	21	NMOD	programming.01	_	_	_	_	_	_	_	A1
+21	choices	choices	NNS	_	choices	choice	NNS	16	OBJ	choice.01	_	_	A1	_	A1	SU	_	_
+22	by	by	IN	_	by	by	IN	21	NMOD	_	_	_	_	_	_	A0	A0	A0
+23	subscribers	subscribers	NNS	_	subscribers	subscriber	NNS	22	PMOD	_	_	_	_	_	_	_	_	_
+24	?	?	.	_	?	?	.	3	P	_	_	_	_	_	_	_	_	_
+25	)	-rrb-	)	_	)	-rrb-	)	3	P	_	_	_	_	_	_	_	_	_
+
+1	A	a	DT	_	A	a	DT	2	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	scan	scan	NN	_	scan	scan	NN	19	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_	_	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	headlines	headlines	NNS	_	headlines	headline	NNS	3	PMOD	headline.01	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+6	found	found	VBN	_	found	found	VBN	5	APPO	find.01	SU	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	cheek	cheek	NN	_	cheek	cheek	NN	6	MNR	_	_	AM-MNR	_	_	_	_	_	_	_	_	_	_	_	_
+8	-	-	HYPH	_	-	-	HYPH	7	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	by	by	IN	_	by	by	IN	7	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	-	-	HYPH	_	-	-	HYPH	9	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	jowl	jowl	NN	_	jowl	jowl	NN	9	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	on	on	IN	_	on	on	IN	6	LOC	_	A1	A3	_	_	_	_	_	_	_	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	WP	wp	NNP	_	WP	wp	NNP	16	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	'	'	POS	_	'	'	POS	14	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	s	s	POS	_	s	s	NN	18	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+17	Page	page	NN	_	Page	page	NN	18	NMOD	page.02	_	_	A0	_	_	_	_	_	_	_	_	_	_	_
+18	A6	a6	NN	_	A6	a6	NNP	12	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	provides	provides	VBZ	_	provides	provide	VBZ	0	ROOT	provide.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	an	an	DT	_	an	an	DT	22	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	interesting	interesting	JJ	_	interesting	interesting	JJ	22	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	snapshot	snapshot	NN	_	snapshot	snapshot	NN	19	OBJ	snapshot.01	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+23	of	of	IN	_	of	of	IN	22	NMOD	_	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+24	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	life	life	NN	_	life	life	NN	23	PMOD	life.02	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+26	of	of	IN	_	of	of	IN	25	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	30	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	modern	modern	JJ	_	modern	modern	JJ	30	NMOD	_	_	_	_	_	_	_	AM-TMP	_	_	_	_	_	_	_
+29	Cabinet	cabinet	NN	_	Cabinet	cabinet	NN	30	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+30	officer	officer	NN	_	officer	officer	NN	26	PMOD	officer.01	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+31	:	:	:	_	:	:	:	22	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	"	"	''	_	"	"	''	22	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	[	[	[	_	[	[	[	37	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	Ex	ex	AFX	_	Ex	ex	AFX	37	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	-	-	HYPH	_	-	-	HYPH	37	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	HUD	hud	NNP	_	HUD	hud	NNP	37	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	Secretary	secretary	NNP	_	Secretary	secretary	NNP	39	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	]	]	]	_	]	]	]	37	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	Cisneros	cisneros	NNP	_	Cisneros	cisneros	NNP	43	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	's	's	POS	_	's	's	POS	39	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	Ex-Mistress	ex-mistress	NN	_	Ex	ex	PRF	43	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	_	_	_	_	-	-	HYPH	43	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	_	_	_	_	Mistress	mistress	NNP	44	SBJ	_	_	_	_	_	_	_	_	A0	_	_	_	_	_	_
+44	Pleads	pleads	VBZ	_	Pleads	plead	VBZ	22	COORD	plead.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	Guilty	guilty	JJ	_	Guilty	guilty	JJ	44	PRD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	,	,	,	_	,	,	,	44	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	"	"	''	_	"	"	''	44	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	"	"	''	_	"	"	''	44	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	[	[	[	_	[	[	[	51	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	Labor	labor	NNP	_	Labor	labor	NNP	51	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	Secretary	secretary	NNP	_	Secretary	secretary	NNP	53	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	]	]	]	_	]	]	]	51	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	Herman	herman	NNP	_	Herman	herman	NNP	54	SBJ	_	_	_	_	_	_	_	_	_	A0	_	_	_	_	_
+54	Denies	denies	VBZ	_	Denies	deny	VBZ	44	COORD	deny.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	Allegations	allegations	NNS	_	Allegations	allegation	NNS	54	OBJ	allegation.01	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+56	of	of	IN	_	of	of	IN	55	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+57	Influence	influence	NN	_	Influence	influence	NN	60	NMOD	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+58	-	-	HYPH	_	-	-	HYPH	57	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	Selling	selling	VBG	_	Selling	sell	VBG	57	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	Scheme	scheme	NN	_	Scheme	scheme	NN	56	PMOD	scheme.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	,	,	,	_	,	,	,	54	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	"	"	''	_	"	"	''	54	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	and	and	CC	_	and	and	CC	54	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	"	"	''	_	"	"	''	63	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	Two	two	CD	_	Two	two	CD	68	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	Tyson	tyson	NNP	_	Tyson	tyson	NNP	67	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	Foods	foods	NNP	_	Foods	food	NNP	68	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+68	Executive	executive	NN	_	Executive	executive	NN	69	SBJ	executive.01	_	_	_	_	_	_	_	_	_	_	_	_	A0	_
+69	Indicted	indicted	VBN	_	Indicted	indict	VBD	63	CONJ	indict.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	Over	over	IN	_	Over	over	IN	69	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+71	Gifts	gifts	NNS	_	Gifts	gift	NNS	70	PMOD	gift.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+72	to	to	TO	_	to	to	TO	71	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A2
+73	[	[	[	_	[	[	[	77	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	Ex	ex	AFX	_	Ex	ex	AFX	77	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+75	-	-	HYPH	_	-	-	HYPH	77	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+76	Agriculture	agriculture	NNP	_	Agriculture	agriculture	NNP	77	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+77	Secretary	secretary	NNP	_	Secretary	secretary	NNP	79	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	]	]	]	_	]	]	]	77	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+79	Espy	espy	NNP	_	Espy	espy	NNP	72	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+80	.	.	.	_	.	.	.	19	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+81	"	"	''	_	"	"	''	19	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_	_	_
+2	WSJ	wsj	NNP	_	WSJ	wsj	NNP	3	SBJ	_	A0	_	_	_	_	_	_	_	_
+3	reports	reports	VBZ	_	reports	report	VBZ	0	ROOT	report.01	_	_	_	_	_	_	_	_	_
+4	that	that	IN	_	that	that	IN	3	OBJ	_	A1	_	_	_	_	_	_	_	_
+5	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_	_	_	_
+6	according	according	VBG	_	according	accord	VBG	13	ADV	accord.01	_	_	_	_	_	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	PMOD	_	_	A1	_	_	_	_	_	_	_
+8	an	an	DT	_	an	an	DT	10	NMOD	_	_	_	_	_	_	_	_	_	_
+9	MIT	mit	NNP	_	MIT	mit	NNP	10	NMOD	_	_	_	A1	_	_	_	_	_	_
+10	survey	survey	NN	_	survey	survey	NN	7	PMOD	survey.01	_	_	_	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_	_	_	_
+12	Americans	americans	NNPS	_	Americans	american	NNPS	13	SBJ	_	_	A0	_	A1	A0	_	_	_	_
+13	are	are	VBP	_	are	be	VBP	4	SUB	be.01	_	_	_	_	_	_	_	_	_
+14	twice	twice	RB	_	twice	twice	RB	16	AMOD	_	_	_	_	_	_	_	_	_	_
+15	as	as	RB	_	as	as	IN	16	AMOD	_	_	_	_	_	_	_	_	_	_
+16	likely	likely	JJ	_	likely	likely	JJ	13	PRD	_	_	_	_	A2	_	_	_	_	_
+17	to	to	TO	_	to	to	TO	16	AMOD	_	_	_	_	_	_	_	_	_	_
+18	back	back	VB	_	back	back	VB	17	IM	back.01	_	_	_	_	_	_	_	_	_
+19	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_	_	_	_	_	_	_
+20	tax	tax	NN	_	tax	tax	NN	21	NMOD	_	_	_	_	_	_	A1	_	_	_
+21	increase	increase	NN	_	increase	increase	NN	18	OBJ	increase.01	_	_	_	_	A1	_	A0	_	_
+22	going	going	VBG	_	going	go	VBG	21	APPO	go.05	_	_	_	_	_	SU	_	_	_
+23	toward	toward	IN	_	toward	toward	IN	22	ADV	_	_	_	_	_	_	A0	A1	_	_
+24	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_	_	_	_	_	_
+25	search	search	NN	_	search	search	NN	23	PMOD	search.01	_	_	_	_	_	_	_	_	_
+26	for	for	IN	_	for	for	IN	25	NMOD	_	_	_	_	_	_	_	_	A1	_
+27	extraterrestrials	extraterrestrials	NNS	_	extraterrestrials	extraterrestrial	NNS	26	PMOD	_	_	_	_	_	_	_	_	_	_
+28	than	than	IN	_	than	than	IN	16	AMOD	_	_	_	_	_	_	_	_	_	_
+29	one	one	CD	_	one	one	CD	28	PMOD	_	_	_	_	_	_	_	_	_	_
+30	for	for	IN	_	for	for	IN	29	NMOD	_	_	_	_	_	_	_	_	_	_
+31	gene	gene	NN	_	gene	gene	NN	34	NMOD	_	_	_	_	_	_	_	_	_	A1
+32	-	-	HYPH	_	-	-	HYPH	31	AMOD	_	_	_	_	_	_	_	_	_	_
+33	cloning	cloning	VBG	_	cloning	clone	VBG	31	NMOD	_	_	_	_	_	_	_	_	_	_
+34	research	research	NN	_	research	research	NN	30	PMOD	research.01	_	_	_	_	_	_	_	_	_
+35	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_	_
+2	NYT	nyt	NNP	_	NYT	nyt	NNP	3	SBJ	_	A0	_	_	_	_	_	_	_
+3	reports	reports	VBZ	_	reports	report	VBZ	0	ROOT	report.01	_	_	_	_	_	_	_	_
+4	that	that	IN	_	that	that	IN	3	OBJ	_	A1	_	_	_	_	_	_	_
+5	today	today	NN	_	today	today	NN	7	NMOD	_	_	AM-TMP	_	_	_	_	_	_
+6	's	's	POS	_	's	's	POS	5	SUFFIX	_	_	_	_	_	_	_	_	_
+7	issue	issue	NN	_	issue	issue	NN	12	SBJ	issue.01	_	_	A0	_	_	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A0	_	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_	_	_	_
+10	journal	journal	NN	_	journal	journal	NN	11	NMOD	_	_	_	_	_	_	_	_	_
+11	Science	science	NNP	_	Science	science	NNP	8	PMOD	_	_	_	_	_	_	_	_	_
+12	will	will	MD	_	will	will	MD	4	SUB	_	_	_	_	_	_	_	_	_
+13	describe	describe	VB	_	describe	describe	VB	12	VC	describe.01	_	_	_	_	_	_	_	_
+14	an	an	DT	_	an	an	DT	15	NMOD	_	_	_	_	_	_	_	_	_
+15	experiment	experiment	NN	_	experiment	experiment	NN	13	OBJ	_	_	_	A1	_	_	_	_	_
+16	in	in	IN	_	in	in	IN	23	LOC	_	_	_	_	_	_	_	_	_
+17	which	which	WDT	_	which	which	WDT	16	PMOD	_	_	_	_	_	_	_	_	_
+18	people	people	NNS	_	people	people	NNS	21	NMOD	_	_	_	_	_	_	_	_	_
+19	's	's	POS	_	's	's	POS	18	SUFFIX	_	_	_	_	_	_	_	_	_
+20	biological	biological	JJ	_	biological	biological	JJ	21	NMOD	_	_	_	_	_	_	_	_	_
+21	clocks	clocks	NNS	_	clocks	clocks	NNS	22	SBJ	_	_	_	_	A1	A0	A0	_	_
+22	were	were	VBD	_	were	be	VBD	15	NMOD	be.01	_	_	_	_	_	_	_	_
+23	reset	reset	VB	_	reset	reset	VB	22	VC	reset.01	_	_	_	A2	_	_	_	_
+24	three	three	CD	_	three	three	CD	25	NMOD	_	_	_	_	_	_	_	_	_
+25	hours	hours	NNS	_	hours	hours	NNS	23	EXT	_	_	_	_	_	A1	_	_	_
+26	by	by	IN	_	by	by	IN	23	MNR	_	_	_	_	AM-MNR	_	_	_	_
+27	shining	shining	VBG	_	shining	shine	VBG	26	PMOD	shine.01	_	_	_	_	_	_	_	_
+28	a	a	DT	_	a	a	DT	30	NMOD	_	_	_	_	_	_	_	_	_
+29	bright	bright	JJ	_	bright	bright	JJ	30	NMOD	_	_	_	_	_	_	_	_	_
+30	light	light	NN	_	light	light	NN	27	OBJ	_	_	_	_	_	_	A1	_	_
+31	on	on	IN	_	on	on	IN	27	LOC	_	_	_	_	_	_	AM-LOC	_	_
+32	the	the	DT	_	the	the	DT	33	NMOD	_	_	_	_	_	_	_	_	_
+33	back	back	NN	_	back	back	NN	31	PMOD	back.02	_	_	_	_	_	_	_	_
+34	of	of	IN	_	of	of	IN	33	NMOD	_	_	_	_	_	_	_	A1	_
+35	their	their	PRP$	_	their	their	PRP$	36	NMOD	_	_	_	_	_	_	_	_	A1
+36	knees	knees	NNS	_	knees	knee	NNS	34	PMOD	knee.01	_	_	_	_	_	_	_	_
+37	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_
+2	finding	finding	NN	_	finding	finding	NN	13	SBJ	_	_	_	A0	_	_
+3	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_
+4	if	if	IN	_	if	if	IN	13	ADV	_	_	_	_	_	_
+5	it	it	PRP	_	it	it	PRP	6	SBJ	_	A0	_	_	_	_
+6	holds	holds	VBZ	_	holds	hold	VBZ	4	SUB	hold.01	_	_	_	_	_
+7	up	up	RP	_	up	up	RP	6	PRT	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_
+9	says	says	VBZ	_	says	say	VBZ	13	PRN	say.01	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_
+11	Times	times	NNP	_	Times	times	NNP	9	SBJ	_	_	A0	_	_	_
+12	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_
+13	may	may	MD	_	may	may	MD	0	ROOT	_	_	A1	_	_	_
+14	lead	lead	VB	_	lead	lead	VB	13	VC	lead.01	_	_	_	_	_
+15	to	to	TO	_	to	to	TO	14	DIR	_	_	_	A1	_	_
+16	a	a	DT	_	a	a	DT	18	NMOD	_	_	_	_	_	_
+17	simple	simple	JJ	_	simple	simple	JJ	18	NMOD	_	_	_	_	_	_
+18	way	way	NN	_	way	way	NN	15	PMOD	_	_	_	_	_	_
+19	for	for	IN	_	for	for	IN	18	NMOD	_	_	_	_	_	_
+20	airline	airline	NN	_	airline	airline	NN	21	NMOD	_	_	_	_	A1	_
+21	travelers	travelers	NNS	_	travelers	traveler	NNS	22	SBJ	traveler.01	_	_	_	A0	A0
+22	to	to	TO	_	to	to	TO	19	SUB	_	_	_	_	_	_
+23	fight	fight	VB	_	fight	fight	VB	22	IM	fight.02	_	_	_	_	_
+24	jet	jet	NN	_	jet	jet	NN	25	NMOD	_	_	_	_	_	_
+25	lag	lag	NN	_	lag	lag	NN	23	OBJ	_	_	_	_	_	A1
+26	.	.	.	_	.	.	.	13	P	_	_	_	_	_	_
+
+1	Yesterday	yesterday	NN	_	Yesterday	yesterday	NN	5	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_
+3	Los	los	NNP	_	Los	los	NNP	4	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+4	Angeles	angeles	NNP	_	Angeles	angeles	NNP	5	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+5	Times	times	NNP	_	Times	times	NNP	6	SBJ	_	A0	A0	_	_	_	_	_	_	_	_	_
+6	ran	ran	VBD	_	ran	run	VBD	0	ROOT	run.01	_	SU	_	_	_	_	_	_	_	_	_
+7	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+8	story	story	NN	_	story	story	NN	6	OBJ	story.01	A1	_	_	_	_	_	_	_	_	_	_
+9	under	under	IN	_	under	under	IN	6	LOC	_	AM-LOC	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+11	headline	headline	NN	_	headline	headline	NN	9	PMOD	headline.01	_	_	_	_	_	_	_	_	_	_	_
+12	"	"	''	_	"	"	''	11	P	_	_	_	_	_	_	_	_	_	_	_	_
+13	Paula	paula	NNP	_	Paula	paula	NNP	14	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+14	Jones	jones	NNP	_	Jones	jones	NNP	15	SBJ	_	_	_	_	A0	_	_	_	_	_	_	_
+15	Works	works	VBZ	_	Works	work	VBZ	11	NMOD	work.01	_	_	A1	_	_	_	_	_	_	_	_
+16	on	on	IN	_	on	on	IN	15	ADV	_	_	_	_	A1	_	_	_	_	_	_	_
+17	Her	her	PRP$	_	Her	her	PRP$	19	NMOD	_	_	_	_	_	A1	_	_	_	_	_	_
+18	Court	court	NN	_	Court	court	NN	19	NMOD	_	_	_	_	_	A2	_	_	_	_	_	_
+19	Appearance	appearance	NN	_	Appearance	appearance	NN	16	PMOD	appearance.02	_	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_	_	_	_	_	_	_
+21	"	"	''	_	"	"	''	6	P	_	_	_	_	_	_	_	_	_	_	_	_
+22	which	which	WDT	_	which	which	WDT	30	SBJ	_	_	_	_	_	_	A0	_	A1	_	_	_
+23	,	,	,	_	,	,	,	30	P	_	_	_	_	_	_	_	_	_	_	_	_
+24	illustrated	illustrated	VBN	_	illustrated	illustrate	VBN	30	ADV	illustrate.01	_	_	_	_	_	_	_	_	_	_	_
+25	by	by	IN	_	by	by	IN	24	MNR	_	_	_	_	_	_	_	_	_	_	_	_
+26	pictures	pictures	NNS	_	pictures	picture	NNS	25	PMOD	picture.01	_	_	_	_	_	A1	_	_	_	_	_
+27	of	of	IN	_	of	of	IN	26	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_
+28	Jones	jones	NNP	_	Jones	jones	NNP	27	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+29	,	,	,	_	,	,	,	30	P	_	_	_	_	_	_	_	_	_	_	_	_
+30	was	was	VBD	_	was	be	VBD	8	NMOD	be.01	_	_	_	_	_	_	_	_	_	_	_
+31	all	all	RB	_	all	all	RB	32	DEP	_	_	_	_	_	_	_	_	_	_	_	_
+32	about	about	IN	_	about	about	IN	30	PRD	_	_	_	_	_	_	_	_	A2	_	_	_
+33	the	the	DT	_	the	the	DT	35	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+34	various	various	JJ	_	various	various	JJ	35	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+35	looks	looks	NNS	_	looks	look	NNS	32	PMOD	_	_	_	_	_	_	_	_	_	A1	_	_
+36	she	she	PRP	_	she	she	PRP	37	SBJ	_	_	_	_	_	_	_	_	_	A0	A0	_
+37	's	's	VBZ	_	's	be	VBZ	35	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+38	had	had	VBN	_	had	have	VBN	37	VC	have.04	_	_	_	_	_	_	_	_	_	_	_
+39	since	since	IN	_	since	since	IN	38	TMP	_	_	_	_	_	_	_	_	_	_	_	_
+40	stepping	stepping	VBG	_	stepping	step	VBG	39	SUB	step.01	_	_	_	_	_	_	_	_	_	_	_
+41	on	on	IN	_	on	on	IN	40	LOC	_	_	_	_	_	_	_	_	_	_	A1	_
+42	the	the	DT	_	the	the	DT	44	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+43	public	public	JJ	_	public	public	JJ	44	NMOD	_	_	_	_	_	_	_	_	_	_	_	A1
+44	stage	stage	NN	_	stage	stage	NN	41	PMOD	stage.01	_	_	_	_	_	_	_	_	_	_	_
+45	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_
+2	piece	piece	NN	_	piece	piece	NN	3	SBJ	piece.03	_	A0	_
+3	concluded	concluded	VBD	_	concluded	conclude	VBD	0	ROOT	conclude.01	SU	_	_
+4	that	that	IN	_	that	that	IN	3	OBJ	_	A1	A1	_
+5	she	she	PRP	_	she	she	PRP	6	SBJ	_	_	_	A0
+6	's	's	VBZ	_	's	be	VBZ	4	SUB	_	_	_	_
+7	finally	finally	RB	_	finally	finally	RB	6	TMP	_	_	_	_
+8	graduated	graduated	VBN	_	graduated	graduate	VBN	6	VC	graduate.01	_	_	_
+9	to	to	TO	_	to	to	TO	8	ADV	_	_	_	A1
+10	an	an	DT	_	an	an	DT	11	NMOD	_	_	_	_
+11	image	image	NN	_	image	image	NN	9	PMOD	_	_	_	_
+12	that	that	WDT	_	that	that	WDT	13	SBJ	_	_	_	_
+13	's	's	VBZ	_	's	be	VBZ	11	NMOD	_	_	_	_
+14	"	"	''	_	"	"	''	13	P	_	_	_	_
+15	sophisticated	sophisticated	JJ	_	sophisticated	sophisticated	JJ	13	PRD	_	_	_	_
+16	yet	yet	CC	_	yet	yet	CC	15	COORD	_	_	_	_
+17	soft	soft	JJ	_	soft	soft	JJ	16	CONJ	_	_	_	_
+18	.	.	.	_	.	.	.	3	P	_	_	_	_
+19	"	"	''	_	"	"	''	3	P	_	_	_	_
+
+1	Today	today	NN	_	Today	today	NN	7	NMOD	_	A1	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_
+3	WP	wp	NNP	_	WP	wp	NNP	7	NMOD	_	_	_	_	_	_
+4	"	"	''	_	"	"	''	7	P	_	_	_	_	_	_
+5	Style	style	NNP	_	Style	style	NNP	7	NMOD	_	_	_	_	_	_
+6	"	"	''	_	"	"	''	7	P	_	_	_	_	_	_
+7	section	section	NN	_	section	section	NN	18	SBJ	section.01	_	_	A0	A0	_
+8	(	-lrb-	(	_	(	-lrb-	(	10	P	_	_	_	_	_	_
+9	that	that	DT	_	that	that	DT	10	SBJ	_	_	_	_	_	_
+10	's	's	VBZ	_	's	be	VBZ	7	PRN	_	_	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_
+12	opposite	opposite	NN	_	opposite	opposite	NN	10	PRD	opposite.01	_	A1	_	_	_
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	A2	_	_	_
+14	substance	substance	NN	_	substance	substance	NN	13	PMOD	_	_	_	_	_	_
+15	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_
+16	remember	remember	VB	_	remember	remember	VB	10	COORD	_	_	_	_	_	_
+17	)	-rrb-	)	_	)	-rrb-	)	10	P	_	_	_	_	_	_
+18	picks	picks	VBZ	_	picks	pick	VBZ	0	ROOT	pick.01	_	_	_	_	_
+19	up	up	RP	_	up	up	RP	18	PRT	_	_	_	_	_	_
+20	that	that	DT	_	that	that	DT	21	NMOD	_	_	_	_	_	_
+21	ball	ball	NN	_	ball	ball	NN	18	OBJ	_	_	_	A1	_	_
+22	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_
+23	runs	runs	VBZ	_	runs	run	VBZ	22	CONJ	run.01	_	_	_	_	_
+24	with	with	IN	_	with	with	IN	23	ADV	_	_	_	_	A1	_
+25	it	it	PRP	_	it	it	PRP	24	PMOD	_	_	_	_	_	_
+26	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_
+27	with	with	IN	_	with	with	IN	18	MNR	_	_	_	AM-MNR	AM-MNR	_
+28	a	a	DT	_	a	a	DT	30	NMOD	_	_	_	_	_	_
+29	lengthy	lengthy	JJ	_	lengthy	lengthy	JJ	30	NMOD	_	_	_	_	_	AM-TMP
+30	discourse	discourse	NN	_	discourse	discourse	NN	27	PMOD	discourse.01	_	_	_	_	_
+31	on	on	IN	_	on	on	IN	30	NMOD	_	_	_	_	_	A2
+32	the	the	DT	_	the	the	DT	34	NMOD	_	_	_	_	_	_
+33	new	new	JJ	_	new	new	JJ	34	NMOD	_	_	_	_	_	_
+34	PJ	pj	NNP	_	PJ	pj	NNP	31	PMOD	_	_	_	_	_	_
+35	.	.	.	_	.	.	.	18	P	_	_	_	_	_	_
+
+1	"	"	``	_	"	"	``	3	P	_	_
+2	It	it	PRP	_	It	it	PRP	3	SBJ	_	A1
+3	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_
+4	,	,	,	_	,	,	,	3	P	_	_
+5	"	"	''	_	"	"	''	3	P	_	_
+6	hyperventilates	hyperventilates	VBZ	_	hyperventilates	hyperventilate	VBZ	3	PRN	_	AM-ADV
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_
+8	Post	post	NNP	_	Post	post	NNP	6	SBJ	_	_
+9	,	,	,	_	,	,	,	3	P	_	_
+10	one	one	CD	_	one	one	CD	3	PRD	_	A2
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_
+12	the	the	DT	_	the	the	DT	20	NMOD	_	_
+13	most	most	RBS	_	most	most	RBS	14	AMOD	_	_
+14	jaw	jaw	NN	_	jaw	jaw	NN	20	NMOD	_	_
+15	-	-	HYPH	_	-	-	HYPH	14	AMOD	_	_
+16	dropping	dropping	VBG	_	dropping	drop	VBG	14	NMOD	_	_
+17	public	public	JJ	_	public	public	JJ	20	NMOD	_	_
+18	make-overs	make-overs	NNS	_	make	make	NN	20	HMOD	_	_
+19	_	_	_	_	-	-	HYPH	18	HYPH	_	_
+20	_	_	_	_	overs	over	NNS	11	PMOD	_	_
+21	ever	ever	RB	_	ever	ever	RB	20	TMP	_	_
+22	.	.	.	_	.	.	.	3	P	_	_
+23	"	"	''	_	"	"	''	3	P	_	_
+
+1	Jones	jones	NNP	_	Jones	jones	NNP	3	SBJ	_	A0	A0	_
+2	apparently	apparently	RB	_	apparently	apparently	RB	3	ADV	_	AM-ADV	_	_
+3	has	has	VBZ	_	has	have	VBZ	0	ROOT	have.04	_	_	_
+4	"	"	''	_	"	"	''	3	P	_	_	_	_
+5	smoothed	smoothed	VBN	_	smoothed	smooth	VBN	3	VC	smooth.01	A1	_	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+7	frizzy	frizzy	JJ	_	frizzy	frizzy	JJ	8	NMOD	_	_	_	_
+8	mane	mane	NN	_	mane	mane	NN	5	OBJ	_	_	A1	A0
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	_	_
+10	curls	curls	NNS	_	curls	curl	NNS	9	PMOD	_	_	_	_
+11	that	that	WDT	_	that	that	WDT	13	SBJ	_	_	_	_
+12	once	once	RB	_	once	once	RB	13	TMP	_	_	_	AM-TMP
+13	reached	reached	VBD	_	reached	reach	VBD	8	NMOD	reach.01	_	_	_
+14	to	to	TO	_	to	to	TO	13	ADV	_	_	_	A1
+15	such	such	JJ	_	such	such	DT	17	NMOD	_	_	_	_
+16	dazzling	dazzling	VBG	_	dazzling	dazzle	VBG	17	NMOD	_	_	_	_
+17	heights	heights	NNS	_	heights	heights	NNS	14	PMOD	_	_	_	_
+18	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	Her	her	PRP$	_	Her	her	PRP$	2	NMOD	_	A1	_	_
+2	makeup	makeup	NN	_	makeup	makeup	NN	3	SBJ	makeup.01	_	A1	_
+3	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_
+4	now	now	RB	_	now	now	RB	3	TMP	_	_	AM-TMP	_
+5	subtle	subtle	JJ	_	subtle	subtle	JJ	3	PRD	_	_	A2	_
+6	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_
+7	based	based	VBN	_	based	base	VBN	6	CONJ	base.02	_	_	_
+8	on	on	IN	_	on	on	IN	7	ADV	_	_	_	A2
+9	natural	natural	JJ	_	natural	natural	JJ	12	AMOD	_	_	_	_
+10	,	,	,	_	,	,	,	12	P	_	_	_	_
+11	not	not	RB	_	not	not	RB	12	AMOD	_	_	_	_
+12	neon	neon	JJ	_	neon	neon	NN	14	NMOD	_	_	_	_
+13	,	,	,	_	,	,	,	14	P	_	_	_	_
+14	hues	hues	NNS	_	hues	hue	NNS	8	PMOD	_	_	_	_
+15	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	Her	her	PRP$	_	Her	her	PRP$	2	NMOD	_	_	_
+2	clothing	clothing	NN	_	clothing	clothing	NN	3	SBJ	_	A1	A0
+3	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+4	inspired	inspired	VBN	_	inspired	inspire	VBN	3	VC	inspire.01	A2	_
+5	by	by	IN	_	by	by	IN	4	LGS	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_
+7	boardroom	boardroom	NN	_	boardroom	boardroom	NN	5	PMOD	_	_	_
+8	instead	instead	RB	_	instead	instead	RB	7	COORD	_	_	A1
+9	of	of	IN	_	of	of	IN	8	DEP	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_
+11	secretarial	secretarial	JJ	_	secretarial	secretarial	JJ	12	NMOD	_	_	_
+12	pool	pool	NN	_	pool	pool	NN	8	CONJ	_	_	_
+13	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	She	she	PRP	_	She	she	PRP	2	SBJ	_	A0	A0
+2	has	has	VBZ	_	has	have	VBZ	0	ROOT	have.04	_	_
+3	embraced	embraced	VBN	_	embraced	embrace	VBN	2	VC	embrace.01	A1	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+5	markers	markers	NNS	_	markers	marker	NNS	3	OBJ	_	_	A1
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	_
+7	dignity	dignity	NN	_	dignity	dignity	NN	6	PMOD	_	_	_
+8	,	,	,	_	,	,	,	7	P	_	_	_
+9	refinement	refinement	NN	_	refinement	refinement	NN	7	COORD	_	_	_
+10	and	and	CC	_	and	and	CC	9	COORD	_	_	_
+11	power	power	NN	_	power	power	NN	10	CONJ	_	_	_
+12	.	.	.	_	.	.	.	2	P	_	_	_
+13	"	"	''	_	"	"	''	2	P	_	_	_
+
+1	In	in	IN	_	In	in	IN	9	MNR	_	_	_	AM-MNR	_	_	_
+2	true	true	JJ	_	true	true	JJ	5	NMOD	_	_	_	_	_	_	_
+3	newspaper	newspaper	NN	_	newspaper	newspaper	NN	5	NMOD	_	_	_	_	_	_	_
+4	overkill	overkill	NN	_	overkill	overkill	NN	5	NMOD	_	A1	_	_	_	_	_
+5	fashion	fashion	NN	_	fashion	fashion	NN	1	PMOD	fashion.01	A2	_	_	_	_	_
+6	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_	_
+8	piece	piece	NN	_	piece	piece	NN	9	SBJ	piece.03	_	_	A0	A0	_	_
+9	backs	backs	VBZ	_	backs	back	VBZ	0	ROOT	back.01	_	SU	_	_	_	_
+10	this	this	DT	_	this	this	DT	9	OBJ	_	_	A1	A1	_	_	_
+11	up	up	RP	_	up	up	RP	9	PRT	_	_	_	_	_	_	_
+12	by	by	IN	_	by	by	IN	9	MNR	_	_	_	AM-MNR	_	_	_
+13	consulting	consulting	VBG	_	consulting	consult	VBG	12	PMOD	consult.01	_	_	_	_	_	_
+14	Cynde	cynde	NNP	_	Cynde	cynde	NNP	15	NAME	_	_	_	_	_	_	_
+15	Watson	watson	NNP	_	Watson	watson	NNP	13	OBJ	_	_	_	_	A1	_	_
+16	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_
+17	national	national	JJ	_	national	national	JJ	19	NMOD	_	_	_	_	_	_	_
+18	makeup	makeup	NN	_	makeup	makeup	NN	19	NMOD	_	_	_	_	_	_	_
+19	artist	artist	NN	_	artist	artist	NN	15	APPO	_	_	_	_	_	_	_
+20	for	for	IN	_	for	for	IN	19	NMOD	_	_	_	_	_	_	_
+21	Bobbi	bobbi	NNP	_	Bobbi	bobbi	NNP	23	NAME	_	_	_	_	_	_	_
+22	Brown	brown	NNP	_	Brown	brown	NNP	23	NAME	_	_	_	_	_	_	_
+23	Essentials	essentials	NNPS	_	Essentials	essential	NNPS	20	PMOD	_	_	_	_	_	_	_
+24	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_
+25	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_
+26	Steven	steven	NNP	_	Steven	steven	NNP	27	NAME	_	_	_	_	_	_	_
+27	Zdatny	zdatny	NNP	_	Zdatny	zdatny	NNP	25	CONJ	_	_	_	_	_	_	_
+28	,	,	,	_	,	,	,	27	P	_	_	_	_	_	_	_
+29	a	a	DT	_	a	a	DT	30	NMOD	_	_	_	_	_	_	_
+30	historian	historian	NN	_	historian	historian	NN	27	APPO	_	_	_	_	_	A0	_
+31	at	at	IN	_	at	at	IN	30	LOC	_	_	_	_	_	_	_
+32	West	west	NNP	_	West	west	NNP	33	NAME	_	_	_	_	_	_	_
+33	Virginia	virginia	NNP	_	Virginia	virginia	NNP	34	NMOD	_	_	_	_	_	_	_
+34	University	university	NNP	_	University	university	NNP	31	PMOD	_	_	_	_	_	_	_
+35	specializing	specializing	VBG	_	specializing	specialize	VBG	30	APPO	specialize.01	_	_	_	_	_	_
+36	in	in	IN	_	in	in	IN	35	ADV	_	_	_	_	_	A1	_
+37	the	the	DT	_	the	the	DT	38	NMOD	_	_	_	_	_	_	_
+38	aesthetics	aesthetics	NNS	_	aesthetics	aesthetics	NNS	36	PMOD	_	_	_	_	_	_	_
+39	and	and	CC	_	and	and	CC	38	COORD	_	_	_	_	_	_	_
+40	politics	politics	NNS	_	politics	politics	NNS	39	CONJ	politics.01	_	_	_	_	_	_
+41	of	of	IN	_	of	of	IN	38	NMOD	_	_	_	_	_	_	A2
+42	hair	hair	NN	_	hair	hair	NN	41	PMOD	_	_	_	_	_	_	_
+43	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_
+2	placement	placement	NN	_	placement	placement	NN	7	SBJ	placement.01	_	A1	_	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_	_	_
+4	these	these	DT	_	these	these	DT	6	NMOD	_	_	_	_	_	_
+5	two	two	CD	_	two	two	CD	6	NMOD	_	_	_	_	_	_
+6	pieces	pieces	NNS	_	pieces	piece	NNS	3	PMOD	_	_	_	_	_	_
+7	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_
+8	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_	_	_
+9	PR	pr	NNS	_	PR	pr	NNPS	10	NMOD	_	_	_	A0	_	_
+10	triumph	triumph	NN	_	triumph	triumph	NN	7	PRD	triumph.01	_	A2	_	_	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_
+12	but	but	CC	_	but	but	CC	10	COORD	_	_	_	_	_	_
+13	one	one	CD	_	one	one	CD	12	CONJ	_	_	_	_	A0	_
+14	carrying	carrying	VBG	_	carrying	carry	VBG	13	APPO	carry.01	_	_	_	_	_
+15	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_	_
+16	seeds	seeds	NNS	_	seeds	seed	NNS	14	OBJ	_	_	_	_	A1	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	_
+18	its	its	PRP$	_	its	its	PRP$	20	NMOD	_	_	_	_	_	A1
+19	own	own	JJ	_	own	own	JJ	20	NMOD	_	_	_	_	_	_
+20	destruction	destruction	NN	_	destruction	destruction	NN	17	PMOD	destruction.01	_	_	_	_	_
+21	:	:	:	_	:	:	:	7	P	_	_	_	_	_	_
+
+1	If	if	IN	_	If	if	IN	18	ADV	_	_	_	_	_	_	_	_
+2	people	people	NNS	_	people	people	NNS	3	SBJ	_	A0	_	_	_	_	_	_
+3	know	know	VBP	_	know	know	VBP	1	SUB	know.01	_	_	_	_	_	_	_
+4	all	all	PDT	_	all	all	PDT	6	NMOD	_	_	_	_	_	_	_	_
+5	this	this	DT	_	this	this	DT	6	NMOD	_	_	_	_	_	_	_	_
+6	work	work	NN	_	work	work	NN	7	SBJ	work.03	_	_	A1	A1	A0	_	_
+7	is	is	VBZ	_	is	be	VBZ	3	OBJ	be.01	A1	_	_	_	_	_	_
+8	going	going	VBG	_	going	go	VBG	7	VC	go.01	_	SU	A2	_	_	_	_
+9	into	into	IN	_	into	into	IN	8	ADV	_	_	A1	_	A2	_	_	_
+10	making	making	VBG	_	making	make	VBG	9	PMOD	make.08	_	_	_	_	_	_	_
+11	Paula	paula	NNP	_	Paula	paula	NNP	12	NAME	_	_	_	_	_	_	_	_
+12	Jones	jones	NNP	_	Jones	jones	NNP	10	OBJ	_	_	_	_	_	_	A1	_
+13	seem	seem	VB	_	seem	seem	VB	10	OPRD	seem.01	_	_	_	_	A2	_	_
+14	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_	_	_
+15	certain	certain	JJ	_	certain	certain	JJ	16	NMOD	_	_	_	_	_	_	_	_
+16	someone	someone	NN	_	someone	someone	NN	13	PRD	_	_	_	_	_	_	A2	_
+17	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_	_
+18	does	does	VBZ	_	does	do	VBZ	0	ROOT	_	_	_	_	_	_	_	_
+19	n't	not	RB	_	n't	not	RB	18	ADV	_	_	_	_	_	_	_	_
+20	that	that	DT	_	that	that	DT	18	SBJ	_	_	_	_	_	_	_	A0
+21	just	just	RB	_	just	just	RB	18	ADV	_	_	_	_	_	_	_	AM-MNR
+22	make	make	VB	_	make	make	VB	18	VC	make.08	_	_	_	_	_	_	_
+23	it	it	PRP	_	it	it	PRP	22	OBJ	_	_	_	_	_	_	_	_
+24	obvious	obvious	JJ	_	obvious	obvious	JJ	22	OPRD	_	_	_	_	_	_	_	A2
+25	that	that	IN	_	that	that	IN	24	EXTR	_	_	_	_	_	_	_	_
+26	she	she	PRP	_	she	she	PRP	27	SBJ	_	_	_	_	_	_	_	_
+27	's	's	VBZ	_	's	be	VBZ	25	SUB	_	_	_	_	_	_	_	_
+28	really	really	RB	_	really	really	RB	27	ADV	_	_	_	_	_	_	_	_
+29	somebody	somebody	NN	_	somebody	somebody	NN	27	PRD	_	_	_	_	_	_	_	_
+30	else	else	JJ	_	else	else	JJ	29	APPO	_	_	_	_	_	_	_	_
+31	?	?	.	_	?	?	.	18	P	_	_	_	_	_	_	_	_

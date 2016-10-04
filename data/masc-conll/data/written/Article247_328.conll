@@ -1,0 +1,596 @@
+
+1	Husbands	husbands	NNS	_	Husbands	husband	NNS	0	ROOT	_
+2	and	and	CC	_	and	and	CC	1	COORD	_
+3	Wives	wives	NNS	_	Wives	wife	NNS	2	CONJ	_
+
+1	Chatterbox	chatterbox	NNP	_	Chatterbox	chatterbox	NNP	2	SBJ	_	A0	A0	_	_	_
+2	feels	feels	VBZ	_	feels	feel	VBZ	0	ROOT	feel.01	_	_	_	_	_
+3	a	a	DT	_	a	a	DT	4	NMOD	_	_	_	_	_	_
+4	little	little	NN	_	little	little	NN	5	ADV	_	_	_	_	_	_
+5	dense	dense	JJ	_	dense	dense	JJ	2	PRD	_	_	_	_	_	_
+6	for	for	IN	_	for	for	IN	2	PRP	_	_	_	_	_	_
+7	not	not	RB	_	not	not	RB	8	ADV	_	_	AM-NEG	_	_	_
+8	realizing	realizing	VBG	_	realizing	realize	VBG	6	PMOD	realize.01	_	_	_	_	_
+9	sooner	sooner	RBR	_	sooner	sooner	RBR	8	TMP	_	_	AM-TMP	_	_	_
+10	that	that	IN	_	that	that	IN	8	OBJ	_	_	A1	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_
+12	subtext	subtext	NN	_	subtext	subtext	NN	30	SBJ	_	_	_	_	A1	_
+13	(	-lrb-	(	_	(	-lrb-	(	12	P	_	_	_	_	_	_
+14	and	and	CC	_	and	and	CC	12	COORD	_	_	_	_	_	_
+15	hence	hence	RB	_	hence	hence	RB	16	NMOD	_	_	_	_	_	_
+16	much	much	JJ	_	much	much	JJ	14	CONJ	_	_	_	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	_
+18	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_	_
+19	appeal	appeal	NN	_	appeal	appeal	NN	17	PMOD	_	_	_	_	_	_
+20	)	-rrb-	)	_	)	-rrb-	)	12	P	_	_	_	_	_	_
+21	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	_	_	_
+22	a	a	DT	_	a	a	DT	29	NMOD	_	_	_	_	_	_
+23	Hillary	hillary	NNP	_	Hillary	hillary	NNP	24	NAME	_	_	_	_	_	_
+24	Clinton	clinton	NNP	_	Clinton	clinton	NNP	27	NMOD	_	_	_	_	_	_
+25	-	-	HYPH	_	-	-	HYPH	27	NMOD	_	_	_	_	_	_
+26	Rudy	rudy	NNP	_	Rudy	rudy	NNP	27	NAME	_	_	_	_	_	_
+27	Giuliani	giuliani	NNP	_	Giuliani	giuliani	NNP	29	NMOD	_	_	_	A3	_	_
+28	Senate	senate	NNP	_	Senate	senate	NNP	29	NMOD	_	_	_	A1	_	_
+29	race	race	NN	_	race	race	NN	21	PMOD	race.02	_	_	A2	_	_
+30	would	would	MD	_	would	would	MD	10	SUB	_	_	_	_	_	_
+31	be	be	VB	_	be	be	VB	30	VC	be.01	_	_	_	_	_
+32	Wronged	wronged	VBN	_	Wronged	wrong	VBN	33	NMOD	wrong.01	_	_	_	_	_
+33	Wife	wife	NN	_	Wife	wife	NN	31	PRD	_	_	_	_	A2	A1
+34	vs.	vs.	IN	_	vs.	vs.	IN	33	NMOD	_	_	_	_	_	_
+35	Neglectful	neglectful	JJ	_	Neglectful	neglectful	JJ	36	NMOD	_	_	_	_	_	_
+36	Husband	husband	NN	_	Husband	husband	NN	34	PMOD	_	_	_	_	_	_
+37	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	By	by	IN	_	By	by	IN	37	MNR	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	running	running	VBG	_	running	run	VBG	1	PMOD	run.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	against	against	IN	_	against	against	IN	2	ADV	_	A2	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Giuliani	giuliani	NNP	_	Giuliani	giuliani	NNP	3	PMOD	_	_	A0	A1	A0	A0	A1	_	A0	_	_	_	_	_	_
+5	(	-lrb-	(	_	(	-lrb-	(	7	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	who	who	WP	_	who	who	WP	7	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	has	has	VBZ	_	has	have	VBZ	4	NMOD	have.04	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	been	been	VBN	_	been	be	VBN	7	VC	be.01	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+9	reported	reported	VBN	_	reported	report	VBN	8	VC	report.01	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+10	in	in	IN	_	in	in	IN	9	LOC	_	_	_	_	AM-LOC	_	_	_	_	_	_	_	_	_	_
+11	Vanity	vanity	NNP	_	Vanity	vanity	NNP	12	NAME	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Fair	fair	NNP	_	Fair	fair	NNP	10	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	to	to	TO	_	to	to	TO	9	OPRD	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+14	have	have	VB	_	have	have	VB	13	IM	have.04	_	_	_	_	_	SU	_	_	_	_	_	_	_	_
+15	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	mistress	mistress	NN	_	mistress	mistress	NN	14	OBJ	mistress.01	_	_	_	_	A1	A0	_	_	_	_	_	_	_	_
+17	--	--	:	_	--	--	:	19	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	he	he	PRP	_	he	he	PRP	19	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+19	denies	denies	VBZ	_	denies	deny	VBZ	14	PRN	deny.01	_	_	_	_	AM-ADV	_	_	_	_	_	_	_	_	_
+20	it	it	PRP	_	it	it	PRP	19	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+21	--	--	:	_	--	--	:	19	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	by	by	IN	_	by	by	IN	7	ADV	_	_	_	_	_	_	_	_	_	A1	_	_	_	_	_
+25	all	all	DT	_	all	all	DT	26	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	accounts	accounts	NNS	_	accounts	account	NNS	24	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	has	has	VBZ	_	has	have	VBZ	22	CONJ	have.04	_	_	_	_	_	_	_	_	SU	_	_	_	_	_
+29	a	a	DT	_	a	a	DT	31	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	sham	sham	JJ	_	sham	sham	JJ	31	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	marriage	marriage	NN	_	marriage	marriage	NN	28	OBJ	marriage.01	_	_	_	_	_	_	_	A1	_	_	_	_	_	_
+32	)	-rrb-	)	_	)	-rrb-	)	7	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	,	,	,	_	,	,	,	37	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	the	the	DT	_	the	the	DT	36	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	first	first	JJ	_	first	first	JJ	36	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	lady	lady	NN	_	lady	lady	NN	37	SBJ	_	A0	_	_	_	_	_	_	_	_	_	_	A0	_	_
+37	could	could	MD	_	could	could	MD	0	ROOT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	exact	exact	JJ	_	exact	exact	VBP	37	VC	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	symbolic	symbolic	JJ	_	symbolic	symbolic	JJ	40	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	revenge	revenge	NN	_	revenge	revenge	NN	38	OBJ	revenge.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	on	on	IN	_	on	on	IN	40	NMOD	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+42	her	her	PRP$	_	her	her	PRP$	44	NMOD	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+43	philandering	philandering	VBG	_	philandering	philander	VBG	44	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	husband	husband	NN	_	husband	husband	NN	41	PMOD	husband.01	_	_	_	_	_	_	_	_	_	_	A0	_	_	_
+45	while	while	IN	_	while	while	IN	40	TMP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	advancing	advancing	VBG	_	advancing	advance	VBG	45	PMOD	advance.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	the	the	DT	_	the	the	DT	48	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	fortunes	fortunes	NNS	_	fortunes	fortune	NNS	46	OBJ	fortune.01	_	_	_	_	_	_	_	_	_	_	_	A1	A2	_
+49	of	of	IN	_	of	of	IN	48	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+50	the	the	DT	_	the	the	DT	52	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	Democratic	democratic	JJ	_	Democratic	democratic	JJ	52	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0
+52	party	party	NN	_	party	party	NN	49	PMOD	party.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	at	at	IN	_	at	at	IN	46	TMP	_	_	_	_	_	_	_	_	_	_	_	_	AM-TMP	_	_
+54	the	the	DT	_	the	the	DT	56	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	same	same	JJ	_	same	same	JJ	56	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	time	time	NN	_	time	time	NN	53	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	!	!	.	_	!	!	.	37	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	That	that	DT	_	That	that	DT	2	SBJ	_	_
+2	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_
+3	almost	almost	RB	_	almost	almost	RB	5	AMOD	_	_
+4	enough	enough	JJ	_	enough	enough	DT	3	NMOD	_	_
+5	for	for	IN	_	for	for	IN	2	PRD	_	_
+6	Chatterbox	chatterbox	NNP	_	Chatterbox	chatterbox	NNP	7	SBJ	_	A1
+7	to	to	TO	_	to	to	TO	5	SUB	_	_
+8	jump	jump	VB	_	jump	jump	VB	7	IM	jump.01	_
+9	on	on	IN	_	on	on	IN	8	ADV	_	A2
+10	the	the	DT	_	the	the	DT	14	NMOD	_	_
+11	Hillary	hillary	NNP	_	Hillary	hillary	NNP	14	NMOD	_	_
+12	for	for	IN	_	for	for	IN	11	NMOD	_	_
+13	Senate	senate	NNP	_	Senate	senate	NNP	12	PMOD	_	_
+14	bandwagon	bandwagon	NN	_	bandwagon	bandwagon	NN	9	PMOD	_	_
+15	.	.	.	_	.	.	.	2	P	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_	_
+2	media	media	NNS	_	media	medium	NNS	4	NMOD	_	A0	_	_	_	_
+3	conventional	conventional	JJ	_	conventional	conventional	JJ	4	NMOD	_	_	_	_	_	_
+4	wisdom	wisdom	NN	_	wisdom	wisdom	NN	5	SBJ	wisdom.01	_	A1	_	_	_
+5	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_
+6	that	that	IN	_	that	that	IN	5	PRD	_	_	A2	_	_	_
+7	Giuliani	giuliani	NNP	_	Giuliani	giuliani	NNP	8	SBJ	_	_	_	A0	_	A0
+8	would	would	MD	_	would	would	MD	6	SUB	_	_	_	_	_	_
+9	make	make	VB	_	make	make	VB	8	VC	make.08	_	_	_	_	SU
+10	Hillary	hillary	NNP	_	Hillary	hillary	NNP	11	NAME	_	_	_	_	_	_
+11	Clinton	clinton	NNP	_	Clinton	clinton	NNP	14	NMOD	_	_	_	_	A0	_
+12	's	's	POS	_	's	's	POS	11	SUFFIX	_	_	_	_	_	_
+13	marital	marital	JJ	_	marital	marital	JJ	14	NMOD	_	_	_	_	_	_
+14	problems	problems	NNS	_	problems	problem	NNS	9	OBJ	problem.01	_	_	_	A2	_
+15	a	a	DT	_	a	a	DT	18	NMOD	_	_	_	_	_	_
+16	major	major	JJ	_	major	major	JJ	18	NMOD	_	_	_	_	_	_
+17	campaign	campaign	NN	_	campaign	campaign	NN	18	NMOD	_	_	_	_	_	A1
+18	issue	issue	NN	_	issue	issue	NN	9	OPRD	issue.07	_	_	A2	_	_
+19	.	.	.	_	.	.	.	5	P	_	_	_	_	_	_
+
+1	"	"	''	_	"	"	''	3	P	_	_	_	_
+2	Giuliani	giuliani	NNP	_	Giuliani	giuliani	NNP	3	SBJ	_	A0	_	_
+3	makes	makes	VBZ	_	makes	make	VBZ	12	OBJ	make.08	_	_	A1
+4	Ken	ken	NNP	_	Ken	ken	NNP	5	NAME	_	_	_	_
+5	Starr	starr	NNP	_	Starr	starr	NNP	3	OBJ	_	_	A0	_
+6	look	look	VB	_	look	look	VB	3	OPRD	look.01	A2	_	_
+7	like	like	IN	_	like	like	IN	6	PRD	_	_	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_
+9	patsy	patsy	NN	_	patsy	patsy	NN	7	PMOD	_	_	_	_
+10	,	,	,	_	,	,	,	3	P	_	_	_	_
+11	"	"	''	_	"	"	''	3	P	_	_	_	_
+12	cried	cried	VBD	_	cried	cry	VBD	0	ROOT	cry.01	_	_	_
+13	Time	time	NNP	_	Time	time	NNP	12	SBJ	_	_	_	AM-TMP
+14	this	this	DT	_	this	this	DT	15	NMOD	_	_	_	_
+15	week	week	NN	_	week	week	NN	12	TMP	_	_	_	AM-TMP
+16	.	.	.	_	.	.	.	12	P	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	5	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	5	P	_	_	_	_
+3	er	er	UH	_	er	er	UH	5	DEP	_	_	_	_
+4	,	,	,	_	,	,	,	5	P	_	_	_	_
+5	would	would	MD	_	would	would	MD	0	ROOT	_	AM-MOD	_	_
+6	n't	not	RB	_	n't	not	RB	5	ADV	_	_	_	_
+7	that	that	DT	_	that	that	DT	5	SBJ	_	A1	A0	_
+8	be	be	VB	_	be	be	VB	5	VC	be.01	_	_	_
+9	kind	kind	NN	_	kind	kind	NN	10	AMOD	_	_	_	_
+10	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_
+11	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_
+12	risky	risky	JJ	_	risky	risky	JJ	13	NMOD	_	_	_	_
+13	strategy	strategy	NN	_	strategy	strategy	NN	8	PRD	_	A2	_	_
+14	,	,	,	_	,	,	,	8	P	_	_	_	_
+15	given	given	VBN	_	given	give	VBN	8	PRP	give.01	_	_	_
+16	his	his	PRP$	_	his	his	PRP$	19	NMOD	_	_	_	A0
+17	own	own	JJ	_	own	own	JJ	19	NMOD	_	_	_	_
+18	problematic	problematic	JJ	_	problematic	problematic	JJ	19	NMOD	_	_	_	_
+19	union	union	NN	_	union	union	NN	15	PMOD	union.02	_	_	_
+20	?	?	.	_	?	?	.	5	P	_	_	_	_
+
+1	Many	many	JJ	_	Many	many	DT	2	SBJ	_	A0	A0	_	_	_	_
+2	have	have	VBP	_	have	have	VBP	0	ROOT	have.03	_	_	_	_	_	_
+3	already	already	RB	_	already	already	RB	2	TMP	_	AM-TMP	_	_	_	_	_
+4	opined	opined	VBN	_	opined	opine	VBN	2	VC	opine.01	A1	_	_	_	_	_
+5	that	that	IN	_	that	that	IN	4	OBJ	_	_	A1	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+7	mayor	mayor	NN	_	mayor	mayor	NN	8	SBJ	_	_	_	A1	A0	_	_
+8	is	is	VBZ	_	is	be	VBZ	5	SUB	be.01	_	_	_	_	_	_
+9	too	too	RB	_	too	too	RB	10	AMOD	_	_	_	_	_	_	_
+10	vituperative	vituperative	JJ	_	vituperative	vituperative	JJ	8	PRD	_	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	A2	_	_	_
+12	too	too	RB	_	too	too	RB	13	AMOD	_	_	_	_	_	_	_
+13	much	much	JJ	_	much	much	JJ	10	COORD	_	_	_	_	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_	_	_	_
+15	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_	_
+16	loner	loner	NN	_	loner	loner	NN	14	PMOD	_	_	_	_	_	_	_
+17	to	to	TO	_	to	to	TO	13	COORD	_	_	_	_	_	_	_
+18	practice	practice	VB	_	practice	practice	VB	17	IM	practice.01	_	_	_	_	_	_
+19	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_	_	_
+20	congenial	congenial	JJ	_	congenial	congenial	JJ	25	NMOD	_	_	_	_	_	_	_
+21	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_
+22	teamwork	teamwork	NN	_	teamwork	teamwork	NN	25	NMOD	_	_	_	_	_	A1	_
+23	-	-	HYPH	_	-	-	HYPH	22	AMOD	_	_	_	_	_	_	_
+24	oriented	oriented	VBN	_	oriented	orient	VBN	22	NMOD	orient.01	_	_	_	_	_	_
+25	politics	politics	NNS	_	politics	politics	NNS	18	OBJ	politics.01	_	_	_	A1	_	_
+26	of	of	IN	_	of	of	IN	25	NMOD	_	_	_	_	_	_	A1
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_
+28	Senate	senate	NNP	_	Senate	senate	NNP	26	PMOD	_	_	_	_	_	_	_
+29	;	;	.	_	;	;	.	2	P	_	_	_	_	_	_	_
+
+1	other	other	JJ	_	other	other	JJ	2	NMOD	_	_	_	_
+2	doubters	doubters	NNS	_	doubters	doubter	NNS	3	SBJ	_	A0	A0	_
+3	have	have	VBP	_	have	have	VBP	0	ROOT	have.03	_	_	_
+4	pointed	pointed	VBN	_	pointed	point	VBN	3	VC	point.01	A1	_	_
+5	to	to	TO	_	to	to	TO	4	ADV	_	_	A2	_
+6	his	his	PRP$	_	his	his	PRP$	11	NMOD	_	_	_	A0
+7	hardhearted	hardhearted	JJ	_	hardhearted	hardhearted	JJ	11	NMOD	_	_	_	_
+8	,	,	,	_	,	,	,	11	P	_	_	_	_
+9	uncaring	uncaring	JJ	_	uncaring	uncaring	JJ	11	NMOD	_	_	_	_
+10	social	social	JJ	_	social	social	JJ	11	NMOD	_	_	_	_
+11	policies	policies	NNS	_	policies	policy	NNS	5	PMOD	policy.01	_	_	_
+12	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_
+2	last	last	JJ	_	last	last	JJ	3	NMOD	_	AM-TMP	_	_	_	_	_
+3	thing	thing	NN	_	thing	thing	NN	6	SBJ	thing.01	A2	A1	A1	A0	_	_
+4	he	he	PRP	_	he	he	PRP	5	SBJ	_	_	A0	_	_	_	_
+5	needs	needs	VBZ	_	needs	need	VBZ	3	NMOD	need.01	_	_	_	_	_	_
+6	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	PRD	_	_	_	A2	_	_	_
+8	draw	draw	VB	_	draw	draw	VB	7	IM	draw.02	SU	_	_	_	_	_
+9	more	more	JJR	_	more	more	DT	10	NMOD	_	_	_	_	_	_	_
+10	attention	attention	NN	_	attention	attention	NN	8	OBJ	_	A1	_	_	A1	_	_
+11	to	to	TO	_	to	to	TO	8	ADV	_	_	_	_	A2	_	_
+12	these	these	DT	_	these	these	DT	13	NMOD	_	_	_	_	_	_	_
+13	qualities	qualities	NNS	_	qualities	quality	NNS	11	PMOD	quality.01	_	_	_	_	A2	_
+14	in	in	IN	_	in	in	IN	13	LOC	_	_	_	_	_	A1	_
+15	his	his	PRP$	_	his	his	PRP$	17	NMOD	_	_	_	_	_	_	A1
+16	personal	personal	JJ	_	personal	personal	JJ	17	NMOD	_	_	_	_	_	_	_
+17	life	life	NN	_	life	life	NN	14	PMOD	life.02	_	_	_	_	_	A2
+18	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_	_
+
+1	Giuliani	giuliani	NNP	_	Giuliani	giuliani	NNP	3	NMOD	_	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_
+3	estrangement	estrangement	NN	_	estrangement	estrangement	NN	11	SBJ	_	_	A1	A0	_	_
+4	from	from	IN	_	from	from	IN	3	NMOD	_	_	_	_	_	_
+5	his	his	PRP$	_	his	his	PRP$	6	NMOD	_	A1	_	_	_	_
+6	wife	wife	NN	_	wife	wife	NN	4	PMOD	wife.01	A0	_	_	_	_
+7	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_
+8	Donna	donna	NNP	_	Donna	donna	NNP	9	NAME	_	_	_	_	_	_
+9	Hanover	hanover	NNP	_	Hanover	hanover	NNP	6	APPO	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_
+11	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_
+12	made	made	VBN	_	made	make	VBN	11	VC	make.08	_	A2	_	_	_
+13	clear	clear	JJ	_	clear	clear	JJ	12	OPRD	_	_	_	A2	_	_
+14	in	in	IN	_	in	in	IN	12	LOC	_	_	_	AM-LOC	_	_
+15	an	an	DT	_	an	an	DT	16	NMOD	_	_	_	_	_	_
+16	interview	interview	NN	_	interview	interview	NN	14	PMOD	interview.01	_	_	_	_	A1
+17	with	with	IN	_	with	with	IN	16	NMOD	_	_	_	_	A1	_
+18	Hanover	hanover	NNP	_	Hanover	hanover	NNP	17	PMOD	_	_	_	_	_	_
+19	that	that	WDT	_	that	that	WDT	20	SBJ	_	_	_	_	_	_
+20	appears	appears	VBZ	_	appears	appear	VBZ	16	NMOD	appear.01	_	_	_	_	_
+21	in	in	IN	_	in	in	IN	20	LOC	_	_	_	_	_	AM-LOC
+22	today	today	NN	_	today	today	NN	26	NMOD	_	_	_	_	_	_
+23	's	's	POS	_	's	's	POS	22	SUFFIX	_	_	_	_	_	_
+24	New	new	NNP	_	New	new	NNP	25	NAME	_	_	_	_	_	_
+25	York	york	NNP	_	York	york	NNP	26	NMOD	_	_	_	_	_	_
+26	Times	times	NNP	_	Times	times	NNP	21	PMOD	_	_	_	_	_	_
+27	.	.	.	_	.	.	.	11	P	_	_	_	_	_	_
+
+1	Hanover	hanover	NNP	_	Hanover	hanover	NNP	3	SBJ	_	A0	_	_	_	_	_
+2	"	"	''	_	"	"	''	3	P	_	_	_	_	_	_	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_	_
+4	not	not	RB	_	not	not	RB	3	ADV	_	_	_	_	_	_	_
+5	say	say	VB	_	say	say	VB	3	VC	say.01	_	_	_	_	_	_
+6	whether	whether	IN	_	whether	whether	IN	5	OBJ	_	A1	_	_	_	_	_
+7	Giuliani	giuliani	NNP	_	Giuliani	giuliani	NNP	8	SBJ	_	_	A0	_	_	_	_
+8	would	would	MD	_	would	would	MD	6	SUB	_	_	_	_	_	_	_
+9	run	run	VB	_	run	run	VB	8	VC	run.01	_	_	_	_	_	_
+10	for	for	IN	_	for	for	IN	9	ADV	_	_	A2	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_
+12	Senate	senate	NNP	_	Senate	senate	NNP	10	PMOD	_	_	_	_	_	_	_
+13	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_	_
+14	whether	whether	IN	_	whether	whether	IN	6	COORD	_	_	_	_	_	_	_
+15	she	she	PRP	_	she	she	PRP	16	SBJ	_	_	_	A0	_	_	_
+16	would	would	MD	_	would	would	MD	14	SUB	_	_	_	_	_	_	_
+17	like	like	VB	_	like	like	VB	16	VC	like.01	_	_	_	_	_	_
+18	him	him	PRP	_	him	him	PRP	17	OBJ	_	_	_	_	A0	_	_
+19	to	to	TO	_	to	to	TO	17	OPRD	_	_	_	A1	_	_	_
+20	run	run	VB	_	run	run	VB	19	IM	run.01	_	_	_	_	_	_
+21	for	for	IN	_	for	for	IN	20	ADV	_	_	_	_	A2	_	_
+22	Senate	senate	NNP	_	Senate	senate	NNP	21	PMOD	_	_	_	_	_	_	_
+23	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_	_
+24	or	or	CC	_	or	or	CC	14	COORD	_	_	_	_	_	_	_
+25	whether	whether	IN	_	whether	whether	IN	24	CONJ	_	_	_	_	_	_	_
+26	she	she	PRP	_	she	she	PRP	27	SBJ	_	_	_	_	_	A0	_
+27	would	would	MD	_	would	would	MD	25	SUB	_	_	_	_	_	_	_
+28	campaign	campaign	VB	_	campaign	campaign	VB	27	VC	campaign.01	_	_	_	_	_	_
+29	for	for	IN	_	for	for	IN	28	ADV	_	_	_	_	_	A1	_
+30	him	him	PRP	_	him	him	PRP	29	PMOD	_	_	_	_	_	_	_
+31	if	if	IN	_	if	if	IN	28	ADV	_	_	_	_	_	_	_
+32	he	he	PRP	_	he	he	PRP	33	SBJ	_	_	_	_	_	_	A0
+33	did	did	VBD	_	did	do	VBD	31	SUB	do.02	_	_	_	_	_	_
+34	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	3	DEP	_	_	_	_	_	_	_	_	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A0	A0	_	_	_	_	_	_	_
+3	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_	_	_	_	_	_	_	_
+4	say	say	VB	_	say	say	VB	3	VC	say.01	A1	_	_	_	_	_	_	_	_
+5	in	in	IN	_	in	in	IN	4	LOC	_	_	AM-LOC	_	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_	_	_	_
+7	interview	interview	NN	_	interview	interview	NN	5	PMOD	_	_	_	A1	A0	_	_	_	_	_
+8	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_	_	_	_	_
+9	which	which	WDT	_	which	which	WDT	10	SBJ	_	_	_	_	_	_	_	_	_	_
+10	was	was	VBD	_	was	be	VBD	7	NMOD	be.01	_	_	_	_	_	_	_	_	_
+11	conducted	conducted	VBN	_	conducted	conduct	VBN	10	VC	conduct.01	_	_	A2	_	_	_	_	_	_
+12	before	before	IN	_	before	before	IN	11	TMP	_	_	_	_	AM-TMP	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_	_	_	_	_
+14	recent	recent	JJ	_	recent	recent	JJ	15	NMOD	_	_	_	_	_	AM-TMP	_	_	_	_
+15	frenzy	frenzy	NN	_	frenzy	frenzy	NN	12	PMOD	frenzy.01	_	_	_	_	_	_	_	_	_
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	_	A0	_	_	_	_
+17	speculation	speculation	NN	_	speculation	speculation	NN	16	PMOD	speculation.01	_	_	_	_	_	_	_	_	_
+18	about	about	IN	_	about	about	IN	17	NMOD	_	_	_	_	_	_	A1	_	_	_
+19	Hillary	hillary	NNP	_	Hillary	hillary	NNP	21	NAME	_	_	_	_	_	_	_	_	_	_
+20	Rodham	rodham	NNP	_	Rodham	rodham	NNP	21	NAME	_	_	_	_	_	_	_	_	_	_
+21	Clinton	clinton	NNP	_	Clinton	clinton	NNP	23	NMOD	_	_	_	_	_	_	_	A0	_	_
+22	's	's	POS	_	's	's	POS	21	SUFFIX	_	_	_	_	_	_	_	_	_	_
+23	interest	interest	NN	_	interest	interest	NN	18	PMOD	interest.02	_	_	_	_	_	_	_	_	_
+24	in	in	IN	_	in	in	IN	23	LOC	_	_	_	_	_	_	_	A1	_	_
+25	the	the	DT	_	the	the	DT	30	NMOD	_	_	_	_	_	_	_	_	_	_
+26	same	same	JJ	_	same	same	JJ	30	NMOD	_	_	_	_	_	_	_	_	_	_
+27	New	new	NNP	_	New	new	NNP	28	NAME	_	_	_	_	_	_	_	_	_	_
+28	York	york	NNP	_	York	york	NNP	30	NMOD	_	_	_	_	_	_	_	_	A0	_
+29	Senate	senate	NNP	_	Senate	senate	NNP	30	NMOD	_	_	_	_	_	_	_	_	A2	_
+30	seat	seat	NN	_	seat	seat	NN	24	PMOD	seat.01	_	_	_	_	_	_	_	_	_
+31	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_	_	_	_
+32	that	that	IN	_	that	that	IN	4	OBJ	_	_	A1	_	_	_	_	_	_	_
+33	Mrs.	mrs.	NNP	_	Mrs.	mrs.	NNP	34	TITLE	_	_	_	_	_	_	_	_	_	_
+34	Clinton	clinton	NNP	_	Clinton	clinton	NNP	35	SBJ	_	_	_	_	_	_	_	_	_	A1
+35	is	is	VBZ	_	is	be	VBZ	32	SUB	be.01	_	_	_	_	_	_	_	_	_
+36	a	a	DT	_	a	a	DT	41	NMOD	_	_	_	_	_	_	_	_	_	_
+37	'	'	''	_	'	'	''	41	P	_	_	_	_	_	_	_	_	_	_
+38	very	very	RB	_	very	very	RB	39	AMOD	_	_	_	_	_	_	_	_	_	_
+39	interesting	interesting	JJ	_	interesting	interesting	JJ	41	NMOD	_	_	_	_	_	_	_	_	_	_
+40	'	'	''	_	'	'	''	41	P	_	_	_	_	_	_	_	_	_	_
+41	person	person	NN	_	person	person	NN	35	PRD	_	_	_	_	_	_	_	_	_	A2
+42	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_	_	_
+
+1	'	'	''	_	'	'	''	3	P	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_	_
+3	think	think	VBP	_	think	think	VBP	26	OBJ	think.01	_	_	A1
+4	she	she	PRP	_	she	she	PRP	5	SBJ	_	_	_	_
+5	's	's	VBZ	_	's	be	VBZ	3	OBJ	_	A1	_	_
+6	dynamic	dynamic	JJ	_	dynamic	dynamic	JJ	5	PRD	_	_	_	_
+7	,	,	,	_	,	,	,	3	P	_	_	_	_
+8	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	A0	_
+10	think	think	VBP	_	think	think	VBP	8	CONJ	think.01	_	_	_
+11	she	she	PRP	_	she	she	PRP	12	SBJ	_	_	_	_
+12	's	's	VBZ	_	's	be	VBZ	10	OBJ	_	_	A1	_
+13	very	very	RB	_	very	very	RB	14	AMOD	_	_	_	_
+14	smart	smart	JJ	_	smart	smart	JJ	12	PRD	_	_	_	_
+15	,	,	,	_	,	,	,	10	P	_	_	_	_
+16	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_
+17	she	she	PRP	_	she	she	PRP	18	SBJ	_	_	_	_
+18	's	's	VBZ	_	's	be	VBZ	16	CONJ	_	_	_	_
+19	an	an	DT	_	an	an	DT	21	NMOD	_	_	_	_
+20	amazing	amazing	JJ	_	amazing	amazing	JJ	21	NMOD	_	_	_	_
+21	speaker	speaker	NN	_	speaker	speaker	NN	18	PRD	_	_	_	_
+22	,	,	,	_	,	,	,	3	P	_	_	_	_
+23	'	'	''	_	'	'	''	3	P	_	_	_	_
+24	Ms.	ms.	NNP	_	Ms.	ms.	NNP	25	TITLE	_	_	_	_
+25	Hanover	hanover	NNP	_	Hanover	hanover	NNP	26	SBJ	_	_	_	A0
+26	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_	_
+27	.	.	.	_	.	.	.	26	P	_	_	_	_
+28	"	"	''	_	"	"	''	26	P	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	18	DEP	_	_	_	_	_	_	_	_
+2	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_	_
+3	for	for	IN	_	for	for	IN	18	ADV	_	_	_	_	_	_	_	_
+4	a	a	DT	_	a	a	DT	6	NMOD	_	_	_	_	_	_	_	_
+5	punch	punch	JJ	_	punch	punch	NN	6	NMOD	_	A2	_	_	_	_	_	_
+6	line	line	NN	_	line	line	NN	3	PMOD	line.03	A1	_	_	_	_	_	_
+7	:	:	:	_	:	:	:	18	P	_	_	_	_	_	_	_	_
+8	"	"	''	_	"	"	''	18	P	_	_	_	_	_	_	_	_
+9	Ms.	ms.	NNP	_	Ms.	ms.	NNP	10	TITLE	_	_	_	_	_	_	_	_
+10	Hanover	hanover	NNP	_	Hanover	hanover	NNP	13	NMOD	_	_	A2	A2	_	_	_	_
+11	's	's	POS	_	's	's	POS	10	SUFFIX	_	_	_	_	_	_	_	_
+12	press	press	NN	_	press	press	NN	13	NMOD	press.04	_	A0	A1	_	_	_	_
+13	secretary	secretary	NN	_	secretary	secretary	NN	18	SBJ	secretary.01	_	_	A0	A0	_	_	_
+14	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_	_
+15	Joannie	joannie	NNP	_	Joannie	joannie	NNP	16	NAME	_	_	_	_	_	_	_	_
+16	Danielides	danielides	NNP	_	Danielides	danielides	NNP	13	APPO	_	_	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_	_
+18	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_	_	_	_	_	_
+19	this	this	DT	_	this	this	DT	20	NMOD	_	_	_	_	_	_	_	_
+20	week	week	NN	_	week	week	NN	18	TMP	_	_	_	_	AM-TMP	_	_	_
+21	that	that	IN	_	that	that	IN	18	OBJ	_	_	_	_	A1	_	_	_
+22	Ms.	ms.	NNP	_	Ms.	ms.	NNP	23	TITLE	_	_	_	_	_	_	_	_
+23	Hanover	hanover	NNP	_	Hanover	hanover	NNP	24	SBJ	_	_	_	_	_	A0	_	_
+24	had	had	VBD	_	had	have	VBD	21	SUB	have.04	_	_	_	_	_	_	_
+25	no	no	DT	_	no	no	DT	26	NMOD	_	_	_	_	_	_	_	_
+26	comment	comment	NN	_	comment	comment	NN	24	OBJ	comment.01	_	_	_	_	A1	_	_
+27	on	on	IN	_	on	on	IN	26	NMOD	_	_	_	_	_	_	A1	_
+28	Mrs.	mrs.	NNP	_	Mrs.	mrs.	NNP	29	TITLE	_	_	_	_	_	_	_	_
+29	Clinton	clinton	NNP	_	Clinton	clinton	NNP	33	NMOD	_	_	_	_	_	_	_	A0
+30	's	's	POS	_	's	's	POS	29	SUFFIX	_	_	_	_	_	_	_	_
+31	potential	potential	JJ	_	potential	potential	JJ	33	NMOD	_	_	_	_	_	_	_	_
+32	Senate	senate	NNP	_	Senate	senate	NNP	33	NMOD	_	_	_	_	_	_	_	_
+33	campaign	campaign	NN	_	campaign	campaign	NN	27	PMOD	campaign.01	_	_	_	_	_	_	_
+34	.	.	.	_	.	.	.	18	P	_	_	_	_	_	_	_	_
+35	"	"	''	_	"	"	''	18	P	_	_	_	_	_	_	_	_
+
+1	Does	does	VBZ	_	Does	do	VBZ	0	ROOT	_	_	_	_	_	_	_
+2	she	she	PRP	_	she	she	PRP	1	SBJ	_	A0	_	_	_	_	_
+3	have	have	VB	_	have	have	VB	1	VC	have.04	_	_	_	_	_	_
+4	any	any	DT	_	any	any	DT	5	NMOD	_	_	_	_	_	_	_
+5	comment	comment	NN	_	comment	comment	NN	3	OBJ	comment.01	A1	_	_	_	_	_
+6	on	on	IN	_	on	on	IN	5	NMOD	_	_	A1	_	_	_	_
+7	whether	whether	IN	_	whether	whether	IN	6	PMOD	_	_	_	_	_	_	_
+8	Ms.	ms.	NNP	_	Ms.	ms.	NNP	9	TITLE	_	_	_	_	_	_	_
+9	Hanover	hanover	NNP	_	Hanover	hanover	NNP	10	SBJ	_	_	_	A0	A1	_	_
+10	plans	plans	VBZ	_	plans	plan	VBZ	7	SUB	plan.01	_	_	_	_	_	_
+11	to	to	TO	_	to	to	TO	10	OPRD	_	_	_	A1	_	_	_
+12	be	be	VB	_	be	be	VB	11	IM	be.01	_	_	_	_	_	_
+13	Hillary	hillary	NNP	_	Hillary	hillary	NNP	14	NAME	_	_	_	_	_	_	_
+14	Clinton	clinton	NNP	_	Clinton	clinton	NNP	17	NMOD	_	_	_	_	_	A0	A1
+15	's	's	POS	_	's	's	POS	14	SUFFIX	_	_	_	_	_	_	_
+16	campaign	campaign	NN	_	campaign	campaign	NN	17	NMOD	campaign.01	_	_	_	_	_	_
+17	manager	manager	NN	_	manager	manager	NN	12	PRD	manager.01	_	_	_	A2	_	A0
+18	?	?	.	_	?	?	.	1	P	_	_	_	_	_	_	_
+
+1	Indis	indis	NNP	_	Indis	indis	NNP	3	NAME	_
+2	Index	index	NNP	_	Index	index	NNP	3	NAME	_
+3	Update	update	NNP	_	Update	update	NNP	0	ROOT	_
+4	:	:	.	_	:	:	.	3	P	_
+
+1	NBC	nbc	NNP	_	NBC	nbc	NNP	11	SBJ	_	_	A0	_	_	_	_
+2	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_
+3	in	in	IN	_	in	in	IN	11	LOC	_	_	AM-LOC	_	_	_	_
+4	its	its	PRP$	_	its	its	PRP$	7	NMOD	_	A0	_	_	_	_	_
+5	Juanita	juanita	NNP	_	Juanita	juanita	NNP	6	NAME	_	_	_	_	_	_	_
+6	Broaddrick	broaddrick	NNP	_	Broaddrick	broaddrick	NNP	7	NMOD	_	A1	_	_	_	_	_
+7	broadcast	broadcast	NN	_	broadcast	broadcast	NN	3	SUB	broadcast.01	_	_	_	_	_	_
+8	last	last	JJ	_	last	last	JJ	9	NMOD	_	_	_	_	_	_	_
+9	night	night	NN	_	night	night	NN	7	TMP	_	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_
+11	turned	turned	VBD	_	turned	turn	VBD	0	ROOT	turn.16	_	_	_	_	_	_
+12	up	up	RP	_	up	up	RP	11	PRT	_	_	_	_	_	_	_
+13	an	an	DT	_	an	an	DT	16	NMOD	_	_	_	_	_	_	_
+14	additional	additional	JJ	_	additional	additional	JJ	16	NMOD	_	_	_	_	_	_	_
+15	three	three	CD	_	three	three	CD	16	NMOD	_	_	_	_	_	_	_
+16	witnesses	witnesses	NNS	_	witnesses	witness	NNS	11	OBJ	_	_	A1	A0	A1	A0	_
+17	who	who	WP	_	who	who	WP	18	SBJ	_	_	_	_	_	_	_
+18	recall	recall	VBP	_	recall	recall	VBP	16	NMOD	recall.01	_	_	_	_	_	_
+19	being	being	VBG	_	being	be	VBG	18	OPRD	be.01	_	_	A1	_	_	_
+20	told	told	VBN	_	told	tell	VBN	19	VC	tell.02	_	_	_	A2	_	_
+21	by	by	IN	_	by	by	IN	20	LGS	_	_	_	_	_	_	_
+22	Broaddrick	broaddrick	NNP	_	Broaddrick	broaddrick	NNP	21	PMOD	_	_	_	_	_	A1	_
+23	in	in	IN	_	in	in	IN	20	TMP	_	_	_	_	_	AM-TMP	_
+24	the	the	DT	_	the	the	DT	26	NMOD	_	_	_	_	_	_	_
+25	late	late	JJ	_	late	late	JJ	26	NMOD	_	_	_	_	_	_	_
+26	1970s	1970s	NNS	_	1970s	1970s	NNS	23	PMOD	_	_	_	_	_	_	_
+27	that	that	IN	_	that	that	IN	20	OBJ	_	_	_	_	_	_	_
+28	Bill	bill	NNP	_	Bill	bill	NNP	29	NAME	_	_	_	_	_	_	_
+29	Clinton	clinton	NNP	_	Clinton	clinton	NNP	30	SBJ	_	_	_	_	_	_	A0
+30	raped	raped	VBD	_	raped	rape	VBD	27	SUB	rape.01	_	_	_	_	_	_
+31	her	her	PRP	_	her	her	PRP	30	OBJ	_	_	_	_	_	_	A1
+32	.	.	.	_	.	.	.	11	P	_	_	_	_	_	_	_
+
+1	This	this	DT	_	This	this	DT	2	SBJ	_	A0	_	_	A0	_	_
+2	diminishes	diminishes	VBZ	_	diminishes	diminish	VBZ	0	ROOT	diminish.01	_	_	_	_	_	_
+3	--	--	:	_	--	--	:	2	P	_	_	_	_	_	_	_
+4	slightly	slightly	RB	_	slightly	slightly	RB	2	MNR	_	AM-MNR	_	_	_	_	_
+5	--	--	:	_	--	--	:	2	P	_	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+7	significance	significance	NN	_	significance	significance	NN	2	OBJ	significance.01	_	A1	_	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A0	_	_	_	_
+9	Norma	norma	NNP	_	Norma	norma	NNP	10	NAME	_	_	_	_	_	_	_
+10	Kelsey	kelsey	NNP	_	Kelsey	kelsey	NNP	13	NMOD	_	_	_	A1	_	_	_
+11	's	's	POS	_	's	's	POS	10	SUFFIX	_	_	_	_	_	_	_
+12	possible	possible	JJ	_	possible	possible	JJ	13	NMOD	_	_	_	_	_	_	_
+13	motives	motives	NNS	_	motives	motive	NNS	8	PMOD	motive.01	_	_	_	_	_	_
+14	in	in	IN	_	in	in	IN	13	NMOD	_	_	_	_	_	_	_
+15	verifying	verifying	VBG	_	verifying	verify	VBG	14	PMOD	verify.01	_	_	_	_	_	_
+16	parts	parts	NNS	_	parts	parts	NNS	15	OBJ	part.04	_	_	_	A1	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	A1	_
+18	Broaddrick	broaddrick	NNP	_	Broaddrick	broaddrick	NNP	20	NMOD	_	_	_	_	_	_	A0
+19	's	's	POS	_	's	's	POS	18	SUFFIX	_	_	_	_	_	_	_
+20	story	story	NN	_	story	story	NN	17	PMOD	story.01	_	_	_	_	_	_
+21	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+
+1	(	-lrb-	(	_	(	-lrb-	(	6	P	_	_	_	_	_	_
+2	One	one	CD	_	One	one	CD	6	SBJ	_	A1	_	_	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_
+5	three	three	CD	_	three	three	CD	3	PMOD	_	_	_	_	_	_
+6	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_
+7	Kelsey	kelsey	NNP	_	Kelsey	kelsey	NNP	9	NMOD	_	_	A1	_	_	_
+8	's	's	POS	_	's	's	POS	7	SUFFIX	_	_	_	_	_	_
+9	sister	sister	NN	_	sister	sister	NN	6	PRD	sister.01	A2	A0	_	_	_
+10	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_
+11	whose	whose	WP$	_	whose	whose	WP$	12	NMOD	_	_	_	A1	_	_
+12	motives	motives	NNS	_	motives	motive	NNS	13	SBJ	motive.01	_	_	_	A1	A0
+13	can	can	MD	_	can	can	MD	9	NMOD	_	_	_	_	_	_
+14	be	be	VB	_	be	be	VB	13	VC	be.01	_	_	_	_	_
+15	similarly	similarly	RB	_	similarly	similarly	RB	14	MNR	_	_	_	_	AM-MNR	_
+16	questioned	questioned	VBN	_	questioned	question	VBN	14	VC	question.01	_	_	_	A2	_
+17	;	;	:	_	;	;	:	6	P	_	_	_	_	_	_
+
+1	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_	_	_	_	_	_
+2	other	other	JJ	_	other	other	JJ	3	NMOD	_	_	_	_	_	_	_	_	_	_	_
+3	two	two	CD	_	two	two	CD	4	SBJ	_	A0	_	_	A0	A0	_	_	_	_	_
+4	heard	heard	VBD	_	heard	hear	VBD	0	ROOT	hear.01	_	_	_	_	_	_	_	_	_	_
+5	Broaddrick	broaddrick	NNP	_	Broaddrick	broaddrick	NNP	4	OBJ	_	_	A0	_	_	_	_	_	_	_	_
+6	tell	tell	VB	_	tell	tell	VB	4	OPRD	tell.01	A1	_	_	_	_	_	_	_	_	_
+7	her	her	PRP$	_	her	her	PRP$	8	NMOD	_	_	_	A0	_	_	_	_	_	_	_
+8	story	story	NN	_	story	story	NN	6	OBJ	story.01	_	A1	_	_	_	_	_	_	_	_
+9	but	but	CC	_	but	but	CC	4	COORD	_	_	_	_	_	_	_	_	_	_	_
+10	did	did	VBD	_	did	do	VBD	9	CONJ	do.02	_	_	_	_	_	_	_	_	_	_
+11	not	not	RB	_	not	not	RB	10	ADV	_	_	_	_	AM-NEG	_	_	_	_	_	_
+12	see	see	VB	_	see	see	VB	10	VC	see.01	_	_	_	A1	_	_	_	_	_	_
+13	her	her	PRP$	_	her	her	PRP$	15	NMOD	_	_	_	_	_	_	_	A1	_	_	_
+14	bruised	bruised	VBN	_	bruised	bruise	VBN	15	NMOD	bruise.01	_	_	_	_	_	_	_	_	_	_
+15	lip	lip	NN	_	lip	lip	NN	12	OBJ	lip.01	_	_	_	_	A1	A1	_	_	_	_
+16	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_	_	_	_	_	_
+17	as	as	IN	_	as	as	IN	12	ADV	_	_	_	_	_	AM-TMP	_	_	_	_	_
+18	only	only	JJ	_	only	only	JJ	19	NMOD	_	_	_	_	_	_	_	_	_	_	_
+19	Kelsey	kelsey	NNP	_	Kelsey	kelsey	NNP	24	SBJ	_	_	_	_	_	_	_	_	_	A0	A0
+20	and	and	CC	_	and	and	CC	19	COORD	_	_	_	_	_	_	_	_	_	_	_
+21	Broaddrick	broaddrick	NNP	_	Broaddrick	broaddrick	NNP	23	NMOD	_	_	_	_	_	_	_	_	A1	_	_
+22	's	's	POS	_	's	's	POS	21	SUFFIX	_	_	_	_	_	_	_	_	_	_	_
+23	husband	husband	NN	_	husband	husband	NN	20	CONJ	husband.01	_	_	_	_	_	_	_	A0	_	_
+24	claim	claim	VBP	_	claim	claim	VBP	17	SUB	claim.01	_	_	_	_	_	_	_	_	_	_
+25	to	to	TO	_	to	to	TO	24	OPRD	_	_	_	_	_	_	_	_	_	_	_
+26	have	have	VB	_	have	have	VB	25	IM	have.04	_	_	_	_	_	_	_	_	_	_
+27	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_	_	_	_
+28	)	-rrb-	)	_	)	-rrb-	)	4	P	_	_	_	_	_	_	_	_	_	_	_
+
+1	However	however	RB	_	However	however	RB	4	ADV	_	AM-MNR	_	_	_	_	_	_	AM-MNR	_
+2	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_	_	_	_
+3	Chatterbox	chatterbox	NNP	_	Chatterbox	chatterbox	NNP	4	SBJ	_	A0	_	_	_	_	_	_	A1	_
+4	notes	notes	VBZ	_	notes	note	VBZ	0	ROOT	note.01	_	_	_	_	_	_	_	_	_
+5	that	that	IN	_	that	that	IN	4	OBJ	_	A1	_	_	_	_	_	_	_	_
+6	NBC	nbc	NNP	_	NBC	nbc	NNP	20	SBJ	_	_	_	_	A0	_	_	_	_	_
+7	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_	_	_	_	_
+8	like	like	IN	_	like	like	IN	20	MNR	_	_	_	_	AM-MNR	_	_	_	_	_
+9	every	every	DT	_	every	every	DT	13	NMOD	_	_	_	_	_	_	_	_	_	_
+10	other	other	JJ	_	other	other	JJ	13	NMOD	_	_	_	_	_	_	_	_	_	_
+11	responsible	responsible	JJ	_	responsible	responsible	JJ	13	NMOD	_	_	_	_	_	_	_	_	_	_
+12	news	news	NN	_	news	news	NN	13	NMOD	_	_	A1	_	_	_	_	_	_	_
+13	organization	organization	NN	_	organization	organization	NN	8	PMOD	organization.01	_	_	A0	_	_	_	_	_	_
+14	that	that	WDT	_	that	that	WDT	15	SBJ	_	_	_	_	_	_	_	_	_	_
+15	's	's	VBZ	_	's	be	VBZ	13	NMOD	_	_	_	_	_	_	_	_	_	_
+16	covered	covered	VBN	_	covered	cover	VBN	15	VC	cover.01	_	_	_	_	_	_	_	_	_
+17	this	this	DT	_	this	this	DT	18	NMOD	_	_	_	_	_	_	_	_	_	_
+18	story	story	NN	_	story	story	NN	16	OBJ	_	_	_	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_	_	_	_	_
+20	reported	reported	VBD	_	reported	report	VBD	5	SUB	report.01	_	_	_	_	_	_	_	_	_
+21	that	that	IN	_	that	that	IN	20	OBJ	_	_	_	_	A1	_	_	_	_	_
+22	Norma	norma	NNP	_	Norma	norma	NNP	23	NAME	_	_	_	_	_	_	_	_	_	_
+23	Kelsey	kelsey	NNP	_	Kelsey	kelsey	NNP	25	NMOD	_	_	_	_	_	A1	_	_	_	_
+24	's	's	POS	_	's	's	POS	23	SUFFIX	_	_	_	_	_	_	_	_	_	_
+25	father	father	NN	_	father	father	NN	27	NMOD	father.02	_	_	_	_	A0	_	_	_	_
+26	's	's	POS	_	's	's	POS	25	SUFFIX	_	_	_	_	_	_	_	_	_	_
+27	killer	killer	NN	_	killer	killer	NN	28	SBJ	_	_	_	_	_	_	A1	A0	_	_
+28	was	was	VBD	_	was	be	VBD	21	SUB	be.01	_	_	_	_	_	_	_	_	_
+29	pardoned	pardoned	VBN	_	pardoned	pardon	VBN	28	VC	pardon.01	_	_	_	_	_	A2	_	_	_
+30	by	by	IN	_	by	by	IN	29	LGS	_	_	_	_	_	_	_	_	_	_
+31	Gov.	gov.	NNP	_	Gov.	gov.	NNP	33	TITLE	_	_	_	_	_	_	_	_	_	_
+32	Bill	bill	NNP	_	Bill	bill	NNP	33	NAME	_	_	_	_	_	_	_	_	_	_
+33	Clinton	clinton	NNP	_	Clinton	clinton	NNP	30	PMOD	_	_	_	_	_	_	_	A1	_	_
+34	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_	_	_	_
+35	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_	_	_	_	_	_	_
+36	remains	remains	VBZ	_	remains	remain	VBZ	35	CONJ	remain.01	_	_	_	_	_	_	_	_	_
+37	perplexed	perplexed	JJ	_	perplexed	perplexed	JJ	36	PRD	_	_	_	_	_	_	_	_	_	_
+38	that	that	IN	_	that	that	IN	37	AMOD	_	_	_	_	_	_	_	_	_	_
+39	the	the	DT	_	the	the	DT	42	NMOD	_	_	_	_	_	_	_	_	_	_
+40	Journal	journal	NNP	_	Journal	journal	NNP	42	NMOD	_	_	_	_	_	_	_	_	_	A2
+41	editorial	editorial	JJ	_	editorial	editorial	JJ	42	NMOD	_	_	_	_	_	_	_	_	_	_
+42	page	page	NN	_	page	page	NN	43	SBJ	page.02	_	_	_	_	_	_	_	_	A0
+43	wo	wo	MD	_	wo	wo	MD	38	SUB	_	_	_	_	_	_	_	_	_	_
+44	n't	not	RB	_	n't	not	RB	43	ADV	_	_	_	_	_	_	_	_	_	_
+45	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_	_	_
+
+1	Its	its	PRP$	_	Its	its	PRP$	3	NMOD	_	_
+2	Indis	indis	NNP	_	Indis	indis	NNP	3	NAME	_	_
+3	Index	index	NNP	_	Index	index	NNP	4	SBJ	_	A1
+4	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_
+5	today	today	NN	_	today	today	NN	4	TMP	_	AM-TMP
+6	up	up	IN	_	up	up	IN	4	LOC	_	A2
+7	to	to	TO	_	to	to	TO	6	PMOD	_	_
+8	seven	seven	CD	_	seven	seven	CD	7	PMOD	_	_
+9	.	.	.	_	.	.	.	4	P	_	_
+
+1	--	--	:	_	--	--	:	3	P	_
+2	Timothy	timothy	NNP	_	Timothy	timothy	NNP	3	NAME	_
+3	Noah	noah	NNP	_	Noah	noah	NNP	0	ROOT	_
+4	and	and	CC	_	and	and	CC	3	COORD	_
+5	Jodi	jodi	NNP	_	Jodi	jodi	NNP	6	NAME	_
+6	Kantor	kantor	NNP	_	Kantor	kantor	NNP	4	CONJ	_

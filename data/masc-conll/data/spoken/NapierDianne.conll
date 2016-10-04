@@ -1,0 +1,3003 @@
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	_	_	_	_
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_
+3	say	say	VB	_	say	say	VB	2	VC	say.01	_	_	_	_	_
+4	between	between	IN	_	between	between	IN	14	LOC	_	_	_	AM-LOC	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_
+6	ages	ages	NNS	_	ages	age	NNS	4	PMOD	age.01	_	A1	_	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	A2	_	_	_
+8	7	7	CD	_	7	7	CD	10	DEP	_	_	_	_	_	_
+9	to	to	TO	_	to	to	TO	10	DEP	_	_	_	_	_	_
+10	10	10	CD	_	10	10	CD	11	NMOD	_	_	_	_	_	_
+11	years	years	NNS	_	years	years	NNS	12	AMOD	_	_	_	_	_	_
+12	old	old	JJ	_	old	old	JJ	7	PMOD	_	_	_	_	_	_
+13	it	it	PRP	_	it	it	PRP	14	SBJ	_	_	_	A1	A1	_
+14	was	was	VBD	_	was	be	VBD	3	OBJ	be.01	A1	_	_	_	_
+15	a	a	DT	_	a	a	DT	18	NMOD	_	_	_	_	_	_
+16	really	really	RB	_	really	really	RB	17	AMOD	_	_	_	_	_	_
+17	big	big	JJ	_	big	big	JJ	18	NMOD	_	_	_	_	_	_
+18	thing	thing	NN	_	thing	thing	NN	14	PRD	_	_	_	A2	_	_
+19	to	to	TO	_	to	to	TO	14	VC	_	_	_	_	_	_
+20	go	go	VB	_	go	go	VB	19	IM	go.01	_	_	_	_	_
+21	to	to	TO	_	to	to	TO	20	DIR	_	_	_	_	A2	_
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_	_
+23	movie	movie	NN	_	movie	movie	NN	21	PMOD	_	_	_	_	_	_
+24	on	on	IN	_	on	on	IN	20	TMP	_	_	_	_	AM-TMP	_
+25	Saturday	saturday	NNP	_	Saturday	saturday	NNP	26	NMOD	_	_	_	_	_	A1
+26	mornings	mornings	NNS	_	mornings	morning	NNS	24	PMOD	morning.02	_	_	_	_	_
+27	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+28	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	11	DEP	_	_	_	_	_
+2	one	one	CD	_	one	one	CD	5	NMOD	_	_	_	_	_
+3	particular	particular	JJ	_	particular	particular	JJ	5	NMOD	_	_	_	_	_
+4	movie	movie	NN	_	movie	movie	NN	5	NMOD	_	_	_	_	_
+5	theater	theater	NN	_	theater	theater	NN	11	DEP	_	_	_	_	_
+6	we	we	PRP	_	we	we	PRP	7	SBJ	_	A0	_	_	_
+7	went	went	VBD	_	went	go	VBD	5	NMOD	go.03	_	_	_	_
+8	to	to	TO	_	to	to	TO	7	DIR	_	A1	_	_	_
+9	,	,	,	_	,	,	,	11	P	_	_	_	_	_
+10	they	they	PRP	_	they	they	PRP	11	SBJ	_	_	A0	_	_
+11	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_
+12	show	show	VB	_	show	show	VB	11	VC	show.01	_	_	_	_
+13	serials	serials	NNS	_	serials	serial	NNS	12	OBJ	_	_	A1	_	_
+14	every	every	DT	_	every	every	DT	15	NMOD	_	_	_	_	_
+15	Saturday	saturday	NNP	_	Saturday	saturday	NNP	12	TMP	_	_	AM-TMP	_	_
+16	,	,	,	_	,	,	,	12	P	_	_	_	_	_
+17	which	which	WDT	_	which	which	WDT	18	SBJ	_	_	_	A1	_
+18	were	were	VBD	_	were	be	VBD	13	NMOD	be.01	_	_	_	_
+19	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_	_
+20	continued	continued	VBN	_	continued	continue	VBN	21	NMOD	continue.01	_	_	_	_
+21	story	story	NN	_	story	story	NN	18	PRD	_	_	_	A2	A1
+22	.	.	.	_	.	.	.	11	P	_	_	_	_	_
+23	/	/	SU	_	/	/	SU	11	DEP	_	_	_	_	_
+
+1	So	so	CC	_	So	so	CC	8	DEP	_	_	_	_	_	_	_	_
+2	if	if	IN	_	if	if	IN	8	ADV	_	_	_	_	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0	_	_	_	_	_	_
+4	missed	missed	VBD	_	missed	miss	VBD	2	SUB	miss.01	_	_	_	_	_	_	_
+5	one	one	CD	_	one	one	CD	6	NMOD	_	_	_	_	_	_	_	_
+6	Saturday	saturday	NNP	_	Saturday	saturday	NNP	4	OBJ	_	AM-TMP	_	_	_	_	_	_
+7	you	you	PRP	_	you	you	PRP	8	SBJ	_	_	A0	_	_	_	_	_
+8	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_	_	_
+9	miss	miss	VB	_	miss	miss	VB	8	VC	miss.01	_	_	_	_	_	_	_
+10	what	what	WP	_	what	what	WP	11	SBJ	_	_	A1	A0	_	_	_	_
+11	happened	happened	VBD	_	happened	happen	VBD	9	OBJ	happen.03	_	_	_	_	_	_	_
+12	in	in	IN	_	in	in	IN	11	LOC	_	_	_	A1	_	_	_	_
+13	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_	_	_	_
+14	particular	particular	JJ	_	particular	particular	JJ	15	NMOD	_	_	_	_	_	_	_	_
+15	episode	episode	NN	_	episode	episode	NN	12	PMOD	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_	_	_
+17	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_	_	_
+18	you	you	PRP	_	you	you	PRP	22	SBJ	_	_	_	_	A0	_	_	_
+19	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_
+20	um	um	UH	_	um	um	UH	22	DEP	_	_	_	_	_	_	_	_
+21	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_
+22	would	would	MD	_	would	would	MD	17	CONJ	_	_	_	_	_	_	_	_
+23	n't	not	RB	_	n't	not	RB	22	ADV	_	_	_	_	_	_	_	_
+24	know	know	VB	_	know	know	VB	22	VC	know.01	_	_	_	_	_	_	_
+25	what	what	WP	_	what	what	WP	26	SBJ	_	_	_	_	A1	A0	A0	A1
+26	had	had	VBD	_	had	have	VBD	24	OBJ	have.03	_	_	_	_	_	_	_
+27	taken	taken	VBN	_	taken	take	VBN	26	VC	take.01	_	_	_	_	A1	_	SU
+28	place	place	NN	_	place	place	NN	27	OBJ	place.09	_	_	_	_	_	A1	A2
+29	.	.	.	_	.	.	.	22	P	_	_	_	_	_	_	_	_
+30	/	/	SU	_	/	/	SU	22	COORD	_	_	_	_	_	_	_	_
+
+1	So	so	IN	_	So	so	IN	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+4	go	go	VB	_	go	go	VB	3	VC	go.03	_	_
+5	every	every	DT	_	every	every	DT	7	NMOD	_	_	_
+6	Saturday	saturday	NNP	_	Saturday	saturday	NNP	7	NMOD	_	_	A1
+7	morning	morning	NN	_	morning	morning	NN	4	TMP	morning.02	AM-TMP	_
+8	.	.	.	_	.	.	.	3	P	_	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	8	DEP	_	_	_
+2	also	also	RB	_	also	also	RB	8	ADV	_	AM-DIS	_
+3	at	at	IN	_	at	at	IN	8	LOC	_	AM-LOC	_
+4	this	this	DT	_	this	this	DT	5	NMOD	_	_	_
+5	theater	theater	NN	_	theater	theater	NN	3	PMOD	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_
+7	they	they	PRP	_	they	they	PRP	8	SBJ	_	A0	_
+8	gave	gave	VBD	_	gave	give	VBD	0	ROOT	give.01	_	SU
+9	prizes	prizes	NNS	_	prizes	prize	NNS	8	OBJ	prize.01	A1	_
+10	to	to	TO	_	to	to	TO	8	DTV	_	A2	A0
+11	different	different	JJ	_	different	different	JJ	12	NMOD	_	_	_
+12	people	people	NNS	_	people	people	NNS	10	PMOD	_	_	_
+13	.	.	.	_	.	.	.	8	P	_	_	_
+14	/	/	SU	_	/	/	SU	8	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	9	DEP	_	_	_	_	_
+2	one	one	CD	_	one	one	CD	9	SBJ	_	_	A1	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+5	way	way	NN	_	way	way	NN	3	PMOD	_	_	_	_	_
+6	they	they	PRP	_	they	they	PRP	7	SBJ	_	A0	_	_	_
+7	gave	gave	VBD	_	gave	give	VBD	5	NMOD	give.01	_	_	_	_
+8	prizes	prizes	NNS	_	prizes	prize	NNS	7	OBJ	_	A1	_	_	_
+9	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+10	,	,	,	_	,	,	,	9	P	_	_	_	_	_
+11	they	they	PRP	_	they	they	PRP	12	SBJ	_	_	_	A0	_
+12	would	would	MD	_	would	would	MD	9	PRD	_	_	A2	_	_
+13	take	take	VB	_	take	take	VB	12	VC	take.01	_	_	_	_
+14	big	big	JJ	_	big	big	JJ	16	NMOD	_	_	_	_	_
+15	group	group	NN	_	group	group	NN	16	NMOD	_	_	_	_	A0
+16	photos	photos	NNS	_	photos	photo	NNS	13	OBJ	photo.01	_	_	A1	_
+17	and	and	CC	_	and	and	CC	12	COORD	_	_	_	_	_
+18	everybody	everybody	NN	_	everybody	everybody	NN	17	CONJ	_	_	_	_	_
+19	,	,	,	_	,	,	,	9	P	_	_	_	_	_
+20	/-	/-	SU	_	/-	/-	SU	9	DEP	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	there	there	EX	_	there	there	EX	3	SBJ	_	_	_
+3	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+4	stairs	stairs	NNS	_	stairs	stairs	NNS	3	PRD	_	A1	A1
+5	going	going	VBG	_	going	go	VBG	4	APPO	go.01	_	_
+6	up	up	RB	_	up	up	IN	5	DIR	_	_	A2
+7	to	to	TO	_	to	to	TO	6	AMOD	_	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_
+9	balcony	balcony	NN	_	balcony	balcony	NN	7	PMOD	_	_	_
+10	,	,	,	_	,	,	,	4	P	_	_	_
+11	real	real	JJ	_	real	real	JJ	13	NMOD	_	_	_
+12	wide	wide	JJ	_	wide	wide	JJ	13	NMOD	_	_	_
+13	stairs	stairs	NNS	_	stairs	stairs	NNS	4	APPO	_	_	_
+14	.	.	.	_	.	.	.	3	P	_	_	_
+15	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	7	DEP	_	_	_	_	_	_
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_
+3	big	big	JJ	_	big	big	JJ	4	NMOD	_	_	_	A2	_	_
+4	group	group	NN	_	group	group	NN	7	SBJ	group.01	_	SU	_	A0	A1
+5	of	of	IN	_	of	of	IN	4	NMOD	of.SU	A2	_	SU	_	_
+6	people	people	NNS	_	people	people	NNS	5	PMOD	person.01	_	_	A0	_	_
+7	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_
+8	go	go	VB	_	go	go	VB	7	VC	go.05	_	_	_	_	_
+9	stand	stand	VB	_	stand	stand	VB	8	OPRD	stand.02	_	_	_	A1	_
+10	on	on	IN	_	on	on	IN	9	LOC	_	_	_	_	_	A2
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_
+12	stairs	stairs	NNS	_	stairs	stairs	NNS	10	PMOD	_	_	_	_	_	_
+13	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	there	there	EX	_	there	there	EX	3	SBJ	_	A1
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	be	be	VB	_	be	be	VB	3	VC	be.01	_
+5	probably	probably	RB	_	probably	probably	RB	9	NMOD	_	_
+6	30	30	CD	_	30	30	CD	5	COORD	_	_
+7	or	or	CC	_	or	or	CC	6	COORD	_	_
+8	40	40	CD	_	40	40	CD	7	CONJ	_	_
+9	kids	kids	NNS	_	kids	kid	NNS	4	PRD	_	A2
+10	in	in	IN	_	in	in	IN	9	LOC	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_
+12	picture	picture	NN	_	picture	picture	NN	10	PMOD	_	_
+13	.	.	.	_	.	.	.	3	P	_	_
+14	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A0
+3	'd	'd	MD	_	'd	'd	MD	0	ROOT	_	_
+4	take	take	VB	_	take	take	VB	3	VC	take.01	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_
+6	picture	picture	NN	_	picture	picture	NN	4	OBJ	_	A1
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_	_	_	_
+2	then	then	RB	_	then	then	RB	4	TMP	_	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0	_	_	_
+4	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_
+5	go	go	VB	_	go	go	VB	4	VC	go.03	_	_	_	_
+6	back	back	RB	_	back	back	RB	5	DIR	_	A1	_	_	_
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_
+8	next	next	JJ	_	next	next	JJ	9	NMOD	_	_	_	_	_
+9	Saturday	saturday	NNP	_	Saturday	saturday	NNP	5	TMP	_	AM-TMP	_	_	_
+10	after	after	IN	_	after	after	IN	5	TMP	_	_	_	_	_
+11	they	they	PRP	_	they	they	PRP	12	SBJ	_	_	A0	A1	A1
+12	had	had	VBD	_	had	have	VBD	10	SUB	have.03	_	_	_	_
+13	been	been	VBN	_	been	be	VBN	12	VC	be.01	_	A1	_	_
+14	developed	developed	VBN	_	developed	develop	VBN	13	VC	develop.01	_	_	A2	_
+15	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A0	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+4	have	have	VB	_	have	have	VB	3	VC	have.03	_	_
+5	circled	circled	VBN	_	circled	circle	VBN	4	VC	circle.02	A1	_
+6	3	3	CD	_	3	3	CD	9	NMOD	_	_	_
+7	or	or	CC	_	or	or	CC	6	COORD	_	_	_
+8	4	4	CD	_	4	4	CD	7	CONJ	_	_	_
+9	people	people	NNS	_	people	people	NNS	5	OBJ	_	_	A1
+10	in	in	IN	_	in	in	IN	9	LOC	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_
+12	picture	picture	NN	_	picture	picture	NN	10	PMOD	_	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	8	DEP	_	_	_	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_	_
+3	people	people	NNS	_	people	people	NNS	8	SBJ	person.01	A0	_	_	_	A0	A0
+4	whose	whose	WP$	_	whose	whose	WP$	5	NMOD	_	_	A2	_	_	_	_
+5	head	head	NN	_	head	head	NN	6	SBJ	head.01	_	A0	A1	_	_	_
+6	was	was	VBD	_	was	be	VBD	3	NMOD	be.01	_	_	_	_	_	_
+7	circled	circled	VBN	_	circled	circle	VBN	6	VC	circle.02	_	_	A2	_	_	_
+8	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_	_
+9	get	get	VB	_	get	get	VB	8	VC	get.01	SU	SU	_	_	_	SU
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_
+11	prizes	prizes	NNS	_	prizes	prize	NNS	9	OBJ	prize.01	A1	A1	_	_	A1	_
+12	.	.	.	_	.	.	.	8	P	_	_	_	_	_	_	_
+13	/	/	SU	_	/	/	SU	8	DEP	_	_	_	_	_	_	_
+
+1	Is	is	VBZ	_	Is	be	VBZ	0	ROOT	_
+2	that	that	DT	_	that	that	DT	1	SBJ	_
+3	for	for	IN	_	for	for	IN	1	PRD	_
+4	real	real	JJ	_	real	real	JJ	3	PMOD	_
+5	?	?	.	_	?	?	.	1	P	_
+6	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	That	that	DT	_	That	that	DT	2	SBJ	_
+2	's	's	VBZ	_	's	be	VBZ	0	ROOT	_
+3	for	for	IN	_	for	for	IN	2	PRD	_
+4	real	real	JJ	_	real	real	JJ	3	PMOD	_
+5	!	!	.	_	!	!	.	2	P	_
+6	/	/	SU	_	/	/	SU	2	DEP	_
+
+1	That	that	DT	_	That	that	DT	3	SBJ	_	A1
+2	really	really	RB	_	really	really	RB	3	ADV	_	AM-ADV
+3	happened	happened	VBD	_	happened	happen	VBD	0	ROOT	happen.01	_
+4	!	!	.	_	!	!	.	3	P	_	_
+5	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	9	DEP	_	_	_	_	_
+2	one	one	CD	_	one	one	CD	3	NMOD	_	_	_	_	_
+3	time	time	NN	_	time	time	NN	9	DEP	time.08	_	A1	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	_	A0	_	_
+5	can	can	MD	_	can	can	MD	3	NMOD	_	_	_	_	_
+6	remember	remember	VB	_	remember	remember	VB	5	VC	remember.01	_	_	_	_
+7	,	,	,	_	,	,	,	9	P	_	_	_	_	_
+8	I	i	PRP	_	I	i	PRP	9	SBJ	_	A0	_	A0	_
+9	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	SU	_	_	_
+10	it	it	PRP	_	it	it	PRP	11	SBJ	_	_	_	_	A1
+11	was	was	VBD	_	was	be	VBD	9	OBJ	be.01	_	_	A1	_
+12	Steve	steve	NNP	_	Steve	steve	NNP	11	PRD	_	_	_	_	_
+13	,	,	,	_	,	,	,	12	P	_	_	_	_	_
+14	my	my	PRP$	_	my	my	PRP$	15	NMOD	_	_	_	_	_
+15	brother	brother	NN	_	brother	brother	NN	12	APPO	_	_	_	_	_
+16	,	,	,	_	,	,	,	11	P	_	_	_	_	_
+17	um	um	UH	_	um	um	UH	11	DEP	_	_	_	_	A2
+18	,	,	,	_	,	,	,	9	P	_	_	_	_	_
+19	/	/	SU	_	/	/	SU	9	DEP	_	_	_	_	_
+
+1	he	he	PRP	_	he	he	PRP	0	ROOT	_
+2	,	,	,	_	,	,	,	1	P	_
+3	/-	/-	SU	_	/-	/-	SU	1	DEP	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	give	give	VB	_	give	give	VB	3	VC	give.01	_
+5	treats	treats	NNS	_	treats	treat	NNS	4	OBJ	_	A1
+6	like	like	IN	_	like	like	IN	5	NMOD	_	_
+7	candy	candy	NN	_	candy	candy	NN	6	PMOD	_	_
+8	,	,	,	_	,	,	,	3	P	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0	_	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_	_	_
+4	even	even	RB	_	even	even	RB	2	ADV	_	_	_	_	_
+5	remember	remember	VB	_	remember	remember	VB	2	VC	remember.01	A1	_	_	_
+6	what	what	WDT	_	what	what	WDT	8	NMOD	_	_	_	_	_
+7	all	all	DT	_	all	all	DT	8	NMOD	_	_	_	_	_
+8	kinds	kinds	NNS	_	kinds	kind	NNS	13	OBJ	kind.02	_	_	_	A1
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	_	A1	_
+10	prizes	prizes	NNS	_	prizes	prize	NNS	9	PMOD	_	_	_	_	_
+11	they	they	PRP	_	they	they	PRP	12	SBJ	_	_	_	_	A0
+12	would	would	MD	_	would	would	MD	5	OBJ	_	_	_	_	_
+13	give	give	VB	_	give	give	VB	12	VC	give.01	_	_	_	_
+14	.	.	.	_	.	.	.	2	P	_	_	_	_	_
+15	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	15	DEP	_	_	_	_	_
+2	for	for	IN	_	for	for	IN	15	PRP	_	_	_	_	_
+3	some	some	DT	_	some	some	DT	4	NMOD	_	_	_	_	_
+4	reason	reason	NN	_	reason	reason	NN	2	PMOD	_	_	_	_	_
+5	,	,	,	_	,	,	,	15	P	_	_	_	_	_
+6	and	and	CC	_	and	and	CC	8	DEP	_	_	_	AM-ADV	_
+7	I	i	PRP	_	I	i	PRP	8	SBJ	_	A0	_	_	_
+8	think	think	VBP	_	think	think	VBP	15	PRN	think.01	_	_	_	_
+9	this	this	DT	_	this	this	DT	10	SBJ	_	_	A1	_	_
+10	is	is	VBZ	_	is	be	VBZ	8	OBJ	be.01	A1	_	_	_
+11	really	really	RB	_	really	really	RB	12	AMOD	_	_	_	_	_
+12	true	true	JJ	_	true	true	JJ	10	PRD	_	_	A2	_	_
+13	,	,	,	_	,	,	,	15	P	_	_	_	_	_
+14	he	he	PRP	_	he	he	PRP	15	SBJ	_	_	_	A0	_
+15	got	got	VBD	_	got	get	VBD	0	ROOT	get.01	_	_	_	_
+16	ice	ice	NN	_	ice	ice	NN	17	NMOD	_	_	_	_	_
+17	cream	cream	NN	_	cream	cream	NN	18	NMOD	_	_	_	_	A1
+18	sandwiches	sandwiches	NNS	_	sandwiches	sandwich	NNS	15	OBJ	sandwich.01	_	_	A1	_
+19	!	!	.	_	!	!	.	15	P	_	_	_	_	_
+20	/	/	SU	_	/	/	SU	15	DEP	_	_	_	_	_
+
+1	Like	like	UH	_	Like	like	UH	3	DEP	_	_	_
+2	a	a	DT	_	a	a	DT	3	NMOD	_	_	_
+3	box	box	NN	_	box	box	NN	0	ROOT	box.01	_	_
+4	of	of	IN	_	of	of	IN	3	NMOD	_	A1	_
+5	ice	ice	NN	_	ice	ice	NN	6	NMOD	_	_	_
+6	cream	cream	NN	_	cream	cream	NN	7	NMOD	_	_	A1
+7	sandwiches	sandwiches	NNS	_	sandwiches	sandwich	NNS	4	PMOD	sandwich.01	_	_
+8	.	.	.	_	.	.	.	3	P	_	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	5	DEP	_	_	_	_
+2	of	of	IN	_	of	of	IN	5	ADV	_	_	_	_
+3	course	course	NN	_	course	course	NN	2	PMOD	_	_	_	_
+4	there	there	EX	_	there	there	EX	5	SBJ	_	_	_	_
+5	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_	_
+6	nothing	nothing	NN	_	nothing	nothing	NN	5	PRD	_	A0	_	_
+7	to	to	TO	_	to	to	TO	6	NMOD	_	_	_	_
+8	do	do	VB	_	do	do	VB	7	IM	do.02	_	_	_
+9	with	with	IN	_	with	with	IN	8	ADV	_	A3	_	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_
+11	box	box	NN	_	box	box	NN	9	PMOD	box.01	_	_	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	A1	_
+13	ice	ice	NN	_	ice	ice	NN	14	NMOD	_	_	_	_
+14	cream	cream	NN	_	cream	cream	NN	15	NMOD	_	_	_	A1
+15	sandwiches	sandwiches	NNS	_	sandwiches	sandwich	NNS	12	PMOD	sandwich.01	_	_	_
+16	when	when	WRB	_	when	when	WRB	18	TMP	_	_	_	_
+17	you	you	PRP	_	you	you	PRP	18	SBJ	_	_	_	_
+18	're	're	VBP	_	're	're	VBP	5	TMP	_	_	_	_
+19	at	at	IN	_	at	at	IN	18	LOC-PRD	_	_	_	_
+20	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_
+21	2	2	CD	_	2	2	CD	23	NMOD	_	_	_	_
+22	-	-	HYPH	_	-	-	HYPH	23	NMOD	_	_	_	_
+23	hour	hour	NN	_	hour	hour	NN	24	NMOD	_	_	_	_
+24	movie	movie	NN	_	movie	movie	NN	19	PMOD	_	_	_	_
+25	!	!	.	_	!	!	.	5	P	_	_	_	_
+26	/	/	SU	_	/	/	SU	5	DEP	_	_	_	_
+
+1	They	they	PRP	_	They	they	PRP	2	SBJ	_	A0	A0
+2	're	're	VBP	_	're	're	VBP	0	ROOT	_	_	_
+3	going	going	VBG	_	going	go	VBG	2	VC	go.05	_	_
+4	to	to	TO	_	to	to	TO	3	VC	_	A1	_
+5	melt	melt	VB	_	melt	melt	VB	4	IM	melt.01	_	_
+6	!	!	.	_	!	!	.	2	P	_	_	_
+7	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	2	DEP	_
+2	another	another	DT	_	another	another	DT	0	ROOT	_
+3	,	,	,	_	,	,	,	2	P	_
+4	um	um	UH	_	um	um	UH	2	SUB	_
+5	,	,	,	_	,	,	,	2	P	_
+6	/-	/-	SU	_	/-	/-	SU	2	SUB	_
+
+1	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	8	DEP	_	_	_
+2	that	that	DT	_	that	that	DT	3	SBJ	_	A1	_
+3	was	was	VBD	_	was	be	VBD	1	DEP	be.01	_	_
+4	in	in	IN	_	in	in	IN	3	LOC-PRD	_	A2	_
+5	,	,	,	_	,	,	,	1	P	_	_	_
+6	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	1	DEP	_	_	_
+7	that	that	DT	_	that	that	DT	8	SBJ	_	_	A1
+8	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+9	in	in	IN	_	in	in	IN	8	LOC-PRD	_	_	A2
+10	High	high	NNP	_	High	high	NNP	11	NAME	_	_	_
+11	Point	point	NNP	_	Point	point	NNP	13	NMOD	_	_	_
+12	,	,	,	_	,	,	,	13	P	_	_	_
+13	NC.	nc.	NNP	_	NC.	nc.	NNP	9	PMOD	_	_	_
+14	/	/	SU	_	/	/	SU	8	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	4	DEP	_	_
+2	then	then	RB	_	then	then	RB	4	TMP	_	AM-TMP
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0
+4	moved	moved	VBD	_	moved	move	VBD	0	ROOT	move.04	_
+5	to	to	TO	_	to	to	TO	4	DIR	_	A1
+6	Charlotte	charlotte	NNP	_	Charlotte	charlotte	NNP	5	PMOD	_	_
+7	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	_	_	_	_	_
+3	used	used	VBD	_	used	use	VBD	0	ROOT	use.01	_	_	_	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	_	_	_	_	_	_	_
+5	go	go	VB	_	go	go	VB	4	IM	go.03	_	_	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	DIR	_	_	A1	_	_	_	_	_
+7	--	--	:	_	--	--	:	6	P	_	_	_	_	_	_	_	_
+8	and	and	CC	_	and	and	CC	10	DEP	_	_	_	AM-DIS	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	_	A0	A0	_	_	_
+10	do	do	VBP	_	do	do	VBP	6	PRN	do.02	_	_	_	_	_	_	_
+11	n't	not	RB	_	n't	not	RB	10	ADV	_	_	_	_	_	_	_	_
+12	think	think	VB	_	think	think	VB	10	VC	think.01	_	_	A1	_	_	_	_
+13	it	it	PRP	_	it	it	PRP	14	SBJ	_	_	_	_	_	_	_	_
+14	's	's	VBZ	_	's	be	VBZ	12	OBJ	_	_	_	_	A1	_	_	_
+15	even	even	RB	_	even	even	RB	14	ADV	_	_	_	_	_	_	_	_
+16	still	still	RB	_	still	still	RB	14	TMP	_	_	_	_	_	_	_	_
+17	there	there	RB	_	there	there	RB	14	LOC-PRD	_	_	_	_	_	_	_	_
+18	I	i	PRP	_	I	i	PRP	19	SBJ	_	_	_	_	_	A0	A0	_
+19	do	do	VBP	_	do	do	VBP	10	DEP	do.02	_	_	_	_	_	_	_
+20	n't	not	RB	_	n't	not	RB	19	ADV	_	_	_	_	_	_	_	_
+21	know	know	VB	_	know	know	VB	19	VC	know.01	_	_	_	_	A1	_	_
+22	if	if	IN	_	if	if	IN	21	OBJ	_	_	_	_	_	_	A1	_
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_	_
+24	building	building	NN	_	building	building	NN	25	SBJ	_	_	_	_	_	_	_	A1
+25	is	is	VBZ	_	is	be	VBZ	22	COORD	be.01	_	_	_	_	_	_	_
+26	or	or	CC	_	or	or	CC	25	COORD	_	_	_	_	_	_	_	_
+27	not	not	RB	_	not	not	RB	26	CONJ	_	_	_	_	_	_	_	_
+28	--	--	:	_	--	--	:	6	P	_	_	_	_	_	_	_	_
+29	but	but	CC	_	but	but	CC	6	COORD	_	_	_	_	_	_	_	_
+30	the	the	DT	_	the	the	DT	32	NMOD	_	_	_	_	_	_	_	_
+31	Dilworth	dilworth	NNP	_	Dilworth	dilworth	NNP	32	NAME	_	_	_	_	_	_	_	_
+32	Theatre	theatre	NNP	_	Theatre	theatre	NNP	29	CONJ	_	_	_	_	_	_	_	_
+33	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_
+34	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	_
+2	lived	lived	VBD	_	lived	live	VBD	0	ROOT	live.02	_	_
+3	in	in	IN	_	in	in	IN	2	LOC	_	A1	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+5	Dilworth	dilworth	NNP	_	Dilworth	dilworth	NNP	6	NMOD	_	_	A1
+6	area	area	NN	_	area	area	NN	3	PMOD	area.04	_	_
+7	,	,	,	_	,	,	,	2	P	_	_	_
+8	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	go	go	VB	_	go	go	VB	3	VC	go.03	_
+5	to	to	TO	_	to	to	TO	4	DIR	_	A1
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_
+7	Dilworth	dilworth	NNP	_	Dilworth	dilworth	NNP	8	NAME	_	_
+8	Theatre	theatre	NNP	_	Theatre	theatre	NNP	5	PMOD	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	A0	_	_	_
+3	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_	_
+4	remember	remember	VB	_	remember	remember	VB	3	VC	remember.01	A1	_	_	_	_
+5	that	that	IN	_	that	that	IN	4	OBJ	_	_	A1	_	_	_
+6	it	it	PRP	_	it	it	PRP	7	SBJ	_	_	_	A1	_	_
+7	cost	cost	VBD	_	cost	cost	VBD	5	SUB	cost.01	_	_	_	_	_
+8	9	9	CD	_	9	9	CD	9	NMOD	_	_	_	_	_	_
+9	cents	cents	NNS	_	cents	cent	NNS	7	OBJ	_	_	_	A2	_	_
+10	to	to	TO	_	to	to	TO	7	EXTR	_	_	_	_	_	_
+11	get	get	VB	_	get	get	VB	10	IM	get.01	_	_	_	_	_
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_
+13	ticket	ticket	NN	_	ticket	ticket	NN	11	OBJ	_	_	_	_	A1	_
+14	to	to	TO	_	to	to	TO	11	PRP	_	_	_	_	_	_
+15	get	get	VB	_	get	get	VB	14	IM	get.01	_	_	_	_	_
+16	in	in	RB	_	in	in	RB	15	ADV	_	_	_	_	_	A1
+17	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+18	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	7	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	7	SBJ	_	A0
+3	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	7	DEP	_	_
+4	would	would	MD	_	would	would	MD	3	DEP	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	DEP	_	_
+6	,	,	,	_	,	,	,	7	P	_	_
+7	could	could	MD	_	could	could	MD	0	ROOT	_	_
+8	go	go	VB	_	go	go	VB	7	VC	go.03	_
+9	to	to	TO	_	to	to	TO	8	DIR	_	A1
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_
+11	movie	movie	NN	_	movie	movie	NN	9	PMOD	_	_
+12	.	.	.	_	.	.	.	7	P	_	_
+13	/	/	SU	_	/	/	SU	7	DEP	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	A0
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+3	get	get	VB	_	get	get	VB	2	VC	get.01	_	_
+4	maybe	maybe	RB	_	maybe	maybe	RB	6	NMOD	_	_	_
+5	15	15	CD	_	15	15	CD	4	AMOD	_	_	_
+6	cents	cents	NNS	_	cents	cent	NNS	3	OBJ	_	A1	_
+7	each	each	DT	_	each	each	DT	3	DEP	_	A3	_
+8	to	to	TO	_	to	to	TO	3	PRP	_	_	_
+9	go	go	VB	_	go	go	VB	8	IM	go.03	_	_
+10	to	to	TO	_	to	to	TO	9	DIR	_	_	A1
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_
+12	movie	movie	NN	_	movie	movie	NN	10	PMOD	_	_	_
+13	,	,	,	_	,	,	,	2	P	_	_	_
+14	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_
+3	sound	sound	VBP	_	sound	sound	VBP	0	ROOT	sound.02	_	_
+4	like	like	IN	_	like	like	IN	3	OBJ	_	A1	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	_	_
+6	'm	'm	VBP	_	'm	'm	VBP	4	SUB	_	_	_
+7	95	95	CD	_	95	95	CD	8	NMOD	_	_	_
+8	years	years	NNS	_	years	years	NNS	9	AMOD	_	_	_
+9	old	old	JJ	_	old	old	JJ	6	PRD	_	_	_
+10	--	--	:	_	--	--	:	3	P	_	_	_
+11	with	with	IN	_	with	with	IN	3	ADV	_	AM-MNR	_
+12	those	those	DT	_	those	those	DT	13	NMOD	_	_	_
+13	kinds	kinds	NNS	_	kinds	kind	NNS	11	PMOD	kind.02	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	A1
+15	prices	prices	NNS	_	prices	price	NNS	14	PMOD	_	_	_
+16	.	.	.	_	.	.	.	3	P	_	_	_
+17	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	0	ROOT	_	_
+2	,	,	,	_	,	,	,	1	P	_	_
+3	but	but	CC	_	but	but	CC	1	COORD	_	_
+4	we	we	PRP	_	we	we	PRP	1	SBJ	_	_
+5	would	would	MD	_	would	would	MD	3	CONJ	_	_
+6	go	go	VB	_	go	go	VB	5	VC	go.01	_
+7	to	to	TO	_	to	to	TO	6	DIR	_	A1
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_
+9	movie	movie	NN	_	movie	movie	NN	7	PMOD	_	_
+10	/	/	SU	_	/	/	SU	5	COORD	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_	_	_
+2	then	then	RB	_	then	then	RB	4	TMP	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0	A0	_
+4	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_
+5	go	go	VB	_	go	go	VB	4	VC	go.03	_	_	_
+6	in	in	RB	_	in	in	RB	5	DIR	_	A1	_	_
+7	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_
+8	get	get	VB	_	get	get	VB	7	CONJ	get.01	_	_	_
+9	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	8	DEP	_	_	_	_
+10	your	your	PRP$	_	your	your	PRP$	9	DEP	_	_	A2	_
+11	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	9	DEP	_	_	_	_
+12	,	,	,	_	,	,	,	8	P	_	_	_	_
+13	your	your	PRP$	_	your	your	PRP$	14	NMOD	_	_	_	_
+14	snack	snack	NN	_	snack	snack	NN	8	OBJ	_	_	A1	A1
+15	that	that	WDT	_	that	that	WDT	17	OBJ	_	_	_	_
+16	you	you	PRP	_	you	you	PRP	17	SBJ	_	_	_	A0
+17	wanted	wanted	VBD	_	wanted	want	VBD	14	NMOD	want.01	_	_	_
+18	.	.	.	_	.	.	.	4	P	_	_	_	_
+19	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	there	there	EX	_	there	there	EX	3	SBJ	_	_
+3	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_
+4	several	several	JJ	_	several	several	DT	6	NMOD	_	_
+5	different	different	JJ	_	different	different	JJ	6	NMOD	_	_
+6	choices	choices	NNS	_	choices	choice	NNS	3	PRD	_	A1
+7	.	.	.	_	.	.	.	3	P	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0	A0	_	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_	_	_	_
+4	ever	ever	RB	_	ever	ever	RB	2	TMP	_	AM-TMP	_	_	_	_
+5	remember	remember	VB	_	remember	remember	VB	2	VC	remember.01	A1	_	_	_	_
+6	getting	getting	VBG	_	getting	get	VBG	5	OPRD	get.01	_	A1	_	_	_
+7	popcorn	popcorn	NN	_	popcorn	popcorn	NN	6	OBJ	_	_	_	A1	_	_
+8	at	at	IN	_	at	at	IN	6	LOC	_	_	_	AM-LOC	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_
+10	movie	movie	NN	_	movie	movie	NN	8	PMOD	_	_	_	_	_	_
+11	until	until	IN	_	until	until	IN	5	TMP	_	AM-TMP	_	_	_	_
+12	I	i	PRP	_	I	i	PRP	13	SBJ	_	_	_	_	A1	_
+13	was	was	VBD	_	was	be	VBD	11	SUB	be.01	_	_	_	_	_
+14	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_	_
+15	teenager	teenager	NN	_	teenager	teenager	NN	13	PRD	_	_	_	_	A2	_
+16	or	or	CC	_	or	or	CC	15	COORD	_	_	_	_	_	_
+17	in	in	IN	_	in	in	IN	16	CONJ	_	_	_	_	_	_
+18	my	my	PRP$	_	my	my	PRP$	20	NMOD	_	_	_	_	_	A1
+19	adult	adult	NN	_	adult	adult	NN	20	NMOD	_	_	_	_	_	_
+20	life	life	NN	_	life	life	NN	17	PMOD	life.02	_	_	_	_	A2
+21	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+22	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	,	,	,	_	,	,	,	3	P	_	_
+5	uh	uh	UH	_	uh	uh	UH	3	DEP	_	_
+6	,	,	,	_	,	,	,	3	P	_	_
+7	buy	buy	VB	_	buy	buy	VB	3	VC	buy.01	_
+8	,	,	,	_	,	,	,	3	P	_	_
+9	/-	/-	SU	_	/-	/-	SU	3	DEP	_	_
+
+1	lollipops	lollipops	NNS	_	lollipops	lollipop	NNS	2	SBJ	_	A1	_
+2	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+3	what	what	WP	_	what	what	WP	5	OBJ	_	A2	A2
+4	they	they	PRP	_	they	they	PRP	5	SBJ	_	_	A0
+5	call	call	VBP	_	call	call	VBP	2	PRD	call.01	_	_
+6	them	them	PRP	_	them	them	PRP	5	OBJ	_	_	A1
+7	now	now	RB	_	now	now	RB	3	TMP	_	_	_
+8	,	,	,	_	,	,	,	2	P	_	_	_
+9	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	called	called	VBD	_	called	call	VBD	0	ROOT	call.01	_
+4	them	them	PRP	_	them	them	PRP	3	OBJ	_	A1
+5	suckers	suckers	NNS	_	suckers	sucker	NNS	3	OPRD	_	A2
+6	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	get	get	VB	_	get	get	VB	3	VC	get.01	_
+5	often	often	RB	_	often	often	RB	4	TMP	_	AM-TMP
+6	a	a	DT	_	a	a	DT	10	NMOD	_	_
+7	2	2	CD	_	2	2	CD	9	NMOD	_	_
+8	-	-	HYPH	_	-	-	HYPH	9	NMOD	_	_
+9	cent	cent	NN	_	cent	cent	NN	10	NMOD	_	_
+10	sucker	sucker	NN	_	sucker	sucker	NN	4	OBJ	_	A1
+11	.	.	.	_	.	.	.	3	P	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	Are	are	VBP	_	Are	be	VBP	0	ROOT	_	_	_
+2	you	you	PRP	_	you	you	PRP	1	SBJ	_	A0	A0
+3	making	making	VBG	_	making	make	VBG	1	VC	make.01	_	SU
+4	fun	fun	NN	_	fun	fun	NN	3	OBJ	fun.01	A1	_
+5	?	?	.	_	?	?	.	1	P	_	_	_
+6	/	/	SU	_	/	/	SU	1	DEP	_	_	_
+
+1	No	no	UH	_	No	no	UH	4	DEP	_	_	_
+2	,	,	,	_	,	,	,	4	P	_	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	A0
+4	love	love	VBP	_	love	love	VBP	0	ROOT	love.01	_	SU
+5	this	this	DT	_	this	this	DT	6	NMOD	_	_	_
+6	story	story	NN	_	story	story	NN	4	OBJ	story.01	A1	_
+7	.	.	.	_	.	.	.	4	P	_	_	_
+8	/	/	SU	_	/	/	SU	4	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	7	DEP	_	_	_	_
+2	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_
+3	2	2	CD	_	2	2	CD	5	NMOD	_	_	_	_
+4	-	-	HYPH	_	-	-	HYPH	5	NMOD	_	_	_	_
+5	cent	cent	NN	_	cent	cent	NN	6	NMOD	_	_	_	_
+6	suckers	suckers	NNS	_	suckers	sucker	NNS	7	SBJ	_	A1	_	_
+7	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_
+8	what	what	WP	_	what	what	WP	9	SBJ	_	A2	A1	A0
+9	is	is	VBZ	_	is	be	VBZ	7	PRD	be.01	_	_	_
+10	referred	referred	VBN	_	referred	refer	VBN	9	VC	refer.01	_	A2	_
+11	to	to	TO	_	to	to	TO	10	ADV	_	_	_	A1
+12	now	now	RB	_	now	now	RB	10	TMP	_	_	_	AM-TMP
+13	as	as	IN	_	as	as	IN	10	ADV	_	_	_	_
+14	a	a	DT	_	a	a	DT	17	NMOD	_	_	_	_
+15	Tootsie	tootsie	NNP	_	Tootsie	tootsie	NNP	16	NAME	_	_	_	_
+16	Roll	roll	NNP	_	Roll	roll	NNP	17	NMOD	_	_	_	_
+17	Pop	pop	NNP	_	Pop	pop	NNP	13	PMOD	_	_	_	A2
+18	.	.	.	_	.	.	.	7	P	_	_	_	_
+19	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_
+3	called	called	VBD	_	called	call	VBD	0	ROOT	call.01	_	_
+4	them	them	PRP	_	them	them	PRP	3	OBJ	_	A1	_
+5	2	2	CD	_	2	2	CD	7	NMOD	_	_	_
+6	-	-	HYPH	_	-	-	HYPH	7	NMOD	_	_	_
+7	cent	cent	NN	_	cent	cent	NN	8	NMOD	_	_	_
+8	suckers	suckers	NNS	_	suckers	sucker	NNS	3	OPRD	_	A2	_
+9	because	because	IN	_	because	because	IN	3	PRP	_	_	_
+10	every	every	DT	_	every	every	DT	12	NMOD	_	_	_
+11	other	other	JJ	_	other	other	JJ	12	NMOD	_	_	_
+12	sucker	sucker	NN	_	sucker	sucker	NN	13	SBJ	_	_	A1
+13	cost	cost	VBD	_	cost	cost	VBD	9	SUB	cost.01	_	_
+14	a	a	DT	_	a	a	DT	15	NMOD	_	_	_
+15	penny	penny	NN	_	penny	penny	NN	13	OBJ	_	_	A2
+16	.	.	.	_	.	.	.	3	P	_	_	_
+17	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	Except	except	IN	_	Except	except	IN	0	ROOT	_	_	_
+2	these	these	DT	_	these	these	DT	3	SBJ	_	A1	_
+3	were	were	VBD	_	were	be	VBD	1	SUB	be.01	_	_
+4	2	2	CD	_	2	2	CD	5	NMOD	_	_	_
+5	cents	cents	NNS	_	cents	cent	NNS	3	PRD	_	A2	_
+6	because	because	IN	_	because	because	IN	3	PRP	_	_	_
+7	they	they	PRP	_	they	they	PRP	8	SBJ	_	_	A0
+8	had	had	VBD	_	had	have	VBD	6	SUB	have.03	_	_
+9	the	the	DT	_	the	the	DT	11	NMOD	_	_	_
+10	Tootsie	tootsie	NNP	_	Tootsie	tootsie	NNP	11	NAME	_	_	_
+11	Roll	roll	NNP	_	Roll	roll	NNP	8	OBJ	_	_	A1
+12	in	in	IN	_	in	in	IN	11	LOC	_	_	_
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_
+14	middle	middle	NN	_	middle	middle	NN	12	PMOD	_	_	_
+15	.	.	.	_	.	.	.	1	P	_	_	_
+16	/	/	SU	_	/	/	SU	1	SUB	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_
+2	there	there	EX	_	there	there	EX	3	SBJ	_	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+4	one	one	CD	_	one	one	CD	6	NMOD	_	_	_
+5	other	other	JJ	_	other	other	JJ	6	NMOD	_	_	_
+6	sucker	sucker	NN	_	sucker	sucker	NN	3	PRD	_	A1	A1
+7	that	that	WDT	_	that	that	WDT	8	SBJ	_	_	_
+8	cost	cost	VBD	_	cost	cost	VBD	6	NMOD	cost.01	_	_
+9	a	a	DT	_	a	a	DT	10	NMOD	_	_	_
+10	nickel	nickel	NN	_	nickel	nickel	NN	8	OBJ	_	_	A2
+11	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_	_
+3	called	called	VBD	_	called	call	VBD	0	ROOT	call.01	_	_	_
+4	that	that	DT	_	that	that	DT	3	OBJ	_	A1	_	_
+5	an	an	DT	_	an	an	DT	8	NMOD	_	_	_	_
+6	all	all	DT	_	all	all	DT	7	NMOD	_	_	_	_
+7	day	day	NN	_	day	day	NN	8	NMOD	_	_	_	_
+8	sucker	sucker	NN	_	sucker	sucker	NN	3	OPRD	_	A2	_	_
+9	,	,	,	_	,	,	,	3	P	_	_	_	_
+10	just	just	RB	_	just	just	RB	11	ADV	_	_	_	_
+11	because	because	IN	_	because	because	IN	3	PRP	_	_	_	_
+12	you	you	PRP	_	you	you	PRP	13	SBJ	_	_	A0	_
+13	could	could	MD	_	could	could	MD	11	SUB	_	_	_	_
+14	n't	not	RB	_	n't	not	RB	13	ADV	_	_	_	_
+15	eat	eat	VB	_	eat	eat	VB	13	VC	eat.01	_	_	_
+16	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_
+17	whole	whole	JJ	_	whole	whole	JJ	18	NMOD	_	_	_	_
+18	thing	thing	NN	_	thing	thing	NN	15	OBJ	_	_	A1	_
+19	for	for	IN	_	for	for	IN	15	TMP	_	_	AM-TMP	_
+20	the	the	DT	_	the	the	DT	22	NMOD	_	_	_	_
+21	entire	entire	JJ	_	entire	entire	JJ	22	NMOD	_	_	_	_
+22	movie	movie	NN	_	movie	movie	NN	19	PMOD	_	_	_	_
+23	and	and	CC	_	and	and	CC	13	COORD	_	_	_	_
+24	you	you	PRP	_	you	you	PRP	25	SBJ	_	_	_	A0
+25	would	would	MD	_	would	would	MD	23	CONJ	_	_	_	_
+26	really	really	RB	_	really	really	RB	25	ADV	_	_	_	_
+27	just	just	RB	_	just	just	RB	25	ADV	_	_	_	_
+28	have	have	VB	_	have	have	VB	25	VC	have.04	_	_	_
+29	that	that	DT	_	that	that	DT	30	NMOD	_	_	_	_
+30	sucker	sucker	NN	_	sucker	sucker	NN	28	OBJ	_	_	_	A1
+31	all	all	DT	_	all	all	DT	32	NMOD	_	_	_	_
+32	day	day	NN	_	day	day	NN	33	AMOD	_	_	_	_
+33	long	long	RB	_	long	long	RB	28	TMP	_	_	_	AM-TMP
+34	.	.	.	_	.	.	.	3	P	_	_	_	_
+35	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	4	DEP	_	_	_	_	_	_	_
+2	one	one	CD	_	one	one	CD	4	NMOD	_	_	_	_	_	_	_
+3	other	other	JJ	_	other	other	JJ	4	NMOD	_	_	_	_	_	_	_
+4	form	form	NN	_	form	form	NN	0	ROOT	form.01	_	A1	A0	_	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A1	_	_	_	_	_
+6	refreshment	refreshment	NN	_	refreshment	refreshment	NN	5	PMOD	_	_	_	_	_	_	_
+7	that	that	WDT	_	that	that	WDT	9	OBJ	_	_	_	_	_	_	_
+8	we	we	PRP	_	we	we	PRP	9	SBJ	_	_	A0	_	_	_	_
+9	got	got	VBD	_	got	get	VBD	4	NMOD	get.01	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_
+11	which	which	WDT	_	which	which	WDT	13	SBJ	_	_	_	_	_	_	_
+12	really	really	RB	_	really	really	RB	13	TMP	_	_	_	AM-TMP	_	_	_
+13	embarrassed	embarrassed	VBD	_	embarrassed	embarrass	VBD	4	NMOD	embarrass.01	_	_	_	_	_	_
+14	my	my	PRP$	_	my	my	PRP$	15	NMOD	_	_	_	_	_	_	_
+15	mother	mother	NN	_	mother	mother	NN	13	OBJ	_	_	_	A1	_	_	_
+16	because	because	IN	_	because	because	IN	13	PRP	_	_	_	_	_	_	_
+17	she	she	PRP	_	she	she	PRP	18	SBJ	_	_	_	_	A0	A0	_
+18	did	did	VBD	_	did	do	VBD	16	SUB	do.02	_	_	_	_	_	_
+19	n't	not	RB	_	n't	not	RB	18	ADV	_	_	_	_	_	_	_
+20	know	know	VB	_	know	know	VB	18	VC	know.01	_	_	_	A1	_	_
+21	anything	anything	NN	_	anything	anything	NN	20	OBJ	_	_	_	_	_	A1	_
+22	about	about	IN	_	about	about	IN	21	NMOD	_	_	_	_	_	_	_
+23	this	this	DT	_	this	this	DT	22	PMOD	_	_	_	_	_	_	_
+24	until	until	IN	_	until	until	IN	20	TMP	_	_	_	_	AM-TMP	_	_
+25	she	she	PRP	_	she	she	PRP	26	SBJ	_	_	_	_	_	_	A0
+26	went	went	VBD	_	went	go	VBD	24	SUB	go.06	_	_	_	_	_	_
+27	with	with	IN	_	with	with	IN	26	ADV	_	_	_	_	_	_	A1
+28	us	us	PRP	_	us	us	PRP	27	PMOD	_	_	_	_	_	_	_
+29	to	to	TO	_	to	to	TO	26	DIR	_	_	_	_	_	_	A2
+30	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_	_	_	_
+31	movie	movie	NN	_	movie	movie	NN	29	PMOD	_	_	_	_	_	_	_
+32	one	one	CD	_	one	one	CD	33	NMOD	_	_	_	_	_	_	_
+33	Saturday	saturday	NNP	_	Saturday	saturday	NNP	26	TMP	_	_	_	_	_	_	AM-TMP
+34	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_
+35	/-	/-	SU	_	/-	/-	SU	4	DEP	_	_	_	_	_	_	_
+
+1	there	there	EX	_	there	there	EX	2	SBJ	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+3	a	a	DT	_	a	a	DT	4	NMOD	_	_
+4	bakery	bakery	NN	_	bakery	bakery	NN	2	PRD	_	A1
+5	next	next	JJ	_	next	next	JJ	6	NMOD	_	_
+6	door	door	NN	_	door	door	NN	4	LOC	_	_
+7	to	to	TO	_	to	to	TO	6	NMOD	_	_
+8	the	the	DT	_	the	the	DT	10	NMOD	_	_
+9	movie	movie	NN	_	movie	movie	NN	10	NMOD	_	_
+10	theatre	theatre	NN	_	theatre	theatre	NN	7	PMOD	_	_
+11	.	.	.	_	.	.	.	2	P	_	_
+12	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	6	DEP	_	_	_
+2	my	my	PRP$	_	my	my	PRP$	3	NMOD	_	_	_
+3	brothers	brothers	NNS	_	brothers	brother	NNS	6	SBJ	_	A1	_
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_
+5	myself	myself	PRP	_	myself	myself	PRP	4	CONJ	_	_	_
+6	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+7	not	not	RB	_	not	not	RB	6	ADV	_	AM-NEG	_
+8	the	the	DT	_	the	the	DT	10	NMOD	_	_	_
+9	only	only	JJ	_	only	only	JJ	10	NMOD	_	_	_
+10	people	people	NNS	_	people	people	NNS	6	PRD	_	A2	A0
+11	that	that	WDT	_	that	that	WDT	12	SBJ	_	_	_
+12	did	did	VBD	_	did	do	VBD	10	NMOD	do.02	_	_
+13	this	this	DT	_	this	this	DT	12	OBJ	_	_	A1
+14	;	;	:	_	;	;	:	6	P	_	_	_
+15	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+
+1	all	all	PDT	_	all	all	PDT	3	NMOD	_	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_
+3	kids	kids	NNS	_	kids	kid	NNS	10	SBJ	_	_	_	A0	A0
+4	that	that	WDT	_	that	that	WDT	5	SBJ	_	_	_	_	_
+5	would	would	MD	_	would	would	MD	3	NMOD	_	_	_	_	_
+6	go	go	VB	_	go	go	VB	5	VC	go.01	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	DIR	_	A1	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_
+9	movie	movie	NN	_	movie	movie	NN	7	PMOD	movie.01	_	_	_	_
+10	knew	knew	VBD	_	knew	know	VBD	0	ROOT	know.01	_	_	_	_
+11	to	to	TO	_	to	to	TO	10	OPRD	_	_	_	_	_
+12	do	do	VB	_	do	do	VB	11	IM	do.02	_	SU	_	_
+13	this	this	DT	_	this	this	DT	12	OBJ	_	_	A1	_	A1
+14	.	.	.	_	.	.	.	10	P	_	_	_	_	_
+15	/	/	SU	_	/	/	SU	10	DEP	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_
+3	go	go	VB	_	go	go	VB	2	VC	go.03	_
+4	into	into	IN	_	into	into	IN	3	DIR	_	A1
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_
+6	bakery	bakery	NN	_	bakery	bakery	NN	4	PMOD	_	_
+7	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	ask	ask	VB	_	ask	ask	VB	3	VC	ask.01	_
+5	for	for	IN	_	for	for	IN	4	ADV	_	A1
+6	--	--	:	_	--	--	:	5	P	_	_
+7	a	a	DT	_	a	a	DT	9	NMOD	_	_
+8	nickel	nickel	NN	_	nickel	nickel	NN	9	AMOD	_	_
+9	worth	worth	JJ	_	worth	worth	JJ	5	PMOD	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_
+11	scraps	scraps	NNS	_	scraps	scraps	NNS	10	PMOD	_	_
+12	!	!	.	_	!	!	.	3	P	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	A0	_	_	_	_	_
+3	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_	_	_	_	_	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_	_	_	_	_	_	_
+5	even	even	RB	_	even	even	RB	3	ADV	_	_	_	_	_	_	_	_	_
+6	have	have	VB	_	have	have	VB	3	VC	have.04	A1	_	_	_	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	_	A1	_	_	_	_	_	_
+8	ask	ask	VB	_	ask	ask	VB	7	IM	ask.01	_	_	_	_	_	_	_	_
+9	for	for	IN	_	for	for	IN	8	ADV	_	_	_	A1	_	_	_	_	_
+10	it	it	PRP	_	it	it	PRP	9	PMOD	_	_	_	_	_	_	_	_	_
+11	because	because	IN	_	because	because	IN	6	PRP	_	_	_	_	_	_	_	_	_
+12	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_	_	_	_	_	_
+13	bakery	bakery	NN	_	bakery	bakery	NN	14	NMOD	_	_	_	_	A1	_	_	_	_
+14	lady	lady	NN	_	lady	lady	NN	15	SBJ	lady.01	_	_	_	A0	A0	_	_	_
+15	knew	knew	VBD	_	knew	know	VBD	11	SUB	know.01	_	_	_	_	_	_	_	_
+16	us	us	PRP	_	us	us	PRP	15	OBJ	_	_	_	_	_	A1	_	_	_
+17	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_	_	_
+18	she	she	PRP	_	she	she	PRP	19	SBJ	_	_	_	_	_	_	A0	A0	_
+19	knew	knew	VBD	_	knew	know	VBD	17	CONJ	know.01	_	_	_	_	_	_	_	_
+20	to	to	TO	_	to	to	TO	19	OPRD	_	_	_	_	_	_	_	_	_
+21	have	have	VB	_	have	have	VB	20	IM	have.04	_	_	_	_	_	_	_	_
+22	all	all	PDT	_	all	all	PDT	23	NMOD	_	_	_	_	_	_	_	_	_
+23	this	this	DT	_	this	this	DT	21	OBJ	_	_	_	_	_	_	_	_	_
+24	ready	ready	JJ	_	ready	ready	JJ	21	OPRD	_	_	_	_	_	_	_	A1	_
+25	for	for	IN	_	for	for	IN	24	AMOD	_	_	_	_	_	_	_	_	_
+26	all	all	PDT	_	all	all	PDT	28	NMOD	_	_	_	_	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_	_	_
+28	kids	kids	NNS	_	kids	kid	NNS	25	PMOD	_	_	_	_	_	_	_	_	A0
+29	going	going	VBG	_	going	go	VBG	28	APPO	go.03	_	_	_	_	_	_	_	_
+30	to	to	TO	_	to	to	TO	29	DIR	_	_	_	_	_	_	_	_	A1
+31	the	the	DT	_	the	the	DT	32	NMOD	_	_	_	_	_	_	_	_	_
+32	movie	movie	NN	_	movie	movie	NN	30	PMOD	_	_	_	_	_	_	_	_	_
+33	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_	_
+34	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	6	DEP	_	_	_	_	_	_	_	_	_	_
+2	what	what	WP	_	what	what	WP	4	PRD	_	A2	_	_	_	_	_	_	_	_
+3	it	it	PRP	_	it	it	PRP	4	SBJ	_	A1	_	_	_	_	_	_	_	_
+4	was	was	VBD	_	was	be	VBD	6	ADV	be.01	_	_	_	_	_	_	_	_	_
+5	it	it	PRP	_	it	it	PRP	6	SBJ	_	_	A1	_	_	_	_	_	_	_
+6	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_
+7	broken	broken	VBN	_	broken	break	VBN	8	NMOD	break.01	_	_	_	_	_	_	_	_	_
+8	cookies	cookies	NNS	_	cookies	cookie	NNS	6	PRD	_	_	A2	A1	_	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_	_	_	_	_
+10	broken	broken	JJ	_	broken	break	VBN	11	NMOD	break.01	_	_	_	_	_	_	_	_	_
+11	pieces	pieces	NNS	_	pieces	piece	NNS	9	CONJ	piece.04	_	_	_	A1	_	_	_	_	SU
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	_	_	A2	_	_	_	A1
+13	whatever	whatever	WDT	_	whatever	whatever	WDT	14	SBJ	_	_	_	_	_	_	A1	_	_	_
+14	happened	happened	VBD	_	happened	happen	VBD	12	PMOD	happen.01	_	_	_	_	_	_	_	_	_
+15	while	while	IN	_	while	while	IN	14	TMP	_	_	_	_	_	_	AM-TMP	_	_	_
+16	they	they	PRP	_	they	they	PRP	17	SBJ	_	_	_	_	_	_	_	A1	A0	_
+17	were	were	VBD	_	were	be	VBD	15	SUB	be.01	_	_	_	_	_	_	_	_	_
+18	baking	baking	VBG	_	baking	bake	VBG	17	VC	bake.01	_	_	_	_	_	_	A2	_	_
+19	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_	_	_	_	_
+20	mistakes	mistakes	NNS	_	mistakes	mistake	NNS	8	NMOD	mistake.01	_	_	_	_	A1	_	_	_	_
+21	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_	_	_	_	_
+22	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_	_	_	_	_	_	_
+
+1	So	so	CC	_	So	so	CC	3	DEP	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	fill	fill	VB	_	fill	fill	VB	3	VC	fill.01	_
+5	little	little	JJ	_	little	little	JJ	6	NMOD	_	_
+6	bags	bags	NNS	_	bags	bag	NNS	4	OBJ	_	A1
+7	for	for	IN	_	for	for	IN	4	ADV	_	A2
+8	us	us	PRP	_	us	us	PRP	7	PMOD	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	give	give	VB	_	give	give	VB	3	VC	give.01	_
+5	them	them	PRP	_	them	them	PRP	4	OBJ	_	A2
+6	a	a	DT	_	a	a	DT	7	NMOD	_	_
+7	nickel	nickel	NN	_	nickel	nickel	NN	4	OBJ	_	A1
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	could	could	MD	_	could	could	MD	0	ROOT	_	_
+4	take	take	VB	_	take	take	VB	3	VC	take.09	_
+5	that	that	DT	_	that	that	DT	4	OBJ	_	A1
+6	to	to	TO	_	to	to	TO	4	DIR	_	A3
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_
+8	movie	movie	NN	_	movie	movie	NN	9	NMOD	_	_
+9	theatre	theatre	NN	_	theatre	theatre	NN	6	PMOD	_	_
+10	with	with	IN	_	with	with	IN	4	ADV	_	A2
+11	us	us	PRP	_	us	us	PRP	10	PMOD	_	_
+12	.	.	.	_	.	.	.	3	P	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	that	that	DT	_	that	that	DT	3	SBJ	_	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_
+4	all	all	PDT	_	all	all	PDT	6	NMOD	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_
+6	stories	stories	NNS	_	stories	story	NNS	3	PRD	_	A1
+7	I	i	PRP	_	I	i	PRP	8	SBJ	_	A0
+8	can	can	MD	_	can	can	MD	6	NMOD	_	_
+9	remember	remember	VB	_	remember	remember	VB	8	VC	remember.01	_
+10	about	about	IN	_	about	about	IN	9	ADV	_	A2
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_
+12	movies	movies	NNS	_	movies	movie	NNS	10	PMOD	_	_
+13	right	right	RB	_	right	right	RB	9	TMP	_	_
+14	now	now	RB	_	now	now	RB	13	AMOD	_	AM-TMP
+15	.	.	.	_	.	.	.	3	P	_	_
+16	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0	_	_	_	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_	_	_
+3	know	know	VB	_	know	know	VB	2	VC	know.01	A1	_	_	_	_	_
+4	that	that	IN	_	that	that	IN	3	OBJ	_	_	A1	_	_	_	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	_	_	A0	A0	A0	A0
+6	did	did	VBD	_	did	do	VBD	4	SUB	do.02	_	_	_	_	_	_
+7	used	used	VBN	_	used	use	VBN	6	VC	use.01	_	_	A1	_	_	_
+8	to	to	TO	_	to	to	TO	7	OPRD	_	_	_	_	A1	_	_
+9	go	go	VB	_	go	go	VB	8	IM	go.06	_	_	_	_	_	SU
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_
+11	movie	movie	NN	_	movie	movie	NN	9	DIR	movie.01	_	_	_	_	A1	_
+12	downtown	downtown	NN	_	downtown	downtown	NN	9	LOC	_	_	_	_	_	A2	_
+13	at	at	IN	_	at	at	IN	12	NMOD	_	_	_	_	_	_	_
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_	_	_
+15	Carolina	carolina	NNP	_	Carolina	carolina	NNP	16	NAME	_	_	_	_	_	_	_
+16	Theatre	theatre	NNP	_	Theatre	theatre	NNP	13	PMOD	_	_	_	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+18	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	8	DEP	_	_	_	_	_
+2	when	when	WRB	_	when	when	WRB	4	TMP	_	_	AM-TMP	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A1	_	_	_
+4	was	was	VBD	_	was	be	VBD	8	TMP	be.01	_	_	_	_
+5	young	young	JJ	_	young	young	JJ	4	PRD	_	A2	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+7	it	it	PRP	_	it	it	PRP	8	SBJ	_	_	A1	_	_
+8	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+9	n't	not	RB	_	n't	not	RB	8	ADV	_	_	_	_	_
+10	a	a	DT	_	a	a	DT	12	NMOD	_	_	_	_	_
+11	strange	strange	JJ	_	strange	strange	JJ	12	NMOD	_	_	_	_	_
+12	thing	thing	NN	_	thing	thing	NN	8	PRD	_	_	A2	_	_
+13	for	for	IN	_	for	for	IN	8	EXTR	_	_	_	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_
+15	kids	kids	NNS	_	kids	kid	NNS	16	SBJ	_	_	_	A0	A0
+16	to	to	TO	_	to	to	TO	13	SUB	_	_	_	_	_
+17	just	just	RB	_	just	just	RB	16	ADV	_	_	_	AM-MNR	AM-MNR
+18	go	go	VB	_	go	go	VB	16	IM	go.03	_	_	_	_
+19	off	off	RB	_	off	off	RB	18	DIR	_	_	_	A1	_
+20	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_
+21	go	go	VB	_	go	go	VB	20	CONJ	go.03	_	_	_	_
+22	to	to	TO	_	to	to	TO	21	DIR	_	_	_	_	A1
+23	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_	_
+24	movie	movie	NN	_	movie	movie	NN	22	PMOD	_	_	_	_	_
+25	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+26	/	/	SU	_	/	/	SU	8	DEP	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	_	_	_
+2	mean	mean	VBP	_	mean	mean	VBP	6	PRN	mean.01	_	AM-ADV	_	_
+3	,	,	,	_	,	,	,	6	P	_	_	_	_	_
+4	my	my	PRP$	_	my	my	PRP$	5	NMOD	_	_	_	_	_
+5	mother	mother	NN	_	mother	mother	NN	6	SBJ	_	_	A0	_	_
+6	knew	knew	VBD	_	knew	know	VBD	0	ROOT	know.01	_	_	_	_
+7	where	where	WRB	_	where	where	WRB	10	DIR	_	_	A1	_	A1
+8	we	we	PRP	_	we	we	PRP	9	SBJ	_	_	_	A1	A0
+9	were	were	VBD	_	were	be	VBD	6	OBJ	be.01	_	_	_	_
+10	going	going	VBG	_	going	go	VBG	9	VC	go.03	_	_	A2	_
+11	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A0	_
+3	knew	knew	VBD	_	knew	know	VBD	0	ROOT	know.01	_	_
+4	when	when	WRB	_	when	when	WRB	7	TMP	_	A1	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	_	A0
+6	would	would	MD	_	would	would	MD	3	OBJ	_	_	_
+7	get	get	VB	_	get	get	VB	6	VC	get.01	_	_
+8	back	back	RB	_	back	back	RB	7	ADV	_	_	A1
+9	,	,	,	_	,	,	,	3	P	_	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	but	but	CC	_	but	but	CC	4	DEP	_	_	_	_	_
+2	today	today	NN	_	today	today	NN	4	TMP	_	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0	_	_	_
+4	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_
+5	n't	not	RB	_	n't	not	RB	4	ADV	_	_	_	_	_
+6	send	send	VB	_	send	send	VB	4	VC	send.02	_	_	_	_
+7	your	your	PRP$	_	your	your	PRP$	13	NMOD	_	_	A1	_	_
+8	seven	seven	CD	_	seven	seven	CD	11	NMOD	_	_	_	_	_
+9	or	or	CC	_	or	or	CC	8	COORD	_	_	_	_	_
+10	eight	eight	CD	_	eight	eight	CD	9	CONJ	_	_	_	_	_
+11	year	year	NN	_	year	year	NN	12	AMOD	_	_	_	_	_
+12	old	old	JJ	_	old	old	JJ	13	NMOD	_	_	AM-TMP	_	_
+13	child	child	NN	_	child	child	NN	6	OBJ	child.01	A1	A0	_	_
+14	to	to	TO	_	to	to	TO	6	DIR	_	A2	_	_	_
+15	a	a	DT	_	a	a	DT	17	NMOD	_	_	_	_	_
+16	movie	movie	NN	_	movie	movie	NN	17	NMOD	_	_	_	_	_
+17	theatre	theatre	NN	_	theatre	theatre	NN	14	PMOD	_	_	_	_	_
+18	alone	alone	RB	_	alone	alone	RB	6	MNR	_	AM-MNR	_	_	_
+19	even	even	RB	_	even	even	RB	20	ADV	_	_	_	_	_
+20	if	if	IN	_	if	if	IN	6	ADV	_	_	_	_	_
+21	they	they	PRP	_	they	they	PRP	22	SBJ	_	_	_	A1	_
+22	were	were	VBD	_	were	be	VBD	20	SUB	be.01	_	_	_	_
+23	with	with	IN	_	with	with	IN	22	PRD	_	_	_	A2	_
+24	their	their	PRP$	_	their	their	PRP$	28	NMOD	_	_	_	_	A1
+25	nine	nine	CD	_	nine	nine	CD	26	NMOD	_	_	_	_	_
+26	year	year	NN	_	year	year	NN	27	AMOD	_	_	_	_	_
+27	old	old	JJ	_	old	old	JJ	28	NMOD	_	_	_	_	AM-TMP
+28	brother	brother	NN	_	brother	brother	NN	23	PMOD	brother.01	_	_	_	A0
+29	;	;	:	_	;	;	:	4	P	_	_	_	_	_
+30	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_	_
+
+1	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0
+2	just	just	RB	_	just	just	RB	3	ADV	_	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_
+5	do	do	VB	_	do	do	VB	3	VC	do.02	_
+6	it	it	PRP	_	it	it	PRP	5	OBJ	_	A1
+7	.	.	.	_	.	.	.	3	P	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	could	could	MD	_	could	could	MD	0	ROOT	_	_
+4	skate	skate	VB	_	skate	skate	VB	3	VC	_	_
+5	to	to	TO	_	to	to	TO	4	DIR	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_
+7	movie	movie	NN	_	movie	movie	NN	5	PMOD	_	_
+8	or	or	CC	_	or	or	CC	4	COORD	_	_
+9	ride	ride	VB	_	ride	ride	VB	8	CONJ	ride.01	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_
+11	bicycle	bicycle	NN	_	bicycle	bicycle	NN	9	OBJ	_	A1
+12	to	to	TO	_	to	to	TO	9	DIR	_	AM-DIR
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_
+14	movie	movie	NN	_	movie	movie	NN	12	PMOD	_	_
+15	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_
+4	do	do	VB	_	do	do	VB	3	VC	do.02	_	_	_
+5	that	that	DT	_	that	that	DT	4	OBJ	_	A1	_	_
+6	.	.	,	_	.	.	,	4	P	_	_	_	_
+7	Which	which	WDT	_	Which	which	WDT	8	SBJ	_	_	A1	_
+8	is	is	VBZ	_	is	be	VBZ	4	ADV	be.01	_	_	_
+9	kind	kind	NN	_	kind	kind	NN	10	AMOD	_	_	_	_
+10	of	of	IN	_	of	of	IN	8	PRD	_	_	_	_
+11	sad	sad	JJ	_	sad	sad	JJ	10	AMOD	_	_	A2	_
+12	that	that	IN	_	that	that	IN	8	ADV	_	_	_	_
+13	you	you	PRP	_	you	you	PRP	14	SBJ	_	_	_	A0
+14	ca	ca	MD	_	ca	ca	MD	12	SUB	_	_	_	_
+15	n't	not	RB	_	n't	not	RB	14	ADV	_	_	_	_
+16	do	do	VB	_	do	do	VB	14	VC	do.02	_	_	_
+17	that	that	DT	_	that	that	DT	16	OBJ	_	_	_	A1
+18	anymore	anymore	RB	_	anymore	anymore	RB	16	TMP	_	_	_	AM-TMP
+19	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	_	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_
+4	not	not	RB	_	not	not	RB	3	ADV	_	_	_
+5	just	just	RB	_	just	just	RB	6	ADV	_	_	_
+6	because	because	IN	_	because	because	IN	3	PRP	_	_	_
+7	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	13	DEP	_	_	_
+8	things	things	NNS	_	things	things	NNS	9	SBJ	_	A1	_
+9	are	are	VBP	_	are	be	VBP	7	DEP	be.01	_	_
+10	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	7	DEP	_	_	_
+11	,	,	,	_	,	,	,	13	P	_	_	_
+12	there	there	EX	_	there	there	EX	13	SBJ	_	_	_
+13	're	're	VBP	_	're	're	VBP	6	SUB	_	_	_
+14	bad	bad	JJ	_	bad	bad	JJ	15	NMOD	_	_	_
+15	people	people	NNS	_	people	people	NNS	13	PRD	_	_	A1
+16	in	in	IN	_	in	in	IN	15	LOC	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_
+18	world	world	NN	_	world	world	NN	16	PMOD	world.01	_	_
+19	but	but	CC	_	but	but	CC	13	COORD	_	_	_
+20	it	it	PRP	_	it	it	PRP	21	SBJ	_	_	_
+21	's	's	VBZ	_	's	be	VBZ	19	CONJ	_	_	_
+22	too	too	RB	_	too	too	RB	23	AMOD	_	_	_
+23	much	much	JJ	_	much	much	JJ	24	NMOD	_	_	_
+24	traffic	traffic	NN	_	traffic	traffic	NN	21	PRD	_	_	_
+25	.	.	.	_	.	.	.	3	P	_	_	_
+26	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	You	you	PRP	_	You	you	PRP	2	SBJ	_	A0	A0	A0	A0	_
+2	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_	_
+3	to	to	TO	_	to	to	TO	2	OPRD	_	_	_	_	_	_
+4	check	check	VB	_	check	check	VB	3	IM	check.01	_	_	_	_	_
+5	everything	everything	NN	_	everything	everything	NN	4	OBJ	_	_	A1	_	_	_
+6	about	about	IN	_	about	about	IN	5	NMOD	_	_	_	_	_	_
+7	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_
+8	movie	movie	NN	_	movie	movie	NN	6	PMOD	_	_	_	_	_	_
+9	,	,	,	_	,	,	,	4	P	_	A1	_	_	_	_
+10	check	check	VB	_	check	check	VB	4	COORD	check.01	_	_	_	_	_
+11	it	it	PRP	_	it	it	PRP	10	OBJ	_	_	_	A1	_	_
+12	out	out	RP	_	out	out	RP	10	PRT	_	_	_	_	_	_
+13	to	to	TO	_	to	to	TO	10	PRP	_	_	_	_	_	_
+14	see	see	VB	_	see	see	VB	13	IM	see.01	_	_	_	_	_
+15	what	what	WP	_	what	what	WP	18	PRD	_	_	_	_	A1	A2
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_
+17	content	content	NN	_	content	content	NN	18	SBJ	_	_	_	_	_	A1
+18	is	is	VBZ	_	is	be	VBZ	14	OBJ	be.01	_	_	_	_	_
+19	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_
+2	just	just	RB	_	just	just	RB	3	ADV	_	AM-MNR	_	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_	_	_
+5	like	like	VB	_	like	like	VB	3	VC	like.01	A2	_	_	_
+6	that	that	DT	_	that	that	DT	5	OBJ	_	_	A1	_	_
+7	when	when	WRB	_	when	when	WRB	10	TMP	_	AM-TMP	_	_	_
+8	I	i	PRP	_	I	i	PRP	9	SBJ	_	_	_	A1	A0
+9	was	was	VBD	_	was	be	VBD	5	TMP	be.01	_	_	_	_
+10	growing	growing	VBG	_	growing	grow	VBG	9	VC	grow.01	_	_	A2	_
+11	up	up	RP	_	up	up	RP	10	PRT	_	_	_	_	_
+12	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_
+
+1	Also	also	RB	_	Also	also	RB	36	ADV	_	_	_	_	_	_	_	_	_	AM-DIS
+2	about	about	IN	_	about	about	IN	36	TMP	_	_	_	_	_	_	_	_	_	AM-TMP
+3	that	that	DT	_	that	that	DT	6	NMOD	_	_	_	_	_	_	_	_	_	_
+4	same	same	JJ	_	same	same	JJ	6	NMOD	_	_	_	_	_	_	_	_	_	_
+5	time	time	NN	_	time	time	NN	6	NMOD	time.06	AM-TMP	_	_	_	_	_	_	_	_
+6	period	period	NN	_	period	period	NN	2	PMOD	period.01	_	_	_	_	_	_	_	_	_
+7	in	in	IN	_	in	in	IN	6	NMOD	_	_	_	_	_	_	_	_	_	_
+8	my	my	PRP$	_	my	my	PRP$	9	NMOD	_	_	_	A1	_	_	_	_	_	_
+9	life	life	NN	_	life	life	NN	7	PMOD	life.02	_	_	A2	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_	_	_	_	_
+11	I	i	PRP	_	I	i	PRP	12	SBJ	_	_	_	_	A0	_	_	_	_	_
+12	guess	guess	VBP	_	guess	guess	VBP	6	PRN	guess.01	A1	A1	_	_	_	_	_	_	_
+13	again	again	RB	_	again	again	RB	12	ADV	_	_	_	_	AM-TMP	_	_	_	_	_
+14	between	between	IN	_	between	between	IN	15	DEP	_	_	_	_	_	_	_	_	_	_
+15	seven	seven	CD	_	seven	seven	CD	18	NMOD	_	_	_	_	_	_	_	_	_	_
+16	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_	_	_	_
+17	ten	ten	CD	_	ten	ten	CD	16	CONJ	_	_	_	_	_	_	_	_	_	_
+18	years	years	NNS	_	years	years	NNS	19	AMOD	_	_	_	_	_	_	_	_	_	_
+19	old	old	JJ	_	old	old	JJ	12	PRD	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	_	,	,	,	19	P	_	_	_	_	_	_	_	_	_	_
+21	which	which	WDT	_	which	which	WDT	22	SBJ	_	_	_	_	_	A1	A1	_	_	_
+22	seems	seems	VBZ	_	seems	seem	VBZ	19	AMOD	seem.01	_	_	_	_	_	_	_	_	_
+23	to	to	TO	_	to	to	TO	22	OPRD	_	_	_	_	_	_	_	_	_	_
+24	be	be	VB	_	be	be	VB	23	IM	be.01	_	_	_	_	_	_	_	_	_
+25	what	what	WP	_	what	what	WP	27	OBJ	_	_	_	_	_	_	A2	A1	_	_
+26	I	i	PRP	_	I	i	PRP	27	SBJ	_	_	_	_	_	_	_	A0	_	_
+27	remember	remember	VBP	_	remember	remember	VBP	24	PRD	remember.01	_	_	_	_	_	_	_	_	_
+28	most	most	RBS	_	most	most	RBS	29	AMOD	_	_	_	_	_	_	_	_	_	_
+29	vividly	vividly	RB	_	vividly	vividly	RB	27	MNR	_	_	_	_	_	_	_	AM-MNR	_	_
+30	,	,	,	_	,	,	,	36	P	_	_	_	_	_	_	_	_	_	_
+31	my	my	PRP$	_	my	my	PRP$	33	NMOD	_	_	_	_	_	_	_	_	A1	_
+32	best	best	JJS	_	best	best	JJS	33	NMOD	_	_	_	_	_	_	_	_	_	_
+33	friend	friend	NN	_	friend	friend	NN	36	SBJ	friend.02	_	_	_	_	_	_	_	A0	A1
+34	uh	uh	UH	_	uh	uh	UH	36	DEP	_	_	_	_	_	_	_	_	_	_
+35	,	,	,	_	,	,	,	36	P	_	_	_	_	_	_	_	_	_	_
+36	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_
+37	Kathy	kathy	NNP	_	Kathy	kathy	NNP	38	NAME	_	_	_	_	_	_	_	_	_	_
+38	Josey	josey	NNP	_	Josey	josey	NNP	36	PRD	_	_	_	_	_	_	_	_	_	A2
+39	,	,	,	_	,	,	,	36	P	_	_	_	_	_	_	_	_	_	_
+40	/	/	SU	_	/	/	SU	36	DEP	_	_	_	_	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A1
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+4	a	a	DT	_	a	a	DT	7	NMOD	_	_
+5	next	next	JJ	_	next	next	JJ	6	NMOD	_	_
+6	door	door	NN	_	door	door	NN	7	NMOD	_	_
+7	neighbor	neighbor	NN	_	neighbor	neighbor	NN	3	PRD	_	A2
+8	also	also	RB	_	also	also	RB	3	ADV	_	AM-DIS
+9	,	,	,	_	,	,	,	3	P	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A1	_
+3	remained	remained	VBD	_	remained	remain	VBD	0	ROOT	remain.01	_	_
+4	friends	friends	NNS	_	friends	friend	NNS	3	OBJ	_	A2	_
+5	up	up	RP	_	up	up	RP	6	DEP	_	_	_
+6	until	until	IN	_	until	until	IN	3	TMP	_	AM-TMP	_
+7	,	,	,	_	,	,	,	6	P	_	_	_
+8	uh	uh	NN	_	uh	uh	NN	6	SUB	_	_	_
+9	,	,	,	_	,	,	,	6	P	_	_	_
+10	she	she	PRP	_	she	she	PRP	11	SBJ	_	_	A1
+11	was	was	VBD	_	was	be	VBD	6	SUB	be.01	_	_
+12	about	about	RB	_	about	about	RB	11	PRD	_	_	_
+13	35	35	CD	_	35	35	CD	12	DEP	_	_	A2
+14	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A0
+3	passed	passed	VBD	_	passed	pass	VBD	0	ROOT	pass.04	_
+4	away	away	RP	_	away	away	RP	3	PRT	_	_
+5	with	with	IN	_	with	with	IN	3	ADV	_	A1
+6	cancer	cancer	NN	_	cancer	cancer	NN	5	PMOD	_	_
+7	.	.	.	_	.	.	.	3	P	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	But	but	CC	_	But	but	CC	7	DEP	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	7	DEP	_	_
+3	we	we	PRP	_	we	we	PRP	2	DEP	_	_
+4	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_
+5	,	,	,	_	,	,	,	7	P	_	_
+6	we	we	PRP	_	we	we	PRP	7	SBJ	_	A1
+7	remained	remained	VBD	_	remained	remain	VBD	0	ROOT	remain.01	_
+8	close	close	JJ	_	close	close	JJ	9	NMOD	_	_
+9	friends	friends	NNS	_	friends	friend	NNS	7	OBJ	_	A2
+10	.	.	.	_	.	.	.	7	P	_	_
+11	/	/	SU	_	/	/	SU	7	DEP	_	_
+
+1	In	in	IN	_	In	in	IN	4	ADV	_	AM-LOC	_
+2	fact	fact	NN	_	fact	fact	NN	1	PMOD	_	_	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0	_
+4	shared	shared	VBD	_	shared	share	VBD	0	ROOT	share.01	_	_
+5	an	an	DT	_	an	an	DT	6	NMOD	_	_	_
+6	apartment	apartment	NN	_	apartment	apartment	NN	4	OBJ	_	A1	_
+7	,	,	,	_	,	,	,	6	P	_	_	_
+8	first	first	JJ	_	first	first	JJ	9	NMOD	_	_	_
+9	apartment	apartment	NN	_	apartment	apartment	NN	6	APPO	_	_	A1
+10	either	either	DT	_	either	either	DT	11	NMOD	_	_	_
+11	one	one	CD	_	one	one	CD	15	SBJ	_	_	A0
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_
+13	us	us	PRP	_	us	us	PRP	12	PMOD	_	_	_
+14	ever	ever	RB	_	ever	ever	RB	15	TMP	_	_	AM-TMP
+15	had	had	VBD	_	had	have	VBD	9	NMOD	have.03	_	_
+16	.	.	.	_	.	.	.	4	P	_	_	_
+17	/	/	SU	_	/	/	SU	4	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	11	DEP	_	_	_	_
+2	when	when	WRB	_	when	when	WRB	4	TMP	_	_	AM-TMP	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A1	_	_
+4	were	were	VBD	_	were	be	VBD	11	TMP	be.01	_	_	_
+5	,	,	,	_	,	,	,	4	P	_	_	_	_
+6	um	um	UH	_	um	um	UH	4	DEP	_	_	_	_
+7	,	,	,	_	,	,	,	4	P	_	_	_	_
+8	little	little	JJ	_	little	little	JJ	9	NMOD	_	_	_	_
+9	girls	girls	NNS	_	girls	girl	NNS	4	PRD	_	A2	_	_
+10	we	we	PRP	_	we	we	PRP	11	SBJ	_	_	A0	A0
+11	used	used	VBD	_	used	use	VBD	0	ROOT	use.01	_	_	_
+12	to	to	TO	_	to	to	TO	11	OPRD	_	_	A1	_
+13	play	play	VB	_	play	play	VB	12	IM	play.03	_	_	_
+14	"	"	''	_	"	"	''	13	P	_	_	_	_
+15	Career	career	NNP	_	Career	career	NNP	16	NAME	_	_	_	_
+16	Girls	girls	NNPS	_	Girls	girl	NNPS	13	OBJ	_	_	_	A1
+17	"	"	''	_	"	"	''	13	P	_	_	_	_
+18	!	!	.	_	!	!	.	11	P	_	_	_	_
+19	/	/	SU	_	/	/	SU	11	DEP	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0
+2	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_
+3	!	!	.	_	!	!	.	2	P	_	_
+4	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	A0	A0	_
+3	used	used	VBD	_	used	use	VBD	0	ROOT	use.01	_	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	_	_	_	_	_
+5	try	try	VB	_	try	try	VB	4	IM	try.01	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	OPRD	_	_	_	_	_	_
+7	dress	dress	VB	_	dress	dress	VB	6	IM	dress.01	_	_	_	_	_
+8	up	up	RP	_	up	up	RP	7	PRT	_	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_	_
+10	pretend	pretend	VB	_	pretend	pretend	VB	9	CONJ	pretend.01	_	_	_	_	_
+11	we	we	PRP	_	we	we	PRP	12	SBJ	_	_	_	_	_	A1
+12	were	were	VBD	_	were	be	VBD	10	OBJ	be.01	_	_	_	A1	_
+13	businesswomen	businesswomen	NNS	_	businesswomen	businesswoman	NNS	12	PRD	_	_	_	_	_	A2
+14	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+15	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_
+4	go	go	VB	_	go	go	VB	3	VC	go.05	_	_	_
+5	to	to	TO	_	to	to	TO	4	DIR	_	A1	_	_
+6	work	work	VB	_	work	work	NN	5	PMOD	_	_	_	_
+7	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_
+8	pretend	pretend	VB	_	pretend	pretend	VB	7	CONJ	pretend.01	_	_	_
+9	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	_	A0
+10	had	had	VBD	_	had	have	VBD	8	OBJ	have.04	_	A1	_
+11	an	an	DT	_	an	an	DT	12	NMOD	_	_	_	_
+12	apartment	apartment	NN	_	apartment	apartment	NN	10	OBJ	_	_	_	A1
+13	together	together	RB	_	together	together	RB	10	MNR	_	_	_	AM-MNR
+14	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	10	DEP	_	_	AM-DIS
+2	then	then	RB	_	then	then	RB	10	TMP	_	_	_
+3	when	when	WRB	_	when	when	WRB	5	TMP	_	_	AM-TMP
+4	we	we	PRP	_	we	we	PRP	5	SBJ	_	A0	_
+5	grew	grew	VBD	_	grew	grow	VBD	10	TMP	grow.01	_	_
+6	up	up	RP	_	up	up	RP	5	PRT	_	_	_
+7	,	,	,	_	,	,	,	10	P	_	_	_
+8	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	_
+9	sure	sure	RB	_	sure	sure	RB	10	ADV	_	_	_
+10	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_
+11	;	;	:	_	;	;	:	10	P	_	_	_
+12	/	/	SU	_	/	/	SU	10	DEP	_	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A0
+2	got	got	VBD	_	got	get	VBD	0	ROOT	get.01	_
+3	an	an	DT	_	an	an	DT	4	NMOD	_	_
+4	apartment	apartment	NN	_	apartment	apartment	NN	2	OBJ	_	A1
+5	.	.	.	_	.	.	.	2	P	_	_
+6	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	Uh-huh	uh-huh	UH	_	Uh-huh	uh-huh	UH	0	ROOT	_
+2	.	.	.	_	.	.	.	1	P	_
+3	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	Um	um	UH	_	Um	um	UH	7	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	7	P	_	_	_	_
+3	Kathy	kathy	NNP	_	Kathy	kathy	NNP	7	SBJ	_	A0	A0	_
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_
+5	I	i	PRP	_	I	i	PRP	4	CONJ	_	_	_	_
+6	also	also	RB	_	also	also	RB	7	ADV	_	AM-DIS	_	_
+7	used	used	VBD	_	used	use	VBD	0	ROOT	use.01	_	_	_
+8	to	to	TO	_	to	to	TO	7	OPRD	_	_	_	_
+9	play	play	VB	_	play	play	VB	8	IM	play.01	_	_	_
+10	other	other	JJ	_	other	other	JJ	11	NMOD	_	_	_	_
+11	kind	kind	NN	_	kind	kind	NN	9	OBJ	kind.02	_	A1	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	A1
+13	dress	dress	NNS	_	dress	dress	NNS	14	NMOD	_	_	_	_
+14	ups	ups	NNS	_	ups	ups	NNS	12	PMOD	_	_	_	_
+15	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	14	DEP	_	_	_	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	14	DEP	_	_	_	_	_
+3	it	it	PRP	_	it	it	PRP	2	DEP	_	_	_	_	_
+4	just	just	RB	_	just	just	RB	3	ADV	_	_	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_	_	_	_
+6	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+7	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	14	DEP	_	_	_	_	_
+8	it	it	PRP	_	it	it	PRP	9	SBJ	_	A1	_	_	_
+9	seems	seems	VBZ	_	seems	seem	VBZ	7	DEP	seem.01	_	_	_	_
+10	like	like	IN	_	like	like	IN	9	ADV	_	A2	_	_	_
+11	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	7	DEP	_	_	_	_	_
+12	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+13	I	i	PRP	_	I	i	PRP	14	SBJ	_	_	A0	_	_
+14	remember	remember	VBP	_	remember	remember	VBP	0	ROOT	remember.01	_	_	_	_
+15	we	we	PRP	_	we	we	PRP	17	SBJ	_	_	_	A0	_
+16	both	both	DT	_	both	both	DT	15	APPO	_	_	_	_	_
+17	had	had	VBD	_	had	have	VBD	14	OBJ	have.04	_	A1	_	_
+18	like	like	UH	_	like	like	UH	17	OBJ	_	_	_	A1	_
+19	our	our	PRP$	_	our	our	PRP$	20	NMOD	_	_	_	_	A1
+20	mother	mother	NN	_	mother	mother	NN	23	NMOD	mother.01	_	_	_	A0
+21	's	's	POS	_	's	's	POS	20	SUFFIX	_	_	_	_	_
+22	long	long	JJ	_	long	long	JJ	23	NMOD	_	_	_	_	_
+23	skirts	skirts	NNS	_	skirts	skirt	NNS	17	OBJ	_	_	_	_	_
+24	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+25	/	/	SU	_	/	/	SU	14	DEP	_	_	_	_	_
+
+1	or	or	CC	_	or	or	CC	4	DEP	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_
+3	skirts	skirts	NNS	_	skirts	skirt	NNS	4	SBJ	_	A1
+4	would	would	MD	_	would	would	MD	0	ROOT	_	_
+5	be	be	VB	_	be	be	VB	4	VC	be.01	_
+6	long	long	JJ	_	long	long	JJ	5	PRD	_	_
+7	on	on	IN	_	on	on	IN	5	ADV	_	A2
+8	us	us	PRP	_	us	us	PRP	7	PMOD	_	_
+9	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_
+4	literally	literally	RB	_	literally	literally	RB	3	ADV	_	_	_	_
+5	wear	wear	VB	_	wear	wear	VB	3	VC	wear.01	_	_	_
+6	dress	dress	NN	_	dress	dress	NN	7	NMOD	_	_	_	_
+7	up	up	NN	_	up	up	NN	8	NMOD	_	_	_	_
+8	clothes	clothes	NNS	_	clothes	clothes	NNS	5	OBJ	_	A1	A0	_
+9	that	that	WDT	_	that	that	WDT	10	SBJ	_	_	_	_
+10	belonged	belonged	VBD	_	belonged	belong	VBD	8	NMOD	belong.01	_	_	_
+11	to	to	TO	_	to	to	TO	10	ADV	_	_	A1	_
+12	our	our	PRP$	_	our	our	PRP$	13	NMOD	_	_	_	A1
+13	mothers	mothers	NNS	_	mothers	mother	NNS	11	PMOD	mother.01	_	_	A0
+14	.	.	.	_	.	.	.	3	P	_	_	_	_
+15	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	8	DEP	_	_	_	_	_	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	8	DEP	_	_	_	_	_	_	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0	_	_	_	_	_
+4	had	had	VBD	_	had	have	VBD	2	DEP	have.04	_	_	_	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_	_	_	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_	_
+7	Kathy	kathy	NNP	_	Kathy	kathy	NNP	8	SBJ	_	_	A0	_	_	_	_
+8	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	_	_	_	_	_
+9	one	one	CD	_	one	one	CD	10	NMOD	_	_	_	_	_	_	_
+10	pair	pair	NN	_	pair	pair	NN	8	OBJ	pair.01	_	A1	_	_	A1	_
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_	_	A1	_	_	_
+12	pearls	pearls	NNS	_	pearls	pearl	NNS	11	PMOD	_	_	_	_	_	_	_
+13	or	or	CC	_	or	or	CC	12	COORD	_	_	_	_	_	_	_
+14	beads	beads	NNS	_	beads	beads	NNS	13	CONJ	_	_	_	_	_	_	_
+15	of	of	IN	_	of	of	IN	14	NMOD	_	_	_	_	_	_	_
+16	some	some	DT	_	some	some	DT	17	NMOD	_	_	_	_	_	_	_
+17	sort	sort	NN	_	sort	sort	NN	15	PMOD	sort.02	_	_	_	_	_	_
+18	of	of	IN	_	of	of	IN	17	NMOD	_	_	_	_	A1	_	_
+19	necklace	necklace	NN	_	necklace	necklace	NN	18	PMOD	_	_	_	_	_	_	_
+20	that	that	WDT	_	that	that	WDT	21	SBJ	_	_	_	_	_	_	_
+21	was	was	VBD	_	was	be	VBD	10	NMOD	be.01	_	_	_	_	_	_
+22	her	her	PRP$	_	her	her	PRP$	23	NMOD	_	_	_	_	_	_	A1
+23	mother	mother	NN	_	mother	mother	NN	21	PRD	mother.01	_	_	_	_	A2	A0
+24	's	's	POS	_	's	's	POS	23	SUFFIX	_	_	_	_	_	_	_
+25	/	/	SU	_	/	/	SU	8	DEP	_	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	A0
+3	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_
+5	have	have	VB	_	have	have	VB	3	VC	have.04	A1	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_
+7	necklace	necklace	NN	_	necklace	necklace	NN	5	OBJ	_	_	A1
+8	.	.	.	_	.	.	.	3	P	_	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A1
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+4	really	really	RB	_	really	really	RB	5	AMOD	_	_
+5	beautiful	beautiful	JJ	_	beautiful	beautiful	JJ	3	PRD	_	A2
+6	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	6	DEP	_	_
+2	I	i	PRP	_	I	i	PRP	6	SBJ	_	A0
+3	really	really	RB	_	really	really	RB	6	ADV	_	AM-ADV
+4	,	,	,	_	,	,	,	6	P	_	_
+5	really	really	RB	_	really	really	RB	6	ADV	_	AM-ADV
+6	wanted	wanted	VBD	_	wanted	want	VBD	0	ROOT	want.01	_
+7	one	one	CD	_	one	one	CD	6	OBJ	_	A1
+8	.	.	.	_	.	.	.	6	P	_	_
+9	/	/	SU	_	/	/	SU	6	DEP	_	_
+
+1	So	so	CC	_	So	so	CC	4	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0
+3	only	only	RB	_	only	only	RB	4	ADV	_	AM-MNR
+4	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_
+6	one	one	CD	_	one	one	CD	7	NMOD	_	_
+7	necklace	necklace	NN	_	necklace	necklace	NN	4	OBJ	_	A1
+8	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	9	DEP	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	9	DEP	_	_
+3	we	we	PRP	_	we	we	PRP	2	DEP	_	_
+4	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_
+5	,	,	,	_	,	,	,	9	P	_	_
+6	er	er	UH	_	er	er	UH	9	DEP	_	_
+7	,	,	,	_	,	,	,	9	P	_	_
+8	we	we	PRP	_	we	we	PRP	9	SBJ	_	A0
+9	decided	decided	VBD	_	decided	decide	VBD	0	ROOT	decide.01	_
+10	,	,	,	_	,	,	,	9	P	_	_
+11	/-	/-	SU	_	/-	/-	SU	9	DEP	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0	_	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_	_	_
+4	know	know	VB	_	know	know	VB	2	VC	know.01	A1	_	_	_
+5	if	if	IN	_	if	if	IN	4	OBJ	_	_	_	_	_
+6	it	it	PRP	_	it	it	PRP	7	SBJ	_	_	_	A1	_
+7	was	was	VBD	_	was	be	VBD	5	SUB	be.01	_	_	_	_
+8	jointly	jointly	RB	_	jointly	jointly	RB	7	VC	_	_	_	_	_
+9	or	or	CC	_	or	or	CC	5	COORD	_	_	_	_	_
+10	if	if	IN	_	if	if	IN	9	CONJ	_	_	_	_	_
+11	Kathy	kathy	NNP	_	Kathy	kathy	NNP	12	SBJ	_	_	_	_	A1
+12	was	was	VBD	_	was	be	VBD	10	SUB	be.01	_	_	_	_
+13	just	just	RB	_	just	just	RB	12	ADV	_	_	_	_	AM-MNR
+14	extremely	extremely	RB	_	extremely	extremely	RB	15	AMOD	_	_	_	_	_
+15	nice	nice	JJ	_	nice	nice	JJ	12	PRD	_	_	_	_	A2
+16	or	or	CC	_	or	or	CC	10	COORD	_	_	_	_	_
+17	whatever	whatever	WDT	_	whatever	whatever	WDT	16	CONJ	_	_	_	_	_
+18	,	,	,	_	,	,	,	2	P	_	_	_	_	_
+19	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A0	_	_
+3	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	_	A0	_
+5	could	could	MD	_	could	could	MD	3	OBJ	_	_	_	_
+6	wear	wear	VB	_	wear	wear	VB	5	VC	wear.01	_	_	_
+7	it	it	PRP	_	it	it	PRP	6	OBJ	_	_	A1	_
+8	part	part	NN	_	part	part	NN	6	TMP	part.03	_	AM-TMP	_
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	_	A0
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_
+11	time	time	NN	_	time	time	NN	9	PMOD	_	_	_	_
+12	.	.	.	_	.	.	.	3	P	_	_	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_	_	_	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_
+4	literally	literally	RB	_	literally	literally	RB	3	ADV	_	_	_	_	_	_
+5	time	time	VB	_	time	time	VB	3	VC	time.01	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+7	amount	amount	NN	_	amount	amount	NN	5	OBJ	amount.01	A1	A1	SU	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	of.SU	_	A2	_	SU	_
+9	time	time	NN	_	time	time	NN	8	PMOD	time.02	_	_	_	_	_
+10	we	we	PRP	_	we	we	PRP	11	SBJ	_	_	_	_	_	A0
+11	wore	wore	VBD	_	wore	wear	VBD	9	NMOD	wear.01	_	_	_	_	_
+12	it	it	PRP	_	it	it	PRP	11	OBJ	_	_	_	_	_	A1
+13	like	like	IN	_	like	like	IN	7	NMOD	_	_	_	_	A1	_
+14	30	30	CD	_	30	30	CD	15	NMOD	_	_	_	_	_	_
+15	minutes	minutes	NNS	_	minutes	minutes	NNS	13	PMOD	_	_	_	_	_	_
+16	or	or	CC	_	or	or	CC	15	COORD	_	_	_	_	_	_
+17	15	15	CD	_	15	15	CD	18	NMOD	_	_	_	_	_	_
+18	minutes	minutes	NNS	_	minutes	minutes	NNS	16	CONJ	_	_	_	_	_	_
+19	or	or	CC	_	or	or	CC	18	COORD	_	_	_	_	_	_
+20	whatever	whatever	WDT	_	whatever	whatever	WDT	19	CONJ	_	_	_	_	_	_
+21	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+22	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_
+3	way	way	NN	_	way	way	NN	0	ROOT	_	_	_	_
+4	we	we	PRP	_	we	we	PRP	5	SBJ	_	A0	_	_
+5	decided	decided	VBD	_	decided	decide	VBD	3	NMOD	decide.01	_	_	_
+6	who	who	WP	_	who	who	WP	7	SBJ	_	A1	A0	A0
+7	got	got	VBD	_	got	get	VBD	5	OBJ	get.01	_	_	_
+8	to	to	TO	_	to	to	TO	7	OPRD	_	_	A1	_
+9	wear	wear	VB	_	wear	wear	VB	8	IM	wear.01	_	_	_
+10	it	it	PRP	_	it	it	PRP	9	OBJ	_	_	_	A1
+11	first	first	RB	_	first	first	RB	9	TMP	_	_	_	AM-TMP
+12	,	,	,	_	,	,	,	3	P	_	_	_	_
+13	/-	/-	SU	_	/-	/-	SU	3	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	6	DEP	_	_	_	_
+2	this	this	DT	_	this	this	DT	6	SBJ	_	A0	_	_
+3	always	always	RB	_	always	always	RB	6	TMP	_	AM-TMP	_	_
+4	kind	kind	NN	_	kind	kind	NN	5	AMOD	_	_	_	_
+5	of	of	IN	_	of	of	IN	6	ADV	_	_	_	_
+6	bothered	bothered	VBD	_	bothered	bother	VBD	0	ROOT	bother.01	_	_	_
+7	me	me	PRP	_	me	me	PRP	6	OBJ	_	A1	_	_
+8	because	because	IN	_	because	because	IN	6	PRP	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	A0	_
+10	know	know	VBP	_	know	know	VBP	8	SUB	know.01	_	_	_
+11	Kathy	kathy	NNP	_	Kathy	kathy	NNP	12	SBJ	_	_	_	A0
+12	did	did	VBD	_	did	do	VBD	10	OBJ	do.02	_	A1	_
+13	this	this	DT	_	this	this	DT	12	OBJ	_	_	_	A1
+14	intentionally	intentionally	RB	_	intentionally	intentionally	RB	12	MNR	_	_	_	AM-MNR
+15	,	,	,	_	,	,	,	6	P	_	_	_	_
+16	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_
+
+1	she	she	PRP	_	she	she	PRP	2	SBJ	_	A0	_	_
+2	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_	_
+3	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_
+4	youngest	youngest	JJS	_	youngest	young	JJS	5	NMOD	_	_	_	_
+5	one	one	NN	_	one	one	NN	6	SBJ	_	_	A0	A0
+6	got	got	VBD	_	got	get	VBD	2	OBJ	get.01	A1	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	_	A1	_
+8	wear	wear	VB	_	wear	wear	VB	7	IM	wear.01	_	_	_
+9	it	it	PRP	_	it	it	PRP	8	OBJ	_	_	_	A1
+10	first	first	RB	_	first	first	RB	8	TMP	_	_	_	AM-TMP
+11	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A1	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+4	like	like	UH	_	like	like	UH	3	DEP	_	_	_
+5	six	six	CD	_	six	six	CD	6	NMOD	_	_	_
+6	months	months	NNS	_	months	month	NNS	7	AMOD	_	_	_
+7	younger	younger	JJR	_	younger	younger	JJR	3	PRD	_	A2	_
+8	than	than	IN	_	than	than	IN	7	AMOD	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	A1
+10	am	am	VBP	_	am	be	VBP	8	SUB	be.01	_	_
+11	.	.	.	_	.	.	.	3	P	_	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	So	so	CC	_	So	so	CC	8	DEP	_	_
+2	,	,	,	_	,	,	,	8	P	_	_
+3	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	8	DEP	_	_
+4	it	it	PRP	_	it	it	PRP	3	DEP	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	DEP	_	_
+6	,	,	,	_	,	,	,	8	P	_	_
+7	that	that	DT	_	that	that	DT	8	SBJ	_	A1
+8	became	became	VBD	_	became	become	VBD	0	ROOT	become.01	_
+9	a	a	DT	_	a	a	DT	11	NMOD	_	_
+10	normal	normal	JJ	_	normal	normal	JJ	11	NMOD	_	_
+11	thing	thing	NN	_	thing	thing	NN	8	PRD	_	A2
+12	with	with	IN	_	with	with	IN	11	NMOD	_	_
+13	us	us	PRP	_	us	us	PRP	12	PMOD	_	_
+14	.	.	.	_	.	.	.	8	P	_	_
+15	/	/	SU	_	/	/	SU	8	DEP	_	_
+
+1	Whenever	whenever	RB	_	Whenever	whenever	IN	4	TMP	_	_	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0	_	_	_	_	_
+3	only	only	RB	_	only	only	RB	4	ADV	_	AM-MNR	_	_	_	_	_
+4	had	had	VBD	_	had	have	VBD	9	TMP	have.04	_	_	_	_	_	_
+5	one	one	CD	_	one	one	CD	4	OBJ	_	A1	_	_	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	_	_	_	_	_
+7	something	something	NN	_	something	something	NN	6	PMOD	_	_	_	_	_	_	_
+8	she	she	PRP	_	she	she	PRP	9	SBJ	_	_	A0	_	_	_	_
+9	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_	_
+10	always	always	RB	_	always	always	RB	9	TMP	_	_	_	_	_	_	_
+11	say	say	VB	_	say	say	VB	9	VC	say.01	_	_	_	_	_	_
+12	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_
+13	"	"	''	_	"	"	''	11	P	_	_	_	_	_	_	_
+14	Well	well	UH	_	Well	well	UH	17	DEP	_	_	_	_	_	_	_
+15	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_
+16	I	i	PRP	_	I	i	PRP	17	SBJ	_	_	_	A0	_	_	_
+17	think	think	VBP	_	think	think	VBP	11	SEZ	think.01	_	_	_	_	_	_
+18	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_	_	_	_
+19	youngest	youngest	JJS	_	youngest	young	JJS	20	NMOD	_	_	_	_	_	_	_
+20	one	one	NN	_	one	one	NN	21	SBJ	_	_	_	_	A0	A0	A0
+21	gets	gets	VBZ	_	gets	get	VBZ	17	OBJ	get.01	_	_	A1	_	_	_
+22	to	to	TO	_	to	to	TO	21	OPRD	_	_	_	_	_	_	_
+23	do	do	VB	_	do	do	VB	22	IM	do.02	_	_	_	A1	_	_
+24	it	it	PRP	_	it	it	PRP	23	OBJ	_	_	_	_	_	A1	_
+25	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_	_
+26	or	or	CC	_	or	or	CC	23	COORD	_	_	_	_	_	_	_
+27	wear	wear	VB	_	wear	wear	VB	26	CONJ	wear.01	_	_	_	_	_	_
+28	it	it	PRP	_	it	it	PRP	27	OBJ	_	_	_	_	_	_	A1
+29	or	or	CC	_	or	or	CC	23	COORD	_	_	_	_	_	_	_
+30	whatever	whatever	WDT	_	whatever	whatever	WDT	23	OBJ	_	_	_	_	_	_	_
+31	first	first	RB	_	first	first	RB	23	TMP	_	_	_	_	_	AM-TMP	AM-TMP
+32	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_
+33	"	"	''	_	"	"	''	9	P	_	_	_	_	_	_	_
+34	/	/	SU	_	/	/	SU	9	DEP	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	6	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	6	P	_	_	_	_
+3	that	that	DT	_	that	that	DT	6	SBJ	_	A0	_	_
+4	just	just	RB	_	just	just	RB	6	ADV	_	AM-MNR	_	_
+5	always	always	RB	_	always	always	RB	6	TMP	_	AM-TMP	_	_
+6	stuck	stuck	VBD	_	stuck	stick	VBD	0	ROOT	stick.01	_	_	_
+7	in	in	IN	_	in	in	IN	6	LOC	_	A1	_	_
+8	my	my	PRP$	_	my	my	PRP$	9	NMOD	_	_	_	_
+9	mind	mind	NN	_	mind	mind	NN	7	PMOD	_	_	_	_
+10	,	,	,	_	,	,	,	6	P	_	_	_	_
+11	that	that	IN	_	that	that	IN	6	PRP	_	_	_	_
+12	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	11	SUB	_	_	_	_
+13	in	in	IN	_	in	in	IN	12	DEP	_	_	_	_
+14	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	12	DEP	_	_	_	_
+15	,	,	,	_	,	,	,	11	P	_	_	_	_
+16	in	in	IN	_	in	in	IN	21	TMP	_	_	_	AM-TMP
+17	our	our	PRP$	_	our	our	PRP$	19	NMOD	_	_	A1	_
+18	adult	adult	NN	_	adult	adult	NN	19	NMOD	_	_	_	_
+19	life	life	NN	_	life	life	NN	16	PMOD	life.02	_	A2	_
+20	I	i	PRP	_	I	i	PRP	21	SBJ	_	_	_	A0
+21	brought	brought	VBD	_	brought	bring	VBD	11	SUB	bring.01	_	_	_
+22	that	that	DT	_	that	that	DT	21	OBJ	_	_	_	A1
+23	up	up	RP	_	up	up	RP	21	PRT	_	_	_	_
+24	to	to	TO	_	to	to	TO	21	ADV	_	_	_	A2
+25	her	her	PRP	_	her	her	PRP	24	PMOD	_	_	_	_
+26	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	5	DEP	_	_	_	_	_
+2	she	she	PRP	_	she	she	PRP	5	SBJ	_	A0	A0	_	_
+3	sort	sort	NN	_	sort	sort	NN	4	AMOD	sort.03	_	_	_	_
+4	of	of	IN	_	of	of	IN	5	ADV	_	_	_	_	_
+5	acted	acted	VBD	_	acted	act	VBD	0	ROOT	act.01	SU	_	_	_
+6	like	like	IN	_	like	like	IN	5	MNR	_	_	AM-MNR	_	_
+7	she	she	PRP	_	she	she	PRP	8	SBJ	_	_	_	A0	A0
+8	did	did	VBD	_	did	do	VBD	6	SUB	do.02	_	_	_	_
+9	n't	not	RB	_	n't	not	RB	8	ADV	_	_	_	_	_
+10	know	know	VB	_	know	know	VB	8	VC	know.01	_	_	A1	_
+11	anything	anything	NN	_	anything	anything	NN	10	OBJ	_	_	_	_	A1
+12	about	about	IN	_	about	about	IN	11	NMOD	_	_	_	_	_
+13	that	that	DT	_	that	that	DT	12	PMOD	_	_	_	_	_
+14	/	/	SU	_	/	/	SU	5	DEP	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_
+3	thought	thought	VBD	_	thought	think	VBD	0	ROOT	think.01	_	_
+4	to	to	TO	_	to	to	TO	3	ADV	_	A1	_
+5	myself	myself	PRP	_	myself	myself	PRP	4	PMOD	_	_	_
+6	,	,	,	_	,	,	,	3	P	_	_	_
+7	"	"	''	_	"	"	''	3	P	_	_	_
+8	she	she	PRP	_	she	she	PRP	9	SBJ	_	_	A0
+9	does	does	VBZ	_	does	do	VBZ	3	SEZ	do.02	A2	_
+10	,	,	,	_	,	,	,	3	P	_	_	_
+11	"	"	''	_	"	"	''	3	P	_	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_
+2	then	then	RB	_	then	then	RB	4	TMP	_	AM-TMP
+3	she	she	PRP	_	she	she	PRP	4	SBJ	_	A0
+4	laughed	laughed	VBD	_	laughed	laugh	VBD	0	ROOT	laugh.01	_
+5	about	about	IN	_	about	about	IN	4	ADV	_	A1
+6	it	it	PRP	_	it	it	PRP	5	PMOD	_	_
+7	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A0	_	_
+3	realized	realized	VBD	_	realized	realize	VBD	0	ROOT	realize.01	_	_	_
+4	that	that	IN	_	that	that	IN	3	OBJ	_	A1	_	_
+5	she	she	PRP	_	she	she	PRP	6	SBJ	_	_	A0	A0
+6	had	had	VBD	_	had	have	VBD	4	SUB	have.04	_	_	_
+7	kinda	kinda	RB	_	kinda	kinda	RB	6	ADV	_	_	AM-MNR	_
+8	held	held	VBN	_	held	hold	VBN	6	VC	hold.01	_	A1	_
+9	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_
+10	trump	trump	JJ	_	trump	trump	NN	11	NMOD	_	_	_	_
+11	card	card	NN	_	card	card	NN	8	OBJ	_	_	_	A1
+12	on	on	IN	_	on	on	IN	8	ADV	_	_	_	A3
+13	that	that	DT	_	that	that	DT	14	NMOD	_	_	_	_
+14	one	one	NN	_	one	one	NN	12	PMOD	_	_	_	_
+15	.	.	.	_	.	.	.	3	P	_	_	_	_
+16	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	5	DEP	_	_	_
+2	,	,	,	_	,	,	,	5	P	_	_	_
+3	also	also	RB	_	also	also	RB	5	ADV	_	AM-DIS	_
+4	we	we	PRP	_	we	we	PRP	5	SBJ	_	A0	_
+5	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_
+6	a	a	DT	_	a	a	DT	7	NMOD	_	_	_
+7	lot	lot	NN	_	lot	lot	NN	5	OBJ	lot.01	AM-ADV	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A1
+9	pretending	pretending	NN	_	pretending	pretending	NN	8	PMOD	_	_	_
+10	/	/	SU	_	/	/	SU	5	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	6	DEP	_	_	_
+2	as	as	IN	_	as	as	IN	6	ADV	_	_	AM-TMP
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_
+4	said	said	VBD	_	said	say	VBD	2	SUB	say.01	_	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	_	A0
+6	played	played	VBD	_	played	play	VBD	0	ROOT	play.03	_	_
+7	career	career	NN	_	career	career	NN	8	NMOD	_	_	_
+8	girls	girls	NNS	_	girls	girl	NNS	6	OBJ	_	_	A1
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_
+11	dress	dress	NNS	_	dress	dress	NNS	12	NMOD	_	_	_
+12	ups	ups	NNS	_	ups	ups	NNS	9	CONJ	_	_	_
+13	.	.	.	_	.	.	.	6	P	_	_	_
+14	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	6	DEP	_	_	_
+2	my	my	PRP$	_	my	my	PRP$	3	NMOD	_	_	_
+3	sister	sister	NN	_	sister	sister	NN	6	SBJ	_	A0	A0
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_
+5	I	i	PRP	_	I	i	PRP	4	CONJ	_	_	_
+6	used	used	VBD	_	used	use	VBD	0	ROOT	use.01	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	_	_
+8	pretend	pretend	VB	_	pretend	pretend	VB	7	IM	pretend.01	_	_
+9	also	also	RB	_	also	also	RB	8	ADV	_	_	AM-DIS
+10	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	Jill	jill	NNP	_	Jill	jill	NNP	3	SBJ	_	A1	_
+3	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+4	about	about	RB	_	about	about	RB	6	NMOD	_	_	_
+5	2	2	CD	_	2	2	CD	4	DEP	_	_	_
+6	years	years	NNS	_	years	years	NNS	7	AMOD	_	_	_
+7	younger	younger	JJR	_	younger	younger	JJR	12	AMOD	_	A2	_
+8	than	than	IN	_	than	than	IN	12	AMOD	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	A1
+10	am	am	VBP	_	am	be	VBP	8	SUB	be.01	_	_
+11	,	,	,	_	,	,	,	12	P	_	_	_
+12	maybe	maybe	RB	_	maybe	maybe	RB	3	PRD	_	_	_
+13	two	two	CD	_	two	two	CD	12	COORD	_	_	_
+14	and	and	CC	_	and	and	CC	13	COORD	_	_	_
+15	a	a	DT	_	a	a	DT	14	CONJ	_	_	_
+16	half	half	NN	_	half	half	NN	15	COORD	_	_	_
+17	,	,	,	_	,	,	,	3	P	_	_	_
+18	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	_	_
+3	used	used	VBD	_	used	use	VBD	0	ROOT	use.01	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	_	_	_	_
+5	play	play	VB	_	play	play	VB	4	IM	play.03	_	_	_	_
+6	Robin	robin	NNP	_	Robin	robin	NN	7	NMOD	_	_	_	_	_
+7	Hood	hood	NNP	_	Hood	hood	NN	5	OBJ	_	_	A1	_	_
+8	except	except	IN	_	except	except	IN	5	ADV	_	_	_	_	_
+9	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	_	A0	A0
+10	did	did	VBD	_	did	do	VBD	8	SUB	do.02	_	_	_	_
+11	n't	not	RB	_	n't	not	RB	10	ADV	_	_	_	_	_
+12	have	have	VB	_	have	have	VB	10	VC	have.04	_	_	A1	_
+13	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_
+14	Maid	maid	NNP	_	Maid	maid	NNP	15	NAME	_	_	_	_	_
+15	Marion	marion	NNP	_	Marion	marion	NNP	12	OBJ	_	_	_	_	A1
+16	,	,	,	_	,	,	,	3	P	_	_	_	_	_
+17	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A0
+2	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_
+3	a	a	DT	_	a	a	DT	4	NMOD	_	_
+4	Saretha	saretha	NNP	_	Saretha	saretha	NNP	2	OBJ	_	A1
+5	,	,	,	_	,	,	,	2	P	_	_
+6	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_	_
+4	know	know	VB	_	know	know	VB	2	VC	know.01	A1	_	_
+5	where	where	WRB	_	where	where	WRB	12	PMOD	_	_	A1	_
+6	in	in	IN	_	in	in	IN	5	AMOD	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+8	world	world	NN	_	world	world	NN	6	PMOD	_	_	_	_
+9	that	that	DT	_	that	that	DT	10	NMOD	_	_	_	_
+10	name	name	NN	_	name	name	NN	11	SBJ	_	_	_	A1
+11	came	came	VBD	_	came	come	VBD	4	OBJ	come.01	_	_	_
+12	from	from	IN	_	from	from	IN	11	DIR	_	_	_	A2
+13	.	.	.	_	.	.	.	2	P	_	_	_	_
+14	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+4	switch	switch	VB	_	switch	switch	VB	3	VC	switch.01	_	_
+5	playing	playing	VBG	_	playing	play	VBG	4	VC	play.03	A1	_
+6	Robin	robin	NNP	_	Robin	robin	NN	7	NMOD	_	_	_
+7	Hood	hood	NNP	_	Hood	hood	NN	5	OBJ	_	_	A1
+8	,	,	,	_	,	,	,	3	P	_	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	one	one	PRP	_	one	one	PRP	2	SBJ	_	A0
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_
+3	play	play	VB	_	play	play	VB	2	VC	play.03	_
+4	Robin	robin	NNP	_	Robin	robin	NNP	5	NAME	_	_
+5	Hood	hood	NNP	_	Hood	hood	NNP	3	OBJ	_	A1
+6	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	one	one	PRP	_	one	one	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	play	play	VB	_	play	play	VB	3	VC	play.03	_
+5	Saretha	saretha	NNP	_	Saretha	saretha	NNP	4	OBJ	_	A1
+6	.	.	.	_	.	.	.	3	P	_	_
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	Saretha	saretha	NNP	_	Saretha	saretha	NNP	3	SBJ	_	A1
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_
+5	counter	counter	NN	_	counter	counter	NN	3	PRD	_	A2
+6	,	,	,	_	,	,	,	3	P	_	_
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	would	would	MD	_	would	would	MD	0	ROOT	_	_
+2	be	be	VB	_	be	be	VB	1	VC	be.01	_
+3	the	the	DT	_	the	the	DT	5	NMOD	_	_
+4	same	same	JJ	_	same	same	JJ	5	NMOD	_	_
+5	thing	thing	NN	_	thing	thing	NN	2	PRD	_	A2
+6	as	as	IN	_	as	as	IN	5	NMOD	_	_
+7	Maid	maid	NNP	_	Maid	maid	NNP	8	NAME	_	_
+8	Marion	marion	NNP	_	Marion	marion	NNP	6	PMOD	_	_
+9	,	,	,	_	,	,	,	1	P	_	_
+10	/	/	SU	_	/	/	SU	1	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	10	DEP	_	_	_	_	_
+2	,	,	,	_	,	,	,	10	P	_	_	_	_	_
+3	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	10	DEP	_	_	_	_	_
+4	why	why	WRB	_	why	why	WRB	3	DEP	_	_	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	DEP	_	_	_	_	_
+6	,	,	,	_	,	,	,	10	P	_	_	_	_	_
+7	again	again	RB	_	again	again	RB	10	ADV	_	AM-TMP	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	A0	A0	_	_
+10	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_
+11	n't	not	RB	_	n't	not	RB	10	ADV	_	_	_	_	_
+12	know	know	VB	_	know	know	VB	10	VC	know.01	A1	_	_	_
+13	why	why	WRB	_	why	why	WRB	17	PRP	_	_	A1	_	_
+14	we	we	PRP	_	we	we	PRP	15	SBJ	_	_	_	A0	A0
+15	did	did	VBD	_	did	do	VBD	12	OBJ	do.02	_	_	_	_
+16	n't	not	RB	_	n't	not	RB	15	ADV	_	_	_	_	_
+17	use	use	VB	_	use	use	VB	15	VC	use.01	_	_	A1	_
+18	Maid	maid	NNP	_	Maid	maid	NNP	19	NAME	_	_	_	_	_
+19	Marion	marion	NNP	_	Marion	marion	NNP	17	OBJ	_	_	_	_	A1
+20	.	.	.	_	.	.	.	10	P	_	_	_	_	_
+21	/	/	SU	_	/	/	SU	10	DEP	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	6	DEP	_	_	_
+2	in	in	IN	_	in	in	IN	6	LOC	_	_	_
+3	my	my	PRP$	_	my	my	PRP$	4	NMOD	_	_	_
+4	mind	mind	NN	_	mind	mind	NN	2	PMOD	_	_	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	A0	A0
+6	can	can	MD	_	can	can	MD	0	ROOT	_	_	_
+7	remember	remember	VB	_	remember	remember	VB	6	VC	remember.01	_	_
+8	playing	playing	VBG	_	playing	play	VBG	7	OPRD	play.01	A1	_
+9	that	that	DT	_	that	that	DT	8	OBJ	_	_	A1
+10	,	,	,	_	,	,	,	8	P	_	_	_
+11	like	like	UH	_	like	like	UH	8	DEP	_	_	A2
+12	all	all	DT	_	all	all	DT	13	NMOD	_	_	_
+13	day	day	NN	_	day	day	NN	14	AMOD	_	_	_
+14	long	long	RB	_	long	long	RB	8	TMP	_	_	AM-TMP
+15	.	.	.	_	.	.	.	6	P	_	_	_
+16	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	go	go	VB	_	go	go	VB	3	VC	go.03	_
+5	over	over	RP	_	over	over	RP	4	PRT	_	_
+6	to	to	TO	_	to	to	TO	4	DIR	_	A1
+7	my	my	PRP$	_	my	my	PRP$	8	NMOD	_	_
+8	grandparents	grandparents	NNS	_	grandparents	grandparent	NNS	6	PMOD	_	_
+9	'	'	POS	_	'	'	POS	8	SUFFIX	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A0	_
+3	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	_
+4	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	10	NMOD	_	_	_
+5	a	a	DT	_	a	a	DT	4	DEP	_	_	_
+6	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	4	DEP	_	_	_
+7	a	a	DT	_	a	a	DT	10	NMOD	_	_	_
+8	big	big	JJ	_	big	big	JJ	10	NMOD	_	_	_
+9	white	white	JJ	_	white	white	JJ	10	NMOD	_	_	_
+10	house	house	NN	_	house	house	NN	3	OBJ	_	A1	_
+11	with	with	IN	_	with	with	IN	10	NMOD	_	_	_
+12	a	a	DT	_	a	a	DT	15	NMOD	_	_	_
+13	big	big	JJ	_	big	big	JJ	15	NMOD	_	_	_
+14	front	front	JJ	_	front	front	NN	15	NMOD	_	_	_
+15	porch	porch	NN	_	porch	porch	NN	11	PMOD	_	_	_
+16	and	and	CC	_	and	and	CC	15	COORD	_	_	_
+17	,	,	,	_	,	,	,	16	P	_	_	_
+18	uh	uh	UH	_	uh	uh	UH	15	NMOD	_	_	_
+19	,	,	,	_	,	,	,	16	P	_	_	_
+20	banisters	banisters	NNS	_	banisters	banister	NNS	16	CONJ	_	_	_
+21	on	on	IN	_	on	on	IN	20	LOC	_	_	_
+22	it	it	PRP	_	it	it	PRP	21	PMOD	_	_	_
+23	and	and	CC	_	and	and	CC	10	COORD	_	_	_
+24	a	a	DT	_	a	a	DT	25	NMOD	_	_	_
+25	lot	lot	NN	_	lot	lot	NN	23	CONJ	lot.01	_	_
+26	of	of	IN	_	of	of	IN	25	NMOD	_	_	A1
+27	rocking	rocking	VBG	_	rocking	rock	VBG	28	NMOD	_	_	_
+28	chairs	chairs	NNS	_	chairs	chair	NNS	26	PMOD	_	_	_
+29	out	out	RB	_	out	out	RB	25	LOC	_	_	_
+30	on	on	IN	_	on	on	IN	29	AMOD	_	_	_
+31	the	the	DT	_	the	the	DT	33	NMOD	_	_	_
+32	front	front	JJ	_	front	front	NN	33	NMOD	_	_	_
+33	porch	porch	NN	_	porch	porch	NN	30	PMOD	_	_	_
+34	.	.	.	_	.	.	.	3	P	_	_	_
+35	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A1	A0
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+4	just	just	RB	_	just	just	RB	7	NMOD	_	_	_
+5	a	a	DT	_	a	a	DT	7	NMOD	_	_	_
+6	great	great	JJ	_	great	great	JJ	7	NMOD	_	_	_
+7	place	place	NN	_	place	place	NN	3	PRD	_	A2	_
+8	to	to	TO	_	to	to	TO	7	NMOD	_	_	_
+9	pretend	pretend	VB	_	pretend	pretend	VB	8	IM	pretend.01	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	climb	climb	VB	_	climb	climb	VB	3	VC	climb.01	_
+5	up	up	RB	_	up	up	RB	4	DIR	_	A1
+6	on	on	IN	_	on	on	IN	5	AMOD	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_
+8	porch	porch	NN	_	porch	porch	NN	6	PMOD	_	_
+9	and	and	CC	_	and	and	CC	6	COORD	_	_
+10	on	on	IN	_	on	on	IN	9	CONJ	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_
+12	banisters	banisters	NNS	_	banisters	banister	NNS	10	PMOD	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	could	could	MD	_	could	could	MD	0	ROOT	_	_
+4	make	make	VB	_	make	make	VB	3	VC	make.08	_
+5	those	those	DT	_	those	those	DT	4	OBJ	_	_
+6	our	our	PRP$	_	our	our	PRP$	7	NMOD	_	_
+7	horses	horses	NNS	_	horses	horse	NNS	4	OPRD	_	A2
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	or	or	CC	_	or	or	CC	6	DEP	_	_
+2	,	,	,	_	,	,	,	6	P	_	_
+3	uh	uh	UH	_	uh	uh	UH	6	DEP	_	_
+4	,	,	,	_	,	,	,	6	P	_	_
+5	it	it	PRP	_	it	it	PRP	6	SBJ	_	A1
+6	could	could	MD	_	could	could	MD	0	ROOT	_	_
+7	be	be	VB	_	be	be	VB	6	VC	be.01	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_
+9	castle	castle	NN	_	castle	castle	NN	7	PRD	_	A2
+10	;	;	:	_	;	;	:	6	P	_	_
+11	/	/	SU	_	/	/	SU	6	DEP	_	_
+
+1	just	just	RB	_	just	just	RB	0	ROOT	_	_
+2	do	do	VB	_	do	do	VB	1	DEP	do.02	_
+3	many	many	JJ	_	many	many	DT	4	NMOD	_	_
+4	things	things	NNS	_	things	things	NNS	2	OBJ	_	A1
+5	with	with	IN	_	with	with	IN	2	ADV	_	A2
+6	it	it	PRP	_	it	it	PRP	5	PMOD	_	_
+7	.	.	.	_	.	.	.	1	P	_	_
+8	/	/	SU	_	/	/	SU	1	DEP	_	_
+
+1	Um	um	UH	_	Um	um	UH	0	ROOT	_	_	_	_	_
+2	,	,	,	_	,	,	,	1	P	_	_	_	_	_
+3	and	and	CC	_	and	and	CC	1	COORD	_	_	_	_	_
+4	when	when	WRB	_	when	when	WRB	8	TMP	_	_	_	_	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	A1	A0	_	_
+6	were	were	VBD	_	were	be	VBD	1	TMP	be.01	_	_	_	_
+7	still	still	RB	_	still	still	RB	6	TMP	_	AM-TMP	_	_	_
+8	living	living	VBG	_	living	live	VBG	6	VC	live.01	A2	_	_	_
+9	in	in	IN	_	in	in	IN	8	LOC	_	_	A1	_	_
+10	High	high	NNP	_	High	high	NNP	11	NAME	_	_	_	_	_
+11	Point	point	NNP	_	Point	point	NNP	9	PMOD	_	_	_	_	_
+12	in	in	IN	_	in	in	IN	1	LOC	_	_	_	_	_
+13	our	our	PRP$	_	our	our	PRP$	15	NMOD	_	_	_	A0	_
+14	back	back	NN	_	back	back	NN	15	NMOD	back.02	_	_	_	_
+15	yard	yard	NN	_	yard	yard	NN	12	PMOD	_	_	_	_	_
+16	we	we	PRP	_	we	we	PRP	1	SBJ	_	_	_	_	A0
+17	had	had	VBD	_	had	have	VBD	3	CONJ	have.04	_	_	_	_
+18	a	a	DT	_	a	a	DT	19	NMOD	_	_	_	_	_
+19	huge	huge	JJ	_	huge	huge	JJ	17	OBJ	_	_	_	_	A1
+20	,	,	,	_	,	,	,	17	P	_	_	_	_	_
+21	/-	/-	SU	_	/-	/-	SU	17	COORD	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_
+4	know	know	VB	_	know	know	VB	2	VC	know.01	A1	_
+5	,	,	,	_	,	,	,	2	P	_	_	_
+6	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	_	_
+2	guess	guess	VBP	_	guess	guess	VBP	0	ROOT	guess.01	_	_	_
+3	it	it	PRP	_	it	it	PRP	4	SBJ	_	_	A1	_
+4	was	was	VBD	_	was	be	VBD	2	OBJ	be.01	A1	_	_
+5	an	an	DT	_	an	an	DT	7	NMOD	_	_	_	_
+6	oak	oak	NN	_	oak	oak	NN	7	NMOD	_	_	_	A1
+7	tree	tree	NN	_	tree	tree	NN	4	PRD	tree.01	_	A2	A2
+8	,	,	,	_	,	,	,	2	P	_	_	_	_
+9	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A1
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+4	a	a	DT	_	a	a	DT	7	NMOD	_	_
+5	really	really	RB	_	really	really	RB	6	AMOD	_	_
+6	big	big	JJ	_	big	big	JJ	7	NMOD	_	_
+7	tree	tree	NN	_	tree	tree	NN	3	PRD	_	A2
+8	,	,	,	_	,	,	,	3	P	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A1
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+4	a	a	DT	_	a	a	DT	6	NMOD	_	_
+5	climbable	climbable	JJ	_	climbable	climbable	JJ	6	NMOD	_	_
+6	tree	tree	NN	_	tree	tree	NN	3	PRD	_	A2
+7	.	.	.	_	.	.	.	3	P	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A0	_
+3	had	had	VBD	_	had	have	VBD	0	ROOT	have.03	_	_
+4	real	real	RB	_	real	real	RB	5	AMOD	_	_	_
+5	large	large	JJ	_	large	large	JJ	8	NMOD	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_
+7	thick	thick	JJ	_	thick	thick	JJ	8	NMOD	_	_	_
+8	branches	branches	NNS	_	branches	branch	NNS	3	OBJ	_	A1	A0
+9	extending	extending	VBG	_	extending	extend	VBG	8	APPO	extend.01	_	_
+10	out	out	RB	_	out	out	RB	9	DIR	_	_	A2
+11	to	to	TO	_	to	to	TO	10	AMOD	_	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_
+13	side	side	NN	_	side	side	NN	11	PMOD	_	_	_
+14	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A1	_
+3	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+4	fat	fat	JJ	_	fat	fat	JJ	5	AMOD	_	_	_
+5	enough	enough	RB	_	enough	enough	RB	6	NMOD	_	_	_
+6	branches	branches	NNS	_	branches	branch	NNS	3	PRD	_	A2	_
+7	where	where	WRB	_	where	where	WRB	19	LOC	_	_	_
+8	as	as	IN	_	as	as	IN	18	ADV	_	_	_
+9	a	a	DT	_	a	a	DT	10	NMOD	_	_	_
+10	child	child	NN	_	child	child	NN	8	PMOD	_	_	_
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_	_
+12	eight	eight	CD	_	eight	eight	CD	15	NMOD	_	_	_
+13	and	and	CC	_	and	and	CC	12	COORD	_	_	_
+14	nine	nine	CD	_	nine	nine	CD	13	CONJ	_	_	_
+15	years	years	NNS	_	years	years	NNS	16	AMOD	_	_	_
+16	old	old	JJ	_	old	old	JJ	11	PMOD	_	_	_
+17	we	we	PRP	_	we	we	PRP	18	SBJ	_	_	A0
+18	could	could	MD	_	could	could	MD	6	NMOD	_	_	_
+19	straddle	straddle	VB	_	straddle	straddle	VB	18	VC	straddle.01	_	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_
+21	branches	branches	NNS	_	branches	branch	NNS	19	OBJ	_	_	A1
+22	.	.	.	_	.	.	.	3	P	_	_	_
+23	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_
+2	that	that	DT	_	that	that	DT	3	SBJ	_	A1	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+4	another	another	DT	_	another	another	DT	5	NMOD	_	_	_	_
+5	game	game	NN	_	game	game	NN	3	PRD	_	A2	_	_
+6	that	that	WDT	_	that	that	WDT	12	OBJ	_	_	_	_
+7	Jill	jill	NNP	_	Jill	jill	NNP	10	SBJ	_	_	A0	A0
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	8	CONJ	_	_	_	_
+10	used	used	VBD	_	used	use	VBD	5	NMOD	use.01	_	_	_
+11	to	to	TO	_	to	to	TO	10	OPRD	_	_	_	_
+12	play	play	VB	_	play	play	VB	11	IM	play.01	_	_	_
+13	;	;	:	_	;	;	:	3	P	_	_	_	_
+14	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A0	_
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+3	pretend	pretend	VB	_	pretend	pretend	VB	2	VC	pretend.01	_	_
+4	we	we	PRP	_	we	we	PRP	5	SBJ	_	_	A1
+5	were	were	VBD	_	were	be	VBD	3	OBJ	be.01	A1	_
+6	in	in	IN	_	in	in	IN	5	LOC-PRD	_	_	A2
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_
+8	jungle	jungle	NN	_	jungle	jungle	NN	6	PMOD	_	_	_
+9	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A1
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	climb	climb	VB	_	climb	climb	VB	3	VC	climb.02	_
+5	up	up	RB	_	up	up	RB	4	DIR	_	A2
+6	on	on	IN	_	on	on	IN	4	LOC	_	A3
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_
+8	tree	tree	NN	_	tree	tree	NN	6	PMOD	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_	A0	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_
+4	straddle	straddle	VB	_	straddle	straddle	VB	3	VC	straddle.01	_	_	_	_
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_
+6	tree	tree	NN	_	tree	tree	NN	7	NMOD	_	_	A1	_	_
+7	branches	branches	NNS	_	branches	branch	NNS	4	OBJ	branch.02	A1	_	_	_
+8	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_	_
+9	pretend	pretend	VB	_	pretend	pretend	VB	8	CONJ	pretend.01	_	_	_	_
+10	it	it	PRP	_	it	it	PRP	11	SBJ	_	_	_	_	A1
+11	was	was	VBD	_	was	be	VBD	9	OBJ	be.01	_	_	A1	_
+12	our	our	PRP$	_	our	our	PRP$	13	NMOD	_	_	_	_	_
+13	elephant	elephant	NN	_	elephant	elephant	NN	11	PRD	_	_	_	_	A2
+14	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+15	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	7	DEP	_	_	_	_	_	_
+2	in	in	IN	_	in	in	IN	7	LOC	_	AM-LOC	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_
+4	yard	yard	NN	_	yard	yard	NN	2	PMOD	_	_	_	_	_	_
+5	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_
+6	we	we	PRP	_	we	we	PRP	7	SBJ	_	A0	A1	_	_	_
+7	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	SU	_	_	_
+8	an	an	DT	_	an	an	DT	10	NMOD	_	_	_	_	_	_
+9	old	old	JJ	_	old	old	JJ	10	NMOD	_	_	AM-TMP	_	_	_
+10	tree	tree	NN	_	tree	tree	NN	7	OBJ	tree.01	A1	A2	A0	A1	A0
+11	that	that	WDT	_	that	that	WDT	12	SBJ	_	_	_	_	_	_
+12	had	had	VBD	_	had	have	VBD	10	NMOD	have.03	_	_	_	_	_
+13	been	been	VBN	_	been	be	VBN	12	VC	be.01	_	_	A1	_	_
+14	cut	cut	VBN	_	cut	cut	VBN	13	VC	cut.01	_	_	_	A2	_
+15	down	down	RP	_	down	down	RP	14	PRT	_	_	_	_	_	_
+16	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	5	DEP	_	_	_
+2	just	just	RB	_	just	just	RB	5	ADV	_	AM-MNR	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_
+4	stump	stump	NN	_	stump	stump	NN	5	SBJ	_	A1	A1
+5	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+6	remaining	remaining	VBG	_	remaining	remain	VBG	5	VC	remain.01	A2	_
+7	/	/	SU	_	/	/	SU	5	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_	_	_
+2	my	my	PRP$	_	my	my	PRP$	3	NMOD	_	_	_	_
+3	mother	mother	NN	_	mother	mother	NN	4	SBJ	mother.01	A0	A0	A0
+4	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	SU	_	_
+5	planted	planted	VBN	_	planted	plant	VBN	4	VC	plant.01	A1	A1	_
+6	,	,	,	_	,	,	,	5	P	_	_	_	_
+7	um	um	UH	_	um	um	UH	5	DEP	_	_	_	A1
+8	,	,	,	_	,	,	,	5	P	_	_	_	_
+9	flowers	flowers	NNS	_	flowers	flower	NNS	5	OBJ	_	_	_	A2
+10	all	all	RB	_	all	all	RB	11	PMOD	_	_	_	_
+11	around	around	IN	_	around	around	IN	5	LOC	_	_	_	AM-LOC
+12	that	that	DT	_	that	that	DT	13	NMOD	_	_	_	_
+13	stump	stump	NN	_	stump	stump	NN	11	PMOD	_	_	_	_
+14	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	use	use	VB	_	use	use	VB	3	VC	use.01	_
+5	that	that	DT	_	that	that	DT	6	NMOD	_	_
+6	stump	stump	NN	_	stump	stump	NN	4	OBJ	_	A1
+7	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	4	DEP	_	_
+8	as	as	IN	_	as	as	IN	7	DEP	_	A2
+9	a	a	DT	_	a	a	DT	8	PMOD	_	_
+10	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	7	DEP	_	_
+11	,	,	,	_	,	,	,	4	P	_	_
+12	as	as	IN	_	as	as	IN	4	ADV	_	_
+13	a	a	DT	_	a	a	DT	14	NMOD	_	_
+14	throne	throne	NN	_	throne	throne	NN	12	PMOD	_	_
+15	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_
+3	princess	princess	NN	_	princess	princess	NN	4	SBJ	_	A0	A1	A0
+4	got	got	VBD	_	got	get	VBD	0	ROOT	get.01	_	_	_
+5	to	to	TO	_	to	to	TO	4	OPRD	_	_	_	_
+6	sit	sit	VB	_	sit	sit	VB	5	IM	sit.02	A1	_	_
+7	up	up	RB	_	up	up	RB	6	LOC	_	_	AM-LOC	_
+8	on	on	IN	_	on	on	IN	7	AMOD	_	_	_	_
+9	that	that	DT	_	that	that	DT	10	NMOD	_	_	_	_
+10	stump	stump	NN	_	stump	stump	NN	8	PMOD	_	_	_	_
+11	on	on	IN	_	on	on	IN	8	PMOD	_	_	_	_
+12	that	that	DT	_	that	that	DT	13	NMOD	_	_	_	_
+13	throne	throne	NN	_	throne	throne	NN	11	PMOD	_	_	_	_
+14	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_
+15	have	have	VB	_	have	have	VB	14	CONJ	have.04	_	_	_
+16	all	all	PDT	_	all	all	PDT	18	NMOD	_	_	_	_
+17	those	those	DT	_	those	those	DT	18	NMOD	_	_	_	_
+18	flowers	flowers	NNS	_	flowers	flower	NNS	15	OBJ	_	_	_	A1
+19	around	around	IN	_	around	around	IN	15	LOC	_	_	_	AM-LOC
+20	her	her	PRP	_	her	her	PRP	19	PMOD	_	_	_	_
+21	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	that	that	DT	_	that	that	DT	3	SBJ	_	A1
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	be	be	VB	_	be	be	VB	3	VC	be.01	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_
+6	throne	throne	NN	_	throne	throne	NN	4	PRD	_	A2
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A1
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	be	be	VB	_	be	be	VB	3	VC	be.01	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_
+6	queen	queen	NN	_	queen	queen	NN	4	PRD	_	A2
+7	or	or	CC	_	or	or	CC	6	COORD	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_
+9	princess	princess	NN	_	princess	princess	NN	7	CONJ	_	_
+10	or	or	CC	_	or	or	CC	9	COORD	_	_
+11	whatever	whatever	WDT	_	whatever	whatever	WDT	10	CONJ	_	_
+12	.	.	.	_	.	.	.	3	P	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	When	when	WRB	_	When	when	WRB	3	TMP	_	_	_	AM-TMP	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A1	_	_	_	_
+3	was	was	VBD	_	was	be	VBD	11	TMP	be.01	_	_	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_	_	_
+5	teenager	teenager	NN	_	teenager	teenager	NN	3	PRD	_	A2	_	_	_	_
+6	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_
+7	an	an	DT	_	an	an	DT	10	NMOD	_	_	_	_	_	_
+8	Audrey	audrey	NNP	_	Audrey	audrey	NNP	9	NAME	_	_	_	_	_	_
+9	Hepburn	hepburn	NNP	_	Hepburn	hepburn	NNP	10	NMOD	_	_	A0	_	_	_
+10	movie	movie	NN	_	movie	movie	NN	11	SBJ	movie.01	_	_	A1	A0	A1
+11	came	came	VBD	_	came	come	VBD	0	ROOT	come.01	_	_	_	_	_
+12	out	out	RP	_	out	out	RP	11	PRT	_	_	_	_	_	_
+13	called	called	VBN	_	called	call	VBN	10	NMOD	call.01	_	SU	_	_	_
+14	Wait	wait	VB	_	Wait	wait	VB	13	OPRD	_	_	_	_	A2	_
+15	Until	until	IN	_	Until	until	IN	14	TMP	wait.01	_	_	_	_	_
+16	Dark	dark	NN	_	Dark	dark	NN	15	PMOD	_	_	_	_	_	AM-TMP
+17	.	.	.	_	.	.	.	11	P	_	_	_	_	_	_
+18	/	/	SU	_	/	/	SU	11	DEP	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_
+3	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	_	A1
+5	was	was	VBD	_	was	be	VBD	3	OBJ	be.01	A1	_
+6	probably	probably	RB	_	probably	probably	RB	5	ADV	_	_	AM-ADV
+7	16	16	CD	_	16	16	CD	10	NMOD	_	_	_
+8	or	or	CC	_	or	or	CC	7	COORD	_	_	_
+9	17	17	CD	_	17	17	CD	8	CONJ	_	_	_
+10	years	years	NNS	_	years	years	NNS	11	AMOD	_	_	_
+11	old	old	JJ	_	old	old	JJ	5	PRD	_	_	A2
+12	;	;	:	_	;	;	:	3	P	_	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A1	_
+2	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+3	of	of	IN	_	of	of	IN	2	PRD	_	A2	_
+4	driving	driving	NN	_	driving	driving	NN	5	NMOD	_	_	A1
+5	age	age	NN	_	age	age	NN	3	PMOD	age.01	_	A2
+6	.	.	.	_	.	.	.	2	P	_	_	_
+7	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_	_	A1	_
+3	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	SU	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_	_	_
+5	group	group	NN	_	group	group	NN	3	OBJ	group.01	A1	_	SU	_	A1
+6	of	of	IN	_	of	of	IN	5	NMOD	of.SU	_	A2	_	SU	_
+7	girlfriends	girlfriends	NNS	_	girlfriends	girlfriend	NNS	6	PMOD	girlfriend.01	_	_	_	A0	_
+8	that	that	WDT	_	that	that	WDT	10	OBJ	_	_	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	_	_	_	A0
+10	ran	ran	VBD	_	ran	run	VBD	5	NMOD	run.01	_	_	_	_	_
+11	around	around	RP	_	around	around	RP	10	PRT	_	_	_	_	_	_
+12	with	with	IN	_	with	with	IN	10	ADV	_	_	_	_	_	A4
+13	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	10	DEP	_	_	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	10	DEP	_	_	_	_
+3	there	there	EX	_	there	there	EX	4	SBJ	_	A1	_	_
+4	were	were	VBD	_	were	be	VBD	2	DEP	be.01	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_	_	_
+6	,	,	,	_	,	,	,	10	P	_	_	_	_
+7	golly	golly	UH	_	golly	golly	UH	10	DEP	_	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_
+9	there	there	EX	_	there	there	EX	10	SBJ	_	_	A1	_
+10	might	might	MD	_	might	might	MD	0	ROOT	_	_	_	_
+11	've	've	VB	_	've	've	VB	10	VC	_	_	_	_
+12	been	been	VBN	_	been	be	VBN	11	VC	be.01	_	_	_
+13	8	8	CD	_	8	8	CD	15	DEP	_	_	_	_
+14	to	to	TO	_	to	to	TO	15	DEP	_	_	A2	A1
+15	10	10	CD	_	10	10	CD	12	PRD	_	_	_	_
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_
+17	us	us	PRP	_	us	us	PRP	16	PMOD	_	_	_	_
+18	who	who	WP	_	who	who	WP	19	SBJ	_	_	_	_
+19	were	were	VBD	_	were	be	VBD	15	NMOD	be.01	_	_	_
+20	good	good	JJ	_	good	good	JJ	21	NMOD	_	_	_	_
+21	friends	friends	NNS	_	friends	friend	NNS	19	PRD	_	_	_	A2
+22	.	.	.	_	.	.	.	10	P	_	_	_	_
+23	/	/	SU	_	/	/	SU	10	DEP	_	_	_	_
+
+1	Everybody	everybody	NN	_	Everybody	everybody	NN	2	SBJ	_	A0	_
+2	had	had	VBD	_	had	have	VBD	0	ROOT	have.03	_	_
+3	their	their	PRP$	_	their	their	PRP$	8	NMOD	_	_	A1
+4	own	own	JJ	_	own	own	JJ	8	NMOD	_	_	_
+5	"	"	''	_	"	"	''	8	P	_	_	_
+6	best	best	JJS	_	best	best	JJS	8	NMOD	_	_	_
+7	"	"	''	_	"	"	''	8	P	_	_	_
+8	friend	friend	NN	_	friend	friend	NN	2	OBJ	friend.02	A1	A0
+9	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	but	but	CC	_	but	but	CC	4	DEP	_	_	_	_	_	_
+2	then	then	RB	_	then	then	RB	4	TMP	_	AM-TMP	_	_	_	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0	A2	_	_	_
+4	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	SU	_	_	_
+5	one	one	CD	_	one	one	CD	7	NMOD	_	_	_	_	_	_
+6	big	big	JJ	_	big	big	JJ	7	NMOD	_	_	_	_	_	_
+7	group	group	NN	_	group	group	NN	4	OBJ	group.01	A1	_	_	_	_
+8	that	that	WDT	_	that	that	WDT	9	NMOD	_	_	_	_	_	_
+9	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	_	A0	A0	_
+10	used	used	VBD	_	used	use	VBD	7	NMOD	use.01	_	_	_	_	_
+11	to	to	TO	_	to	to	TO	10	OPRD	_	_	_	_	_	_
+12	do	do	VB	_	do	do	VB	11	IM	do.02	_	_	_	_	_
+13	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_	_
+14	lot	lot	NN	_	lot	lot	NN	12	OBJ	lot.01	_	_	_	AM-ADV	_
+15	of	of	IN	_	of	of	IN	14	NMOD	_	_	_	_	_	A1
+16	things	things	NNS	_	things	things	NNS	15	PMOD	_	_	_	_	_	_
+17	together	together	RB	_	together	together	RB	12	MNR	_	_	_	_	AM-MNR	_
+18	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_
+19	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	0	ROOT	_	_
+2	,	,	,	_	,	,	,	1	P	_	_
+3	and	and	CC	_	and	and	CC	1	COORD	_	_
+4	we	we	PRP	_	we	we	PRP	1	SBJ	_	A0
+5	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	3	CONJ	_	_
+6	would	would	MD	_	would	would	MD	5	DEP	_	_
+7	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	5	DEP	_	_
+8	,	,	,	_	,	,	,	5	P	_	_
+9	had	had	VBD	_	had	have	VBD	5	COORD	have.04	_
+10	that	that	RB	_	that	that	DT	11	NMOD	_	_
+11	many	many	JJ	_	many	many	DT	12	NMOD	_	_
+12	girls	girls	NNS	_	girls	girl	NNS	9	OBJ	_	A1
+13	/	/	SU	_	/	/	SU	9	COORD	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+4	only	only	RB	_	only	only	RB	3	ADV	_	_	_
+5	go	go	VB	_	go	go	VB	3	VC	go.03	_	_
+6	out	out	RP	_	out	out	RP	5	PRT	_	_	_
+7	in	in	IN	_	in	in	IN	5	MNR	_	AM-MNR	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_
+9	couple	couple	NN	_	couple	couple	NN	7	PMOD	couple.01	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	A1
+11	cars	cars	NNS	_	cars	car	NNS	10	PMOD	_	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0
+3	remember	remember	VBP	_	remember	remember	VBP	0	ROOT	remember.01	_
+4	one	one	CD	_	one	one	CD	3	OBJ	_	A1
+5	of	of	IN	_	of	of	IN	4	NMOD	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_
+7	girls	girls	NNS	_	girls	girl	NNS	5	PMOD	_	_
+8	,	,	,	_	,	,	,	4	P	_	_
+9	Betty	betty	NNP	_	Betty	betty	NNP	10	NAME	_	_
+10	Belle	belle	NNP	_	Belle	belle	NNP	4	APPO	_	_
+11	,	,	,	_	,	,	,	3	P	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	her	her	PRP$	_	her	her	PRP$	2	NMOD	_	_
+2	dad	dad	NN	_	dad	dad	NN	3	SBJ	_	A0
+3	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_
+4	a	a	DT	_	a	a	DT	6	NMOD	_	_
+5	VW	vw	NNP	_	VW	vw	NNP	6	NAME	_	_
+6	Beetle	beetle	NNP	_	Beetle	beetle	NNP	3	OBJ	_	A1
+7	,	,	,	_	,	,	,	3	P	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	'd	'd	MD	_	'd	'd	MD	0	ROOT	_	_
+4	fit	fit	VB	_	fit	fit	VB	3	VC	fit.01	_
+5	like	like	UH	_	like	like	UH	4	OBJ	_	A1
+6	5	5	CD	_	5	5	CD	7	NMOD	_	_
+7	girls	girls	NN	_	girls	girl	NN	4	OBJ	_	_
+8	in	in	IN	_	in	in	IN	4	LOC	_	AM-LOC
+9	that	that	DT	_	that	that	DT	11	NMOD	_	_
+10	VW	vw	NNP	_	VW	vw	NNP	11	NAME	_	_
+11	Beetle	beetle	NNP	_	Beetle	beetle	NNP	8	PMOD	_	_
+12	.	.	.	_	.	.	.	3	P	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	Did	did	VBD	_	Did	do	VBD	0	ROOT	_	_
+2	Betty	betty	NNP	_	Betty	betty	NNP	3	NAME	_	_
+3	Belle	belle	NNP	_	Belle	belle	NNP	1	SBJ	_	A0
+4	turn	turn	VB	_	turn	turn	VB	1	VC	turn.01	_
+5	Catholic	catholic	JJ	_	Catholic	catholic	JJ	4	PRD	_	_
+6	?	?	.	_	?	?	.	1	P	_	_
+7	/	/	SU	_	/	/	SU	1	DEP	_	_
+
+1	No	no	UH	_	No	no	UH	0	ROOT	_
+2	,	,	,	_	,	,	,	1	P	_
+3	huh-uh	huh-uh	UH	_	huh-uh	huh-uh	UH	1	COORD	_
+4	.	.	.	_	.	.	.	3	P	_
+5	/	/	SU	_	/	/	SU	3	COORD	_
+
+1	She	she	PRP	_	She	she	PRP	2	SBJ	_	A0
+2	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_
+4	?	?	.	_	?	?	.	2	P	_	_
+5	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	No	no	UH	_	No	no	UH	0	ROOT	_
+2	.	.	.	_	.	.	.	1	P	_
+3	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	So	so	CC	_	So	so	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_
+4	out	out	RP	_	out	out	RP	3	PRT	_	_
+5	one	one	CD	_	one	one	CD	6	NMOD	_	_
+6	night	night	NN	_	night	night	NN	3	TMP	_	AM-TMP
+7	to	to	TO	_	to	to	TO	3	DIR	_	A1
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_
+9	movie	movie	NN	_	movie	movie	NN	7	PMOD	_	_
+10	,	,	,	_	,	,	,	3	P	_	_
+11	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	but	but	CC	_	but	but	CC	9	DEP	_	_	_	_
+2	before	before	IN	_	before	before	IN	9	TMP	_	_	AM-TMP	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0	_	_
+4	went	went	VBD	_	went	go	VBD	2	SUB	go.03	_	_	_
+5	to	to	TO	_	to	to	TO	4	DIR	_	A1	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_
+7	movie	movie	NN	_	movie	movie	NN	5	PMOD	_	_	_	_
+8	we	we	PRP	_	we	we	PRP	9	SBJ	_	_	A0	A0
+9	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_	_	_
+10	to	to	TO	_	to	to	TO	9	PRP	_	_	_	_
+11	get	get	VB	_	get	get	VB	10	IM	get.01	_	_	_
+12	pizza	pizza	NN	_	pizza	pizza	NN	11	OBJ	_	_	_	A1
+13	/	/	SU	_	/	/	SU	9	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_
+2	then	then	RB	_	then	then	RB	4	TMP	_	AM-TMP
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A0
+4	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_
+5	to	to	TO	_	to	to	TO	4	DIR	_	A1
+6	,	,	.	_	,	,	.	4	P	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_	_
+3	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_
+5	name	name	NN	_	name	name	NN	9	SBJ	name.01	_	A2	A1
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	A1	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+8	place	place	NN	_	place	place	NN	6	PMOD	_	_	_	_
+9	was	was	VBD	_	was	be	VBD	3	OBJ	be.01	A1	_	_
+10	The	the	DT	_	The	the	DT	12	NMOD	_	_	_	_
+11	Open	open	NNP	_	Open	open	NNP	12	NAME	_	_	_	_
+12	Kitchen	kitchen	NNP	_	Kitchen	kitchen	NNP	9	PRD	_	_	_	A2
+13	,	,	,	_	,	,	,	3	P	_	_	_	_
+14	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	_	_
+3	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_	_	_
+5	have	have	VB	_	have	have	VB	3	VC	have.04	A1	_	_	_
+6	chain	chain	NN	_	chain	chain	NN	8	NMOD	_	_	_	A2	_
+7	pizza	pizza	NN	_	pizza	pizza	NN	8	NMOD	_	_	_	A1	_
+8	places	places	NNS	_	places	place	NNS	5	OBJ	place.09	_	A1	_	_
+9	like	like	IN	_	like	like	IN	5	MNR	_	AM-MNR	_	_	_
+10	we	we	PRP	_	we	we	PRP	11	SBJ	_	_	_	_	A0
+11	do	do	VBP	_	do	do	VBP	9	SUB	do.02	_	_	_	_
+12	now	now	RB	_	now	now	RB	11	VC	_	_	_	_	_
+13	,	,	,	_	,	,	,	5	P	_	_	_	_	_
+14	like	like	IN	_	like	like	IN	8	NMOD	_	_	_	_	_
+15	Pizza	pizza	NNP	_	Pizza	pizza	NNP	16	NAME	_	_	_	_	_
+16	Hut	hut	NNP	_	Hut	hut	NNP	14	PMOD	_	_	_	_	_
+17	and	and	CC	_	and	and	CC	16	COORD	_	_	_	_	_
+18	all	all	PDT	_	all	all	PDT	19	NMOD	_	_	_	_	_
+19	that	that	DT	_	that	that	DT	17	CONJ	_	_	_	_	_
+20	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+21	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_
+
+1	This	this	DT	_	This	this	DT	2	SBJ	_	A1	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+3	just	just	RB	_	just	just	RB	8	NMOD	_	_	_	_
+4	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_
+5	really	really	RB	_	really	really	RB	6	AMOD	_	_	_	_
+6	neat	neat	JJ	_	neat	neat	JJ	8	NMOD	_	_	_	_
+7	pizza	pizza	NN	_	pizza	pizza	NN	8	NMOD	_	_	A1	_
+8	place	place	NN	_	place	place	NN	2	PRD	place.09	A2	A2	A1
+9	that	that	WDT	_	that	that	WDT	14	DIR	_	_	_	_
+10	all	all	PDT	_	all	all	PDT	12	NMOD	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_
+12	kids	kids	NNS	_	kids	kid	NNS	13	SBJ	_	_	_	A0
+13	would	would	MD	_	would	would	MD	8	NMOD	_	_	_	_
+14	go	go	VB	_	go	go	VB	13	VC	go.05	_	_	_
+15	.	.	.	_	.	.	.	2	P	_	_	_	_
+16	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_
+4	to	to	TO	_	to	to	TO	3	DIR	_	A1
+5	Open	open	NNP	_	Open	open	NNP	6	NAME	_	_
+6	Kitchen	kitchen	NNP	_	Kitchen	kitchen	NNP	4	PMOD	_	_
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	have	have	VB	_	have	have	VB	3	VC	have.04	_
+5	eight	eight	CD	_	eight	eight	CD	8	NMOD	_	_
+6	or	or	CC	_	or	or	CC	5	COORD	_	_
+7	10	10	CD	_	10	10	CD	6	CONJ	_	_
+8	girls	girls	NNS	_	girls	girl	NNS	4	OBJ	_	A1
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+4	order	order	VB	_	order	order	VB	3	VC	order.01	_	_
+5	one	one	CD	_	one	one	CD	6	NMOD	_	_	_
+6	pizza	pizza	NN	_	pizza	pizza	NN	4	OBJ	_	A1	_
+7	and	and	CC	_	and	and	CC	4	COORD	_	_	_
+8	all	all	DT	_	all	all	DT	7	CONJ	_	_	_
+9	share	share	VB	_	share	share	VB	8	COORD	share.01	_	_
+10	it	it	PRP	_	it	it	PRP	9	OBJ	_	_	A1
+11	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	everyone	everyone	NN	_	everyone	everyone	NN	3	SBJ	_	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_
+4	only	only	RB	_	only	only	RB	3	ADV	_	_
+5	get	get	VB	_	get	get	VB	3	VC	get.01	_
+6	one	one	CD	_	one	one	CD	7	NMOD	_	_
+7	piece	piece	NN	_	piece	piece	NN	5	OBJ	_	A1
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_	_	_	_
+3	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_	_	_	_	_
+4	we	we	PRP	_	we	we	PRP	5	SBJ	_	_	A0	_	_	_
+5	would	would	MD	_	would	would	MD	3	OBJ	_	_	_	_	_	_
+6	make	make	VB	_	make	make	VB	5	VC	make.08	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_
+8	waitresses	waitresses	NNS	_	waitresses	waitress	NNS	6	OBJ	_	_	_	_	_	_
+9	mad	mad	JJ	_	mad	mad	JJ	6	OPRD	_	_	A2	_	_	_
+10	because	because	IN	_	because	because	IN	6	PRP	_	_	_	_	_	_
+11	we	we	PRP	_	we	we	PRP	12	SBJ	_	_	_	A0	A0	A0
+12	did	did	VBD	_	did	do	VBD	10	SUB	do.02	_	_	_	_	_
+13	n't	not	RB	_	n't	not	RB	12	ADV	_	_	_	_	_	_
+14	have	have	VB	_	have	have	VB	12	VC	have.04	_	_	A1	_	_
+15	money	money	NN	_	money	money	NN	14	OBJ	_	_	_	_	A1	_
+16	to	to	TO	_	to	to	TO	14	PRP	_	_	_	_	_	_
+17	leave	leave	VB	_	leave	leave	VB	16	IM	leave.02	_	_	_	_	_
+18	tips	tips	NNS	_	tips	tip	NNS	17	OBJ	_	_	_	_	_	A1
+19	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+20	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_
+3	also	also	RB	_	also	also	RB	2	ADV	_	_
+4	drink	drink	VB	_	drink	drink	VB	2	VC	drink.01	_
+5	water	water	NN	_	water	water	NN	4	OBJ	_	A1
+6	.	.	.	_	.	.	.	2	P	_	_
+7	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	So	so	CC	_	So	so	CC	3	DEP	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A1
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_
+5	a	a	DT	_	a	a	DT	7	NMOD	_	_
+6	good	good	JJ	_	good	good	JJ	7	NMOD	_	_
+7	situation	situation	NN	_	situation	situation	NN	3	PRD	_	A2
+8	for	for	IN	_	for	for	IN	7	NMOD	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_
+10	waitresses	waitresses	NNS	_	waitresses	waitress	NNS	8	PMOD	_	_
+11	,	,	,	_	,	,	,	3	P	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0
+3	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	SU
+4	fun	fun	NN	_	fun	fun	NN	3	OBJ	fun.01	A1	_
+5	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0
+3	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_
+5	even	even	RB	_	even	even	RB	3	ADV	_	_	_
+6	think	think	VB	_	think	think	VB	3	VC	think.01	A1	_
+7	about	about	IN	_	about	about	IN	6	ADV	_	_	A1
+8	it	it	PRP	_	it	it	PRP	7	PMOD	_	_	_
+9	.	.	.	_	.	.	.	3	P	_	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	3	SBJ	_	A0	_
+2	just	just	RB	_	just	just	RB	3	ADV	_	AM-MNR	_
+3	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_
+4	what	what	WP	_	what	what	WP	9	PMOD	_	_	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	_	A0
+6	could	could	MD	_	could	could	MD	3	OBJ	_	_	_
+7	get	get	VB	_	get	get	VB	6	VC	get.01	_	_
+8	away	away	RP	_	away	away	RP	7	PRT	_	_	_
+9	with	with	IN	_	with	with	IN	7	ADV	_	_	A1
+10	.	.	.	_	.	.	.	3	P	_	_	_
+11	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	Anyway	anyway	UH	_	Anyway	anyway	UH	6	DEP	_	_	_	_	_	_
+2	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_
+3	that	that	DT	_	that	that	DT	4	NMOD	_	_	_	_	_	_
+4	night	night	NN	_	night	night	NN	6	TMP	_	AM-TMP	_	_	_	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	A1	A0	A0	A0	A0
+6	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_	_
+7	gon	gon	VBG	_	gon	gon	VBG	6	VC	go.03	A2	_	_	_	_
+8	na	na	TO	_	na	na	TO	7	OPRD	_	_	_	_	_	_
+9	go	go	VB	_	go	go	VB	8	IM	go.03	_	_	_	_	_
+10	see	see	VB	_	see	see	VB	9	PRP	see.01	_	_	_	_	_
+11	Wait	wait	VB	_	Wait	wait	VB	10	OPRD	_	_	_	_	A1	_
+12	Until	until	IN	_	Until	until	IN	11	TMP	wait.02	_	_	_	_	_
+13	Dark	dark	NN	_	Dark	dark	NN	12	PMOD	_	_	_	_	_	AM-TMP
+14	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_
+3	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_	_
+4	it	it	PRP	_	it	it	PRP	5	SBJ	_	_	A1
+5	was	was	VBD	_	was	be	VBD	3	OBJ	be.01	A1	_
+6	on	on	RP	_	on	on	RP	5	PRD	_	_	_
+7	at	at	IN	_	at	at	IN	5	LOC	_	_	A2
+8	the	the	DT	_	the	the	DT	10	NMOD	_	_	_
+9	Manor	manor	NNP	_	Manor	manor	NNP	10	NAME	_	_	_
+10	Theatre	theatre	NNP	_	Theatre	theatre	NNP	7	PMOD	_	_	_
+11	,	,	,	_	,	,	,	3	P	_	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_	_
+3	just	just	RB	_	just	just	RB	4	ADV	_	AM-MNR	_	_
+4	remember	remember	VBP	_	remember	remember	VBP	0	ROOT	remember.01	_	_	_
+5	when	when	WRB	_	when	when	WRB	7	TMP	_	_	_	_
+6	you	you	PRP	_	you	you	PRP	7	SBJ	_	_	A0	_
+7	have	have	VBP	_	have	have	VBP	22	TMP	have.04	_	_	_
+8	like	like	UH	_	like	like	UH	7	OBJ	_	_	A1	_
+9	10	10	CD	_	10	10	CD	12	NMOD	_	_	_	_
+10	or	or	CC	_	or	or	CC	9	COORD	_	_	_	_
+11	so	so	RB	_	so	so	RB	10	CONJ	_	_	_	_
+12	girls	girls	NNS	_	girls	girl	NNS	7	OBJ	_	_	_	A0
+13	going	going	VBG	_	going	go	VBG	12	APPO	go.05	_	_	_
+14	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	13	DEP	_	_	_	_
+15	somewhere	somewhere	RB	_	somewhere	somewhere	RB	14	DEP	_	_	_	_
+16	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	14	DEP	_	_	_	_
+17	to	to	TO	_	to	to	TO	13	DIR	_	_	_	A1
+18	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_
+19	same	same	JJ	_	same	same	JJ	20	NMOD	_	_	_	_
+20	place	place	NN	_	place	place	NN	17	PMOD	_	_	_	_
+21	it	it	PRP	_	it	it	PRP	22	SBJ	_	_	_	_
+22	's	's	VBZ	_	's	be	VBZ	4	OBJ	_	A1	_	_
+23	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	22	DEP	_	_	_	_
+24	kind	kind	NN	_	kind	kind	NN	25	AMOD	_	_	_	_
+25	of	of	IN	_	of	of	IN	23	DEP	_	_	_	_
+26	a	a	DT	_	a	a	DT	25	NMOD	_	_	_	_
+27	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	23	DEP	_	_	_	_
+28	,	,	,	_	,	,	,	22	P	_	_	_	_
+29	pretty	pretty	RB	_	pretty	pretty	RB	30	AMOD	_	_	_	_
+30	much	much	JJ	_	much	much	JJ	22	PRD	_	_	_	_
+31	of	of	IN	_	of	of	IN	30	NMOD	_	_	_	_
+32	a	a	DT	_	a	a	DT	33	NMOD	_	_	_	_
+33	spectacle	spectacle	NN	_	spectacle	spectacle	NN	31	PMOD	_	_	_	_
+34	;	;	:	_	;	;	:	4	P	_	_	_	_
+35	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A1
+2	're	're	VBP	_	're	're	VBP	0	ROOT	_	_
+3	all	all	DT	_	all	all	DT	2	DEP	_	_
+4	in	in	IN	_	in	in	IN	2	LOC-PRD	_	_
+5	this	this	DT	_	this	this	DT	7	NMOD	_	_
+6	long	long	JJ	_	long	long	JJ	7	NMOD	_	AM-TMP
+7	line	line	NN	_	line	line	NN	4	PMOD	line.03	A2
+8	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	A0	A0	A1
+3	're	're	VBP	_	're	're	VBP	0	ROOT	_	_	_	_	_
+4	giggling	giggling	VBG	_	giggling	giggle	VBG	3	VC	_	_	_	_	_
+5	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_	_
+6	laughing	laughing	VBG	_	laughing	laugh	VBG	5	CONJ	laugh.01	_	_	_	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_
+8	cutting	cutting	VBG	_	cutting	cut	VBG	7	CONJ	cut.01	_	_	_	_
+9	up	up	RP	_	up	up	RP	8	PRT	_	_	_	_	_
+10	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_
+11	having	having	VBG	_	having	have	VBG	10	CONJ	have.04	_	_	_	SU
+12	really	really	RB	_	really	really	RB	11	ADV	_	_	_	AM-ADV	_
+13	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_
+14	great	great	JJ	_	great	great	JJ	15	NMOD	_	_	_	_	_
+15	time	time	NN	_	time	time	NN	11	OBJ	time.04	_	_	A1	A2
+16	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+17	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_
+
+1	So	so	CC	_	So	so	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_
+3	bought	bought	VBD	_	bought	buy	VBD	0	ROOT	buy.01	_	_
+4	our	our	PRP$	_	our	our	PRP$	5	NMOD	_	_	A1
+5	tickets	tickets	NNS	_	tickets	ticket	NNS	3	OBJ	ticket.02	A1	_
+6	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_
+4	into	into	IN	_	into	into	IN	3	DIR	_	A1
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_
+6	Manor	manor	NNP	_	Manor	manor	NNP	7	NAME	_	_
+7	Theatre	theatre	NNP	_	Theatre	theatre	NNP	4	PMOD	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0	_
+3	found	found	VBD	_	found	found	VBD	0	ROOT	find.01	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_
+5	row	row	NN	_	row	row	NN	3	OBJ	row.01	A1	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	A1
+7	seats	seats	NNS	_	seats	seats	NNS	6	PMOD	_	_	_
+8	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	12	DEP	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	12	SBJ	_	_	_	A0
+3	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	12	DEP	_	A1	_	_
+4	sat	sat	VBD	_	sat	sit	VBD	3	DEP	sit.01	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	DEP	_	A2	_	_
+6	,	,	,	_	,	,	,	12	P	_	_	_	_
+7	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	12	DEP	_	_	A1	_
+8	file	file	VB	_	file	file	VB	7	DEP	file.01	_	_	_
+9	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	7	DEP	_	_	A2	_
+10	,	,	,	_	,	,	,	12	P	_	_	_	_
+11	all	all	DT	_	all	all	DT	12	DEP	_	_	_	_
+12	filed	filed	VBD	_	filed	file	VBD	0	ROOT	file.01	_	_	_
+13	in	in	RB	_	in	in	RB	12	DIR	_	_	_	A1
+14	.	.	.	_	.	.	.	12	P	_	_	_	_
+15	/	/	SU	_	/	/	SU	12	DEP	_	_	_	_
+
+1	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	0	ROOT	_	_	_	_	_
+2	And	and	CC	_	And	and	CC	5	DEP	_	_	_	_	_
+3	I	i	PRP	_	I	i	PRP	5	SBJ	_	A0	_	_	_
+4	just	just	RB	_	just	just	RB	5	ADV	_	AM-MNR	_	_	_
+5	remember	remember	VBP	_	remember	remember	VBP	1	DEP	remember.01	_	_	_	_
+6	seeing	seeing	VBG	_	seeing	see	VBG	5	VC	_	A1	_	_	_
+7	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	1	DEP	_	_	_	_	_
+8	,	,	,	_	,	,	,	1	P	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	1	COORD	_	_	_	_	_
+10	I	i	PRP	_	I	i	PRP	1	SBJ	_	_	A1	_	_
+11	was	was	VBD	_	was	be	VBD	9	CONJ	be.01	_	_	_	_
+12	sitting	sitting	VBG	_	sitting	sit	VBG	11	VC	sit.02	_	A2	_	_
+13	in	in	IN	_	in	in	IN	12	LOC	_	_	_	A1	_
+14	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_
+15	middle	middle	JJ	_	middle	middle	NN	16	NMOD	_	_	_	_	A1
+16	section	section	NN	_	section	section	NN	13	PMOD	section.01	_	_	_	_
+17	,	,	,	_	,	,	,	11	P	_	_	_	_	_
+18	/	/	SU	_	/	/	SU	11	COORD	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A1	_	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+3	not	not	RB	_	not	not	RB	2	ADV	_	AM-NEG	_	_	_
+4	on	on	IN	_	on	on	IN	2	LOC-PRD	_	A2	_	_	_
+5	an	an	DT	_	an	an	DT	6	NMOD	_	_	_	_	_
+6	end	end	NN	_	end	end	NN	4	PMOD	_	_	_	_	_
+7	so	so	IN	_	so	so	IN	2	PRP	_	_	_	_	_
+8	I	i	PRP	_	I	i	PRP	9	SBJ	_	_	A0	_	_
+9	had	had	VBD	_	had	have	VBD	7	SUB	have.04	_	_	_	_
+10	girls	girls	NNS	_	girls	girl	NNS	9	OBJ	_	_	A1	A1	_
+11	I	i	PRP	_	I	i	PRP	12	SBJ	_	_	_	A0	_
+12	knew	knew	VBD	_	knew	know	VBD	10	NMOD	know.01	_	_	_	_
+13	on	on	IN	_	on	on	IN	9	LOC	_	_	AM-LOC	_	_
+14	both	both	DT	_	both	both	DT	15	NMOD	_	_	_	_	_
+15	sides	sides	NNS	_	sides	side	NNS	13	PMOD	side.02	_	_	_	A2
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	A1
+17	me	me	PRP	_	me	me	PRP	16	PMOD	_	_	_	_	_
+18	.	.	.	_	.	.	.	2	P	_	_	_	_	_
+19	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	4	DEP	_	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_	_	_	_	_
+3	just	just	RB	_	just	just	RB	4	ADV	_	AM-MNR	_	_	_	_	_
+4	remember	remember	VBP	_	remember	remember	VBP	0	ROOT	remember.01	_	_	_	_	_	_
+5	that	that	DT	_	that	that	DT	6	NMOD	_	_	_	_	_	_	_
+6	movie	movie	NN	_	movie	movie	NN	11	SBJ	_	_	_	A0	_	_	A1
+7	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	11	DEP	_	_	A1	_	_	_	_
+8	was	was	VBD	_	was	be	VBD	7	DEP	be.01	_	_	_	_	_	_
+9	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	7	DEP	_	_	A2	_	_	_	_
+10	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_
+11	had	had	VBD	_	had	have	VBD	4	OBJ	have.03	A1	_	_	_	_	_
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_	_
+13	lot	lot	NN	_	lot	lot	NN	11	OBJ	lot.01	_	_	AM-ADV	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_	A1	_	_
+15	hype	hype	NN	_	hype	hype	NN	14	PMOD	hype.01	_	_	_	_	_	_
+16	about	about	IN	_	about	about	IN	15	NMOD	_	_	_	_	_	A1	_
+17	being	being	VBG	_	being	be	VBG	16	PMOD	be.01	_	_	_	_	_	_
+18	really	really	RB	_	really	really	RB	19	AMOD	_	_	_	_	_	_	_
+19	scary	scary	JJ	_	scary	scary	JJ	17	PRD	_	_	_	_	_	_	A2
+20	and	and	CC	_	and	and	CC	19	COORD	_	_	_	_	_	_	_
+21	suspenseful	suspenseful	JJ	_	suspenseful	suspenseful	JJ	20	CONJ	_	_	_	_	_	_	_
+22	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	_	_	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_	_
+4	nothing	nothing	NN	_	nothing	nothing	NN	3	PRD	_	_	_	_
+5	like	like	IN	_	like	like	IN	4	NMOD	_	_	_	_
+6	these	these	DT	_	these	these	DT	7	NMOD	_	_	_	_
+7	movies	movies	NNS	_	movies	movie	NNS	5	PMOD	_	A1	_	_
+8	that	that	WDT	_	that	that	WDT	9	SBJ	_	_	_	_
+9	are	are	VBP	_	are	be	VBP	7	NMOD	be.01	_	_	_
+10	out	out	RB	_	out	out	RB	9	PRD	_	A2	_	_
+11	today	today	NN	_	today	today	NN	9	TMP	_	AM-TMP	_	_
+12	like	like	IN	_	like	like	IN	7	NMOD	_	_	_	_
+13	Scream	scream	NNP	_	Scream	scream	NN	12	PMOD	_	_	_	_
+14	and	and	CC	_	and	and	CC	13	COORD	_	_	_	_
+15	,	,	,	_	,	,	,	14	P	_	_	_	_
+16	what	what	WP	_	what	what	WP	17	PRD	_	_	_	_
+17	is	is	VBZ	_	is	be	VBZ	13	PRN	_	_	_	_
+18	it	it	PRP	_	it	it	PRP	17	SBJ	_	_	_	_
+19	?	?	.	_	?	?	.	17	P	_	_	_	_
+20	Nightmare	nightmare	NNP	_	Nightmare	nightmare	NNP	23	NAME	_	_	_	_
+21	on	on	IN	_	on	on	IN	23	NAME	_	_	_	_
+22	Elm	elm	NNP	_	Elm	elm	NNP	23	NAME	_	_	_	_
+23	Street	street	NNP	_	Street	street	NNP	14	CONJ	_	_	_	_
+24	whatever	whatever	WDT	_	whatever	whatever	WDT	26	PRD	_	_	A2	_
+25	it	it	PRP	_	it	it	PRP	26	SBJ	_	_	A1	_
+26	is	is	VBZ	_	is	be	VBZ	23	ADV	be.01	_	_	_
+27	,	,	,	_	,	,	,	7	P	_	_	_	_
+28	where	where	WRB	_	where	where	WRB	30	LOC	_	_	_	_
+29	they	they	PRP	_	they	they	PRP	30	SBJ	_	_	_	_
+30	're	're	VBP	_	're	're	VBP	7	TMP	_	_	_	_
+31	actual	actual	JJ	_	actual	actual	JJ	33	NMOD	_	_	_	_
+32	horror	horror	NN	_	horror	horror	NN	33	NMOD	_	_	_	A1
+33	movies	movies	NNS	_	movies	movie	NNS	30	PRD	movie.01	_	_	_
+34	.	.	.	_	.	.	.	3	P	_	_	_	_
+35	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	This	this	DT	_	This	this	DT	2	SBJ	_	A1
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_
+3	,	,	,	_	,	,	,	2	P	_	_
+4	uh	uh	UH	_	uh	uh	UH	2	DEP	_	_
+5	,	,	,	_	,	,	,	2	P	_	_
+6	a	a	DT	_	a	a	DT	12	NMOD	_	_
+7	real	real	JJ	_	real	real	JJ	12	NMOD	_	_
+8	intense	intense	JJ	_	intense	intense	JJ	12	NMOD	_	_
+9	,	,	,	_	,	,	,	12	P	_	_
+10	um	um	UH	_	um	um	UH	12	NMOD	_	_
+11	,	,	,	_	,	,	,	12	P	_	_
+12	drama	drama	NN	_	drama	drama	NN	2	PRD	_	A2
+13	and	and	CC	_	and	and	CC	12	COORD	_	_
+14	,	,	,	_	,	,	,	13	P	_	_
+15	just	just	RB	_	just	just	RB	17	AMOD	_	_
+16	very	very	RB	_	very	very	RB	17	AMOD	_	_
+17	scary	scary	JJ	_	scary	scary	JJ	13	CONJ	_	_
+18	;	;	:	_	;	;	:	2	P	_	_
+19	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	kept	kept	VBD	_	kept	keep	VBD	0	ROOT	keep.04	_	_	_
+2	you	you	PRP	_	you	you	PRP	1	OBJ	_	A1	_	_
+3	on	on	IN	_	on	on	IN	1	LOC	_	A2	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_
+5	edge	edge	NN	_	edge	edge	NN	3	PMOD	edge.03	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	A1	_
+7	your	your	PRP$	_	your	your	PRP$	8	NMOD	_	_	_	A0
+8	seat	seat	NN	_	seat	seat	NN	6	PMOD	seat.01	_	_	_
+9	.	.	.	_	.	.	.	1	P	_	_	_	_
+10	/	/	SU	_	/	/	SU	1	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_	_	_	_	_	_	_
+2	there	there	EX	_	there	there	EX	3	SBJ	_	_	_	_	_	_	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_	_	_	_	_
+5	scene	scene	NN	_	scene	scene	NN	3	PRD	scene.02	A1	_	A1	A1	_	_	_
+6	in	in	IN	_	in	in	IN	5	LOC	_	_	A1	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_	_	_
+8	movie	movie	NN	_	movie	movie	NN	6	PMOD	movie.01	_	_	_	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	_	_	A0	_	_	_
+10	remember	remember	VBP	_	remember	remember	VBP	5	NMOD	remember.01	_	_	_	_	_	_	_
+11	where	where	WRB	_	where	where	WRB	34	LOC	_	_	_	_	_	_	_	_
+12	every	every	DT	_	every	every	DT	13	NMOD	_	_	_	_	_	_	_	_
+13	one	one	CD	_	one	one	CD	34	DEP	_	_	_	_	_	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_	_	_	_	_
+15	us	us	PRP	_	us	us	PRP	14	PMOD	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_	_
+17	and	and	CC	_	and	and	CC	19	DEP	_	_	_	_	_	_	_	_
+18	it	it	PRP	_	it	it	PRP	19	SBJ	_	_	_	_	_	A1	_	_
+19	was	was	VBD	_	was	be	VBD	13	PRN	be.01	_	_	_	_	_	_	_
+20	n't	not	RB	_	n't	not	RB	19	ADV	_	_	_	_	_	_	_	_
+21	just	just	RB	_	just	just	RB	19	ADV	_	_	_	_	_	AM-MNR	_	_
+22	our	our	PRP$	_	our	our	PRP$	23	NMOD	_	_	_	_	_	_	A2	_
+23	group	group	NN	_	group	group	NN	19	PRD	group.01	_	_	_	_	A2	_	_
+24	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_	_	_
+25	but	but	CC	_	but	but	CC	23	COORD	_	_	_	_	_	_	_	_
+26	so	so	RB	_	so	so	RB	27	AMOD	_	_	_	_	_	_	_	_
+27	many	many	JJ	_	many	many	DT	28	NMOD	_	_	_	_	_	_	_	_
+28	people	people	NNS	_	people	people	NNS	25	CONJ	_	_	_	_	_	_	_	_
+29	in	in	IN	_	in	in	IN	28	LOC	_	_	_	_	_	_	_	_
+30	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_	_	_	_	_
+31	theatre	theatre	NN	_	theatre	theatre	NN	29	PMOD	_	_	_	_	_	_	_	_
+32	,	,	,	_	,	,	,	34	P	_	_	_	_	_	_	_	_
+33	they	they	PRP	_	they	they	PRP	34	SBJ	_	_	_	_	_	_	_	A0
+34	screamed	screamed	VBD	_	screamed	scream	VBD	5	NMOD	scream.01	_	_	_	_	_	_	_
+35	out	out	RP	_	out	out	RP	34	PRT	_	_	_	_	_	_	_	_
+36	at	at	IN	_	at	at	IN	34	TMP	_	_	_	_	_	_	_	AM-TMP
+37	one	one	CD	_	one	one	CD	38	NMOD	_	_	_	_	_	_	_	_
+38	time	time	NN	_	time	time	NN	36	PMOD	_	_	_	_	_	_	_	_
+39	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_
+40	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	that	that	DT	_	that	that	DT	3	SBJ	_	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_
+4	really	really	RB	_	really	really	RB	3	ADV	_	_
+5	all	all	DT	_	all	all	DT	3	PRD	_	A1
+6	I	i	PRP	_	I	i	PRP	7	SBJ	_	A0
+7	remember	remember	VBP	_	remember	remember	VBP	5	NMOD	remember.01	_
+8	about	about	IN	_	about	about	IN	7	ADV	_	AM-LOC
+9	that	that	DT	_	that	that	DT	10	NMOD	_	_
+10	night	night	NN	_	night	night	NN	8	PMOD	_	_
+11	,	,	,	_	,	,	,	3	P	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	it	it	PRP	_	it	it	PRP	2	SBJ	_	A1	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+3	just	just	RB	_	just	just	RB	5	NMOD	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_
+5	lot	lot	NN	_	lot	lot	NN	2	PRD	lot.01	AM-ADV	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	A1
+7	fun	fun	NN	_	fun	fun	NN	6	PMOD	_	_	_
+8	.	.	.	_	.	.	.	2	P	_	_	_
+9	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	4	DEP	_	_	_	_	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_	_	_	_	_	_	_	_
+3	really	really	RB	_	really	really	RB	4	ADV	_	AM-ADV	_	_	_	_	_	_	_	_
+4	hope	hope	VBP	_	hope	hope	VBP	0	ROOT	hope.01	_	_	_	_	_	_	_	_	_
+5	that	that	IN	_	that	that	IN	4	OBJ	_	A1	_	_	_	_	_	_	_	_
+6	my	my	PRP$	_	my	my	PRP$	7	NMOD	_	_	_	_	_	_	_	_	_	_
+7	daughters	daughters	NNS	_	daughters	daughter	NNS	8	SBJ	daughter.01	_	A0	A0	A0	A0	A0	A0	_	A0
+8	have	have	VBP	_	have	have	VBP	5	SUB	have.04	_	_	_	_	_	_	_	_	_
+9	had	had	VBN	_	had	have	VBN	8	VC	have.04	_	_	A1	_	_	_	_	_	_
+10	some	some	DT	_	some	some	DT	11	NMOD	_	_	_	_	_	_	_	_	_	_
+11	nights	nights	NNS	_	nights	night	NNS	9	OBJ	_	_	_	_	A1	_	_	_	_	_
+12	like	like	IN	_	like	like	IN	11	NMOD	_	_	_	_	_	_	_	_	_	_
+13	that	that	DT	_	that	that	DT	12	PMOD	_	_	_	_	_	_	_	_	_	_
+14	and	and	CC	_	and	and	CC	9	COORD	_	_	_	_	_	_	_	_	_	_
+15	has	has	VBZ	_	has	have	VBZ	14	CONJ	have.04	_	_	_	_	_	_	_	_	_
+16	had	had	VBN	_	had	have	VBN	15	VC	have.04	_	SU	_	_	A1	_	_	_	_
+17	good	good	JJ	_	good	good	JJ	18	NMOD	_	_	_	_	_	_	_	_	_	_
+18	times	times	NNS	_	times	times	NNS	16	OBJ	time.08	_	A1	_	_	_	A1	_	_	_
+19	like	like	IN	_	like	like	IN	18	NMOD	_	_	_	_	_	_	_	_	_	_
+20	that	that	DT	_	that	that	DT	19	PMOD	_	_	_	_	_	_	_	_	A1	_
+21	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_	_	_	_	_
+22	that	that	WDT	_	that	that	WDT	25	OBJ	_	_	_	_	_	_	_	_	_	_
+23	I	i	PRP	_	I	i	PRP	24	SBJ	_	_	_	_	_	_	_	_	A0	_
+24	can	can	MD	_	can	can	MD	20	NMOD	_	_	_	_	_	_	_	_	_	_
+25	remember	remember	VB	_	remember	remember	VB	24	VC	remember.01	_	_	_	_	_	_	_	_	_
+26	going	going	VBG	_	going	go	VBG	16	ADV	go.03	_	_	_	_	_	_	SU	_	_
+27	out	out	RP	_	out	out	RP	26	PRT	_	_	_	_	_	_	_	_	_	_
+28	with	with	IN	_	with	with	IN	26	ADV	_	_	_	_	_	_	_	_	_	A1
+29	good	good	JJ	_	good	good	JJ	30	NMOD	_	_	_	_	_	_	_	_	_	_
+30	friends	friends	NNS	_	friends	friend	NNS	28	PMOD	_	_	_	_	_	_	_	_	_	_
+31	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_	_	_
+32	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_	_	_	_	_	_	_

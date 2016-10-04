@@ -1,0 +1,131 @@
+A Quick Users guide to NomBank Annotation, including how it differs from
+PropBank annotation
+
+1. Support: NomBank uses support chains to link NP-external arguments
+   to nominal predicates. For example, in "John took dozens of walks",
+   "John" is the ARG0 of "walks" due to the support chain: "took +
+   dozens + of". Similar structures exist for verbs, e.g., "John" is
+   the ARG0 of "walk" in "John seemed to walk for miles", by virtue of
+   the raising verb "seemed". While the Penn Treebank accounts for the
+   verbal cases by means of empty categories (e.g., the empty subject
+   of "to walk" would be linked to "John"), it provides no such
+   mechanism for the support cases. The support chains are NomBank's
+   way of supplementing the Penn Treebank to account for this
+   omission. 
+
+   In NomBank, Support chains are values of the feature Support,
+   represented as sequences, e.g., in the example above, Support:
+   1:0,2:0,3:0 would represent that the second, third and fourth word
+   form a support chain. In the CONNL representation, we use the
+   feature SU and we provide semantic dependency links one step at a
+   time. Thus in this example, there would be an SU link from "walk"
+   to "of", an SU link from "of" to "dozens" and an SU link from
+   "dozens" to "took". This indicates that one of the arguments of
+   "took" ("John") is also an argument of "walks".
+
+2. Hyphen tags: NomBank uses function tags of the form -H0, -H1, -H2,
+   etc. to indicate that a hyphenated word is segmented. Thus -H0
+   refers to the first segment, -H1 to the second segment, etc. For
+   example, "year-end" is marked as follows: "18:0-ARG1-H0
+   18:0-rel-H1", indicating that in "year-end", the 19th token in the
+   sentence, the first segment "year" is the ARG1 of the second
+   argument "end". For CONLL, we divided these segments into tokens,
+   thus making it possible to omit the hyphen tags.
+
+3. Argument nominalizations. In NomBank, it is assumed that a
+   predicate can be its own argument. This is dependent on the lexical
+   entry or frame assumed for a particular predicate. For example, a
+   noun like "teacher" is assumed to have a similar argument structure
+   as the corresponding verb "teach" in PropBank. As a result,
+   "teacher" is always its own ARG0. Similarly, there are a class of
+   nouns called relational nouns which includes both nouns like
+   "director" and nouns like "president". These are also assumed to be
+   their own ARG0s. For "director", this is obvious since "director"
+   is an argument nominalization like "teacher", as well as a
+   relational noun. "President" is treated the same way because we try
+   to treat nouns in the same semantic class the same way.
+
+   Occasionally, there are some nouns that are optionally argument
+   nominalizations. For example, "gift" can occur with its ARG1 ("the
+   gift of a book") or without ("John's gift"). In the latter case, it
+   still "acts" like an argument nominalization for purposes of
+   predication and coreference, i.e., "John's gift" can be
+   coreferential with "a book" if "John's gift" happens to be a
+   book. We try to capture this subtlety using the -REF function tag.
+   Thus in "John's gift", "John's" would be the ARG0 (if "John" was
+   the giver) and "gift" would be the ARG1-REF.
+
+4. NomBank uses most of the same function tags as PropBank. However,
+   we constrain the -PRD tag to only be used with argument (ARG1 to
+   ARG9) tags and usually for infinitives and gerunds. We never use
+   the -REC (reciprocal) and we require ARGM to have a function tag at
+   all times. Furthermore, we don't use function tags other than -PRD,
+   -REF and the hyphen tags with the argument (ARG1 to ARG9) tags.
+
+5. We focused a lot of effort toward standardizing the numbering of
+   arguments based on the names of their descriptors (DESCR) in the
+   frame entries. Thus THEME almost always is an ARG1, AGENT is almost
+   always an ARG0, RECIPIENT, BENEFICIARY and VALUE are almost always
+   ARG2, SECONDARY-THEME is almost always ARG3, etc. We highly
+   recommend using names of descriptors to predict arguments. 
+
+   In the same light, we attempted to give rolesets with the same
+   names, the same set of arguments. For example, ATTRIBUTE entries
+   all tend to have: an ARG1 marked theme, an ARG2 marked value, and
+   sometimes an ARG3 marked SECONDARY-THEME. These also tend to be
+   marked ARG2-REF when the ARG2 is missing, e.g., "The moon's/ARG1
+   weight/ARG2-REF", "the ice cream's/ARG1 vanilla/ARG2 flavor". We
+   therefore encourage clustering of rolesets with the same name, even
+   across words.
+
+6. In NomBank, we focused our effort on getting the argument structure
+   of nouns correct, leaving some sense disambiguation issues for
+   further research. This is perhaps the largest difference with
+   PropBank and the most controversial aspect of NomBank. Given finite
+   resources, researchers often must make this sort of decision.
+
+   The biggest consequence of this is that only instances of words
+   with arguments are marked at all. Thus, given one instance of a
+   noun "variety" as in "John likes variety" and another instance
+   "John likes a variety of things", only the second instance would be
+   marked ("of things" is the ARG1 of "variety").
+
+   The disadvantages of this approach are obvious: it is more
+   difficult to use NomBank for sense disambiguation.
+
+   However, there is what we feel are several good reasons for this
+   approach:
+
+   A. It is not clear that the concept of "sense" and the concept of
+      "roleset" are synonymous. For example, FrameNet typically breaks
+      up the causative and noncausative usages of words into separate
+      senses, even though they have overlapping argument structures,
+      e.g., "the ball" is the object in motion for both "The ball
+      rolled" and "John rolled the ball". From an argument structure
+      point of view, there is no reason to distinguish these. From a
+      sense point of view, there might be. In NomBank, this issue came
+      up most clearly for nouns like "help". Notice that the verbal
+      and argument nominalizations for "help" have the same set of
+      roles (i.e., "roleset"). 
+
+      Verbal nominalization: "He gave me administrative help" 
+      Argument nominalization: "The administrative help earned only 
+				300 dollars per week"
+
+      For NomBank, we used one roleset for both cases.
+
+   B. If rolesets are defined in terms of the arguments that accompany
+      the noun, it is not possible to identify a roleset without at
+      least one argument being present. It is thus necessary to
+      establish a clear relationship between "roleset" and "sense" to
+      make such cases markable. This is probably possible in most
+      cases, although we have not investigated this fully (and we
+      think that there will be some problematic cases). Nevertheless,
+      we believe that the presence of arguments are important clues
+      and identifying the "roleset" of argument-less nouns will
+      probably have substantially lower accuracy than that of nouns
+      with arguments.
+
+   We believe that it is possible to disambiguate the argument-less
+   nouns in a meaningful way. However, further investigation and clear
+   specifications would have to be written to make this possible.

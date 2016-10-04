@@ -1,0 +1,257 @@
+
+1	February	february	NNP	_	February	february	NNP	2	NMOD	_
+2	26	26	CD	_	26	26	CD	4	NMOD	_
+3	,	,	,	_	,	,	,	4	P	_
+4	1999	1999	CD	_	1999	1999	CD	0	ROOT	_
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	0	ROOT	_
+2	,	,	.	_	,	,	.	1	P	_
+
+1	Kids	kids	NNS	_	Kids	kid	NNS	3	SBJ	_	A0	_
+2	today	today	NN	_	today	today	NN	3	TMP	_	AM-TMP	_
+3	face	face	VBP	_	face	face	VBP	0	ROOT	face.01	_	_
+4	overwhelming	overwhelming	JJ	_	overwhelming	overwhelm	VBG	5	NMOD	_	_	_
+5	pressures	pressures	NNS	_	pressures	pressure	NNS	3	OBJ	pressure.02	A1	A2
+6	,	,	,	_	,	,	,	5	P	_	_	_
+7	everything	everything	NN	_	everything	everything	NN	5	NMOD	_	_	A1
+8	from	from	IN	_	from	from	IN	7	NMOD	_	_	_
+9	trouble	trouble	NN	_	trouble	trouble	NN	8	PMOD	_	_	_
+10	at	at	IN	_	at	at	IN	9	LOC	_	_	_
+11	home	home	NN	_	home	home	NN	10	PMOD	_	_	_
+12	to	to	TO	_	to	to	TO	8	PMOD	_	_	_
+13	gangs	gangs	NNS	_	gangs	gang	NNS	12	PMOD	_	_	_
+14	and	and	CC	_	and	and	CC	13	COORD	_	_	_
+15	drugs	drugs	NNS	_	drugs	drug	NNS	14	CONJ	_	_	_
+16	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	Youngsters	youngsters	NNS	_	Youngsters	youngster	NNS	3	SBJ	_	A0	_
+2	often	often	RB	_	often	often	RB	3	TMP	_	AM-TMP	_
+3	find	find	VBP	_	find	find	VBP	0	ROOT	find.01	_	_
+4	themselves	themselves	PRP	_	themselves	themselves	PRP	3	OBJ	_	A1	A0
+5	feeling	feeling	VBG	_	feeling	feel	VBG	3	OPRD	feel.01	A3	_
+6	alienated	alienated	JJ	_	alienated	alienate	VBN	5	PRD	_	_	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_
+8	alone	alone	JJ	_	alone	alone	JJ	7	CONJ	_	_	_
+9	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	That	that	DT	_	That	that	DT	2	SBJ	_	_
+2	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_
+3	where	where	WRB	_	where	where	WRB	11	LOC	_	_
+4	the	the	DT	_	the	the	DT	8	NMOD	_	_
+5	Boys	boys	NNPS	_	Boys	boy	NNPS	7	NAME	_	_
+6	&	&	CC	_	&	&	NNP	7	NAME	_	_
+7	Girls	girls	NNPS	_	Girls	girl	NNPS	8	NMOD	_	_
+8	Clubs	clubs	NNPS	_	Clubs	club	NNPS	11	SBJ	_	A0
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_
+10	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	9	PMOD	_	_
+11	come	come	VBP	_	come	come	VBP	2	LOC-PRD	come.02	_
+12	in	in	RP	_	in	in	RP	11	PRT	_	_
+13	.	.	.	_	.	.	.	2	P	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	_
+2	reach	reach	VBP	_	reach	reach	VBP	0	ROOT	reach.01	_	_
+3	out	out	RP	_	out	out	RP	2	PRT	_	_	_
+4	to	to	TO	_	to	to	TO	2	ADV	_	A1	_
+5	kids	kids	NNS	_	kids	kid	NNS	4	PMOD	_	_	_
+6	--	--	:	_	--	--	:	5	P	_	_	_
+7	especially	especially	RB	_	especially	especially	RB	8	NMOD	_	_	_
+8	those	those	DT	_	those	those	DT	5	APPO	_	_	_
+9	from	from	IN	_	from	from	IN	8	NMOD	_	_	_
+10	disadvantaged	disadvantaged	JJ	_	disadvantaged	disadvantaged	JJ	11	NMOD	_	_	_
+11	neighborhoods	neighborhoods	NNS	_	neighborhoods	neighborhood	NNS	9	PMOD	_	_	_
+12	where	where	WRB	_	where	where	WRB	15	LOC	_	_	_
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_
+14	risks	risks	NNS	_	risks	risk	NNS	15	SBJ	_	_	A1
+15	are	are	VBP	_	are	be	VBP	11	NMOD	be.01	_	_
+16	highest	highest	JJS	_	highest	high	JJS	15	PRD	_	_	A2
+17	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	A1	A0	_	A0	A1	_	_	_
+2	give	give	VBP	_	give	give	VBP	0	ROOT	give.01	_	SU	_	_	_	_	_	_	_
+3	them	them	PRP	_	them	them	PRP	2	OBJ	_	A2	_	_	_	_	_	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_	_	_	_	_	_	_
+5	chance	chance	NN	_	chance	chance	NN	2	OBJ	chance.01	A1	_	_	_	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	NMOD	_	_	A2	_	_	_	_	_	_	_
+7	realize	realize	VB	_	realize	realize	VB	6	IM	realize.01	_	_	_	_	_	_	_	_	_
+8	their	their	PRP$	_	their	their	PRP$	10	NMOD	_	_	_	_	A0	_	_	_	_	_
+9	own	own	JJ	_	own	own	JJ	10	NMOD	_	_	_	_	_	_	_	_	_	_
+10	potential	potential	NN	_	potential	potential	NN	7	OBJ	potential.01	_	_	A1	_	_	_	_	_	_
+11	by	by	IN	_	by	by	IN	2	MNR	_	AM-MNR	_	_	_	_	_	_	_	_
+12	giving	giving	VBG	_	giving	give	VBG	11	PMOD	give.01	_	_	_	_	_	SU	_	_	_
+13	them	them	PRP	_	them	them	PRP	12	OBJ	_	_	_	_	_	A2	_	_	_	_
+14	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_	_	_	_	_	_
+15	place	place	NN	_	place	place	NN	12	OBJ	place.09	_	_	_	_	A1	A2	_	_	_
+16	where	where	WRB	_	where	where	WRB	19	LOC	_	_	_	_	_	_	_	_	_	_
+17	they	they	PRP	_	they	they	PRP	18	SBJ	_	_	_	_	_	_	_	A1	_	_
+18	can	can	MD	_	can	can	MD	15	NMOD	_	_	_	_	_	_	_	_	_	_
+19	develop	develop	VB	_	develop	develop	VB	18	VC	develop.01	_	_	_	_	_	_	_	_	_
+20	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_	_	_	_	_	_	_
+21	sense	sense	NN	_	sense	sense	NN	19	OBJ	sense.02	_	_	_	_	_	_	A2	_	_
+22	of	of	IN	_	of	of	IN	21	NMOD	_	_	_	_	_	_	_	_	A1	_
+23	competence	competence	NN	_	competence	competence	NN	22	PMOD	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_	_	_
+25	of	of	IN	_	of	of	IN	22	COORD	_	_	_	_	_	_	_	_	_	_
+26	usefulness	usefulness	NN	_	usefulness	usefulness	NN	25	PMOD	_	_	_	_	_	_	_	_	_	_
+27	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_	_	_	_	_
+28	a	a	DT	_	a	a	DT	29	NMOD	_	_	_	_	_	_	_	_	_	_
+29	sense	sense	NN	_	sense	sense	NN	21	APPO	sense.02	_	_	_	_	_	_	_	_	_
+30	of	of	IN	_	of	of	IN	29	NMOD	_	_	_	_	_	_	_	_	_	A1
+31	belonging	belonging	NN	_	belonging	belonging	NN	30	PMOD	_	_	_	_	_	_	_	_	_	_
+32	and	and	CC	_	and	and	CC	30	COORD	_	_	_	_	_	_	_	_	_	_
+33	of	of	IN	_	of	of	IN	32	CONJ	_	_	_	_	_	_	_	_	_	_
+34	influence	influence	NN	_	influence	influence	NN	33	PMOD	_	_	_	_	_	_	_	_	_	_
+35	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_	_
+
+1	To	to	TO	_	To	to	TO	14	PRP	_	_	_	_	_	_	_
+2	accomplish	accomplish	VB	_	accomplish	accomplish	VB	1	IM	accomplish.01	_	_	_	_	_	_
+3	this	this	DT	_	this	this	DT	2	OBJ	_	A1	_	_	_	_	_
+4	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_
+6	five	five	CD	_	five	five	CD	7	NMOD	_	_	_	_	_	_	_
+7	area	area	NN	_	area	area	NN	11	NMOD	_	_	_	_	_	_	_
+8	Boys	boys	NNPS	_	Boys	boy	NNPS	10	NAME	_	_	_	_	_	_	_
+9	&	&	CC	_	&	&	NNP	10	NAME	_	_	_	_	_	_	_
+10	Girls	girls	NNPS	_	Girls	girl	NNPS	11	NMOD	_	_	_	_	_	_	_
+11	Clubs	clubs	NNPS	_	Clubs	club	NNPS	14	SBJ	_	A0	A1	_	_	_	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	_	_	_	_
+13	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	12	PMOD	_	_	_	_	_	_	_
+14	must	must	MD	_	must	must	MD	0	ROOT	_	_	_	_	_	_	_
+15	be	be	VB	_	be	be	VB	14	VC	be.01	_	_	_	_	_	_
+16	open	open	JJ	_	open	open	JJ	15	PRD	_	_	A2	_	_	_	_
+17	and	and	CC	_	and	and	CC	16	COORD	_	_	_	_	_	_	_
+18	available	available	JJ	_	available	available	JJ	17	CONJ	_	_	_	_	_	_	_
+19	when	when	WRB	_	when	when	WRB	22	TMP	_	_	_	_	_	_	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_
+21	kids	kids	NNS	_	kids	kid	NNS	22	SBJ	_	_	_	A0	_	_	_
+22	need	need	VBP	_	need	need	VBP	15	TMP	need.01	_	_	_	_	_	_
+23	them	them	PRP	_	them	them	PRP	22	OBJ	_	_	_	A1	_	_	_
+24	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_
+25	with	with	IN	_	with	with	IN	15	ADV	_	_	_	_	_	_	_
+26	the	the	DT	_	the	the	DT	27	NMOD	_	_	_	_	_	_	_
+27	staff	staff	NN	_	staff	staff	NN	25	PMOD	_	_	_	_	A1	_	_
+28	and	and	CC	_	and	and	CC	27	COORD	_	_	_	_	_	_	_
+29	programs	programs	NNS	_	programs	program	NNS	28	CONJ	_	_	_	_	_	_	_
+30	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_	_	_	_
+31	kids	kids	NNS	_	kids	kid	NNS	32	SBJ	_	_	_	_	A0	A0	A0
+32	need	need	VBP	_	need	need	VBP	27	NMOD	need.01	_	_	_	_	_	_
+33	to	to	TO	_	to	to	TO	32	PRP	_	_	_	_	_	_	_
+34	reach	reach	VB	_	reach	reach	VB	33	IM	reach.01	_	_	_	_	_	_
+35	and	and	CC	_	and	and	CC	34	COORD	_	_	_	_	_	_	_
+36	grow	grow	VB	_	grow	grow	VB	35	CONJ	grow.01	_	_	_	_	_	_
+37	into	into	IN	_	into	into	IN	34	ADV	_	_	_	_	_	A1	A1
+38	responsible	responsible	JJ	_	responsible	responsible	JJ	41	NMOD	_	_	_	_	_	_	_
+39	and	and	CC	_	and	and	CC	38	COORD	_	_	_	_	_	_	_
+40	caring	caring	JJ	_	caring	care	VBG	39	CONJ	_	_	_	_	_	_	_
+41	citizens	citizens	NNS	_	citizens	citizen	NNS	37	PMOD	_	_	_	_	_	_	_
+42	.	.	.	_	.	.	.	14	P	_	_	_	_	_	_	_
+
+1	This	this	DT	_	This	this	DT	2	SBJ	_	A1
+2	costs	costs	VBZ	_	costs	cost	VBZ	0	ROOT	cost.01	_
+3	money	money	NN	_	money	money	NN	2	OBJ	_	A2
+4	.	.	.	_	.	.	.	2	P	_	_
+
+1	Money	money	NN	_	Money	money	NN	0	ROOT	_	_	_
+2	for	for	IN	_	for	for	IN	1	NMOD	_	_	_
+3	programs	programs	NNS	_	programs	program	NNS	2	PMOD	_	_	_
+4	,	,	,	_	,	,	,	2	P	_	_	_
+5	for	for	IN	_	for	for	IN	2	COORD	_	_	_
+6	equipment	equipment	NN	_	equipment	equipment	NN	5	PMOD	_	_	_
+7	,	,	,	_	,	,	,	5	P	_	_	_
+8	and	and	CC	_	and	and	CC	5	COORD	_	_	_
+9	for	for	IN	_	for	for	IN	8	CONJ	_	_	_
+10	repairs	repairs	NNS	_	repairs	repair	NNS	9	PMOD	repair.01	_	_
+11	and	and	CC	_	and	and	CC	10	COORD	_	_	_
+12	improvements	improvements	NNS	_	improvements	improvement	NNS	11	CONJ	improvement.01	_	_
+13	to	to	TO	_	to	to	TO	10	NMOD	_	A1	A1
+14	club	club	NN	_	club	club	NN	15	NMOD	_	_	_
+15	facilities	facilities	NNS	_	facilities	facility	NNS	13	PMOD	_	_	_
+16	.	.	.	_	.	.	.	1	P	_	_	_
+
+1	Your	your	PRP$	_	Your	your	PRP$	2	NMOD	_	A0	_	_	_	_
+2	contribution	contribution	NN	_	contribution	contribution	NN	6	SBJ	contribution.01	_	_	A0	_	_
+3	last	last	JJ	_	last	last	JJ	4	NMOD	_	_	AM-TMP	_	_	_
+4	year	year	NN	_	year	year	NN	2	TMP	year.04	_	A2	_	_	_
+5	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_	_	_
+6	helped	helped	VBD	_	helped	help	VBD	0	ROOT	help.01	_	_	_	_	_
+7	us	us	PRP	_	us	us	PRP	6	OBJ	_	_	_	_	A0	_
+8	get	get	VB	_	get	get	VB	6	OPRD	get.01	_	_	A1	_	_
+9	where	where	WRB	_	where	where	WRB	11	LOC-PRD	_	_	_	_	AM-LOC	A2
+10	we	we	PRP	_	we	we	PRP	11	SBJ	_	_	_	_	_	A1
+11	are	are	VBP	_	are	be	VBP	8	LOC	be.01	_	_	_	_	_
+12	today	today	NN	_	today	today	NN	11	TMP	_	_	_	_	_	AM-TMP
+13	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A1	A0	_	_	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_
+3	counting	counting	VBG	_	counting	count	VBG	2	VC	count.02	A2	_	_	_	_	_
+4	on	on	IN	_	on	on	IN	3	ADV	_	_	A2	_	_	_	_
+5	you	you	PRP	_	you	you	PRP	4	PMOD	_	_	_	A0	_	_	_
+6	now	now	RB	_	now	now	RB	3	TMP	_	_	AM-TMP	_	_	_	_
+7	to	to	TO	_	to	to	TO	3	OPRD	_	_	A1	_	_	_	_
+8	help	help	VB	_	help	help	VB	7	IM	help.01	_	_	_	_	_	_
+9	us	us	PRP	_	us	us	PRP	8	OBJ	_	_	_	_	A0	_	_
+10	get	get	VB	_	get	get	VB	8	OPRD	get.01	_	_	A1	_	_	_
+11	where	where	WRB	_	where	where	WRB	15	LOC-PRD	_	_	_	_	AM-LOC	_	A2
+12	we	we	PRP	_	we	we	PRP	13	SBJ	_	_	_	_	_	A0	A1
+13	need	need	VBP	_	need	need	VBP	10	LOC	need.01	_	_	_	_	_	_
+14	to	to	TO	_	to	to	TO	13	OPRD	_	_	_	_	_	A1	_
+15	be	be	VB	_	be	be	VB	14	IM	be.01	_	_	_	_	_	_
+16	tomorrow	tomorrow	NN	_	tomorrow	tomorrow	NN	15	TMP	_	_	_	_	_	_	AM-TMP
+17	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+
+1	Would	would	MD	_	Would	would	MD	0	ROOT	_	AM-MOD	_
+2	you	you	PRP	_	you	you	PRP	1	SBJ	_	A0	_
+3	please	please	UH	_	please	please	UH	1	DEP	_	_	_
+4	consider	consider	VB	_	consider	consider	VB	1	VC	consider.02	_	_
+5	a	a	DT	_	a	a	DT	6	NMOD	_	_	_
+6	gift	gift	NN	_	gift	gift	NN	4	OBJ	gift.01	A1	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	A1
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	same	same	JJ	_	same	same	JJ	7	PMOD	_	_	_
+10	in	in	IN	_	in	in	IN	4	TMP	_	AM-TMP	_
+11	1999	1999	CD	_	1999	1999	CD	10	PMOD	_	_	_
+12	?	?	.	_	?	?	.	1	P	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	3	DEP	_	_
+2	,	,	,	_	,	,	,	3	P	_	_
+3	give	give	VB	_	give	give	VB	0	ROOT	give.01	_
+4	generously	generously	RB	_	generously	generously	RB	3	MNR	_	AM-MNR
+5	.	.	.	_	.	.	.	3	P	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_
+2	kids	kids	NNS	_	kids	kid	NNS	3	SBJ	_	A1	A0
+3	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_
+4	depending	depending	VBG	_	depending	depend	VBG	3	VC	depend.01	A2	_
+5	on	on	IN	_	on	on	IN	4	ADV	_	_	A1
+6	you	you	PRP	_	you	you	PRP	5	PMOD	_	_	_
+7	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	Respectfully	respectfully	RB	_	Respectfully	respectfully	RB	11	MNR	_
+2	,	,	,	_	,	,	,	11	P	_
+3	James	james	NNP	_	James	james	NNP	4	NAME	_
+4	Campbell	campbell	NNP	_	Campbell	campbell	NNP	11	NMOD	_
+5	President	president	NNP	_	President	president	NNP	11	NMOD	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_
+8	Board	board	NNP	_	Board	board	NNP	6	PMOD	_
+9	Deputy	deputy	NNP	_	Deputy	deputy	NNP	10	NAME	_
+10	Chief	chief	NNP	_	Chief	chief	NNP	11	NMOD	_
+11	,	,	,	_	,	,	,	0	ROOT	_
+12	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	14	NAME	_
+13	Police	police	NNP	_	Police	police	NNP	14	NAME	_
+14	Department	department	NNP	_	Department	department	NNP	11	LOC	_
+
+1	A	a	DT	_	A	a	DT	4	NMOD	_
+2	United	united	NNP	_	United	united	NNP	3	NAME	_
+3	Way	way	NNP	_	Way	way	NNP	4	NMOD	_
+4	Agency	agency	NNP	_	Agency	agency	NNP	0	ROOT	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_	_
+2	detach	detach	VB	_	detach	detach	VB	0	ROOT	detach.01	_	_	_
+3	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_
+4	return	return	VB	_	return	return	VB	3	CONJ	return.01	_	_	_
+5	in	in	IN	_	in	in	IN	4	LOC	_	_	AM-LOC	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+7	enclosed	enclosed	VBN	_	enclosed	enclose	VBN	8	NMOD	enclose.01	_	_	_
+8	envelope	envelope	NN	_	envelope	envelope	NN	5	PMOD	_	_	_	A1
+9	.	.	.	_	.	.	.	2	P	_	_	_	_

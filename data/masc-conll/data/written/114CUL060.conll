@@ -1,0 +1,491 @@
+1	June	june	NNP	_	June	june	NNP	2	NMOD	_
+2	10	10	CD	_	10	10	CD	4	NMOD	_
+3	,	,	,	_	,	,	,	4	P	_
+4	1997	1997	CD	_	1997	1997	CD	0	ROOT	_
+
+1	Name	name	NN	_	Name	name	NN	6	NMOD	_	A2
+2	Address	address	NN	_	Address	address	NN	6	NMOD	_	A1
+3	City	city	NN	_	City	city	NN	6	NMOD	_	_
+4	,	,	,	_	,	,	,	6	P	_	_
+5	ST	st	NN	_	ST	st	NNP	6	NMOD	_	A3
+6	Zip	zip	NN	_	Zip	zip	NN	0	ROOT	zip.01	_
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	3	NMOD	_
+2	Mrs.	mrs.	NNP	_	Mrs.	mrs.	NNP	3	TITLE	_
+3	Name	name	NNP	_	Name	name	NNP	0	ROOT	_
+4	,	,	.	_	,	,	.	3	P	_
+
+1	Confidence	confidence	NN	_	Confidence	confidence	NN	0	ROOT	_
+2	.	.	.	_	.	.	.	1	P	_
+
+1	An	an	DT	_	An	an	DT	2	NMOD	_	_	_	_	_	_
+2	understanding	understanding	NN	_	understanding	understanding	NN	0	ROOT	_	_	_	_	_	_
+3	that	that	IN	_	that	that	IN	2	NMOD	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	3	P	_	_	_	_	_	_
+5	above	above	IN	_	above	above	IN	10	ADV	_	_	AM-LOC	_	_	_
+6	anything	anything	NN	_	anything	anything	NN	5	PMOD	_	_	_	_	_	_
+7	else	else	JJ	_	else	else	JJ	6	APPO	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_
+9	success	success	NN	_	success	success	NN	10	SBJ	success.01	_	A0	_	A0	A0
+10	requires	requires	VBZ	_	requires	require	VBZ	3	SUB	require.01	_	_	_	_	_
+11	genuine	genuine	JJ	_	genuine	genuine	JJ	12	NMOD	_	_	_	_	_	_
+12	effort	effort	NN	_	effort	effort	NN	10	OBJ	_	_	A1	_	_	_
+13	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_
+14	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_	_
+15	willingness	willingness	NN	_	willingness	willingness	NN	12	APPO	willingness.01	_	_	_	_	_
+16	to	to	TO	_	to	to	TO	15	NMOD	_	_	_	A1	_	_
+17	set	set	VB	_	set	set	VB	16	IM	set.01	SU	_	_	_	SU
+18	challenging	challenging	JJ	_	challenging	challenge	VBG	19	NMOD	_	_	_	_	_	_
+19	goals	goals	NNS	_	goals	goal	NNS	17	OBJ	goal.01	A0	_	_	A1	_
+20	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	Caring	caring	VBG	_	Caring	care	VBG	0	ROOT	care.01	_
+2	about	about	IN	_	about	about	IN	1	ADV	_	A1
+3	others	others	NNS	_	others	others	NNS	2	PMOD	_	_
+4	.	.	.	_	.	.	.	1	P	_	_
+
+1	These	these	DT	_	These	these	DT	2	SBJ	_	A1	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_
+4	attributes	attributes	NNS	_	attributes	attribute	NNS	2	PRD	_	A2	_	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	_	A0	_
+6	want	want	VBP	_	want	want	VBP	4	NMOD	want.01	_	_	_
+7	all	all	DT	_	all	all	DT	8	NMOD	_	_	_	_
+8	children	children	NNS	_	children	child	NNS	6	OBJ	_	_	_	A0
+9	to	to	TO	_	to	to	TO	6	OPRD	_	_	A1	_
+10	have	have	VB	_	have	have	VB	9	IM	have.04	_	_	_
+11	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	You	you	PRP	_	You	you	PRP	2	SBJ	_	A0	_
+2	help	help	VBP	_	help	help	VBP	0	ROOT	help.01	_	_
+3	Jameson	jameson	NNP	_	Jameson	jameson	NNP	4	NMOD	_	_	_
+4	campers	campers	NNS	_	campers	camper	NNS	2	OBJ	_	_	A0
+5	reach	reach	VB	_	reach	reach	VB	2	OPRD	reach.01	A1	_
+6	for	for	IN	_	for	for	IN	5	ADV	_	_	A1
+7	them	them	PRP	_	them	them	PRP	6	PMOD	_	_	_
+8	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	If	if	IN	_	If	if	IN	18	ADV	_	_	_	_	_	_	_
+2	these	these	DT	_	these	these	DT	4	NMOD	_	_	_	_	_	_	_
+3	special	special	JJ	_	special	special	JJ	4	NMOD	_	_	_	_	_	_	_
+4	children	children	NNS	_	children	child	NNS	5	SBJ	_	A1	A1	_	_	_	_
+5	are	are	VBP	_	are	be	VBP	1	SUB	be.01	_	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	VC	_	_	_	_	_	_	_
+7	become	become	VB	_	become	become	VB	6	IM	become.01	_	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_	_
+9	adults	adults	NNS	_	adults	adult	NNS	7	PRD	_	_	A2	_	_	_	_
+10	we	we	PRP	_	we	we	PRP	12	SBJ	_	_	_	A0	_	_	_
+11	all	all	DT	_	all	all	DT	10	APPO	_	_	_	_	_	_	_
+12	need	need	VBP	_	need	need	VBP	9	NMOD	need.01	_	_	_	_	_	_
+13	them	them	PRP	_	them	them	PRP	12	OBJ	_	_	_	_	A1	_	_
+14	to	to	TO	_	to	to	TO	12	OPRD	_	_	_	A1	_	_	_
+15	be	be	VB	_	be	be	VB	14	IM	be.01	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_
+17	we	we	PRP	_	we	we	PRP	18	SBJ	_	_	_	_	_	A0	A0
+18	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_	_	_
+19	to	to	TO	_	to	to	TO	18	OPRD	_	_	_	_	_	A1	_
+20	lead	lead	VB	_	lead	lead	VB	19	IM	lead.03	_	_	_	_	_	_
+21	them	them	PRP	_	them	them	PRP	20	OBJ	_	_	_	_	_	_	A1
+22	in	in	IN	_	in	in	IN	20	DIR	_	_	_	_	_	_	A2
+23	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_	_	_
+24	right	right	JJ	_	right	right	JJ	25	NMOD	_	_	_	_	_	_	_
+25	direction	direction	NN	_	direction	direction	NN	22	PMOD	_	_	_	_	_	_	_
+26	right	right	RB	_	right	right	RB	20	TMP	_	_	_	_	_	_	_
+27	now	now	RB	_	now	now	RB	26	AMOD	_	_	_	_	_	_	AM-TMP
+28	.	.	.	_	.	.	.	18	P	_	_	_	_	_	_	_
+
+1	Jameson	jameson	NNP	_	Jameson	jameson	NNP	2	SBJ	_	A0	A1	_	_	_	_	_	_
+2	points	points	VBZ	_	points	point	VBZ	0	ROOT	point.01	_	SU	_	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_	_	_	_
+4	way	way	NN	_	way	way	NN	2	PRD	way.01	AM-ADV	_	_	_	_	_	_	_
+5	for	for	IN	_	for	for	IN	2	ADV	_	_	_	_	_	_	_	_	_
+6	children	children	NNS	_	children	child	NNS	5	PMOD	_	_	_	A0	A1	_	_	_	_
+7	who	who	WP	_	who	who	WP	8	SBJ	_	_	_	_	_	_	_	_	_
+8	need	need	VBP	_	need	need	VBP	6	NMOD	need.01	_	_	_	SU	_	_	_	_
+9	that	that	DT	_	that	that	DT	11	NMOD	_	_	_	_	_	_	_	_	_
+10	extra	extra	JJ	_	extra	extra	JJ	11	NMOD	_	_	_	_	_	_	_	_	_
+11	hand	hand	NN	_	hand	hand	NN	8	OBJ	hand.06	_	_	A1	A2	_	_	_	_
+12	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_	_	_	_	_	_
+13	I	i	PRP	_	I	i	PRP	14	SBJ	_	_	_	_	_	A0	_	_	_
+14	hope	hope	VBP	_	hope	hope	VBP	12	CONJ	hope.01	_	_	_	_	_	_	_	_
+15	you	you	PRP	_	you	you	PRP	16	SBJ	_	_	_	_	_	_	A0	A0	_
+16	'll	'll	MD	_	'll	'll	MD	14	OBJ	_	_	_	_	_	_	_	_	_
+17	continue	continue	VB	_	continue	continue	VB	16	VC	continue.01	_	_	_	_	_	_	SU	SU
+18	your	your	PRP$	_	your	your	PRP$	19	NMOD	_	_	_	_	_	_	_	A1	_
+19	support	support	NN	_	support	support	NN	17	OBJ	support.01	_	_	_	_	_	A1	_	A1
+20	this	this	DT	_	this	this	DT	21	NMOD	_	_	_	_	_	_	_	_	_
+21	year	year	NN	_	year	year	NN	17	TMP	year.04	_	_	_	_	_	AM-TMP	_	A2
+22	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_
+
+1	Your	your	PRP$	_	Your	your	PRP$	3	NMOD	_	A0	_	_	_
+2	last	last	JJ	_	last	last	JJ	3	NMOD	_	AM-TMP	_	_	_
+3	gift	gift	NN	_	gift	gift	NN	7	SBJ	gift.01	_	A0	A0	_
+4	of	of	IN	_	of	of	IN	3	NMOD	_	A1	_	_	_
+5	$	$	$	_	$	$	$	4	PMOD	_	_	_	_	_
+6	50.00	50.00	CD	_	50.00	50.00	CD	5	NMOD	_	_	_	_	_
+7	helped	helped	VBD	_	helped	help	VBD	0	ROOT	help.01	_	_	_	_
+8	make	make	VB	_	make	make	VB	7	OPRD	make.08	_	A1	_	_
+9	it	it	PRP	_	it	it	PRP	8	OBJ	_	_	_	_	_
+10	possible	possible	JJ	_	possible	possible	JJ	8	OPRD	_	_	_	A2	_
+11	for	for	IN	_	for	for	IN	10	EXTR	_	_	_	_	_
+12	us	us	PRP	_	us	us	PRP	13	SBJ	_	_	_	_	A0
+13	to	to	TO	_	to	to	TO	11	SUB	_	_	_	_	_
+14	provide	provide	VB	_	provide	provide	VB	13	IM	provide.01	_	_	_	_
+15	guidance	guidance	NN	_	guidance	guidance	NN	14	OBJ	_	_	_	_	A1
+16	,	,	,	_	,	,	,	15	P	_	_	_	_	_
+17	encouragement	encouragement	NN	_	encouragement	encouragement	NN	15	COORD	_	_	_	_	_
+18	and	and	CC	_	and	and	CC	17	COORD	_	_	_	_	_
+19	fun	fun	NN	_	fun	fun	NN	18	CONJ	_	_	_	_	_
+20	to	to	TO	_	to	to	TO	14	ADV	_	_	_	_	A2
+21	nearly	nearly	RB	_	nearly	nearly	RB	25	NMOD	_	_	_	_	_
+22	400	400	CD	_	400	400	CD	21	DEP	_	_	_	_	_
+23	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	24	NMOD	_	_	_	_	_
+24	area	area	NN	_	area	area	NN	25	NMOD	_	_	_	_	_
+25	children	children	NNS	_	children	child	NNS	20	PMOD	_	_	_	_	_
+26	.	.	.	_	.	.	.	7	P	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	0	ROOT	_
+2	not	not	RB	_	not	not	RB	4	PMOD	_
+3	just	just	RB	_	just	just	RB	2	AMOD	_
+4	during	during	IN	_	during	during	IN	1	COORD	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_
+6	summer	summer	NN	_	summer	summer	NN	4	PMOD	_
+7	,	,	,	_	,	,	,	4	P	_
+8	but	but	CC	_	but	but	CC	4	COORD	_
+9	throughout	throughout	IN	_	throughout	throughout	IN	8	CONJ	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_
+11	year	year	NN	_	year	year	NN	9	PMOD	_
+12	.	.	.	_	.	.	.	1	P	_
+
+1	What	what	WP	_	What	what	WP	8	OBJ	_	_	_	_	_	_
+2	has	has	VBZ	_	has	have	VBZ	0	ROOT	_	_	_	_	_	_
+3	your	your	PRP$	_	your	your	PRP$	4	NMOD	_	A0	_	_	_	_
+4	support	support	NN	_	support	support	NN	2	SBJ	support.01	_	A0	_	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A1	_	_	_	_
+6	our	our	PRP$	_	our	our	PRP$	7	NMOD	_	_	_	_	_	_
+7	campers	campers	NNS	_	campers	camper	NNS	5	PMOD	_	_	_	_	_	_
+8	meant	meant	VBN	_	meant	mean	VBN	2	VC	mean.01	_	_	_	_	_
+9	to	to	TO	_	to	to	TO	8	ADV	_	_	A1	_	_	_
+10	them	them	PRP	_	them	them	PRP	9	PMOD	_	_	_	_	_	_
+11	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_	_	_
+12	what	what	WP	_	what	what	WP	18	OBJ	_	_	_	_	A1	_
+13	have	have	VBP	_	have	have	VBP	11	CONJ	_	_	_	_	_	_
+14	they	they	PRP	_	they	they	PRP	13	SBJ	_	_	_	A1	A0	_
+15	been	been	VBN	_	been	be	VBN	13	VC	be.01	_	_	_	_	_
+16	able	able	JJ	_	able	able	JJ	15	PRD	_	_	_	A2	_	_
+17	to	to	TO	_	to	to	TO	16	AMOD	_	_	_	_	_	_
+18	accomplish	accomplish	VB	_	accomplish	accomplish	VB	17	IM	accomplish.01	_	_	_	_	_
+19	because	because	IN	_	because	because	IN	15	PRP	_	_	_	_	_	_
+20	you	you	PRP	_	you	you	PRP	21	SBJ	_	_	_	_	_	A0
+21	care	care	VBP	_	care	care	VBP	19	SUB	care.01	_	_	_	_	_
+22	?	?	.	_	?	?	.	2	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_	_	_
+2	best	best	JJS	_	best	best	JJS	3	NMOD	_	_	_	_	_	_	_	_	_
+3	indicator	indicator	NN	_	indicator	indicator	NN	18	SBJ	indicator.01	A0	A1	_	_	_	A1	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	_	_	_	_	_	_	_	_
+5	can	can	MD	_	can	can	MD	3	NMOD	_	_	_	_	_	_	_	_	_
+6	give	give	VB	_	give	give	VB	5	VC	give.01	_	_	_	_	_	_	_	_
+7	you	you	PRP	_	you	you	PRP	6	OBJ	_	_	A2	_	_	_	_	_	_
+8	of	of	IN	_	of	of	IN	3	NMOD	_	A1	_	_	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_	_	_	_
+10	positive	positive	JJ	_	positive	positive	JJ	11	NMOD	_	_	_	_	_	_	_	_	_
+11	effect	effect	NN	_	effect	effect	NN	8	PMOD	_	_	_	A1	_	A1	_	_	_
+12	our	our	PRP$	_	our	our	PRP$	16	NMOD	_	_	_	_	_	_	_	_	_
+13	year-round	year-round	JJ	_	year	year	NN	15	HMOD	year.04	_	_	A2	_	_	_	_	_
+14	_	_	_	_	-	-	HYPH	13	HYPH	_	_	_	_	_	_	_	_	_
+15	_	_	_	_	round	round	NN	16	NMOD	_	_	_	_	A1	_	_	_	_
+16	contact	contact	NN	_	contact	contact	NN	17	SBJ	contact.01	_	_	_	_	A0	_	_	_
+17	has	has	VBZ	_	has	have	VBZ	11	NMOD	have.04	_	_	SU	_	_	_	_	_
+18	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_	_	_
+19	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_	_	_	_	_	_
+20	growth	growth	NN	_	growth	growth	NN	18	PRD	growth.02	_	_	_	SU	_	A2	SU	_
+21	in	in	IN	_	in	in	IN	20	NMOD	_	_	_	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_	_	_
+23	deeds	deeds	NNS	_	deeds	deeds	NNS	22	CONJ	deed.02	_	_	_	_	_	_	_	_
+24	of	of	IN	_	of	of	IN	23	NMOD	_	_	_	_	_	_	_	_	A0
+25	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_	_	_
+26	Youth	youth	NNP	_	Youth	youth	NNP	27	NAME	_	_	_	_	_	_	_	_	_
+27	Leadership	leadership	NNP	_	Leadership	leadership	NNP	28	NMOD	_	_	_	_	_	_	_	_	_
+28	teens	teens	NNS	_	teens	teens	NNS	21	PMOD	_	_	_	_	A0	_	_	A0	_
+29	.	.	.	_	.	.	.	18	P	_	_	_	_	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	9	TMP	_	_	_	AM-TMP	_	_	_	_
+2	just	just	RB	_	just	just	RB	6	NMOD	_	_	_	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_
+4	past	past	JJ	_	past	past	JJ	6	NMOD	_	AM-TMP	_	_	_	_	_	_
+5	few	few	JJ	_	few	few	DT	6	NMOD	_	_	_	_	_	_	_	_
+6	years	years	NNS	_	years	years	NNS	1	PMOD	year.04	A2	_	_	_	_	_	_
+7	this	this	DT	_	this	this	DT	8	NMOD	_	_	_	_	_	_	_	_
+8	program	program	NN	_	program	program	NN	9	SBJ	program.01	_	_	A0	A0	_	_	_
+9	has	has	VBZ	_	has	have	VBZ	0	ROOT	have.03	_	SU	_	_	_	_	_
+10	grown	grown	VBN	_	grown	grow	VBN	9	VC	grow.01	_	SU	A1	_	_	_	_
+11	from	from	IN	_	from	from	IN	10	ADV	_	_	A0	_	A1	_	_	_
+12	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_	_	_	_
+13	few	few	JJ	_	few	few	DT	14	NMOD	_	_	_	_	_	_	_	_
+14	kids	kids	NNS	_	kids	kid	NNS	11	PMOD	_	_	_	_	_	_	_	_
+15	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_	_	_	_	_
+16	a	a	DT	_	a	a	DT	19	NMOD	_	_	_	_	_	_	_	_
+17	few	few	JJ	_	few	few	DT	19	NMOD	_	_	_	_	_	_	_	_
+18	extra	extra	JJ	_	extra	extra	JJ	19	NMOD	_	_	_	_	_	_	_	_
+19	activities	activities	NNS	_	activities	activity	NNS	15	CONJ	_	_	_	_	_	_	_	_
+20	to	to	TO	_	to	to	TO	10	ADV	_	_	_	_	A2	_	_	_
+21	a	a	DT	_	a	a	DT	22	NMOD	_	_	_	_	_	_	_	_
+22	team	team	NN	_	team	team	NN	20	PMOD	team.01	_	_	_	_	_	_	_
+23	of	of	IN	_	of	of	IN	22	NMOD	_	_	_	_	_	A2	_	_
+24	almost	almost	RB	_	almost	almost	RB	27	NMOD	_	_	_	_	_	_	_	_
+25	60	60	CD	_	60	60	CD	24	DEP	_	_	_	_	_	_	_	_
+26	young	young	JJ	_	young	young	JJ	27	NMOD	_	_	_	_	_	_	_	_
+27	adults	adults	NNS	_	adults	adult	NNS	23	PMOD	_	_	_	_	_	_	A0	A0
+28	taking	taking	VBG	_	taking	take	VBG	27	APPO	take.01	_	_	_	_	_	_	SU
+29	on	on	RP	_	on	on	RP	28	PRT	_	_	_	_	_	_	_	_
+30	real	real	JJ	_	real	real	JJ	31	NMOD	_	_	_	_	_	_	_	_
+31	projects	projects	NNS	_	projects	project	NNS	28	OBJ	project.01	_	_	_	_	_	A1	_
+32	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_	_
+
+1	YL	yl	NNP	_	YL	yl	NNP	2	NMOD	_	_	_	_
+2	teens	teens	NNS	_	teens	teens	NNS	3	SBJ	_	A0	_	_
+3	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_
+4	make	make	VB	_	make	make	VB	3	VC	make.08	_	_	_
+5	J.C.	j.c.	NNP	_	J.C.	j.c.	NNP	6	NMOD	_	_	A2	_
+6	juniors	juniors	NNS	_	juniors	junior	NNS	4	OBJ	junior.01	_	A0	A0
+7	happen	happen	VB	_	happen	happen	VB	4	OPRD	happen.03	A2	_	_
+8	again	again	RB	_	again	again	RB	7	ADV	_	_	_	AM-TMP
+9	this	this	DT	_	this	this	DT	10	NMOD	_	_	_	_
+10	year	year	NN	_	year	year	NN	7	TMP	_	_	_	AM-TMP
+11	for	for	IN	_	for	for	IN	7	ADV	_	_	_	_
+12	7	7	CD	_	7	7	CD	15	NMOD	_	_	_	_
+13	and	and	CC	_	and	and	CC	12	COORD	_	_	_	_
+14	8	8	CD	_	8	8	CD	13	CONJ	_	_	_	_
+15	year	year	NN	_	year	year	NN	16	AMOD	_	_	_	_
+16	old	old	JJ	_	old	old	JJ	17	NMOD	_	_	_	_
+17	campers	campers	NNS	_	campers	camper	NNS	11	PMOD	_	_	_	_
+18	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	A	a	DT	_	A	a	DT	4	NMOD	_	_	_	_
+2	five	five	CD	_	five	five	CD	3	NMOD	_	_	_	_
+3	day	day	NN	_	day	day	NN	4	NMOD	_	_	_	_
+4	camp	camp	NN	_	camp	camp	NN	8	ADV	_	_	_	_
+5	,	,	,	_	,	,	,	8	P	_	_	_	_
+6	J.C.	j.c.	NNP	_	J.C.	j.c.	NNP	7	NMOD	_	A2	_	_
+7	juniors	juniors	NNS	_	juniors	junior	NNS	8	SBJ	junior.01	A0	A0	_
+8	introduces	introduces	VBZ	_	introduces	introduce	VBZ	0	ROOT	introduce.01	_	_	_
+9	at-risk	at-risk	JJ	_	at	at	IN	11	HMOD	_	_	_	_
+10	_	_	_	_	-	-	HYPH	9	HYPH	_	_	_	_
+11	_	_	_	_	risk	risk	NN	12	NMOD	_	_	_	_
+12	children	children	NNS	_	children	child	NNS	8	OBJ	_	_	A1	_
+13	to	to	TO	_	to	to	TO	8	ADV	_	_	A2	_
+14	Jameson	jameson	NNP	_	Jameson	jameson	NNP	13	PMOD	_	_	_	_
+15	two	two	CD	_	two	two	CD	16	NMOD	_	_	_	_
+16	years	years	NNS	_	years	years	NNS	17	AMOD	_	_	AM-TMP	_
+17	earlier	earlier	RBR	_	earlier	earlier	RBR	8	TMP	_	_	_	_
+18	than	than	IN	_	than	than	IN	17	AMOD	_	_	_	_
+19	we	we	PRP	_	we	we	PRP	20	SBJ	_	_	_	A0
+20	could	could	MD	_	could	could	MD	18	SUB	_	_	_	_
+21	previously	previously	RB	_	previously	previously	RB	20	TMP	_	_	_	_
+22	reach	reach	VB	_	reach	reach	VB	20	VC	reach.01	_	_	_
+23	them	them	PRP	_	them	them	PRP	22	OBJ	_	_	_	A1
+24	.	.	.	_	.	.	.	8	P	_	_	_	_
+
+1	That	that	DT	_	That	that	DT	2	SBJ	_	A0	_	_	_	_	_
+2	means	means	VBZ	_	means	mean	VBZ	0	ROOT	mean.01	_	_	_	_	_	_
+3	we	we	PRP	_	we	we	PRP	5	SBJ	_	_	A0	A0	A1	_	_
+4	now	now	RB	_	now	now	RB	5	TMP	_	_	AM-TMP	_	_	_	_
+5	have	have	VBP	_	have	have	VBP	2	OBJ	have.04	A1	_	SU	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+7	opportunity	opportunity	NN	_	opportunity	opportunity	NN	5	OBJ	opportunity.01	_	A1	_	_	_	_
+8	to	to	TO	_	to	to	TO	7	NMOD	_	_	_	A1	_	_	_
+9	be	be	VB	_	be	be	VB	8	IM	be.01	_	_	_	_	_	_
+10	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_	_
+11	stable	stable	JJ	_	stable	stable	JJ	16	NMOD	_	_	_	_	_	_	_
+12	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_
+13	positive	positive	JJ	_	positive	positive	JJ	11	COORD	_	_	_	_	_	_	_
+14	and	and	CC	_	and	and	CC	13	COORD	_	_	_	_	_	_	_
+15	important	important	JJ	_	important	important	JJ	14	CONJ	_	_	_	_	_	_	_
+16	part	part	NN	_	part	part	NN	9	PRD	part.04	_	_	_	A2	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	A1	_
+18	each	each	DT	_	each	each	DT	19	NMOD	_	_	_	_	_	_	_
+19	child	child	NN	_	child	child	NN	21	NMOD	_	_	_	_	_	_	A1
+20	's	's	POS	_	's	's	POS	19	SUFFIX	_	_	_	_	_	_	_
+21	life	life	NN	_	life	life	NN	17	PMOD	life.02	_	_	_	_	_	A2
+22	for	for	IN	_	for	for	IN	9	TMP	_	_	_	_	AM-TMP	_	_
+23	an	an	DT	_	an	an	DT	25	NMOD	_	_	_	_	_	_	_
+24	entire	entire	JJ	_	entire	entire	JJ	25	NMOD	_	_	_	_	_	_	_
+25	decade	decade	NN	_	decade	decade	NN	22	PMOD	_	_	_	_	_	_	_
+26	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_
+2	teens	teens	NNS	_	teens	teens	NNS	3	SBJ	_	A0	A0	A0	A0	_	_	_
+3	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_	_	_	_
+4	also	also	RB	_	also	also	RB	3	ADV	_	AM-DIS	_	_	_	_	_	_
+5	decided	decided	VBN	_	decided	decide	VBN	3	VC	decide.01	A1	_	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	OPRD	_	_	_	_	_	_	_	_
+7	raise	raise	VB	_	raise	raise	VB	6	IM	raise.02	_	_	_	_	_	_	_
+8	money	money	NN	_	money	money	NN	7	OBJ	_	_	_	A1	_	_	_	_
+9	to	to	TO	_	to	to	TO	7	PRP	_	_	_	_	_	_	_	_
+10	provide	provide	VB	_	provide	provide	VB	9	IM	provide.01	_	_	_	_	_	_	_
+11	camperships	camperships	NNS	_	camperships	camperships	NNS	10	OBJ	_	_	_	_	A1	_	_	_
+12	for	for	IN	_	for	for	IN	11	NMOD	_	_	_	_	_	_	_	_
+13	other	other	JJ	_	other	other	JJ	14	NMOD	_	_	_	_	_	_	_	_
+14	campers	campers	NNS	_	campers	camper	NNS	12	PMOD	_	_	_	_	_	_	_	_
+15	because	because	IN	_	because	because	IN	5	PRP	_	_	_	_	_	_	_	_
+16	they	they	PRP	_	they	they	PRP	17	SBJ	_	_	_	_	_	A0	_	_
+17	know	know	VBP	_	know	know	VBP	15	SUB	know.01	_	_	_	_	_	_	_
+18	what	what	WP	_	what	what	WP	21	OBJ	_	_	_	_	_	A1	_	A1
+19	Jameson	jameson	NNP	_	Jameson	jameson	NNP	20	SBJ	_	_	_	_	_	_	A0	A0
+20	has	has	VBZ	_	has	have	VBZ	17	OBJ	have.04	_	_	_	_	_	_	_
+21	meant	meant	VBN	_	meant	mean	VBN	20	VC	mean.01	_	_	_	_	_	A1	_
+22	to	to	TO	_	to	to	TO	21	ADV	_	_	_	_	_	_	_	AM-DIR
+23	them	them	PRP	_	them	them	PRP	22	PMOD	_	_	_	_	_	_	_	_
+24	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	4	DEP	_	_	_	_
+2	their	their	PRP$	_	their	their	PRP$	3	NMOD	_	A1	_	_
+3	activities	activities	NNS	_	activities	activity	NNS	4	SBJ	activity.01	_	A1	_
+4	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+5	n't	not	RB	_	n't	not	RB	4	ADV	_	_	_	_
+6	isolated	isolated	JJ	_	isolated	isolate	VBN	4	PRD	isolate.01	_	A2	_
+7	to	to	TO	_	to	to	TO	6	AMOD	_	_	_	A1
+8	Jameson	jameson	NNP	_	Jameson	jameson	NNP	7	PMOD	_	_	_	_
+9	.	.	.	_	.	.	.	4	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_
+2	teens	teens	NNS	_	teens	teens	NNS	3	SBJ	_	A0	A0	_	A0	A0
+3	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_	_
+4	undertaken	undertaken	VBN	_	undertaken	undertake	VBN	3	VC	undertake.01	A1	_	_	SU	_
+5	a	a	DT	_	a	a	DT	7	NMOD	_	_	_	_	_	_
+6	volunteer	volunteer	NN	_	volunteer	volunteer	NN	7	NMOD	volunteer.01	_	_	A0	_	_
+7	project	project	NN	_	project	project	NN	4	OBJ	project.01	_	A1	_	_	_
+8	to	to	TO	_	to	to	TO	7	NMOD	_	_	_	A1	A1	_
+9	regularly	regularly	RB	_	regularly	regularly	RB	8	MNR	_	_	_	_	_	_
+10	visit	visit	VB	_	visit	visit	VB	8	IM	visit.01	_	_	_	_	_
+11	with	with	IN	_	with	with	IN	10	ADV	_	_	_	_	_	A1
+12	sick	sick	JJ	_	sick	sick	JJ	13	NMOD	_	_	_	_	_	_
+13	children	children	NNS	_	children	child	NNS	11	PMOD	_	_	_	_	_	_
+14	at	at	IN	_	at	at	IN	13	LOC	_	_	_	_	_	_
+15	a	a	DT	_	a	a	DT	17	NMOD	_	_	_	_	_	_
+16	local	local	JJ	_	local	local	JJ	17	NMOD	_	_	_	_	_	_
+17	hospital	hospital	NN	_	hospital	hospital	NN	14	PMOD	_	_	_	_	_	_
+18	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_	_
+2	consider	consider	VB	_	consider	consider	VB	0	ROOT	consider.02	_	_	_
+3	renewing	renewing	VBG	_	renewing	renew	VBG	2	OPRD	renew.01	A1	_	_
+4	your	your	PRP$	_	your	your	PRP$	5	NMOD	_	_	_	A0
+5	gift	gift	NN	_	gift	gift	NN	3	OBJ	gift.01	_	A1	_
+6	today	today	NN	_	today	today	NN	3	TMP	_	_	AM-TMP	_
+7	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_
+2	kids	kids	NNS	_	kids	kid	NNS	3	SBJ	_	A0	A0
+3	need	need	VBP	_	need	need	VBP	0	ROOT	need.01	_	SU
+4	your	your	PRP$	_	your	your	PRP$	5	NMOD	_	_	A1
+5	leadership	leadership	NN	_	leadership	leadership	NN	3	OBJ	leadership.01	A1	_
+6	now	now	RB	_	now	now	RB	3	TMP	_	AM-TMP	_
+7	more	more	RBR	_	more	more	RBR	3	ADV	_	_	_
+8	than	than	IN	_	than	than	IN	7	AMOD	_	_	_
+9	ever	ever	RB	_	ever	ever	RB	8	TMP	_	AM-MNR	_
+10	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	If	if	IN	_	If	if	IN	10	ADV	_	_	_	_	_	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0	_	_	_	_	_	_	_
+3	can	can	MD	_	can	can	MD	1	SUB	_	_	_	_	_	_	_	_	_
+4	increase	increase	VB	_	increase	increase	VB	3	VC	increase.01	_	_	_	_	_	_	_	_
+5	your	your	PRP$	_	your	your	PRP$	7	NMOD	_	_	A0	_	_	_	_	_	_
+6	last	last	JJ	_	last	last	JJ	7	NMOD	_	_	AM-TMP	_	_	_	_	_	_
+7	donation	donation	NN	_	donation	donation	NN	4	OBJ	donation.01	A1	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_	_	_
+9	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	_	A1	_	_	_	_	_
+10	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_	_	_	_
+11	appreciate	appreciate	VB	_	appreciate	appreciate	VB	10	VC	appreciate.01	_	_	_	_	_	_	_	_
+12	that	that	DT	_	that	that	DT	13	NMOD	_	_	_	_	_	_	_	_	_
+13	show	show	NN	_	show	show	NN	11	OBJ	show.02	_	_	A2	_	_	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_	A1	_	_	_	_
+15	support	support	NN	_	support	support	NN	14	PMOD	support.01	_	_	_	_	_	_	_	_
+16	for	for	IN	_	for	for	IN	15	NMOD	_	_	_	_	_	A1	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_	_	_	_	_
+18	campers	campers	NNS	_	campers	camper	NNS	16	PMOD	_	_	_	_	_	_	_	_	_
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_	_	_	_
+20	their	their	PRP$	_	their	their	PRP$	21	NMOD	_	_	_	_	_	_	A0	A0	A0
+21	efforts	efforts	NNS	_	efforts	effort	NNS	19	CONJ	effort.01	_	_	_	_	_	_	_	_
+22	to	to	TO	_	to	to	TO	21	NMOD	_	_	_	_	_	_	_	_	_
+23	overcome	overcome	VB	_	overcome	overcome	VB	22	IM	overcome.01	_	_	_	_	_	A1	_	_
+24	obstacles	obstacles	NNS	_	obstacles	obstacle	NNS	23	OBJ	_	_	_	_	_	_	_	A1	_
+25	and	and	CC	_	and	and	CC	23	COORD	_	_	_	_	_	_	_	_	_
+26	create	create	VB	_	create	create	VB	25	CONJ	create.01	_	_	_	_	_	_	_	_
+27	successful	successful	JJ	_	successful	successful	JJ	28	NMOD	_	_	_	_	_	_	_	_	_
+28	lives	lives	NNS	_	lives	life	NNS	26	OBJ	_	_	_	_	_	_	_	_	A1
+29	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_	_	_	_
+
+1	Thank	thank	VBP	_	Thank	thank	VBP	0	ROOT	thank.01	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	1	OBJ	_	A1	A0	A0	A1
+3	again	again	RB	_	again	again	RB	1	ADV	_	AM-TMP	_	_	_
+4	for	for	IN	_	for	for	IN	1	ADV	_	A2	_	_	_
+5	helping	helping	VBG	_	helping	help	VBG	4	PMOD	help.01	_	_	_	_
+6	point	point	VB	_	point	point	VB	5	OPRD	point.01	_	A1	_	SU
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_
+8	way	way	NN	_	way	way	NN	6	OBJ	way.01	_	_	AM-ADV	_
+9	.	.	.	_	.	.	.	1	P	_	_	_	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	7	MNR	_
+2	,	,	,	_	,	,	,	7	P	_
+3	Julie	julie	NNP	_	Julie	julie	NNP	4	NAME	_
+4	Marsh	marsh	NNP	_	Marsh	marsh	NNP	7	NMOD	_
+5	,	,	,	_	,	,	,	7	P	_
+6	Executive	executive	NNP	_	Executive	executive	NNP	7	NAME	_
+7	Director	director	NNP	_	Director	director	NNP	0	ROOT	_
+
+1	P.S.	p.s.	FW	_	P.S.	p.s.	FW	0	ROOT	_
+
+1	You	you	PRP	_	You	you	PRP	2	SBJ	_	A0	_	_	_	_	_	_	_	_
+2	make	make	VBP	_	make	make	VBP	0	ROOT	make.08	_	_	_	_	_	_	_	_	_
+3	it	it	PRP	_	it	it	PRP	2	OBJ	_	_	_	_	_	_	_	_	_	_
+4	possible	possible	JJ	_	possible	possible	JJ	2	OPRD	_	A2	_	_	_	_	_	_	_	_
+5	for	for	IN	_	for	for	IN	4	EXTR	_	_	_	_	_	_	_	_	_	_
+6	us	us	PRP	_	us	us	PRP	7	SBJ	_	_	A0	_	_	_	_	_	_	_
+7	to	to	TO	_	to	to	TO	5	SUB	_	_	_	_	_	_	_	_	_	_
+8	help	help	VB	_	help	help	VB	7	IM	help.01	_	_	_	_	_	_	_	_	_
+9	special	special	JJ	_	special	special	JJ	10	NMOD	_	_	_	_	_	_	_	_	_	_
+10	kids	kids	NNS	_	kids	kid	NNS	8	OBJ	_	_	_	_	_	_	A1	_	_	_
+11	with	with	IN	_	with	with	IN	10	NMOD	_	_	_	_	_	_	_	_	_	_
+12	learning	learning	NN	_	learning	learning	NN	13	NMOD	_	_	_	A1	_	_	_	_	_	_
+13	disabilities	disabilities	NNS	_	disabilities	disability	NNS	11	PMOD	disability.01	_	_	_	_	_	_	_	_	_
+14	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_	_	_	_
+15	behavior	behavior	NN	_	behavior	behavior	NN	16	NMOD	_	_	_	_	A3	_	_	_	_	_
+16	problems	problems	NNS	_	problems	problem	NNS	13	COORD	problem.01	_	_	_	A2	_	_	_	_	_
+17	and	and	CC	_	and	and	CC	16	COORD	_	_	_	_	_	_	_	_	_	_
+18	economic	economic	JJ	_	economic	economic	JJ	19	NMOD	_	_	_	_	_	A0	_	_	_	_
+19	disadvantages	disadvantages	NNS	_	disadvantages	disadvantage	NNS	17	CONJ	disadvantage.01	_	_	_	_	_	_	_	_	_
+20	to	to	TO	_	to	to	TO	8	OPRD	_	_	A1	_	_	_	_	_	_	_
+21	gain	gain	VB	_	gain	gain	VB	20	IM	gain.01	_	_	_	SU	_	_	_	_	_
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_	_	_	_	_	_
+23	confidence	confidence	NN	_	confidence	confidence	NN	21	OBJ	_	_	_	_	A1	_	A2	A1	A0	A0
+24	required	required	VBN	_	required	require	VBN	23	APPO	require.01	_	_	_	_	_	_	_	_	_
+25	to	to	TO	_	to	to	TO	24	PRP	_	_	_	_	_	_	_	_	_	_
+26	put	put	VB	_	put	put	VB	25	IM	put.01	_	_	_	_	_	_	_	_	_
+27	genuine	genuine	JJ	_	genuine	genuine	JJ	28	NMOD	_	_	_	_	_	_	_	_	_	_
+28	effort	effort	NN	_	effort	effort	NN	26	OBJ	_	_	_	_	_	_	_	_	A1	_
+29	into	into	IN	_	into	into	IN	26	ADV	_	_	_	_	_	_	_	_	A2	_
+30	achieving	achieving	VBG	_	achieving	achieve	VBG	29	PMOD	achieve.01	_	_	_	_	_	_	_	_	_
+31	real	real	JJ	_	real	real	JJ	32	NMOD	_	_	_	_	_	_	_	_	_	_
+32	goals	goals	NNS	_	goals	goal	NNS	30	OBJ	_	_	_	_	_	_	_	_	_	A1
+33	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	_	_	_
+2	hope	hope	VBP	_	hope	hope	VBP	0	ROOT	hope.01	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	_	A0	A0	_
+4	'll	'll	MD	_	'll	'll	MD	2	OBJ	_	_	_	_	_
+5	continue	continue	VB	_	continue	continue	VB	4	VC	continue.01	_	_	_	_
+6	--	--	:	_	--	--	:	5	P	_	_	_	_	_
+7	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_	_
+8	if	if	IN	_	if	if	IN	5	ADV	_	_	_	_	_
+9	possible	possible	JJ	_	possible	possible	JJ	8	SUB	_	_	_	_	_
+10	increase	increase	VB	_	increase	increase	VB	7	CONJ	increase.01	_	_	_	_
+11	--	--	:	_	--	--	:	5	P	_	_	_	_	_
+12	your	your	PRP$	_	your	your	PRP$	13	NMOD	_	_	_	_	A0
+13	support	support	NN	_	support	support	NN	5	OBJ	support.01	_	A1	A1	_
+14	for	for	IN	_	for	for	IN	13	NMOD	_	_	_	_	A1
+15	these	these	DT	_	these	these	DT	17	NMOD	_	_	_	_	_
+16	great	great	JJ	_	great	great	JJ	17	NMOD	_	_	_	_	_
+17	kids	kids	NNS	_	kids	kid	NNS	14	PMOD	_	_	_	_	_
+18	.	.	.	_	.	.	.	2	P	_	_	_	_	_

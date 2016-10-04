@@ -1,0 +1,1071 @@
+1	okay	okay	UH	_	okay	okay	UH	8	DEP	_	_	_	_	_
+2	Ellen	ellen	NNP	_	Ellen	ellen	NNP	8	VOC	_	_	_	_	_
+3	what	what	WDT	_	what	what	WDT	4	NMOD	_	_	_	_	_
+4	kind	kind	NN	_	kind	kind	NN	8	DEP	kind.02	_	_	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A1	_	_	_
+6	a	a	DT	_	a	a	DT	7	NMOD	_	_	_	_	_
+7	car	car	NN	_	car	car	NN	5	PMOD	_	_	_	_	_
+8	do	do	VBP	_	do	do	VBP	0	ROOT	_	_	_	_	_
+9	you	you	PRP	_	you	you	PRP	8	SBJ	_	_	A0	_	_
+10	think	think	VB	_	think	think	VB	8	VC	think.01	_	_	_	_
+11	you	you	PRP	_	you	you	PRP	12	SBJ	_	_	_	A0	A0
+12	're	're	VBP	_	're	're	VBP	10	OBJ	_	_	A1	_	_
+13	going	going	VBG	_	going	go	VBG	12	VC	go.05	_	_	_	_
+14	to	to	TO	_	to	to	TO	13	VC	_	_	_	A1	_
+15	buy	buy	VB	_	buy	buy	VB	14	IM	buy.01	_	_	_	_
+16	/	/	SU	_	/	/	SU	8	DEP	_	_	_	_	_
+
+1	well	well	UH	_	well	well	UH	8	DEP	_	_	_	_
+2	as	as	IN	_	as	as	IN	8	ADV	_	_	_	_
+3	a	a	DT	_	a	a	DT	4	NMOD	_	_	_	_
+4	matter	matter	NN	_	matter	matter	NN	2	PMOD	matter.01	_	AM-TMP	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A1	_	_
+6	fact	fact	NN	_	fact	fact	NN	5	PMOD	_	_	_	_
+7	I	i	PRP	_	I	i	PRP	8	SBJ	_	_	A1	A0
+8	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+9	thinking	thinking	VBG	_	thinking	think	VBG	8	VC	think.01	_	A2	_
+10	about	about	IN	_	about	about	IN	9	ADV	_	_	_	A1
+11	that	that	IN	_	that	that	DT	10	PMOD	_	_	_	_
+12	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_
+13	other	other	JJ	_	other	other	JJ	14	NMOD	_	_	_	_
+14	day	day	NN	_	day	day	NN	9	TMP	_	_	_	AM-TMP
+15	/	/	SU	_	/	/	SU	8	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	5	DEP	_	_	_
+2	uh	uh	UH	_	uh	uh	UH	5	DEP	_	_	_
+3	I	i	PRP	_	I	i	PRP	5	SBJ	_	A0	A0
+4	really	really	RB	_	really	really	RB	5	ADV	_	AM-ADV	_
+5	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_
+6	n't	not	RB	_	n't	not	RB	5	ADV	_	_	_
+7	know	know	VB	_	know	know	VB	5	VC	know.01	A1	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	answer	answer	NN	_	answer	answer	NN	7	OBJ	_	_	A1
+10	um	um	UH	_	um	um	UH	7	DEP	_	_	A2
+11	/	/	SU	_	/	/	SU	5	DEP	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0	_	_	_	_	_	_
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_	_	_	_
+3	sort	sort	NN	_	sort	sort	NN	4	AMOD	_	_	_	_	_	_	_	_	_
+4	of	of	IN	_	of	of	IN	2	ADV	_	_	_	_	_	_	_	_	_
+5	like	like	VB	_	like	like	VB	2	VC	like.01	_	_	_	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	OPRD	_	A1	_	_	_	_	_	_	_
+7	uh	uh	UH	_	uh	uh	UH	6	DEP	_	_	_	_	_	_	_	_	_
+8	think	think	VB	_	think	think	VB	6	IM	think.01	_	_	_	_	_	_	_	_
+9	about	about	IN	_	about	about	IN	8	ADV	_	_	A1	_	_	_	_	_	_
+10	something	something	NN	_	something	something	NN	9	PMOD	_	_	_	_	_	_	_	_	_
+11	in	in	IN	_	in	in	IN	10	NMOD	_	_	_	_	_	_	_	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_	_	_	_
+13	way	way	NN	_	way	way	NN	11	PMOD	way.01	_	_	_	_	_	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	A1	_	_	_	_	_
+15	uh	uh	UH	_	uh	uh	UH	14	PMOD	_	_	_	_	_	_	_	_	_
+16	uh	uh	UH	_	uh	uh	UH	14	PMOD	_	_	_	_	_	_	_	_	_
+17	sort	sort	NN	_	sort	sort	NN	18	AMOD	_	_	_	_	_	_	_	_	_
+18	of	of	IN	_	of	of	IN	21	NMOD	_	_	_	_	_	_	_	_	_
+19	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_	_	_	_	_	_
+20	sporty	sporty	JJ	_	sporty	sporty	JJ	21	NMOD	_	_	_	_	_	_	_	_	_
+21	car	car	NN	_	car	car	NN	14	PMOD	_	_	_	_	_	_	_	_	_
+22	but	but	CC	_	but	but	CC	21	COORD	_	_	_	_	_	_	_	_	_
+23	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	21	NMOD	_	_	_	_	_	_	_	_	_
+24	not	not	RB	_	not	not	RB	23	DEP	_	_	_	_	_	_	_	_	_
+25	any	any	DT	_	any	any	DT	23	DEP	_	_	_	_	_	_	_	_	_
+26	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	23	DEP	_	_	_	_	_	_	_	_	_
+27	not	not	RB	_	not	not	RB	29	DEP	_	_	_	_	_	_	_	_	_
+28	you	you	PRP	_	you	you	PRP	29	SBJ	_	_	_	_	A0	_	_	_	_
+29	know	know	VBP	_	know	know	VBP	21	PRN	know.01	_	_	_	_	_	_	_	_
+30	a	a	DT	_	a	a	DT	34	NMOD	_	_	_	_	_	_	_	_	_
+31	luxury	luxury	NN	_	luxury	luxury	NN	32	NMOD	_	_	_	_	_	_	_	_	_
+32	type	type	NN	_	type	type	NN	34	NMOD	_	_	_	_	_	_	_	_	_
+33	sporty	sporty	NN	_	sporty	sporty	NN	34	NMOD	_	_	_	_	_	_	_	_	_
+34	one	one	CD	_	one	one	CD	22	CONJ	_	_	_	_	_	_	_	_	_
+35	but	but	CC	_	but	but	CC	34	COORD	_	_	_	_	_	_	_	_	_
+36	um	um	UH	_	um	um	UH	34	NMOD	_	_	_	_	_	_	_	_	_
+37	--	--	:	_	--	--	:	35	P	_	_	_	_	_	_	_	_	_
+38	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	34	PRN	_	_	_	_	_	_	_	_	_
+39	yeah	yeah	UH	_	yeah	yeah	UH	38	DEP	_	_	_	_	_	_	_	_	_
+40	/	/	SU	_	/	/	SU	39	DEP	_	_	_	_	_	_	_	_	_
+41	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	38	DEP	_	_	_	_	_	_	_	_	_
+42	--	--	:	_	--	--	:	35	P	_	_	_	_	_	_	_	_	_
+43	something	something	NN	_	something	something	NN	35	CONJ	_	_	_	_	_	A0	_	_	_
+44	that	that	WDT	_	that	that	WDT	46	SBJ	_	_	_	_	_	_	_	_	_
+45	still	still	RB	_	still	still	RB	46	TMP	_	_	_	_	_	AM-TMP	_	_	_
+46	has	has	VBZ	_	has	have	VBZ	43	NMOD	have.03	_	_	_	_	_	_	_	_
+47	a	a	DT	_	a	a	DT	48	NMOD	_	_	_	_	_	_	_	_	_
+48	lots	lots	NNS	_	lots	lots	NNS	46	OBJ	lot.01	_	_	_	_	AM-ADV	_	_	_
+49	of	of	IN	_	of	of	IN	48	NMOD	_	_	_	_	_	_	A1	_	_
+50	amenities	amenities	NNS	_	amenities	amenities	NNS	49	PMOD	_	_	_	_	_	_	_	_	_
+51	and	and	CC	_	and	and	CC	50	COORD	_	_	_	_	_	_	_	_	_
+52	you	you	PRP	_	you	you	PRP	53	SBJ	_	_	_	_	_	_	_	A0	_
+53	know	know	VBP	_	know	know	VBP	50	PRN	know.01	_	_	_	_	_	_	_	A1
+54	gadgets	gadgets	NNS	_	gadgets	gadget	NNS	51	CONJ	gadget.01	_	_	_	_	_	_	_	_
+55	and	and	CC	_	and	and	CC	54	COORD	_	_	_	_	_	_	_	_	_
+56	things	things	NNS	_	things	things	NNS	55	CONJ	_	_	_	_	_	_	_	_	_
+57	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_	_	_	_	_
+
+1	oh	oh	UH	_	oh	oh	UH	3	DEP	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0	A0	_
+3	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_
+4	want	want	VB	_	want	want	VB	3	VC	want.01	A1	_	_
+5	a	a	DT	_	a	a	DT	6	NMOD	_	_	_	_
+6	lot	lot	NN	_	lot	lot	NN	4	OBJ	lot.01	_	AM-ADV	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	_	A1
+8	that	that	DT	_	that	that	DT	9	NMOD	_	_	_	_
+9	stuff	stuff	NN	_	stuff	stuff	NN	7	PMOD	_	_	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	9	DEP	_	_	_
+2	well	well	UH	_	well	well	UH	9	DEP	_	_	_
+3	yeah	yeah	UH	_	yeah	yeah	UH	9	DEP	_	_	_
+4	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	9	DEP	_	_	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	A0	_
+6	like	like	VBP	_	like	like	VBP	4	DEP	like.01	_	_
+7	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	4	DEP	_	_	_
+8	I	i	PRP	_	I	i	PRP	9	SBJ	_	_	A0
+9	like	like	VBP	_	like	like	VBP	0	ROOT	like.01	_	_
+10	some	some	DT	_	some	some	DT	9	OBJ	_	_	A1
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_	_
+12	those	those	DT	_	those	those	DT	13	NMOD	_	_	_
+13	things	things	NNS	_	things	things	NNS	11	PMOD	_	_	_
+14	/	/	SU	_	/	/	SU	9	DEP	_	_	_
+
+1	they	they	PRP	_	they	they	PRP	2	SBJ	_	A1
+2	come	come	VBP	_	come	come	VBP	0	ROOT	come.01	_
+3	in	in	RP	_	in	in	RP	2	PRT	_	_
+4	really	really	RB	_	really	really	RB	5	AMOD	_	_
+5	handy	handy	JJ	_	handy	handy	JJ	2	PRD	_	_
+6	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	what	what	WP	_	what	what	WP	2	NMOD	_	_	_	_
+2	kind	kind	NN	_	kind	kind	NN	10	OBJ	kind.02	_	_	A1
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_
+4	uh	uh	UH	_	uh	uh	UH	3	PMOD	_	_	_	_
+5	things	things	NNS	_	things	things	NNS	3	PMOD	_	_	_	_
+6	are	are	VBP	_	are	be	VBP	0	ROOT	_	_	_	_
+7	you	you	PRP	_	you	you	PRP	6	SBJ	_	_	A0	A0
+8	going	going	VBG	_	going	go	VBG	6	VC	go.05	_	_	_
+9	to	to	TO	_	to	to	TO	8	VC	_	_	A1	_
+10	consider	consider	VB	_	consider	consider	VB	9	IM	consider.01	_	_	_
+11	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_
+
+1	you	you	PRP	_	you	you	PRP	2	SBJ	_	A0	_
+2	know	know	VBP	_	know	know	VBP	6	PRN	know.01	_	_
+3	what	what	WP	_	what	what	WP	6	OBJ	_	_	A1
+4	uh	uh	UH	_	uh	uh	UH	6	DEP	_	_	_
+5	you	you	PRP	_	you	you	PRP	6	SBJ	_	_	A0
+6	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_
+7	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+
+1	something	something	NN	_	something	something	NN	0	ROOT	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	1	NMOD	_
+3	about	about	IN	_	about	about	IN	2	DEP	_
+4	the	the	DT	_	the	the	DT	3	PMOD	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	PMOD	_
+6	about	about	IN	_	about	about	IN	1	NMOD	_
+7	the	the	DT	_	the	the	DT	6	PMOD	_
+8	/-	/-	SU	_	/-	/-	SU	1	NMOD	_
+
+1	well	well	UH	_	well	well	UH	3	DEP	_	_
+2	what	what	WP	_	what	what	WP	5	OBJ	_	A2
+3	do	do	VBP	_	do	do	VBP	0	ROOT	_	_
+4	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0
+5	call	call	VB	_	call	call	VB	3	VC	call.01	_
+6	them	them	PRP	_	them	them	PRP	5	OBJ	_	A1
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	you	you	PRP	_	you	you	PRP	2	SBJ	_	A0	_
+2	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_
+3	amenities	amenities	NNS	_	amenities	amenities	NNS	2	OBJ	_	A1	A1
+4	--	--	:	_	--	--	:	3	P	_	_	_
+5	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	7	DEP	_	_	_
+6	amenities	amenities	NNS	_	amenities	amenities	NNS	7	DEP	_	_	_
+7	/	/	SU	_	/	/	SU	3	PRN	_	_	_
+8	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	7	DEP	_	_	_
+9	--	--	:	_	--	--	:	3	P	_	_	_
+10	that	that	WDT	_	that	that	WDT	12	OBJ	_	_	_
+11	they	they	PRP	_	they	they	PRP	12	SBJ	_	_	A0
+12	have	have	VBP	_	have	have	VBP	3	NMOD	have.04	_	_
+13	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	but	but	CC	_	but	but	CC	2	DEP	_	_
+2	what	what	WP	_	what	what	WP	0	ROOT	_	_
+3	about	about	IN	_	about	about	IN	2	ADV	_	_
+4	um	um	UH	_	um	um	UH	3	PMOD	_	_
+5	their	their	PRP$	_	their	their	PRP$	6	NMOD	_	A0
+6	reputation	reputation	NN	_	reputation	reputation	NN	3	PMOD	reputation.01	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	A1
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_
+9	company	company	NN	_	company	company	NN	7	PMOD	_	_
+10	or	or	CC	_	or	or	CC	6	COORD	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_
+12	price	price	NN	_	price	price	NN	10	CONJ	_	_
+13	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	um	um	UH	_	um	um	UH	6	DEP	_	_	_
+2	well	well	UH	_	well	well	UH	6	DEP	_	_	_
+3	of	of	IN	_	of	of	IN	6	ADV	_	_	_
+4	course	course	NN	_	course	course	NN	3	PMOD	_	_	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	A0	_
+6	guess	guess	VBP	_	guess	guess	VBP	0	ROOT	guess.01	_	_
+7	uh	uh	UH	_	uh	uh	UH	9	DEP	_	_	_
+8	price	price	NN	_	price	price	NN	9	SBJ	_	_	A1
+9	is	is	VBZ	_	is	be	VBZ	6	OBJ	be.01	A1	_
+10	always	always	RB	_	always	always	RB	9	TMP	_	_	AM-TMP
+11	the	the	DT	_	the	the	DT	13	NMOD	_	_	_
+12	big	big	JJ	_	big	big	JJ	13	NMOD	_	_	_
+13	consideration	consideration	NN	_	consideration	consideration	NN	9	PRD	_	_	A2
+14	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+
+1	but	but	CC	_	but	but	CC	2	DEP	_
+2	-/	-/	SU	_	-/	-/	SU	0	ROOT	_
+
+1	it	it	PRP	_	it	it	PRP	2	SBJ	_	A1
+2	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_
+3	for	for	IN	_	for	for	IN	2	ADV	_	_
+4	me	me	PRP	_	me	me	PRP	3	PMOD	_	_
+5	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	other	other	JJ	_	other	other	JJ	2	NMOD	_	_	_	_	_	_
+2	people	people	NNS	_	people	people	NNS	3	SBJ	person.01	A0	A0	A1	A0	A1
+3	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_	_	_	_
+5	seem	seem	VB	_	seem	seem	VB	3	VC	seem.01	_	A1	_	_	_
+6	to	to	TO	_	to	to	TO	5	OPRD	_	_	_	_	_	_
+7	have	have	VB	_	have	have	VB	6	IM	have.04	SU	_	_	_	SU
+8	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_
+9	same	same	JJ	_	same	same	JJ	10	NMOD	_	_	_	_	_	_
+10	problem	problem	NN	_	problem	problem	NN	7	OBJ	problem.01	A1	_	_	A1	A2
+11	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	well	well	UH	_	well	well	UH	7	DEP	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	7	DEP	_	_
+3	that	that	DT	_	that	that	DT	2	SBJ	_	_
+4	's	's	VBZ	_	's	be	VBZ	2	DEP	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_
+6	that	that	DT	_	that	that	DT	7	SBJ	_	_
+7	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_
+8	a	a	DT	_	a	a	DT	10	NMOD	_	_
+9	big	big	JJ	_	big	big	JJ	10	NMOD	_	_
+10	one	one	NN	_	one	one	NN	7	PRD	_	_
+11	in	in	IN	_	in	in	IN	7	LOC	_	_
+12	my	my	PRP$	_	my	my	PRP$	13	NMOD	_	A1
+13	book	book	NN	_	book	book	NN	11	PMOD	book.02	_
+14	/	/	SU	_	/	/	SU	7	DEP	_	_
+
+1	but	but	CC	_	but	but	CC	11	DEP	_	_	_
+2	uh	uh	UH	_	uh	uh	UH	11	DEP	_	_	_
+3	um	um	UH	_	um	um	UH	11	DEP	_	_	_
+4	--	--	:	_	--	--	:	11	P	_	_	_
+5	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	11	PRN	_	_	_
+6	yeah	yeah	UH	_	yeah	yeah	UH	5	DEP	_	_	_
+7	/	/	SU	_	/	/	SU	6	DEP	_	_	_
+8	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	5	DEP	_	AM-ADV	_
+9	--	--	:	_	--	--	:	11	P	_	_	_
+10	I	i	PRP	_	I	i	PRP	11	SBJ	_	A0	_
+11	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_
+12	preferences	preferences	NNS	_	preferences	preference	NNS	11	OBJ	preference.01	A1	_
+13	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	12	NMOD	_	_	_
+14	for	for	IN	_	for	for	IN	13	DEP	_	_	A1
+15	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	13	DEP	_	_	_
+16	uh	uh	UH	_	uh	uh	UH	12	NMOD	_	_	_
+17	for	for	IN	_	for	for	IN	12	NMOD	_	_	A0
+18	some	some	DT	_	some	some	DT	20	NMOD	_	_	_
+19	um	um	UH	_	um	um	UH	20	NMOD	_	_	_
+20	makers	makers	NNS	_	makers	maker	NNS	17	PMOD	_	_	_
+21	over	over	IN	_	over	over	IN	20	NMOD	_	_	_
+22	others	others	NNS	_	others	others	NNS	21	PMOD	_	_	_
+23	um	um	UH	_	um	um	UH	11	DEP	_	_	_
+24	/	/	SU	_	/	/	SU	11	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	A0
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+4	sort	sort	NN	_	sort	sort	NN	5	AMOD	_	_	_
+5	of	of	IN	_	of	of	IN	3	ADV	_	_	_
+6	like	like	VB	_	like	like	VB	3	VC	like.01	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	A1	_
+8	buy	buy	VB	_	buy	buy	VB	7	IM	buy.01	_	_
+9	American	american	NNP	_	American	american	NNP	8	OBJ	_	_	A1
+10	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	but	but	CC	_	but	but	CC	5	DEP	_	_	_
+2	you	you	PRP	_	you	you	PRP	5	PRN	_	_	_
+3	know	know	VBP	_	know	know	VBP	2	DEP	_	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	_	_
+5	'm	'm	VBP	_	'm	'm	VBP	0	ROOT	_	_	_
+6	not	not	RB	_	not	not	RB	5	ADV	_	_	_
+7	so	so	RB	_	so	so	RB	5	PRD	_	_	_
+8	totally	totally	RB	_	totally	totally	RB	7	AMOD	_	AM-MNR	_
+9	hung	hung	JJ	_	hung	hang	VBG	7	AMOD	hang.01	_	_
+10	up	up	RP	_	up	up	RP	7	AMOD	_	_	_
+11	on	on	IN	_	on	on	IN	7	AMOD	_	A1	_
+12	that	that	DT	_	that	that	DT	11	PMOD	_	_	_
+13	that	that	IN	_	that	that	IN	7	AMOD	_	_	_
+14	I	i	PRP	_	I	i	PRP	15	SBJ	_	_	A0
+15	would	would	MD	_	would	would	MD	13	SUB	_	_	_
+16	n't	not	RB	_	n't	not	RB	15	ADV	_	_	_
+17	buy	buy	VB	_	buy	buy	VB	15	VC	buy.01	_	_
+18	something	something	NN	_	something	something	NN	17	OBJ	_	_	A1
+19	else	else	RB	_	else	else	RB	18	NMOD	_	_	_
+20	/	/	SU	_	/	/	SU	5	DEP	_	_	_
+
+1	how	how	WRB	_	how	how	WRB	0	ROOT	_
+2	about	about	IN	_	about	about	IN	1	ADV	_
+3	you	you	PRP	_	you	you	PRP	2	PMOD	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	well	well	UH	_	well	well	UH	8	DEP	_	_	_
+2	um	um	UH	_	um	um	UH	8	DEP	_	_	_
+3	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+4	last	last	JJ	_	last	last	JJ	5	NMOD	_	_	_
+5	car	car	NN	_	car	car	NN	8	SBJ	_	A1	A1
+6	we	we	PRP	_	we	we	PRP	7	SBJ	_	A0	_
+7	bought	bought	VBD	_	bought	buy	VBD	5	NMOD	buy.01	_	_
+8	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+9	American	american	JJ	_	American	american	JJ	8	PRD	_	_	_
+10	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	8	DEP	_	_	_
+11	because	because	IN	_	because	because	IN	10	DEP	_	_	A2
+12	of	of	IN	_	of	of	IN	11	DEP	_	_	_
+13	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	10	DEP	_	_	_
+14	because	because	IN	_	because	because	IN	8	PRP	_	_	_
+15	of	of	IN	_	of	of	IN	14	DEP	_	_	_
+16	that	that	DT	_	that	that	DT	17	NMOD	_	_	_
+17	reason	reason	NN	_	reason	reason	NN	14	PMOD	_	_	_
+18	/	/	SU	_	/	/	SU	8	DEP	_	_	_
+
+1	but	but	CC	_	but	but	CC	2	DEP	_	_	_
+2	have	have	VBP	_	have	have	VBP	0	ROOT	have.03	_	_
+3	not	not	RB	_	not	not	RB	2	ADV	_	AM-NEG	_
+4	been	been	VBN	_	been	be	VBN	2	VC	be.01	A1	_
+5	entirely	entirely	RB	_	entirely	entirely	RB	6	AMOD	_	_	_
+6	happy	happy	JJ	_	happy	happy	JJ	4	PRD	_	_	A2
+7	with	with	IN	_	with	with	IN	6	AMOD	_	_	_
+8	um	um	UH	_	um	um	UH	7	PMOD	_	_	_
+9	several	several	JJ	_	several	several	DT	10	NMOD	_	_	_
+10	things	things	NNS	_	things	things	NNS	7	PMOD	_	_	_
+11	about	about	IN	_	about	about	IN	10	NMOD	_	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_
+13	car	car	NN	_	car	car	NN	11	PMOD	_	_	_
+14	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	it	it	PRP	_	it	it	PRP	2	SBJ	_	A0	A1	_	_	_
+2	does	does	VBZ	_	does	do	VBZ	0	ROOT	do.02	_	_	_	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_	_	_	_
+4	seem	seem	VB	_	seem	seem	VB	2	VC	seem.01	A1	_	_	_	_
+5	like	like	IN	_	like	like	IN	4	OBJ	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+7	quality	quality	NN	_	quality	quality	NN	8	SBJ	_	_	_	A1	_	_
+8	is	is	VBZ	_	is	be	VBZ	5	SUB	be.01	_	_	_	_	_
+9	quite	quite	RB	_	quite	quite	RB	11	AMOD	_	_	_	_	_	_
+10	as	as	RB	_	as	as	IN	11	AMOD	_	_	_	_	_	_
+11	high	high	JJ	_	high	high	JJ	8	PRD	_	_	_	A2	_	_
+12	as	as	IN	_	as	as	IN	11	AMOD	_	_	_	_	_	_
+13	I	i	PRP	_	I	i	PRP	14	SBJ	_	_	_	_	A0	_
+14	expected	expected	VBD	_	expected	expect	VBD	12	SUB	expect.01	_	_	_	_	_
+15	it	it	PRP	_	it	it	PRP	14	OBJ	_	_	_	_	_	A1
+16	to	to	TO	_	to	to	TO	14	OPRD	_	_	_	_	A1	_
+17	be	be	VB	_	be	be	VB	16	IM	be.01	_	_	_	_	_
+18	--	--	:	_	--	--	:	8	P	_	_	_	_	_	_
+19	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	8	PRN	_	_	_	_	_	_
+20	oh	oh	UH	_	oh	oh	UH	21	DEP	_	_	_	_	_	_
+21	really	really	RB	_	really	really	RB	19	DEP	_	_	_	_	_	_
+22	/	/	SU	_	/	/	SU	21	DEP	_	_	_	_	_	_
+23	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	19	DEP	_	_	_	AM-ADV	_	_
+24	--	--	:	_	--	--	:	8	P	_	_	_	_	_	_
+25	because	because	IN	_	because	because	IN	8	PRP	_	_	_	_	_	_
+26	several	several	JJ	_	several	several	DT	27	NMOD	_	_	_	_	_	_
+27	things	things	NNS	_	things	things	NNS	25	SUB	_	_	_	_	_	_
+28	minor	minor	JJ	_	minor	minor	JJ	29	NMOD	_	_	_	_	_	_
+29	things	things	NNS	_	things	things	NNS	27	APPO	_	_	_	_	_	_
+30	sort	sort	NN	_	sort	sort	NN	31	AMOD	_	_	_	_	_	_
+31	of	of	IN	_	of	of	IN	27	ADV	_	_	_	_	_	_
+32	-/	-/	SU	_	-/	-/	SU	2	DEP	_	_	_	_	_	_
+
+1	but	but	CC	_	but	but	CC	4	DEP	_	_	_	_	_	_	_	_
+2	still	still	RB	_	still	still	RB	4	TMP	_	AM-TMP	_	_	_	_	_	_
+3	they	they	PRP	_	they	they	PRP	4	SBJ	_	A1	_	_	_	_	_	_
+4	cost	cost	VBD	_	cost	cost	VBD	0	ROOT	cost.01	_	_	_	_	_	_	_
+5	us	us	PRP	_	us	us	PRP	4	OBJ	_	A3	_	_	_	_	_	_
+6	money	money	NN	_	money	money	NN	4	OBJ	_	A2	A1	_	_	_	_	_
+7	um	um	UH	_	um	um	UH	6	NMOD	_	_	_	_	_	_	_	_
+8	that	that	WDT	_	that	that	WDT	19	OBJ	_	_	_	_	_	_	_	_
+9	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	A0	A0	_	_	_	_
+10	did	did	VBD	_	did	do	VBD	6	NMOD	do.02	_	_	_	_	_	_	_
+11	n't	not	RB	_	n't	not	RB	10	ADV	_	_	_	_	_	_	_	_
+12	feel	feel	VB	_	feel	feel	VB	10	VC	feel.01	_	A3	_	_	_	_	_
+13	like	like	IN	_	like	like	IN	12	OBJ	_	_	_	_	_	_	_	_
+14	we	we	PRP	_	we	we	PRP	15	SBJ	_	_	_	_	A0	A0	A0	_
+15	should	should	MD	_	should	should	MD	13	SUB	_	_	_	_	_	_	_	_
+16	have	have	VB	_	have	have	VB	15	VC	have.04	_	_	_	_	_	_	_
+17	had	had	VBN	_	had	have	VBN	16	VC	have.04	_	_	_	A1	_	_	_
+18	to	to	TO	_	to	to	TO	17	OPRD	_	_	_	_	_	A1	_	_
+19	pay	pay	VB	_	pay	pay	VB	18	IM	pay.01	_	_	_	_	_	_	_
+20	on	on	IN	_	on	on	IN	19	ADV	_	_	_	_	_	_	A3	_
+21	a	a	DT	_	a	a	DT	22	NMOD	_	_	_	_	_	_	_	_
+22	car	car	NN	_	car	car	NN	20	PMOD	_	_	_	_	_	_	_	A1
+23	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	22	NMOD	_	_	_	_	_	_	_	_
+24	that	that	WDT	_	that	that	DT	23	DEP	_	_	_	_	_	_	_	_
+25	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	23	DEP	_	_	_	_	_	_	_	_
+26	that	that	WDT	_	that	that	WDT	27	SBJ	_	_	_	_	_	_	_	_
+27	was	was	VBD	_	was	be	VBD	22	NMOD	be.01	_	_	_	_	_	_	_
+28	that	that	RB	_	that	that	DT	29	AMOD	_	_	_	_	_	_	_	_
+29	new	new	JJ	_	new	new	JJ	27	PRD	_	_	_	_	_	_	_	A2
+30	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_	_	_	_	_
+
+1	um-hum	um-hum	UH	_	um	um	UH	0	ROOT	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_
+3	_	_	_	_	hum	hum	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	you	you	PRP	_	you	you	PRP	2	SBJ	_	A0	_
+2	know	know	VBP	_	know	know	VBP	4	PRN	know.01	_	AM-ADV
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	_	A0
+4	bought	bought	VBD	_	bought	buy	VBD	0	ROOT	buy.01	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+6	car	car	NN	_	car	car	NN	4	OBJ	_	_	A1
+7	new	new	JJ	_	new	new	JJ	4	OPRD	_	_	A3
+8	/	/	SU	_	/	/	SU	4	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	11	DEP	_	_	_
+2	after	after	IN	_	after	after	IN	11	TMP	_	AM-TMP	_
+3	um	um	UH	_	um	um	UH	2	PMOD	_	_	_
+4	well	well	UH	_	well	well	UH	2	PMOD	_	_	_
+5	well	well	UH	_	well	well	UH	2	PMOD	_	_	_
+6	well	well	UH	_	well	well	UH	2	PMOD	_	_	_
+7	under	under	IN	_	under	under	IN	8	DEP	_	_	_
+8	two	two	CD	_	two	two	CD	9	NMOD	_	_	_
+9	years	years	NNS	_	years	years	NNS	2	PMOD	_	_	_
+10	we	we	PRP	_	we	we	PRP	11	SBJ	_	A0	A0
+11	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	_
+12	to	to	TO	_	to	to	TO	11	OPRD	_	A1	_
+13	replace	replace	VB	_	replace	replace	VB	12	IM	replace.01	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_
+15	clutch	clutch	NN	_	clutch	clutch	NN	13	OBJ	_	_	A1
+16	/	/	SU	_	/	/	SU	11	DEP	_	_	_
+
+1	oh	oh	UH	_	oh	oh	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_	_	_
+2	they	they	PRP	_	they	they	PRP	4	SBJ	_	A0	_	_
+3	just	just	RB	_	just	just	RB	4	ADV	_	AM-MNR	_	_
+4	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_	_	_
+5	well	well	UH	_	well	well	UH	9	DEP	_	_	_	_
+6	you	you	PRP	_	you	you	PRP	7	SBJ	_	_	A0	_
+7	know	know	VBP	_	know	know	VBP	9	PRN	know.01	_	_	AM-ADV
+8	clutches	clutches	NNS	_	clutches	clutches	NNS	9	SBJ	_	_	_	A1
+9	are	are	VBP	_	are	be	VBP	4	SEZ	be.01	_	_	_
+10	disposable	disposable	JJ	_	disposable	disposable	JJ	9	PRD	_	_	_	A2
+11	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0
+3	said	said	VBD	_	said	say	VBD	0	ROOT	say.01	_
+4	since	since	IN	_	since	since	IN	3	SEZ	_	_
+5	when	when	WRB	_	when	when	WRB	4	PMOD	_	_
+6	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	brake	brake	NN	_	brake	brake	NN	2	NMOD	_	_	_
+2	pads	pads	NNS	_	pads	pad	NNS	3	SBJ	_	A1	_
+3	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_
+4	disposable	disposable	JJ	_	disposable	disposable	JJ	3	PRD	_	A2	_
+5	you	you	PRP	_	you	you	PRP	6	SBJ	_	_	A0
+6	know	know	VBP	_	know	know	VBP	3	PRN	know.01	AM-ADV	_
+7	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A0
+2	know	know	VBP	_	know	know	VBP	0	ROOT	know.01	_
+3	that	that	DT	_	that	that	DT	2	OBJ	_	A1
+4	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	but	but	CC	_	but	but	CC	4	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_
+3	never	never	RB	_	never	never	RB	4	TMP	_	AM-TMP	_
+4	thought	thought	VBD	_	thought	think	VBD	0	ROOT	think.01	_	_
+5	a	a	DT	_	a	a	DT	6	NMOD	_	_	_
+6	clutch	clutch	NN	_	clutch	clutch	NN	7	SBJ	_	_	A1
+7	was	was	VBD	_	was	be	VBD	4	OBJ	be.01	A1	_
+8	disposable	disposable	JJ	_	disposable	disposable	JJ	7	PRD	_	_	A2
+9	/	/	SU	_	/	/	SU	4	DEP	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	yeah	yeah	UH	_	yeah	yeah	UH	1	DEP	_
+3	yeah	yeah	UH	_	yeah	yeah	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_
+3	n't	not	RB	_	n't	not	RB	2	ADV	_	_	_
+4	have	have	VB	_	have	have	VB	2	VC	have.04	_	_
+5	thought	thought	VBN	_	thought	think	VBN	4	VC	think.01	A1	_
+6	so	so	RB	_	so	so	RB	5	PRD	_	_	_
+7	either	either	RB	_	either	either	RB	5	ADV	_	_	_
+8	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_	_	_
+2	so	so	CC	_	so	so	CC	1	COORD	_	_	_
+3	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	2	CONJ	_	_	_
+4	that	that	DT	_	that	that	DT	5	SBJ	_	A1	_
+5	was	was	VBD	_	was	be	VBD	3	DEP	be.01	_	_
+6	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	DEP	_	_	_
+7	that	that	DT	_	that	that	DT	1	SBJ	_	_	A1
+8	was	was	VBD	_	was	be	VBD	3	COORD	be.01	_	_
+9	kind	kind	NN	_	kind	kind	NN	10	AMOD	_	_	_
+10	of	of	IN	_	of	of	IN	12	NMOD	_	_	_
+11	a	a	DT	_	a	a	DT	12	NMOD	_	_	_
+12	shock	shock	NN	_	shock	shock	NN	8	PRD	_	_	A2
+13	/	/	SU	_	/	/	SU	8	COORD	_	_	_
+
+1	oh	oh	UH	_	oh	oh	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	oh	oh	UH	_	oh	oh	UH	7	DEP	_	_	_	_	_	_
+2	yeah	yeah	UH	_	yeah	yeah	UH	1	DEP	_	_	_	_	_	_
+3	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	7	DEP	_	_	_	_	_	_
+4	I	i	PRP	_	I	i	PRP	3	DEP	_	_	_	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	3	DEP	_	_	_	_	_	_
+6	I	i	PRP	_	I	i	PRP	7	SBJ	_	A0	_	_	_	_
+7	guess	guess	VBP	_	guess	guess	VBP	0	ROOT	guess.01	_	_	_	_	_
+8	there	there	EX	_	there	there	EX	9	SBJ	_	_	_	_	_	_
+9	's	's	VBZ	_	's	be	VBZ	7	OBJ	_	A1	_	_	_	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_	_	_
+11	lot	lot	NN	_	lot	lot	NN	9	PRD	_	_	A0	_	_	_
+12	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	11	NMOD	_	_	_	_	_	_
+13	to	to	TO	_	to	to	TO	12	DEP	_	_	_	_	_	_
+14	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	12	DEP	_	_	_	_	_	_
+15	to	to	TO	_	to	to	TO	11	NMOD	_	_	_	_	_	_
+16	think	think	VB	_	think	think	VB	15	IM	think.01	_	_	_	_	_
+17	about	about	IN	_	about	about	IN	16	ADV	_	_	A1	_	_	_
+18	when	when	WRB	_	when	when	WRB	21	TMP	_	_	_	_	_	_
+19	you	you	PRP	_	you	you	PRP	20	SBJ	_	_	_	A0	A0	A0
+20	're	're	VBP	_	're	're	VBP	9	TMP	_	_	_	_	_	_
+21	trying	trying	VBG	_	trying	try	VBG	20	VC	try.01	_	_	_	_	_
+22	to	to	TO	_	to	to	TO	21	OPRD	_	_	_	_	_	_
+23	make	make	VB	_	make	make	VB	22	IM	make.01	_	_	_	_	SU
+24	that	that	DT	_	that	that	DT	25	NMOD	_	_	_	_	_	_
+25	decision	decision	NN	_	decision	decision	NN	23	OBJ	decision.01	_	_	_	A1	_
+26	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	10	SUB	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0	_
+3	know	know	VBP	_	know	know	VBP	10	PRN	know.01	_	_
+4	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	10	SUB	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+6	less	less	JJS	_	less	less	DT	4	DEP	_	_	_
+7	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	4	DEP	_	_	_
+8	actually	actually	RB	_	actually	actually	RB	10	ADV	_	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_
+10	less	less	JJR	_	less	less	DT	0	ROOT	_	_	A1
+11	you	you	PRP	_	you	you	PRP	12	SBJ	_	_	A0
+12	spend	spend	VBP	_	spend	spend	VBP	10	NMOD	spend.01	_	_
+13	on	on	IN	_	on	on	IN	12	ADV	_	_	A3
+14	a	a	DT	_	a	a	DT	15	NMOD	_	_	_
+15	car	car	NN	_	car	car	NN	13	PMOD	_	_	_
+16	-/	-/	SU	_	-/	-/	SU	10	SUB	_	_	_
+
+1	it	it	PRP	_	it	it	PRP	2	SBJ	_	A1	_	_	_	_	_	_	_	_
+2	seems	seems	VBZ	_	seems	seem	VBZ	0	ROOT	seem.01	_	_	_	_	_	_	_	_	_
+3	like	like	IN	_	like	like	IN	2	OBJ	_	_	_	_	_	_	_	_	_	_
+4	luxury	luxury	NN	_	luxury	luxury	NN	5	NMOD	_	_	_	_	_	_	_	_	_	_
+5	cars	cars	NNS	_	cars	car	NNS	28	DEP	_	_	_	_	_	_	_	_	_	_
+6	they	they	PRP	_	they	they	PRP	7	SBJ	_	_	A0	_	_	_	_	_	_	_
+7	're	're	VBP	_	're	're	VBP	5	PRN	_	_	_	_	_	_	_	_	_	_
+8	called	called	VBN	_	called	call	VBN	7	VC	call.01	_	_	_	_	_	_	_	_	_
+9	luxury	luxury	NN	_	luxury	luxury	NN	10	NMOD	_	_	_	_	_	_	_	_	_	_
+10	cars	cars	NNS	_	cars	car	NNS	8	OPRD	_	_	A2	_	_	_	_	_	_	_
+11	even	even	RB	_	even	even	RB	12	ADV	_	_	_	_	_	_	_	_	_	_
+12	though	though	IN	_	though	though	IN	8	ADV	_	_	_	_	_	_	_	_	_	_
+13	they	they	PRP	_	they	they	PRP	14	SBJ	_	_	_	_	_	_	_	_	_	_
+14	're	're	VBP	_	're	're	VBP	12	SUB	_	_	_	_	_	_	_	_	_	_
+15	much	much	RB	_	much	much	RB	14	PRD	_	_	_	_	_	_	_	_	_	_
+16	more	more	RBR	_	more	more	RBR	15	AMOD	_	_	_	_	_	_	_	_	_	_
+17	expensive	expensive	JJ	_	expensive	expensive	JJ	15	AMOD	_	_	_	_	_	_	_	_	_	_
+18	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	5	NMOD	_	_	_	_	_	_	_	_	_	_
+19	like	like	IN	_	like	like	IN	18	DEP	_	_	_	_	_	_	_	_	_	_
+20	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	18	DEP	_	_	_	_	_	_	_	_	_	_
+21	like	like	IN	_	like	like	IN	5	NMOD	_	_	_	_	_	_	_	_	_	_
+22	uh	uh	UH	_	uh	uh	UH	21	PMOD	_	_	_	_	_	_	_	_	_	_
+23	um	um	UH	_	um	um	UH	21	PMOD	_	_	_	_	_	_	_	_	_	_
+24	a	a	DT	_	a	a	DT	26	NMOD	_	_	_	_	_	_	_	_	_	_
+25	Mercedes	mercedes	NNP	_	Mercedes	mercedes	NNP	26	NAME	_	_	_	_	_	_	_	_	_	_
+26	Benz	benz	NNP	_	Benz	benz	NNP	21	PMOD	_	_	_	_	_	_	_	_	_	_
+27	they	they	PRP	_	they	they	PRP	28	SBJ	_	_	_	A0	A0	_	A0	_	_	_
+28	do	do	VBP	_	do	do	VBP	3	SUB	do.02	_	_	_	_	_	_	_	_	_
+29	n't	not	RB	_	n't	not	RB	28	ADV	_	_	_	_	_	_	_	_	_	_
+30	have	have	VB	_	have	have	VB	28	VC	have.04	_	_	A1	_	_	_	_	_	_
+31	the	the	DT	_	the	the	DT	32	NMOD	_	_	_	_	_	_	_	_	_	_
+32	history	history	NN	_	history	history	NN	30	OBJ	history.01	_	_	_	A1	_	_	_	_	_
+33	of	of	IN	_	of	of	IN	32	NMOD	_	_	_	_	_	A1	_	_	_	_
+34	breaking	breaking	VBG	_	breaking	break	VBG	33	PMOD	break.01	_	_	_	_	_	_	_	_	_
+35	down	down	RP	_	down	down	RP	34	PRT	_	_	_	_	_	_	_	_	_	_
+36	or	or	CC	_	or	or	CC	28	COORD	_	_	_	_	_	_	_	_	_	_
+37	things	things	NNS	_	things	things	NNS	44	SBJ	_	_	_	_	_	_	_	A1	A1	A0
+38	like	like	IN	_	like	like	IN	37	NMOD	_	_	_	_	_	_	_	_	_	_
+39	that	that	DT	_	that	that	DT	38	PMOD	_	_	_	_	_	_	_	_	_	_
+40	that	that	WDT	_	that	that	WDT	41	SBJ	_	_	_	_	_	_	_	_	_	_
+41	would	would	MD	_	would	would	MD	37	NMOD	_	_	_	_	_	_	_	_	_	_
+42	go	go	VB	_	go	go	VB	41	VC	go.01	_	_	_	_	_	_	_	_	_
+43	wrong	wrong	JJ	_	wrong	wrong	JJ	42	PRD	_	_	_	_	_	_	_	_	_	_
+44	would	would	MD	_	would	would	MD	36	CONJ	_	_	_	_	_	_	_	_	_	_
+45	definitely	definitely	RB	_	definitely	definitely	RB	44	ADV	_	_	_	_	_	_	_	_	_	_
+46	not	not	RB	_	not	not	RB	44	ADV	_	_	_	_	_	_	_	_	_	_
+47	be	be	VB	_	be	be	VB	44	VC	be.01	_	_	_	_	_	_	_	_	_
+48	considered	considered	VBN	_	considered	consider	VBN	47	VC	consider.02	_	_	_	_	_	_	_	A2	_
+49	disposable	disposable	JJ	_	disposable	disposable	JJ	48	OPRD	_	_	_	_	_	_	_	_	_	A1
+50	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_	_	_	_	_	_	_
+
+1	right	right	RB	_	right	right	RB	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	AMOD	_
+
+1	you	you	PRP	_	you	you	PRP	2	SBJ	_	A0	A0	A0
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_
+3	never	never	RB	_	never	never	RB	2	TMP	_	_	_	_
+4	think	think	VB	_	think	think	VB	2	VC	think.01	_	_	_
+5	of	of	IN	_	of	of	IN	4	ADV	_	A1	_	_
+6	having	having	VBG	_	having	have	VBG	5	PMOD	have.04	_	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	_	A1	_
+8	replace	replace	VB	_	replace	replace	VB	7	IM	replace.01	_	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_
+10	clutch	clutch	NN	_	clutch	clutch	NN	8	OBJ	_	_	_	A1
+11	in	in	IN	_	in	in	IN	10	LOC	_	_	_	_
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_
+13	Mercedes	mercedes	NNP	_	Mercedes	mercedes	NNP	11	PMOD	_	_	_	_
+14	/	/	SU	_	/	/	SU	2	DEP	_	_	_	_
+
+1	no	no	UH	_	no	no	UH	0	ROOT	_
+2	but	but	CC	_	but	but	CC	1	COORD	_
+3	then	then	RB	_	then	then	RB	1	TMP	_
+4	um	um	UH	_	um	um	UH	2	CONJ	_
+5	-/	-/	SU	_	-/	-/	SU	4	COORD	_
+
+1	especially	especially	RB	_	especially	especially	RB	3	PMOD	_
+2	not	not	RB	_	not	not	RB	3	DEP	_
+3	after	after	IN	_	after	after	IN	0	ROOT	_
+4	two	two	CD	_	two	two	CD	5	NMOD	_
+5	years	years	NNS	_	years	years	NNS	3	PMOD	_
+6	/	/	SU	_	/	/	SU	3	PMOD	_
+
+1	no	no	UH	_	no	no	UH	0	ROOT	_	_	_	_	_	_	_	_	_
+2	but	but	CC	_	but	but	CC	1	COORD	_	_	_	_	_	_	_	_	_
+3	on	on	IN	_	on	on	IN	1	ADV	_	_	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_	_
+5	other	other	JJ	_	other	other	JJ	6	NMOD	_	_	_	_	_	_	_	_	_
+6	hand	hand	NN	_	hand	hand	NN	3	PMOD	_	_	_	_	_	_	_	_	_
+7	I	i	PRP	_	I	i	PRP	1	SBJ	_	A0	_	_	_	_	_	_	_
+8	guess	guess	VBP	_	guess	guess	VBP	2	CONJ	guess.01	_	_	_	_	_	_	_	_
+9	too	too	RB	_	too	too	RB	8	ADV	_	AM-MNR	_	_	_	_	_	_	_
+10	uh	uh	UH	_	uh	uh	UH	8	DEP	_	A1	_	_	_	_	_	_	_
+11	whenever	whenever	WRB	_	whenever	whenever	WRB	14	TMP	_	_	_	_	_	_	_	AM-TMP	_
+12	you	you	PRP	_	you	you	PRP	13	SBJ	_	_	A0	A0	A0	_	_	_	_
+13	do	do	VBP	_	do	do	VBP	26	TMP	do.02	_	_	_	_	_	_	_	_
+14	have	have	VB	_	have	have	VB	13	VC	have.04	_	A1	_	_	_	_	_	_
+15	to	to	TO	_	to	to	TO	14	OPRD	_	_	_	A1	_	_	_	_	_
+16	have	have	VB	_	have	have	VB	15	IM	have.04	_	_	_	_	_	_	_	_
+17	some	some	DT	_	some	some	DT	19	NMOD	_	_	_	_	_	_	_	_	_
+18	major	major	JJ	_	major	major	JJ	19	NMOD	_	_	_	_	_	_	_	_	_
+19	work	work	NN	_	work	work	NN	16	OBJ	work.03	_	_	_	_	_	A0	_	_
+20	done	done	VBN	_	done	do	VBD	16	OPRD	do.02	_	_	_	A1	SU	_	_	_
+21	on	on	IN	_	on	on	IN	20	ADV	_	_	_	_	_	A1	A1	_	_
+22	one	one	CD	_	one	one	CD	21	PMOD	_	_	_	_	_	_	_	_	_
+23	of	of	IN	_	of	of	IN	22	NMOD	_	_	_	_	_	_	_	_	_
+24	those	those	DT	_	those	those	DT	23	PMOD	_	_	_	_	_	_	_	_	_
+25	it	it	PRP	_	it	it	PRP	26	SBJ	_	_	_	_	_	_	_	A1	A1
+26	costs	costs	VBZ	_	costs	cost	VBZ	8	OBJ	cost.01	_	_	_	_	_	_	_	SU
+27	a	a	DT	_	a	a	DT	28	NMOD	_	_	_	_	_	_	_	_	_
+28	fortune	fortune	NN	_	fortune	fortune	NN	26	OBJ	fortune.01	_	_	_	_	_	_	A2	A2
+29	/	/	SU	_	/	/	SU	8	COORD	_	_	_	_	_	_	_	_	_
+
+1	really	really	RB	_	really	really	RB	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	AMOD	_
+
+1	oh	oh	UH	_	oh	oh	UH	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	A0
+3	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_
+5	know	know	VB	_	know	know	VB	3	VC	know.01	A1	_
+6	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	3	DEP	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_	_	_	_
+3	've	've	VBP	_	've	've	VBP	0	ROOT	_	_	_	_	_	_
+4	uh	uh	UH	_	uh	uh	UH	3	OBJ	_	_	_	_	_	_
+5	worked	worked	VBN	_	worked	work	VBN	3	VC	work.01	_	_	_	_	_
+6	with	with	IN	_	with	with	IN	5	ADV	_	A4	_	_	_	_
+7	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_
+8	couple	couple	NN	_	couple	couple	NN	6	PMOD	couple.01	_	_	_	_	_
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	A1	_	_	_
+10	people	people	NNS	_	people	people	NNS	9	PMOD	person.02	_	_	A0	A0	A0
+11	who	who	WP	_	who	who	WP	12	SBJ	_	_	_	_	_	_
+12	have	have	VBP	_	have	have	VBP	10	NMOD	have.04	_	_	SU	_	_
+13	owned	owned	VBN	_	owned	own	VBN	12	VC	own.02	_	_	A1	A1	_
+14	uh	uh	UH	_	uh	uh	UH	13	OBJ	_	_	_	_	_	A1
+15	various	various	JJ	_	various	various	JJ	16	NMOD	_	_	_	_	_	_
+16	years	years	NNS	_	years	years	NNS	18	NMOD	_	_	_	_	_	_
+17	uh	uh	UH	_	uh	uh	UH	18	NMOD	_	_	_	_	_	_
+18	Mercedes	mercedes	NNP	_	Mercedes	mercedes	NNP	13	OBJ	_	_	_	_	_	_
+19	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	11	DEP	_	_	_	_	_
+2	--	--	:	_	--	--	:	11	P	_	_	_	_	_
+3	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	5	DEP	_	_	_	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	A0	_	_	_
+5	think	think	VBP	_	think	think	VBP	11	PRN	think.01	_	_	_	_
+6	that	that	DT	_	that	that	DT	7	SBJ	_	_	_	_	_
+7	's	's	VBZ	_	's	be	VBZ	5	OBJ	_	A1	_	_	_
+8	-/	-/	SU	_	-/	-/	SU	5	DEP	_	_	_	_	_
+9	<TURN>	<turn>	CODE	_	<TURN>	<turn>	CODE	5	DEP	_	_	AM-ADV	_	_
+10	I	i	PRP	_	I	i	PRP	11	SBJ	_	_	A0	_	_
+11	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_	_	_	_
+12	they	they	PRP	_	they	they	PRP	13	SBJ	_	_	_	A0	A1
+13	have	have	VBP	_	have	have	VBP	11	OBJ	have.03	_	A1	_	SU
+14	a	a	DT	_	a	a	DT	18	NMOD	_	_	_	_	_
+15	really	really	RB	_	really	really	RB	16	AMOD	_	_	_	_	_
+16	good	good	JJ	_	good	good	JJ	18	NMOD	_	_	_	_	_
+17	um	um	UH	_	um	um	UH	18	NMOD	_	_	_	_	_
+18	quality	quality	NN	_	quality	quality	NN	13	OBJ	quality.01	_	_	A1	A2
+19	/	/	SU	_	/	/	SU	11	DEP	_	_	_	_	_
+
+1	um-hum	um-hum	UH	_	um	um	UH	7	DEP	_	A1	_	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_	_	_	_
+3	_	_	_	_	hum	hum	UH	1	DEP	_	_	_	_
+4	my	my	PRP$	_	my	my	PRP$	6	NMOD	_	_	_	_
+5	uh	uh	UH	_	uh	uh	UH	6	NMOD	_	_	_	_
+6	daughter	daughter	NN	_	daughter	daughter	NN	7	SBJ	daughter.01	A0	A0	A0
+7	has	has	VBZ	_	has	have	VBZ	0	ROOT	have.04	SU	_	_
+8	owned	owned	VBN	_	owned	own	VBN	7	VC	own.02	_	A1	_
+9	two	two	CD	_	two	two	CD	11	NMOD	_	_	_	_
+10	different	different	JJ	_	different	different	JJ	11	NMOD	_	_	_	_
+11	ones	ones	NNS	_	ones	one	NNS	8	OBJ	_	_	_	A1
+12	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	6	DEP	_	_	_	_	_
+2	uh	uh	UH	_	uh	uh	UH	6	DEP	_	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0	_	_	_
+4	know	know	VBP	_	know	know	VBP	6	PRN	know.01	_	_	_	_
+5	we	we	PRP	_	we	we	PRP	6	SBJ	_	_	A0	_	_
+6	've	've	VBP	_	've	've	VBP	0	ROOT	_	_	_	_	_
+7	had	had	VBN	_	had	have	VBN	6	VC	have.04	_	_	_	_
+8	some	some	DT	_	some	some	DT	9	NMOD	_	_	_	_	_
+9	work	work	NN	_	work	work	NN	7	OBJ	work.03	_	_	_	A0
+10	done	done	VBN	_	done	do	VBD	7	OPRD	do.02	_	A1	SU	_
+11	on	on	IN	_	on	on	IN	10	ADV	_	_	_	A1	A1
+12	them	them	PRP	_	them	them	PRP	11	PMOD	_	_	_	_	_
+13	/	/	SU	_	/	/	SU	6	DEP	_	_	_	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_
+4	not	not	RB	_	not	not	RB	3	ADV	_
+5	too	too	RB	_	too	too	RB	6	AMOD	_
+6	bad	bad	JJ	_	bad	bad	JJ	3	PRD	_
+7	/	/	SU	_	/	/	SU	3	DEP	_
+
+1	and	and	CC	_	and	and	CC	16	DEP	_	_	_	_	_	_
+2	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	16	DEP	_	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_
+4	reason	reason	NN	_	reason	reason	NN	2	SBJ	_	_	_	_	_	_
+5	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	2	DEP	_	_	_	_	_	_
+6	one	one	CD	_	one	one	CD	16	SBJ	_	_	A1	_	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_
+9	reasons	reasons	NNS	_	reasons	reason	NNS	7	PMOD	_	_	_	_	_	_
+10	we	we	PRP	_	we	we	PRP	12	SBJ	_	A0	_	_	_	_
+11	um	um	UH	_	um	um	UH	12	DEP	_	_	_	_	_	_
+12	bought	bought	VBD	_	bought	buy	VBD	9	NMOD	buy.01	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_
+14	first	first	JJ	_	first	first	JJ	15	NMOD	_	_	_	_	_	_
+15	one	one	NN	_	one	one	NN	12	OBJ	_	A1	_	_	_	_
+16	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_
+17	because	because	IN	_	because	because	IN	16	PRD-PRP	_	_	_	_	_	_
+18	a	a	DT	_	a	a	DT	19	NMOD	_	_	_	_	_	_
+19	friend	friend	NN	_	friend	friend	NN	22	SBJ	friend.02	_	_	A0	A0	_
+20	of	of	IN	_	of	of	IN	19	NMOD	_	_	_	A2	_	_
+21	ours	ours	NNS	_	ours	ours	NNS	20	PMOD	_	_	_	_	_	_
+22	had	had	VBD	_	had	have	VBD	17	SUB	have.04	_	_	SU	_	_
+23	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_	_	_
+24	Toyota	toyota	NNP	_	Toyota	toyota	NNP	22	OBJ	_	_	_	A1	A1	A1
+25	that	that	WDT	_	that	that	WDT	29	OBJ	_	_	_	_	_	_
+26	he	he	PRP	_	he	he	PRP	29	SBJ	_	_	_	_	_	A0
+27	just	just	RB	_	just	just	RB	29	ADV	_	_	_	_	_	AM-MNR
+28	really	really	RB	_	really	really	RB	29	ADV	_	_	_	_	_	AM-ADV
+29	drove	drove	VBD	_	drove	drive	VBD	24	NMOD	drove.01	_	_	_	_	_
+30	for	for	IN	_	for	for	IN	29	TMP	_	_	_	_	_	AM-TMP
+31	years	years	NNS	_	years	years	NNS	30	PMOD	_	_	_	_	_	_
+32	and	and	CC	_	and	and	CC	31	COORD	_	_	_	_	_	_
+33	years	years	NNS	_	years	years	NNS	32	CONJ	_	_	_	_	_	_
+34	and	and	CC	_	and	and	CC	33	COORD	_	_	_	_	_	_
+35	years	years	NNS	_	years	years	NNS	34	CONJ	_	_	_	_	_	_
+36	/	/	SU	_	/	/	SU	16	DEP	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	he	he	PRP	_	he	he	PRP	3	SBJ	_	A0
+3	lived	lived	VBD	_	lived	live	VBD	0	ROOT	live.01	_
+4	way	way	RB	_	way	way	RB	3	LOC	_	_
+5	out	out	RB	_	out	out	RB	4	AMOD	_	AM-LOC
+6	in	in	IN	_	in	in	IN	4	AMOD	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_
+8	country	country	NN	_	country	country	NN	6	PMOD	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	so	so	CC	_	so	so	CC	3	DEP	_	_	_
+2	he	he	PRP	_	he	he	PRP	3	SBJ	_	A0	_
+3	put	put	VBD	_	put	put	VBD	0	ROOT	put.01	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_
+5	lot	lot	NN	_	lot	lot	NN	3	OBJ	lot.01	AM-ADV	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	A1
+7	miles	miles	NNS	_	miles	mile	NNS	6	PMOD	_	_	_
+8	on	on	IN	_	on	on	IN	3	ADV	_	A1	_
+9	it	it	PRP	_	it	it	PRP	8	PMOD	_	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	um-hum	um-hum	UH	_	um	um	UH	0	ROOT	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_
+3	_	_	_	_	hum	hum	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0	_	_	_
+3	knew	knew	VBD	_	knew	know	VBD	0	ROOT	know.01	_	_	_	_
+4	it	it	PRP	_	it	it	PRP	5	SBJ	_	_	A0	A0	A1
+5	had	had	VBD	_	had	have	VBD	3	OBJ	have.03	A1	_	_	_
+6	had	had	VBD	_	had	have	VBD	5	VC	have.03	_	A1	_	_
+7	been	been	VBN	_	been	be	VBN	6	VC	be.01	_	_	A1	_
+8	through	through	IN	_	through	through	IN	7	PRD	_	_	_	_	A2
+9	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_	_
+10	whole	whole	JJ	_	whole	whole	JJ	11	NMOD	_	_	_	_	_
+11	lot	lot	NN	_	lot	lot	NN	8	PMOD	_	_	_	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_
+
+1	um-hum	um-hum	UH	_	um	um	UH	0	ROOT	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_
+3	_	_	_	_	hum	hum	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	and	and	CC	_	and	and	CC	0	ROOT	_	_	AM-DIS
+2	yet	yet	CC	_	yet	yet	CC	1	COORD	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0	_
+4	know	know	VBP	_	know	know	VBP	1	PRN	know.01	_	_
+5	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	2	CONJ	_	_	_
+6	it	it	PRP	_	it	it	PRP	5	DEP	_	_	_
+7	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	5	DEP	_	_	_
+8	it	it	PRP	_	it	it	PRP	1	SBJ	_	_	A0
+9	held	held	VBD	_	held	hold	VBD	5	COORD	hold.01	_	_
+10	up	up	RP	_	up	up	RP	9	PRT	_	_	_
+11	pretty	pretty	RB	_	pretty	pretty	RB	13	AMOD	_	_	_
+12	doggone	doggone	RB	_	doggone	doggone	RB	11	AMOD	_	_	_
+13	good	good	RB	_	good	good	RB	9	MNR	_	_	AM-MNR
+14	/	/	SU	_	/	/	SU	9	COORD	_	_	_
+
+1	so	so	CC	_	so	so	CC	2	DEP	_
+2	-/	-/	SU	_	-/	-/	SU	0	ROOT	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0
+2	thought	thought	VBD	_	thought	think	VBD	0	ROOT	think.01	_
+3	they	they	PRP	_	they	they	PRP	4	SBJ	_	_
+4	would	would	MD	_	would	would	MD	2	OBJ	_	_
+5	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	they	they	PRP	_	they	they	PRP	2	SBJ	_	A1	A1
+2	seem	seem	VBP	_	seem	seem	VBP	0	ROOT	seem.01	_	_
+3	to	to	TO	_	to	to	TO	2	OPRD	_	_	_
+4	be	be	VB	_	be	be	VB	3	IM	be.01	_	_
+5	really	really	RB	_	really	really	RB	6	AMOD	_	_	_
+6	durable	durable	JJ	_	durable	durable	JJ	4	PRD	_	_	A2
+7	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	so	so	CC	_	so	so	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	A0
+3	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_
+5	know	know	VB	_	know	know	VB	3	VC	know.01	A1	_
+6	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	6	DEP	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	_
+3	'm	'm	VBP	_	'm	'm	VBP	1	DEP	_	_
+4	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	1	DEP	_	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	A0
+6	'm	'm	VBP	_	'm	'm	VBP	0	ROOT	_	_
+7	not	not	RB	_	not	not	RB	6	ADV	_	_
+8	ready	ready	JJ	_	ready	ready	JJ	6	PRD	_	_
+9	to	to	TO	_	to	to	TO	8	AMOD	_	_
+10	buy	buy	VB	_	buy	buy	VB	9	IM	buy.01	_
+11	a	a	DT	_	a	a	DT	13	NMOD	_	_
+12	new	new	JJ	_	new	new	JJ	13	NMOD	_	_
+13	car	car	NN	_	car	car	NN	10	OBJ	_	A1
+14	yet	yet	RB	_	yet	yet	RB	10	TMP	_	AM-TMP
+15	/	/	SU	_	/	/	SU	6	DEP	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	A0	_	_	_	_	_	_	_	_	_	_
+3	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_	_	_	_	_	_	_	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	know	know	VB	_	know	know	VB	3	VC	know.01	A1	_	_	_	_	_	_	_	_	_	_	_
+6	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	5	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	if	if	IN	_	if	if	IN	6	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	6	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	if	if	IN	_	if	if	IN	5	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	next	next	JJ	_	next	next	JJ	12	NMOD	_	_	_	AM-TMP	_	_	_	_	_	_	_	_	_
+12	time	time	NN	_	time	time	NN	14	TMP	time.04	_	_	A2	_	_	_	_	_	_	_	_	_
+13	I	i	PRP	_	I	i	PRP	14	SBJ	_	_	_	_	A0	A0	A0	A0	_	_	_	_	_
+14	'm	'm	VBP	_	'm	'm	VBP	9	SUB	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	going	going	VBG	_	going	go	VBG	14	VC	go.05	_	_	_	_	_	_	_	_	_	_	_	_
+16	to	to	TO	_	to	to	TO	15	VC	_	_	_	_	A1	_	_	_	_	_	_	_	_
+17	try	try	VB	_	try	try	VB	16	IM	try.01	_	_	_	_	_	_	_	_	_	_	_	_
+18	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	17	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	to	to	TO	_	to	to	TO	18	DEP	_	_	_	_	_	AM-DIR	_	_	_	_	_	_	_
+20	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	18	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	to	to	TO	_	to	to	TO	17	OPRD	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	stay	stay	VB	_	stay	stay	VB	21	IM	stay.03	_	_	_	_	_	_	_	_	_	_	_	_
+23	with	with	IN	_	with	with	IN	22	ADV	_	_	_	_	_	_	A1	_	_	_	_	_	_
+24	buying	buying	VBG	_	buying	buy	VBG	23	PMOD	buy.01	_	_	_	_	_	_	_	_	_	_	_	_
+25	something	something	NN	_	something	something	NN	24	OBJ	_	_	_	_	_	_	_	A1	_	_	_	_	_
+26	American	american	JJ	_	American	american	JJ	25	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	or	or	CC	_	or	or	CC	9	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	if	if	IN	_	if	if	IN	27	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	I	i	PRP	_	I	i	PRP	30	SBJ	_	_	_	_	_	_	_	_	A0	A0	_	_	_
+30	'm	'm	VBP	_	'm	'm	VBP	28	SUB	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	going	going	VBG	_	going	go	VBG	30	VC	go.05	_	_	_	_	_	_	_	_	_	_	_	_
+32	to	to	TO	_	to	to	TO	31	VC	_	_	_	_	_	_	_	_	A1	_	_	_	_
+33	go	go	VB	_	go	go	VB	32	IM	go.03	_	_	_	_	_	_	_	_	_	_	_	_
+34	for	for	IN	_	for	for	IN	33	ADV	_	_	_	_	_	_	_	_	_	A1	_	_	_
+35	a	a	DT	_	a	a	DT	36	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	little	little	JJ	_	little	little	JJ	38	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	more	more	JJR	_	more	more	DT	36	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	what	what	WP	_	what	what	WP	41	OBJ	_	_	_	_	_	_	_	_	_	_	_	A1	_
+39	I	i	PRP	_	I	i	PRP	40	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_
+40	would	would	MD	_	would	would	MD	34	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	consider	consider	VB	_	consider	consider	VB	40	VC	consider.02	_	_	_	_	_	_	_	_	_	_	_	_
+42	to	to	TO	_	to	to	TO	41	OPRD	_	_	_	_	_	_	_	_	_	_	A1	_	_
+43	be	be	VB	_	be	be	VB	42	IM	be.01	_	_	_	_	_	_	_	_	_	_	_	_
+44	a	a	DT	_	a	a	DT	48	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	long-term	long-term	JJ	_	long	long	JJ	47	HMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	_	_	_	_	-	-	HYPH	45	HYPH	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	_	_	_	_	term	term	NN	48	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	A1
+48	investment	investment	NN	_	investment	investment	NN	43	PRD	investment.01	_	_	_	_	_	_	_	_	_	_	A2	_
+49	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	well	well	UH	_	well	well	UH	0	ROOT	_	_	_	_	_	_
+2	and	and	CC	_	and	and	CC	1	COORD	_	_	_	_	_	_
+3	I	i	PRP	_	I	i	PRP	1	SBJ	_	A0	_	_	_	_
+4	guess	guess	VBP	_	guess	guess	VBP	2	CONJ	guess.01	_	_	_	_	_
+5	you	you	PRP	_	you	you	PRP	6	SBJ	_	_	A0	_	_	_
+6	know	know	VBP	_	know	know	VBP	4	PRN	know.01	AM-ADV	_	_	_	_
+7	you	you	PRP	_	you	you	PRP	9	SBJ	_	_	_	A0	A0	_
+8	always	always	RB	_	always	always	RB	9	TMP	_	_	_	AM-TMP	_	_
+9	have	have	VBP	_	have	have	VBP	4	OBJ	have.04	A1	_	_	_	_
+10	to	to	TO	_	to	to	TO	9	OPRD	_	_	_	A1	_	_
+11	think	think	VB	_	think	think	VB	10	IM	think.01	_	_	_	_	_
+12	about	about	IN	_	about	about	IN	11	ADV	_	_	_	_	A1	_
+13	things	things	NNS	_	things	things	NNS	12	PMOD	_	_	_	_	_	_
+14	like	like	IN	_	like	like	IN	13	NMOD	_	_	_	_	_	_
+15	your	your	PRP$	_	your	your	PRP$	17	NMOD	_	_	_	_	_	_
+16	gas	gas	NN	_	gas	gas	NN	17	NMOD	_	_	_	_	_	_
+17	mileage	mileage	NN	_	mileage	mileage	NN	14	PMOD	_	_	_	_	_	_
+18	and	and	CC	_	and	and	CC	13	COORD	_	_	_	_	_	_
+19	stuff	stuff	NN	_	stuff	stuff	NN	18	CONJ	_	_	_	_	_	_
+20	like	like	IN	_	like	like	IN	19	NMOD	_	_	_	_	_	_
+21	that	that	DT	_	that	that	DT	20	PMOD	_	_	_	_	_	_
+22	you	you	PRP	_	you	you	PRP	23	SBJ	_	_	_	_	_	A0
+23	know	know	VBP	_	know	know	VBP	11	PRN	know.01	_	_	_	AM-ADV	_
+24	/	/	SU	_	/	/	SU	4	COORD	_	_	_	_	_	_
+
+1	you	you	PRP	_	you	you	PRP	0	ROOT	_
+2	-/	-/	SU	_	-/	-/	SU	1	DEP	_
+
+1	oh	oh	UH	_	oh	oh	UH	3	DEP	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_
+4	easy	easy	JJ	_	easy	easy	JJ	3	PRD	_	_
+5	to	to	TO	_	to	to	TO	3	EXTR	_	_
+6	get	get	VB	_	get	get	VB	5	IM	get.01	_
+7	gas	gas	NN	_	gas	gas	NN	8	NMOD	_	_
+8	mileage	mileage	NN	_	mileage	mileage	NN	6	OBJ	_	A1
+9	in	in	IN	_	in	in	IN	6	LOC	_	AM-LOC
+10	this	this	DT	_	this	this	DT	11	NMOD	_	_
+11	car	car	NN	_	car	car	NN	9	PMOD	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	it	it	PRP	_	it	it	PRP	2	SBJ	_	A0
+2	gets	gets	VBZ	_	gets	get	VBZ	0	ROOT	get.01	_
+3	excellent	excellent	JJ	_	excellent	excellent	JJ	5	NMOD	_	_
+4	gas	gas	NN	_	gas	gas	NN	5	NMOD	_	_
+5	mileage	mileage	NN	_	mileage	mileage	NN	2	OBJ	_	A1
+6	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	yeah	yeah	UH	_	yeah	yeah	UH	3	DEP	_
+2	that	that	DT	_	that	that	DT	3	SBJ	_
+3	's	's	VBZ	_	's	be	VBZ	0	ROOT	_
+4	one	one	CD	_	one	one	CD	3	PRD	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_
+6	the	the	DT	_	the	the	DT	9	NMOD	_
+7	big	big	JJ	_	big	big	JJ	9	NMOD	_
+8	throwing	throwing	VBG	_	throwing	throw	VBG	9	NMOD	_
+9	cards	cards	NNS	_	cards	cards	NNS	5	PMOD	_
+10	for	for	IN	_	for	for	IN	4	NMOD	_
+11	some	some	DT	_	some	some	DT	10	PMOD	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_
+13	the	the	DT	_	the	the	DT	15	NMOD	_
+14	foreign	foreign	JJ	_	foreign	foreign	JJ	15	NMOD	_
+15	ones	ones	NNS	_	ones	one	NNS	12	PMOD	_
+16	/	/	SU	_	/	/	SU	3	DEP	_
+
+1	um-hum	um-hum	UH	_	um	um	UH	0	ROOT	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_
+3	_	_	_	_	hum	hum	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	well	well	UH	_	well	well	UH	3	DEP	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	talked	talked	VBD	_	talked	talk	VBD	0	ROOT	talk.01	_
+4	long	long	RB	_	long	long	RB	3	TMP	_	_
+5	enough	enough	RB	_	enough	enough	RB	4	AMOD	_	AM-TMP
+6	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0
+2	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_
+3	so	so	RB	_	so	so	RB	2	PRD	_	_
+4	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	okay	okay	UH	_	okay	okay	UH	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	well	well	UH	_	well	well	UH	2	DEP	_	_
+2	enjoyed	enjoyed	VBD	_	enjoyed	enjoy	VBD	0	ROOT	enjoy.01	_
+3	it	it	PRP	_	it	it	PRP	2	OBJ	_	A1
+4	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	bye-bye	bye-bye	UH	_	bye	bye	UH	0	ROOT	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_
+3	_	_	_	_	bye	bye	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+
+1	all	all	RB	_	all	all	RB	0	ROOT	_
+2	righty	righty	RB	_	righty	righty	RB	1	AMOD	_
+3	/	/	SU	_	/	/	SU	1	AMOD	_
+
+1	thanks	thanks	NNS	_	thanks	thanks	NNS	0	ROOT	_
+2	/	/	SU	_	/	/	SU	1	NMOD	_
+
+1	bye-bye	bye-bye	UH	_	bye	bye	UH	0	ROOT	_
+2	_	_	_	_	-	-	HYPH	1	DEP	_
+3	_	_	_	_	bye	bye	UH	1	DEP	_
+4	/	/	SU	_	/	/	SU	1	DEP	_
+

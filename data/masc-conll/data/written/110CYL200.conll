@@ -1,0 +1,482 @@
+
+1	March	march	NNP	_	March	march	NNP	2	NMOD	_
+2	17	17	CD	_	17	17	CD	4	NMOD	_
+3	,	,	,	_	,	,	,	4	P	_
+4	2000	2000	CD	_	2000	2000	CD	0	ROOT	_
+
+1	Name	name	NN	_	Name	name	NN	7	NMOD	_	A2
+2	Address	address	NN	_	Address	address	NN	7	NMOD	_	A1
+3	City	city	NN	_	City	city	NN	7	NMOD	_	_
+4	,	,	,	_	,	,	,	7	P	_	_
+5	ST	st	NN	_	ST	st	NNP	7	NMOD	_	A3
+6	,	,	,	_	,	,	,	7	P	_	_
+7	Zip	zip	NN	_	Zip	zip	NN	0	ROOT	zip.01	_
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	2	NMOD	_
+2	Name	name	NNP	_	Name	name	NNP	0	ROOT	_
+3	:	:	.	_	:	:	.	2	P	_
+
+1	When	when	WRB	_	When	when	WRB	4	TMP	_	_	_	AM-TMP	_	_	_
+2	Jerry	jerry	NNP	_	Jerry	jerry	NNP	3	SBJ	_	A1	A0	_	_	_	_
+3	was	was	VBD	_	was	be	VBD	9	TMP	be.01	_	_	_	_	_	_
+4	released	released	VBN	_	released	release	VBN	3	VC	release.01	A2	_	_	_	_	_
+5	from	from	IN	_	from	from	IN	4	ADV	_	_	A1	_	_	_	_
+6	prison	prison	NN	_	prison	prison	NN	5	PMOD	_	_	_	_	_	_	_
+7	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_
+8	he	he	PRP	_	he	he	PRP	9	SBJ	_	_	_	A0	_	_	_
+9	knew	knew	VBD	_	knew	know	VBD	0	ROOT	know.01	_	_	_	_	_	_
+10	it	it	PRP	_	it	it	PRP	11	SBJ	_	_	_	_	A0	_	_
+11	would	would	MD	_	would	would	MD	9	OBJ	_	_	_	_	_	_	_
+12	take	take	VB	_	take	take	VB	11	VC	take.01	_	_	_	_	_	_
+13	hard	hard	JJ	_	hard	hard	JJ	14	NMOD	_	_	_	_	_	_	_
+14	work	work	NN	_	work	work	NN	12	OBJ	_	_	_	_	A1	_	_
+15	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_	_	_	_
+16	determination	determination	NN	_	determination	determination	NN	15	CONJ	_	_	_	_	_	_	_
+17	to	to	TO	_	to	to	TO	12	EXTR	_	_	_	_	A2	_	_
+18	straighten	straighten	VB	_	straighten	straighten	VB	17	IM	straighten.01	_	_	_	_	_	_
+19	out	out	RP	_	out	out	RP	18	PRT	_	_	_	_	_	_	_
+20	his	his	PRP$	_	his	his	PRP$	21	NMOD	_	_	_	_	_	_	A1
+21	life	life	NN	_	life	life	NN	18	OBJ	life.02	_	_	_	_	A1	A2
+22	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_
+
+1	He	he	PRP	_	He	he	PRP	2	SBJ	_	A0	_	_	_	_	_	_	_	_	_	_	_
+2	knew	knew	VBD	_	knew	know	VBD	0	ROOT	know.01	_	_	_	_	_	_	_	_	_	_	_	_
+3	he	he	PRP	_	he	he	PRP	4	SBJ	_	_	A0	A0	A0	_	_	_	_	_	_	_	_
+4	had	had	VBD	_	had	have	VBD	2	OBJ	have.04	A1	_	_	_	_	_	_	_	_	_	_	_
+5	made	made	VBN	_	made	make	VBN	4	VC	make.01	_	A1	_	SU	_	_	_	_	_	_	_	_
+6	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	bad	bad	JJ	_	bad	bad	JJ	8	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	mistake	mistake	NN	_	mistake	mistake	NN	5	OBJ	mistake.01	_	_	A1	_	_	_	_	_	_	_	_	_
+9	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	but	but	CC	_	but	but	CC	2	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	despite	despite	IN	_	despite	despite	IN	21	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	his	his	PRP$	_	his	his	PRP$	13	NMOD	_	_	_	_	_	A0	_	_	_	_	_	_	_
+13	commitment	commitment	NN	_	commitment	commitment	NN	11	PMOD	commitment.01	_	_	_	_	_	_	_	_	_	_	_	_
+14	to	to	TO	_	to	to	TO	13	NMOD	_	_	_	_	_	A2	_	_	_	_	_	_	_
+15	rebuilding	rebuilding	VBG	_	rebuilding	rebuild	VBG	14	PMOD	rebuild.01	_	_	_	_	_	_	_	_	_	_	_	_
+16	his	his	PRP$	_	his	his	PRP$	17	NMOD	_	_	_	_	_	_	_	A1	_	_	_	_	_
+17	life	life	NN	_	life	life	NN	15	OBJ	life.02	_	_	_	_	_	A1	A2	_	_	_	_	_
+18	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	he	he	PRP	_	he	he	PRP	21	SBJ	_	_	_	_	_	_	A0	_	A0	A0	_	_	_
+20	just	just	RB	_	just	just	RB	21	ADV	_	_	_	_	_	_	_	_	AM-MNR	_	_	_	_
+21	did	did	VBD	_	did	do	VBD	10	CONJ	do.02	_	_	_	_	_	_	_	_	_	_	_	_
+22	n't	not	RB	_	n't	not	RB	21	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	count	count	VB	_	count	count	VB	21	VC	count.01	_	_	_	_	_	_	_	A2	_	_	_	_
+24	on	on	IN	_	on	on	IN	23	ADV	_	_	_	_	_	_	_	_	_	A1	_	_	_
+25	the	the	DT	_	the	the	DT	26	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	obstacles	obstacles	NNS	_	obstacles	obstacle	NNS	24	PMOD	_	_	_	_	_	_	_	_	_	_	A1	A0	_
+27	that	that	WDT	_	that	that	WDT	28	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	would	would	MD	_	would	would	MD	26	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	be	be	VB	_	be	be	VB	28	VC	be.01	_	_	_	_	_	_	_	_	_	_	_	_
+30	thrown	thrown	VBN	_	thrown	throw	VBN	29	VC	throw.01	_	_	_	_	_	_	_	_	_	A2	_	_
+31	up	up	RP	_	up	up	RP	30	PRT	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	in	in	IN	_	in	in	IN	30	LOC	_	_	_	_	_	_	_	_	_	_	_	AM-LOC	_
+33	his	his	PRP$	_	his	his	PRP$	34	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	A0
+34	path	path	NN	_	path	path	NN	32	PMOD	path.01	_	_	_	_	_	_	_	_	_	_	_	_
+35	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Reality	reality	NN	_	Reality	reality	NN	2	SBJ	_	A0	_	_	_	_
+2	hit	hit	VBD	_	hit	hit	VBD	0	ROOT	hit.01	_	_	_	_	_
+3	when	when	WRB	_	when	when	WRB	5	TMP	_	AM-TMP	_	_	_	_
+4	he	he	PRP	_	he	he	PRP	5	SBJ	_	_	A1	A0	_	A0
+5	was	was	VBD	_	was	be	VBD	2	TMP	be.01	_	_	_	_	_
+6	unable	unable	JJ	_	unable	unable	JJ	5	PRD	_	_	A2	_	_	_
+7	to	to	TO	_	to	to	TO	6	AMOD	_	_	_	_	_	_
+8	reconcile	reconcile	VB	_	reconcile	reconcile	VB	7	IM	reconcile.01	_	_	_	_	_
+9	with	with	IN	_	with	with	IN	8	ADV	_	_	_	A1	_	_
+10	his	his	PRP$	_	his	his	PRP$	11	NMOD	_	_	_	_	A1	_
+11	wife	wife	NN	_	wife	wife	NN	9	PMOD	wife.01	_	_	_	A0	_
+12	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_	_	_
+13	ended	ended	VBD	_	ended	end	VBD	12	CONJ	end.01	_	_	_	_	_
+14	up	up	RP	_	up	up	RP	13	PRT	_	_	_	_	_	_
+15	on	on	IN	_	on	on	IN	13	LOC	_	_	_	_	_	A1
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_
+17	street	street	NN	_	street	street	NN	15	PMOD	_	_	_	_	_	_
+18	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	He	he	PRP	_	He	he	PRP	2	SBJ	_	A0	_	_	_
+2	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_	_	_	_
+3	to	to	TO	_	to	to	TO	2	DIR	_	A1	_	_	_
+4	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_
+5	Center	center	NNP	_	Center	center	NNP	6	NAME	_	_	_	_	_
+6	Township	township	NNP	_	Township	township	NNP	7	NMOD	_	_	_	_	_
+7	Trustee	trustee	NNP	_	Trustee	trustee	NNP	3	PMOD	_	_	_	_	_
+8	for	for	IN	_	for	for	IN	2	PRP	_	_	_	_	_
+9	food	food	NN	_	food	food	NN	10	NMOD	_	_	A1	_	_
+10	stamps	stamps	NNS	_	stamps	stamp	NNS	8	PMOD	stamp.01	_	_	_	_
+11	until	until	IN	_	until	until	IN	2	TMP	_	AM-TMP	_	_	_
+12	he	he	PRP	_	he	he	PRP	13	SBJ	_	_	_	A0	A0
+13	could	could	MD	_	could	could	MD	11	SUB	_	_	_	_	_
+14	find	find	VB	_	find	find	VB	13	VC	find.01	_	_	_	_
+15	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_
+16	job	job	NN	_	job	job	NN	14	OBJ	_	_	_	A1	_
+17	and	and	CC	_	and	and	CC	16	COORD	_	_	_	_	_
+18	a	a	DT	_	a	a	DT	19	NMOD	_	_	_	_	_
+19	place	place	NN	_	place	place	NN	17	CONJ	_	_	_	_	_
+20	to	to	TO	_	to	to	TO	19	NMOD	_	_	_	_	_
+21	live	live	VB	_	live	live	VB	20	IM	live.01	_	_	_	_
+22	.	.	.	_	.	.	.	2	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	Trustee	trustee	NNP	_	Trustee	trustee	NNP	3	SBJ	_	A0	_	_	_
+3	referred	referred	VBD	_	referred	refer	VBD	0	ROOT	refer.02	_	_	_	_
+4	him	him	PRP	_	him	him	PRP	3	OBJ	_	A1	_	_	_
+5	to	to	TO	_	to	to	TO	3	ADV	_	A2	_	_	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_
+7	Blue	blue	NNP	_	Blue	blue	NNP	8	NAME	_	_	_	_	_
+8	Triangle	triangle	NNP	_	Triangle	triangle	NNP	5	PMOD	_	_	_	_	_
+9	where	where	WRB	_	where	where	WRB	11	LOC	_	_	_	_	_
+10	he	he	PRP	_	he	he	PRP	11	SBJ	_	_	A0	_	_
+11	consulted	consulted	VBD	_	consulted	consult	VBD	8	NMOD	consult.01	_	_	_	_
+12	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	16	NMOD	_	_	_	A1	_
+13	's	's	POS	_	's	's	POS	12	SUFFIX	_	_	_	_	_
+14	Career	career	NNP	_	Career	career	NNP	15	NAME	_	_	_	_	_
+15	Academy	academy	NNP	_	Academy	academy	NNP	16	NMOD	_	_	_	A2	_
+16	staff	staff	NN	_	staff	staff	NN	11	OBJ	staff.01	_	A1	_	_
+17	for	for	IN	_	for	for	IN	11	ADV	_	_	A2	_	_
+18	job	job	NN	_	job	job	NN	19	NMOD	_	_	_	_	_
+19	search	search	NN	_	search	search	NN	20	NMOD	_	_	_	_	A0
+20	assistance	assistance	NN	_	assistance	assistance	NN	17	PMOD	assistance.01	_	_	_	_
+21	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	Jerry	jerry	NNP	_	Jerry	jerry	NNP	4	NMOD	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_
+3	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	4	NMOD	_	_
+4	caseworker	caseworker	NN	_	caseworker	caseworker	NN	5	SBJ	_	A0
+5	found	found	VBD	_	found	found	VBD	0	ROOT	find.01	_
+6	him	him	PRP	_	him	him	PRP	5	OBJ	_	A2
+7	a	a	DT	_	a	a	DT	8	NMOD	_	_
+8	job	job	NN	_	job	job	NN	5	OBJ	_	A1
+9	immediately	immediately	RB	_	immediately	immediately	RB	5	TMP	_	AM-TMP
+10	.	.	.	_	.	.	.	5	P	_	_
+
+1	But	but	CC	_	But	but	CC	5	DEP	_	_	_	_
+2	Jerry	jerry	NNP	_	Jerry	jerry	NNP	4	NMOD	_	A1	_	_
+3	's	's	POS	_	's	's	POS	2	SUFFIX	_	_	_	_
+4	troubles	troubles	NNS	_	troubles	trouble	NNS	5	SBJ	trouble.01	_	A0	A0
+5	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_	_
+6	n't	not	RB	_	n't	not	RB	5	ADV	_	_	_	_
+7	end	end	VB	_	end	end	VB	5	VC	end.01	SU	A1	_
+8	there	there	RB	_	there	there	RB	7	LOC	_	A0	_	AM-LOC
+9	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_
+2	seasonal	seasonal	JJ	_	seasonal	seasonal	JJ	4	NMOD	_	AM-TMP	_	_	_
+3	construction	construction	NN	_	construction	construction	NN	4	NMOD	_	A1	_	_	_
+4	job	job	NN	_	job	job	NN	8	SBJ	job.01	_	A1	A0	_
+5	he	he	PRP	_	he	he	PRP	6	SBJ	_	_	A0	_	_
+6	obtained	obtained	VBD	_	obtained	obtain	VBD	4	NMOD	obtain.01	_	_	_	_
+7	soon	soon	RB	_	soon	soon	RB	8	TMP	_	_	_	AM-TMP	_
+8	ended	ended	VBD	_	ended	end	VBD	0	ROOT	end.01	_	_	_	_
+9	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+10	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_
+11	he	he	PRP	_	he	he	PRP	12	SBJ	_	_	_	_	A0
+12	returned	returned	VBD	_	returned	return	VBD	10	CONJ	return.02	_	_	_	_
+13	to	to	TO	_	to	to	TO	12	DIR	_	_	_	_	A2
+14	Career	career	NNP	_	Career	career	NNP	15	NAME	_	_	_	_	_
+15	Academy	academy	NNP	_	Academy	academy	NNP	13	PMOD	_	_	_	_	_
+16	for	for	IN	_	for	for	IN	12	PRP	_	_	_	_	_
+17	help	help	NN	_	help	help	NN	16	PMOD	_	_	_	_	_
+18	once	once	RB	_	once	once	RB	12	TMP	_	_	_	_	_
+19	more	more	RBR	_	more	more	RBR	18	AMOD	_	_	_	_	AM-TMP
+20	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+
+1	Unemployed	unemployed	JJ	_	Unemployed	unemployed	JJ	12	ADV	_	_	_	_	_	_	_
+2	,	,	,	_	,	,	,	1	P	_	_	_	_	_	_	_
+3	homeless	homeless	JJ	_	homeless	homeless	JJ	1	COORD	_	_	_	_	_	_	_
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_	_	_
+5	with	with	IN	_	with	with	IN	4	CONJ	_	_	_	_	_	_	_
+6	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_	_
+7	prison	prison	NN	_	prison	prison	NN	8	NMOD	_	A1	_	_	_	_	_
+8	record	record	NN	_	record	record	NN	5	PMOD	record.02	A2	_	_	_	_	_
+9	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_	_
+10	Jerry	jerry	NNP	_	Jerry	jerry	NNP	12	SBJ	_	_	A0	A0	_	A0	_
+11	now	now	RB	_	now	now	RB	12	TMP	_	_	AM-TMP	_	_	_	_
+12	faced	faced	VBD	_	faced	face	VBD	0	ROOT	face.01	_	_	_	_	_	_
+13	going	going	VBG	_	going	go	VBG	12	OPRD	go.03	_	A1	_	_	_	_
+14	back	back	RB	_	back	back	RB	13	DIR	_	_	_	A1	_	_	_
+15	to	to	TO	_	to	to	TO	14	AMOD	_	_	_	_	_	_	_
+16	prison	prison	NN	_	prison	prison	NN	15	PMOD	_	_	_	_	_	_	_
+17	for	for	IN	_	for	for	IN	13	PRP	_	_	_	_	_	_	_
+18	failure	failure	NN	_	failure	failure	NN	17	PMOD	failure.01	_	_	_	_	_	_
+19	to	to	TO	_	to	to	TO	18	NMOD	_	_	_	_	A1	_	_
+20	pay	pay	VB	_	pay	pay	VB	19	IM	pay.01	_	_	_	_	_	_
+21	child	child	NN	_	child	child	NN	22	NMOD	_	_	_	_	_	_	A0
+22	support	support	NN	_	support	support	NN	20	OBJ	support.01	_	_	_	_	A1	_
+23	.	.	.	_	.	.	.	12	P	_	_	_	_	_	_	_
+
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	A0	_	_	_	_	_	_	_
+2	took	took	VBD	_	took	take	VBD	0	ROOT	take.18	_	_	_	_	_	_	_	_
+3	some	some	DT	_	some	some	DT	4	NMOD	_	_	_	_	_	_	_	_	_
+4	time	time	NN	_	time	time	NN	2	OBJ	_	A1	_	_	_	_	_	_	_
+5	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_	_	_	_	_	_
+6	hard	hard	JJ	_	hard	hard	JJ	7	NMOD	_	_	_	_	_	_	_	_	_
+7	work	work	NN	_	work	work	NN	5	CONJ	_	_	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_	_	_
+9	but	but	CC	_	but	but	CC	2	COORD	_	_	_	_	_	_	_	_	_
+10	with	with	IN	_	with	with	IN	17	ADV	_	_	_	AM-MNR	_	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_
+12	help	help	NN	_	help	help	NN	10	PMOD	help.01	_	_	_	_	_	_	_	_
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	A0	_	_	_	_	_	_
+14	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	13	PMOD	_	_	_	_	_	_	_	_	_
+15	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_	_
+16	Jerry	jerry	NNP	_	Jerry	jerry	NNP	17	SBJ	_	_	_	A1	A0	A0	_	_	_
+17	was	was	VBD	_	was	be	VBD	9	CONJ	be.01	_	_	_	_	_	_	_	_
+18	able	able	JJ	_	able	able	JJ	17	PRD	_	_	_	A2	_	_	_	_	_
+19	to	to	TO	_	to	to	TO	18	AMOD	_	_	_	_	_	_	_	_	_
+20	work	work	VB	_	work	work	VB	19	IM	work.01	_	_	_	_	SU	_	_	_
+21	out	out	RP	_	out	out	RP	20	PRT	_	_	_	_	_	_	_	_	_
+22	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_	_	_	_	_	_
+23	payment	payment	NN	_	payment	payment	NN	24	NMOD	_	_	_	_	_	A1	_	_	_
+24	plan	plan	NN	_	plan	plan	NN	20	OBJ	plan.01	_	_	_	A1	_	_	_	_
+25	with	with	IN	_	with	with	IN	20	ADV	_	_	_	_	A4	_	_	_	_
+26	the	the	DT	_	the	the	DT	27	NMOD	_	_	_	_	_	_	_	_	_
+27	prosecutor	prosecutor	NN	_	prosecutor	prosecutor	NN	29	NMOD	_	_	_	_	_	_	A0	_	_
+28	's	's	POS	_	's	's	POS	27	SUFFIX	_	_	_	_	_	_	_	_	_
+29	office	office	NN	_	office	office	NN	25	PMOD	office.01	_	_	_	_	_	_	_	_
+30	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_	_	_	_
+31	find	find	VB	_	find	find	VB	20	COORD	find.01	_	_	_	_	_	_	_	_
+32	housing	housing	NN	_	housing	housing	NN	31	OBJ	_	_	_	_	_	_	_	A1	_
+33	and	and	CC	_	and	and	CC	31	COORD	_	_	_	_	_	_	_	_	_
+34	conduct	conduct	VB	_	conduct	conduct	VB	33	CONJ	conduct.01	_	_	_	_	_	_	_	_
+35	a	a	DT	_	a	a	DT	39	NMOD	_	_	_	_	_	_	_	_	_
+36	more	more	RBR	_	more	more	RBR	37	AMOD	_	_	_	_	_	_	_	_	_
+37	thorough	thorough	JJ	_	thorough	thorough	JJ	39	NMOD	_	_	_	_	_	_	_	_	_
+38	job	job	NN	_	job	job	NN	39	NMOD	_	_	_	_	_	_	_	_	_
+39	search	search	NN	_	search	search	NN	34	OBJ	_	_	_	_	_	_	_	_	A1
+40	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_
+
+1	With	with	IN	_	With	with	IN	16	ADV	_	_	_	_	_	AM-MNR	_	_
+2	unemployment	unemployment	NN	_	unemployment	unemployment	NN	3	SBJ	_	_	_	A1	_	_	_	_
+3	at	at	IN	_	at	at	IN	1	SUB	_	SU	_	_	_	_	_	_
+4	its	its	PRP$	_	its	its	PRP$	6	NMOD	_	A1	_	_	_	_	_	_
+5	lowest	lowest	JJS	_	lowest	lowest	JJS	6	NMOD	_	_	_	_	_	_	_	_
+6	point	point	NN	_	point	point	NN	3	PMOD	point.03	A2	SU	_	_	_	_	_
+7	in	in	IN	_	in	in	IN	6	TMP	in.SU	_	_	SU	_	_	_	_
+8	years	years	NNS	_	years	years	NNS	7	PMOD	year.04	_	_	A2	_	_	_	_
+9	in	in	IN	_	in	in	IN	3	LOC	_	_	_	_	_	_	_	_
+10	central	central	JJ	_	central	central	JJ	11	NMOD	_	_	_	_	_	_	_	_
+11	Indiana	indiana	NNP	_	Indiana	indiana	NNP	9	PMOD	_	_	_	_	_	_	_	_
+12	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_	_
+13	many	many	JJ	_	many	many	DT	14	NMOD	_	_	_	_	_	_	_	_
+14	people	people	NNS	_	people	people	NNS	16	SBJ	person.02	_	_	_	A0	A0	A1	A0
+15	still	still	RB	_	still	still	RB	16	TMP	_	_	_	_	A1	AM-TMP	_	_
+16	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	SU	_	SU	_
+17	a	a	DT	_	a	a	DT	19	NMOD	_	_	_	_	_	_	_	_
+18	hard	hard	JJ	_	hard	hard	JJ	19	NMOD	_	_	_	_	_	_	_	_
+19	time	time	NN	_	time	time	NN	16	OBJ	time.07	_	_	_	_	A1	_	_
+20	finding	finding	VBG	_	finding	find	VBG	19	NMOD	find.01	_	_	_	_	_	A2	_
+21	meaningful	meaningful	JJ	_	meaningful	meaningful	JJ	22	NMOD	_	_	_	_	_	_	_	_
+22	employment	employment	NN	_	employment	employment	NN	20	OBJ	_	_	_	_	_	_	_	A1
+23	.	.	.	_	.	.	.	16	P	_	_	_	_	_	_	_	_
+
+1	Of	of	IN	_	Of	of	IN	16	ADV	_	_	_	A1	_	_
+2	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_
+3	more	more	JJR	_	more	more	RBR	5	DEP	_	_	_	_	_	_
+4	than	than	IN	_	than	than	IN	5	DEP	_	_	_	_	_	_
+5	42,000	42,000	CD	_	42,000	42,000	CD	6	NMOD	_	_	_	_	_	_
+6	people	people	NNS	_	people	people	NNS	1	PMOD	_	A1	_	_	_	_
+7	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	8	SBJ	_	A0	_	_	_	_
+8	served	served	VBD	_	served	serve	VBD	6	NMOD	serve.01	_	_	_	_	_
+9	in	in	IN	_	in	in	IN	8	TMP	_	AM-TMP	_	_	_	_
+10	1999	1999	CD	_	1999	1999	CD	9	PMOD	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_
+12	over	over	RB	_	over	over	RB	16	SBJ	_	_	_	_	_	_
+13	5,000	5,000	CD	_	5,000	5,000	CD	12	DEP	_	_	A0	_	A0	A0
+14	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	_	_	_
+15	them	them	PRP	_	them	them	PRP	14	PMOD	_	_	_	_	_	_
+16	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	SU	_	_
+17	multiple	multiple	JJ	_	multiple	multiple	JJ	18	NMOD	_	_	_	_	_	_
+18	barriers	barriers	NNS	_	barriers	barrier	NNS	16	OBJ	barrier.01	_	A1	A0	_	_
+19	to	to	TO	_	to	to	TO	18	NMOD	_	_	_	A2	_	_
+20	finding	finding	VBG	_	finding	find	VBG	19	PMOD	find.01	_	_	_	_	_
+21	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_
+22	keeping	keeping	VBG	_	keeping	keep	VBG	21	CONJ	keep.01	_	_	_	_	_
+23	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_	_	_
+24	job	job	NN	_	job	job	NN	20	OBJ	_	_	_	_	A1	A1
+25	.	.	.	_	.	.	.	16	P	_	_	_	_	_	_
+
+1	Some	some	DT	_	Some	some	DT	6	SBJ	_	A1	_
+2	,	,	,	_	,	,	,	1	P	_	_	_
+3	like	like	IN	_	like	like	IN	1	NMOD	_	_	_
+4	Jerry	jerry	NNP	_	Jerry	jerry	NNP	3	PMOD	_	_	_
+5	,	,	,	_	,	,	,	6	P	_	_	_
+6	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_
+7	ex-offenders	ex-offenders	NNS	_	ex	ex	NNS	9	HMOD	_	_	A2
+8	_	_	_	_	-	-	HYPH	7	HYPH	_	_	_
+9	_	_	_	_	offenders	offender	NNS	6	PRD	offender.01	A2	A0
+10	.	.	.	_	.	.	.	6	P	_	_	_
+
+1	Some	some	DT	_	Some	some	DT	2	SBJ	_	A1	A0	A0
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+3	blind	blind	JJ	_	blind	blind	JJ	5	AMOD	_	A2	_	_
+4	,	,	,	_	,	,	,	5	P	_	_	_	_
+5	deaf	deaf	JJ	_	deaf	deaf	JJ	2	PRD	_	_	_	_
+6	or	or	CC	_	or	or	CC	2	COORD	_	_	_	_
+7	have	have	VBP	_	have	have	VBP	6	CONJ	have.03	_	_	SU
+8	other	other	JJ	_	other	other	JJ	10	NMOD	_	_	_	_
+9	physical	physical	JJ	_	physical	physical	JJ	10	NMOD	_	_	_	_
+10	disabilities	disabilities	NNS	_	disabilities	disability	NNS	7	OBJ	disability.01	_	A1	_
+11	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	More	more	JJR	_	More	more	RBR	3	DEP	_	_
+2	than	than	IN	_	than	than	IN	3	DEP	_	_
+3	100	100	CD	_	100	100	CD	4	SBJ	_	A1
+4	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_
+5	homeless	homeless	JJ	_	homeless	homeless	JJ	4	PRD	_	A2
+6	.	.	.	_	.	.	.	4	P	_	_
+
+1	But	but	CC	_	But	but	CC	3	DEP	_	_	_	_
+2	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	3	SBJ	_	A0	A0	_
+3	offers	offers	VBZ	_	offers	offer	VBZ	0	ROOT	offer.01	_	SU	_
+4	hope	hope	NN	_	hope	hope	NN	3	OBJ	hope.01	A1	_	_
+5	even	even	RB	_	even	even	RB	6	PMOD	_	_	_	_
+6	to	to	TO	_	to	to	TO	3	DTV	_	A2	_	_
+7	people	people	NNS	_	people	people	NNS	6	PMOD	_	_	_	_
+8	with	with	IN	_	with	with	IN	7	NMOD	_	_	_	_
+9	numerous	numerous	JJ	_	numerous	numerous	JJ	10	NMOD	_	_	_	_
+10	obstacles	obstacles	NNS	_	obstacles	obstacle	NNS	8	PMOD	_	_	_	A0
+11	to	to	TO	_	to	to	TO	10	NMOD	_	_	_	_
+12	overcome	overcome	VB	_	overcome	overcome	VB	11	IM	overcome.01	_	_	_
+13	,	,	,	_	,	,	,	7	P	_	_	_	_
+14	like	like	IN	_	like	like	IN	7	NMOD	_	_	_	_
+15	Jerry	jerry	NNP	_	Jerry	jerry	NNP	14	PMOD	_	_	_	_
+16	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	With	with	IN	_	With	with	IN	26	ADV	_	_	_	_	_	_	_	_
+2	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_	_	_	_	_
+3	promising	promising	JJ	_	promising	promising	JJ	5	NMOD	_	_	_	_	_	_	_	_
+4	new	new	JJ	_	new	new	JJ	5	NMOD	_	_	_	_	_	_	_	_
+5	job	job	NN	_	job	job	NN	1	PMOD	_	_	_	_	_	_	_	_
+6	at	at	IN	_	at	at	IN	5	LOC	_	_	_	_	_	_	_	_
+7	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_	_	_	_	_
+8	plastic	plastic	JJ	_	plastic	plastic	JJ	10	NMOD	_	_	_	_	_	_	_	_
+9	injection	injection	NN	_	injection	injection	NN	10	NMOD	_	_	_	_	_	_	_	_
+10	molding	molding	NN	_	molding	molding	NN	11	NMOD	_	_	_	_	_	_	_	_
+11	manufacturer	manufacturer	NN	_	manufacturer	manufacturer	NN	6	PMOD	_	_	_	_	_	_	_	_
+12	,	,	,	_	,	,	,	5	P	_	_	_	_	_	_	_	_
+13	his	his	PRP$	_	his	his	PRP$	15	NMOD	_	A1	_	_	_	_	_	_
+14	legal	legal	JJ	_	legal	legal	JJ	15	NMOD	_	_	_	_	_	_	_	_
+15	troubles	troubles	NNS	_	troubles	trouble	NNS	5	COORD	trouble.01	_	_	_	_	_	_	_
+16	in	in	IN	_	in	in	IN	15	NMOD	_	A0	_	_	_	_	_	_
+17	check	check	NN	_	check	check	NN	16	PMOD	_	_	_	_	_	_	_	_
+18	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_	_
+19	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_	_	_	_	_
+20	safe	safe	JJ	_	safe	safe	JJ	21	NMOD	_	_	_	_	_	_	_	_
+21	place	place	NN	_	place	place	NN	18	CONJ	_	_	_	_	_	_	_	_
+22	to	to	TO	_	to	to	TO	21	NMOD	_	_	_	_	_	_	_	_
+23	live	live	VB	_	live	live	VB	22	IM	live.01	_	_	_	_	_	_	_
+24	,	,	,	_	,	,	,	26	P	_	_	_	_	_	_	_	_
+25	Jerry	jerry	NNP	_	Jerry	jerry	NNP	26	SBJ	_	_	A0	A0	_	A0	A0	_
+26	can	can	MD	_	can	can	MD	0	ROOT	_	_	_	_	_	_	_	_
+27	get	get	VB	_	get	get	VB	26	VC	get.01	_	_	_	_	_	_	_
+28	on	on	RP	_	on	on	RP	27	PRT	_	_	_	_	_	_	_	_
+29	with	with	IN	_	with	with	IN	27	ADV	_	_	_	A2	_	_	_	_
+30	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_	_	_	_	_
+31	business	business	NN	_	business	business	NN	29	PMOD	business.01	_	_	_	_	_	_	_
+32	of	of	IN	_	of	of	IN	31	NMOD	_	_	_	_	A1	_	_	_
+33	building	building	VBG	_	building	build	VBG	32	PMOD	build.01	_	_	_	_	_	_	_
+34	a	a	DT	_	a	a	DT	35	NMOD	_	_	_	_	_	_	_	_
+35	life	life	NN	_	life	life	NN	33	OBJ	_	_	_	_	_	A1	_	_
+36	for	for	IN	_	for	for	IN	33	BNF	_	_	_	_	_	A2	_	_
+37	himself	himself	PRP	_	himself	himself	PRP	36	PMOD	_	_	_	_	_	_	_	_
+38	and	and	CC	_	and	and	CC	33	COORD	_	_	_	_	_	_	_	_
+39	contributing	contributing	VBG	_	contributing	contribute	VBG	38	CONJ	contribute.01	_	_	_	_	_	_	_
+40	to	to	TO	_	to	to	TO	39	ADV	_	_	_	_	_	_	A1	_
+41	his	his	PRP$	_	his	his	PRP$	42	NMOD	_	_	_	_	_	_	_	A2
+42	community	community	NN	_	community	community	NN	40	PMOD	community.01	_	_	_	_	_	_	_
+43	.	.	.	_	.	.	.	26	P	_	_	_	_	_	_	_	_
+
+1	For	for	IN	_	For	for	IN	10	TMP	_	_	_	_
+2	as	as	RB	_	as	as	IN	3	AMOD	_	_	_	_
+3	long	long	RB	_	long	long	RB	1	PMOD	_	_	_	_
+4	as	as	IN	_	as	as	IN	3	AMOD	_	_	_	_
+5	he	he	PRP	_	he	he	PRP	6	SBJ	_	A0	_	_
+6	needs	needs	VBZ	_	needs	need	VBZ	4	SUB	need.01	_	_	_
+7	it	it	PRP	_	it	it	PRP	6	OBJ	_	A1	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_
+9	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	10	SBJ	_	_	A0	A0
+10	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_
+11	continue	continue	VB	_	continue	continue	VB	10	VC	continue.02	_	_	_
+12	to	to	TO	_	to	to	TO	11	OPRD	_	_	A1	_
+13	help	help	VB	_	help	help	VB	12	IM	help.01	_	_	_
+14	.	.	.	_	.	.	.	10	P	_	_	_	_
+
+1	Your	your	PRP$	_	Your	your	PRP$	2	NMOD	_	A0	_	_	_	_	_	_
+2	support	support	NN	_	support	support	NN	5	SBJ	support.01	_	A0	_	_	A0	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_	_	_	_	_
+4	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	3	PMOD	_	_	_	_	_	_	_	_
+5	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_	_	_	_
+6	provide	provide	VB	_	provide	provide	VB	5	VC	provide.01	_	_	_	_	_	_	_
+7	job	job	NN	_	job	job	NN	8	NMOD	_	_	_	A1	_	_	_	_
+8	training	training	NN	_	training	training	NN	6	OBJ	training.01	_	A1	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_	_	_
+10	placement	placement	NN	_	placement	placement	NN	11	NMOD	_	_	_	_	A1	_	_	_
+11	services	services	NNS	_	services	services	NNS	9	CONJ	service.01	_	_	_	_	_	_	_
+12	to	to	TO	_	to	to	TO	6	PRP	_	_	_	_	_	_	_	_
+13	help	help	VB	_	help	help	VB	12	IM	help.01	_	_	_	_	_	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_	_	_
+15	hardest	hardest	JJS	_	hardest	hard	JJS	13	OBJ	_	_	_	_	_	_	_	A0
+16	to	to	TO	_	to	to	TO	15	NMOD	_	_	_	_	_	_	_	_
+17	serve	serve	VB	_	serve	serve	VB	16	IM	serve.01	_	_	_	_	_	_	_
+18	in	in	IN	_	in	in	IN	17	LOC	_	_	_	_	_	_	A2	_
+19	central	central	JJ	_	central	central	JJ	20	NMOD	_	_	_	_	_	_	_	_
+20	Indiana	indiana	NNP	_	Indiana	indiana	NNP	18	PMOD	_	_	_	_	_	_	_	_
+21	find	find	VB	_	find	find	VB	13	OPRD	find.01	_	_	_	_	A1	_	_
+22	meaningful	meaningful	JJ	_	meaningful	meaningful	JJ	23	NMOD	_	_	_	_	_	_	_	_
+23	employment	employment	NN	_	employment	employment	NN	21	OBJ	_	_	_	_	_	_	_	A1
+24	.	.	.	_	.	.	.	5	P	_	_	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	8	DEP	_	_	_	_	_
+2	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+3	with	with	IN	_	with	with	IN	8	MNR	_	_	_	_	_
+4	your	your	PRP$	_	your	your	PRP$	5	NMOD	_	A0	_	_	_
+5	assistance	assistance	NN	_	assistance	assistance	NN	3	PMOD	assistance.01	_	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+7	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	8	SBJ	_	_	A0	_	_
+8	can	can	MD	_	can	can	MD	0	ROOT	_	_	_	_	_
+9	help	help	VB	_	help	help	VB	8	VC	help.01	_	_	_	_
+10	employers	employers	NNS	_	employers	employer	NNS	9	OBJ	_	_	_	A0	A0
+11	develop	develop	VB	_	develop	develop	VB	9	OPRD	develop.02	_	A1	_	_
+12	resources	resources	NNS	_	resources	resource	NNS	11	OBJ	_	_	_	A1	_
+13	to	to	TO	_	to	to	TO	11	PRP	_	_	_	_	_
+14	keep	keep	VB	_	keep	keep	VB	13	IM	keep.04	_	_	_	_
+15	workers	workers	NNS	_	workers	worker	NNS	14	OBJ	_	_	_	_	A1
+16	on	on	IN	_	on	on	IN	14	LOC	_	_	_	_	A2
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_
+18	job	job	NN	_	job	job	NN	16	PMOD	_	_	_	_	_
+19	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_	_	_	_
+2	make	make	VB	_	make	make	VB	0	ROOT	make.01	_	_	_	_	_
+3	an	an	DT	_	an	an	DT	4	NMOD	_	_	_	_	_	_
+4	investment	investment	NN	_	investment	investment	NN	2	OBJ	investment.01	A1	_	_	_	_
+5	in	in	IN	_	in	in	IN	4	NMOD	_	_	A1	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+7	stability	stability	NN	_	stability	stability	NN	5	PMOD	stability.01	_	_	A2	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	_	A1	_	_
+9	our	our	PRP$	_	our	our	PRP$	10	NMOD	_	_	_	_	A2	_
+10	community	community	NN	_	community	community	NN	8	PMOD	community.01	_	_	_	_	_
+11	by	by	IN	_	by	by	IN	2	MNR	_	AM-MNR	_	_	_	_
+12	sending	sending	VBG	_	sending	send	VBG	11	PMOD	send.01	_	_	_	_	_
+13	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_	_
+14	gift	gift	NN	_	gift	gift	NN	12	OBJ	_	_	_	_	_	A1
+15	to	to	TO	_	to	to	TO	12	DTV	_	_	_	_	_	A2
+16	Goodwill	goodwill	NNP	_	Goodwill	goodwill	NNP	15	PMOD	_	_	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	Your	your	PRP$	_	Your	your	PRP$	2	NMOD	_	_	_
+2	generosity	generosity	NN	_	generosity	generosity	NN	3	SBJ	_	A0	_
+3	will	will	MD	_	will	will	MD	0	ROOT	_	_	_
+4	help	help	VB	_	help	help	VB	3	VC	help.01	_	_
+5	people	people	NNS	_	people	people	NNS	4	OBJ	_	_	A0
+6	help	help	VB	_	help	help	VB	4	OPRD	help.01	A1	_
+7	themselves	themselves	PRP	_	themselves	themselves	PRP	6	OBJ	_	_	A1
+8	.	.	.	_	.	.	.	3	P	_	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	6	MNR	_
+2	,	,	,	_	,	,	,	6	P	_
+3	James	james	NNP	_	James	james	NNP	6	NAME	_
+4	M.	m.	NNP	_	M.	m.	NNP	6	NAME	_
+5	McClelland	mcclelland	NNP	_	McClelland	mcclelland	NNP	6	NAME	_
+6	President	president	NNP	_	President	president	NNP	0	ROOT	_

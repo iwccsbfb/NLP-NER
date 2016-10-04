@@ -1,0 +1,273 @@
+
+1	July	july	NNP	_	July	july	NNP	2	NMOD	_
+2	28	28	CD	_	28	28	CD	4	NMOD	_
+3	,	,	,	_	,	,	,	4	P	_
+4	1999	1999	CD	_	1999	1999	CD	0	ROOT	_
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	0	ROOT	_
+
+1	Join	join	VB	_	Join	join	VB	0	ROOT	join.01	_	_
+2	us	us	PRP	_	us	us	PRP	1	DEP	_	_	_
+3	for	for	IN	_	for	for	IN	2	NMOD	_	_	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+5	"	"	''	_	"	"	''	6	P	_	_	_
+6	Sale	sale	NN	_	Sale	sale	NN	3	PMOD	sale.01	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	A2
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	Century	century	NN	_	Century	century	NN	7	PMOD	_	_	_
+10	"	"	''	_	"	"	''	6	P	_	_	_
+11	at	at	IN	_	at	at	IN	6	LOC	_	_	A3
+12	JCC	jcc	NNP	_	JCC	jcc	NNP	13	NAME	_	_	_
+13	Auction	auction	NNP	_	Auction	auction	NNP	14	NMOD	_	_	_
+14	'99	'99	CD	_	'99	'99	CD	11	PMOD	_	_	_
+15	,	,	,	_	,	,	,	6	P	_	_	_
+16	on	on	IN	_	on	on	IN	6	TMP	_	_	A1
+17	Saturday	saturday	NNP	_	Saturday	saturday	NNP	16	PMOD	_	_	_
+18	,	,	,	_	,	,	,	17	P	_	_	_
+19	November	november	NNP	_	November	november	NNP	17	APPO	_	_	_
+20	13	13	CD	_	13	13	CD	19	NMOD	_	_	_
+21	,	,	,	_	,	,	,	19	P	_	_	_
+22	1999	1999	CD	_	1999	1999	CD	19	APPO	_	_	_
+23	.	.	.	_	.	.	.	1	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	5	NMOD	_	_	_	_
+2	9th	9th	JJ	_	9th	9th	JJ	5	NMOD	_	_	_	_
+3	annual	annual	JJ	_	annual	annual	JJ	5	NMOD	_	_	_	_
+4	JCC	jcc	NNP	_	JCC	jcc	NNP	5	NAME	_	_	_	_
+5	Auction	auction	NNP	_	Auction	auction	NNP	6	SBJ	_	A0	_	_
+6	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_
+7	benefit	benefit	VB	_	benefit	benefit	VB	6	VC	benefit.01	_	_	_
+8	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_
+9	numerous	numerous	JJ	_	numerous	numerous	JJ	11	NMOD	_	_	_	_
+10	scholarship	scholarship	NN	_	scholarship	scholarship	NN	11	NMOD	scholarship.01	_	_	A1
+11	programs	programs	NNS	_	programs	program	NNS	7	OBJ	program.01	A1	_	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	A0	A0
+13	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_
+14	Jewish	jewish	JJ	_	Jewish	jewish	JJ	16	NMOD	_	_	_	_
+15	Community	community	NNP	_	Community	community	NNP	16	NAME	_	_	_	_
+16	Center	center	NNP	_	Center	center	NNP	12	PMOD	_	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_
+18	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	17	PMOD	_	_	_	_
+19	,	,	,	_	,	,	,	16	P	_	_	_	_
+20	a	a	DT	_	a	a	DT	23	NMOD	_	_	_	_
+21	United	united	NNP	_	United	united	NNP	22	NAME	_	_	_	_
+22	Way	way	NNP	_	Way	way	NNP	23	NMOD	_	_	_	_
+23	agency	agency	NN	_	agency	agency	NN	16	APPO	_	_	_	_
+24	.	.	.	_	.	.	.	6	P	_	_	_	_
+
+1	Because	because	IN	_	Because	because	IN	10	PRP	_	_	_	_	_	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A1	_	_	_	_	_	_	_
+3	are	are	VBP	_	are	be	VBP	1	SUB	be.01	_	_	_	_	_	_	_	_
+4	an	an	DT	_	an	an	DT	5	NMOD	_	_	_	_	_	_	_	_	_
+5	organization	organization	NN	_	organization	organization	NN	3	PRD	_	A2	A0	_	_	_	_	_	_
+6	that	that	WDT	_	that	that	WDT	7	SBJ	_	_	_	_	_	_	_	_	_
+7	cares	cares	VBZ	_	cares	care	VBZ	5	NMOD	care.01	_	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_	_	_
+9	you	you	PRP	_	you	you	PRP	10	SBJ	_	_	_	A1	A0	A1	_	A1	_
+10	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_	_	_
+11	invited	invited	VBN	_	invited	invite	VBN	10	VC	invite.01	_	_	A2	_	_	_	_	_
+12	to	to	TO	_	to	to	TO	11	OPRD	_	_	_	_	_	_	_	_	_
+13	become	become	VB	_	become	become	VB	12	IM	become.01	_	_	_	_	_	_	_	_
+14	an	an	DT	_	an	an	DT	16	NMOD	_	_	_	_	_	_	_	_	_
+15	integral	integral	JJ	_	integral	integral	JJ	16	NMOD	_	_	_	_	_	_	_	_	_
+16	part	part	NN	_	part	part	NN	13	PRD	part.04	_	_	_	_	A2	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	_	A1	_	_
+18	this	this	DT	_	this	this	DT	20	NMOD	_	_	_	_	_	_	_	_	_
+19	fabulous	fabulous	JJ	_	fabulous	fabulous	JJ	20	NMOD	_	_	_	_	_	_	_	_	_
+20	event	event	NN	_	event	event	NN	17	PMOD	_	_	_	_	_	_	_	_	_
+21	by	by	IN	_	by	by	IN	13	MNR	_	_	_	_	_	_	_	_	_
+22	becoming	becoming	VBG	_	becoming	become	VBG	21	PMOD	become.01	_	_	_	_	_	_	_	_
+23	a	a	DT	_	a	a	DT	25	NMOD	_	_	_	_	_	_	_	_	_
+24	corporate	corporate	JJ	_	corporate	corporate	JJ	25	NMOD	_	_	_	_	_	_	_	_	A2
+25	sponsor	sponsor	NN	_	sponsor	sponsor	NN	22	PRD	sponsor.01	_	_	_	_	_	_	A2	A0
+26	for	for	IN	_	for	for	IN	25	NMOD	_	_	_	_	_	_	_	_	A1
+27	JCC	jcc	NNP	_	JCC	jcc	NNP	28	NAME	_	_	_	_	_	_	_	_	_
+28	Auction	auction	NNP	_	Auction	auction	NNP	29	NMOD	_	_	_	_	_	_	_	_	_
+29	'99	'99	CD	_	'99	'99	CD	26	PMOD	_	_	_	_	_	_	_	_	_
+30	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	JCC	jcc	NNP	_	JCC	jcc	NNP	3	SBJ	_	A1	A0	_	_
+3	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_
+4	be	be	VB	_	be	be	VB	3	VC	be.01	_	_	_	_
+5	very	very	RB	_	very	very	RB	6	AMOD	_	_	_	_	_
+6	pleased	pleased	JJ	_	pleased	pleased	JJ	4	PRD	_	A2	_	_	_
+7	to	to	TO	_	to	to	TO	6	AMOD	_	_	_	_	_
+8	welcome	welcome	VB	_	welcome	welcome	VB	7	IM	welcome.01	_	_	_	_
+9	your	your	PRP$	_	your	your	PRP$	10	NMOD	_	_	_	A2	_
+10	organization	organization	NN	_	organization	organization	NN	8	OBJ	organization.01	_	A1	_	_
+11	as	as	IN	_	as	as	IN	8	ADV	_	_	_	_	_
+12	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_
+13	corporate	corporate	JJ	_	corporate	corporate	JJ	14	NMOD	_	_	_	_	A2
+14	sponsor	sponsor	NN	_	sponsor	sponsor	NN	11	PMOD	sponsor.01	_	_	_	A0
+15	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A1	A0	A0	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_
+3	seeking	seeking	VBG	_	seeking	seek	VBG	2	VC	seek.01	A2	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	_	_	_	_	_
+5	build	build	VB	_	build	build	VB	4	IM	build.01	_	_	_	_	_
+6	partnerships	partnerships	NNS	_	partnerships	partnership	NNS	5	OBJ	partnership.01	_	_	A1	_	_
+7	between	between	IN	_	between	between	IN	6	NMOD	_	_	_	_	A0	_
+8	businesses	businesses	NNS	_	businesses	business	NNS	7	PMOD	_	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_
+10	our	our	PRP$	_	our	our	PRP$	16	NMOD	_	_	_	_	_	_
+11	not-for-profit	not-for-profit	JJ	_	not	not	NN	15	HMOD	_	_	_	_	_	A1
+12	_	_	_	_	-	-	HYPH	11	HYPH	_	_	_	_	_	_
+13	_	_	_	_	for	for	IN	15	HMOD	_	_	_	_	_	_
+14	_	_	_	_	-	-	HYPH	13	HYPH	_	_	_	_	_	_
+15	_	_	_	_	profit	profit	NN	16	NMOD	profit.01	_	_	_	_	_
+16	agency	agency	NN	_	agency	agency	NN	9	CONJ	_	_	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	As	as	IN	_	As	as	IN	9	ADV	_	_	_	_	_	_	_	_	_	_	_	_
+2	a	a	DT	_	a	a	DT	3	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+3	sponsor	sponsor	NN	_	sponsor	sponsor	NN	1	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_	_	_	_	_	_
+5	you	you	PRP	_	you	you	PRP	9	SBJ	_	_	A0	_	A0	_	_	_	_	_	_	_
+6	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+7	your	your	PRP$	_	your	your	PRP$	8	NMOD	_	A1	_	_	_	_	_	_	_	_	_	_
+8	guests	guests	NNS	_	guests	guest	NNS	6	CONJ	guest.01	A0	_	_	_	_	_	_	_	_	_	_
+9	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_	_	_	_	_	_	_	_
+10	have	have	VB	_	have	have	VB	9	VC	have.04	_	_	SU	_	_	_	_	_	_	_	_
+11	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+12	special	special	JJ	_	special	special	JJ	13	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+13	evening	evening	NN	_	evening	evening	NN	10	OBJ	evening.01	_	A1	_	_	_	_	_	_	_	_	_
+14	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_	_	_	_	_	_
+15	knowing	knowing	VBG	_	knowing	know	VBG	10	ADV	know.01	_	_	A1	_	_	_	_	_	_	_	_
+16	that	that	IN	_	that	that	IN	15	OBJ	_	_	_	_	A1	_	_	_	_	_	_	_
+17	your	your	PRP$	_	your	your	PRP$	20	NMOD	_	_	_	_	_	A0	_	_	_	_	_	_
+18	tax	tax	NN	_	tax	tax	NN	20	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+19	deductible	deductible	JJ	_	deductible	deductible	JJ	18	AMOD	_	_	_	_	_	_	_	_	_	_	_	_
+20	contribution	contribution	NN	_	contribution	contribution	NN	21	SBJ	contribution.01	_	_	_	_	_	A0	A0	_	_	_	_
+21	will	will	MD	_	will	will	MD	16	SUB	_	_	_	_	_	_	_	_	_	_	_	_
+22	help	help	VB	_	help	help	VB	21	VC	help.01	_	_	_	_	_	_	_	_	_	_	_
+23	support	support	VB	_	support	support	VB	22	OPRD	support.01	_	_	_	_	_	A1	_	_	_	_	_
+24	preschool	preschool	NN	_	preschool	preschool	NN	31	NMOD	_	_	_	_	_	_	_	_	A1	_	_	_
+25	,	,	,	_	,	,	,	24	P	_	_	_	_	_	_	_	_	_	_	_	_
+26	childcare	childcare	NN	_	childcare	childcare	NN	24	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+27	,	,	,	_	,	,	,	26	P	_	_	_	_	_	_	_	_	_	_	_	_
+28	senior	senior	NN	_	senior	senior	NN	26	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+29	and	and	CC	_	and	and	CC	28	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+30	resettlement	resettlement	NN	_	resettlement	resettlement	NN	29	CONJ	_	_	_	_	_	_	_	_	_	_	_	_
+31	services	services	NNS	_	services	services	NNS	23	OBJ	service.03	_	_	_	_	_	_	A1	_	_	_	_
+32	,	,	,	_	,	,	,	31	P	_	_	_	_	_	_	_	_	_	_	_	_
+33	as	as	RB	_	as	as	RB	31	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+34	well	well	RB	_	well	well	RB	33	DEP	_	_	_	_	_	_	_	_	_	_	_	_
+35	as	as	IN	_	as	as	IN	33	DEP	_	_	_	_	_	_	_	_	_	_	_	_
+36	quality	quality	JJ	_	quality	quality	NN	38	NMOD	quality.01	_	_	_	_	_	_	_	_	A2	A1	_
+37	cultural	cultural	JJ	_	cultural	cultural	JJ	38	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+38	events	events	NNS	_	events	event	NNS	33	DEP	event.01	_	_	_	_	_	_	_	_	_	_	_
+39	in	in	IN	_	in	in	IN	38	LOC	_	_	_	_	_	_	_	_	_	A1	_	_
+40	our	our	PRP$	_	our	our	PRP$	41	NMOD	_	_	_	_	_	_	_	_	_	_	_	A2
+41	community	community	NN	_	community	community	NN	39	PMOD	community.01	_	_	_	_	_	_	_	_	_	_	_
+42	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Enclosed	enclosed	VBN	_	Enclosed	enclose	VBD	2	VC	enclose.01	_	A1	_	_	_	_	_	_	_	_	_	_	_	_
+2	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	a	a	DT	_	a	a	DT	6	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	corporate	corporate	JJ	_	corporate	corporate	JJ	5	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	sponsorship	sponsorship	NN	_	sponsorship	sponsorship	NN	6	NMOD	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+6	package	package	NN	_	package	package	NN	2	SBJ	package.01	A0	_	_	A0	_	_	_	_	_	_	_	_	_	_
+7	that	that	WDT	_	that	that	WDT	8	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	includes	includes	VBZ	_	includes	include	VBZ	6	NMOD	include.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	a	a	DT	_	a	a	DT	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	sample	sample	NN	_	sample	sample	NN	12	NMOD	sample.01	_	_	_	_	_	_	A1	_	_	_	_	_	_	_
+11	auction	auction	NN	_	auction	auction	NN	12	NMOD	auction.01	_	_	_	_	A1	_	A0	_	_	_	_	_	_	_
+12	book	book	NN	_	book	book	NN	8	OBJ	book.03	_	_	_	A1	_	SU	_	_	_	_	_	_	_	_
+13	from	from	IN	_	from	from	IN	12	NMOD	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_
+14	last	last	JJ	_	last	last	JJ	15	NMOD	_	_	_	_	_	_	_	_	AM-TMP	_	_	_	_	_	_
+15	year	year	NN	_	year	year	NN	17	NMOD	year.04	_	_	_	_	_	_	_	A2	_	_	_	_	_	_
+16	's	's	POS	_	's	's	POS	15	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	event	event	NN	_	event	event	NN	13	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	JCC	jcc	NNP	_	JCC	jcc	NNP	21	NMOD	_	_	_	_	_	_	_	_	_	A1	A0	_	_	_	_
+20	market	market	NN	_	market	market	NN	21	NMOD	market.01	_	_	_	_	_	_	_	_	_	A1	_	_	_	_
+21	statistics	statistics	NNS	_	statistics	statistics	NNS	12	COORD	statistic.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	21	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	an	an	DT	_	an	an	DT	24	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	overview	overview	NN	_	overview	overview	NN	22	CONJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	of	of	IN	_	of	of	IN	24	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	many	many	JJ	_	many	many	DT	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	programs	programs	NNS	_	programs	program	NNS	25	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	A1	A1	_
+29	that	that	WDT	_	that	that	WDT	30	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	will	will	MD	_	will	will	MD	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	be	be	VB	_	be	be	VB	30	VC	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	preserved	preserved	VBN	_	preserved	preserve	VBN	31	VC	preserve.01	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+33	and	and	CC	_	and	and	CC	32	COORD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	strengthened	strengthened	VBN	_	strengthened	strengthen	VBN	33	CONJ	strengthen.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	through	through	IN	_	through	through	IN	32	MNR	_	_	_	_	_	_	_	_	_	_	_	_	AM-MNR	AM-MNR	_
+36	your	your	PRP$	_	your	your	PRP$	38	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+37	generous	generous	JJ	_	generous	generous	JJ	38	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	support	support	NN	_	support	support	NN	35	PMOD	support.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	One	one	CD	_	One	one	CD	4	SBJ	_	A0	A0	_	_	_	_	_
+2	of	of	IN	_	of	of	IN	1	NMOD	_	_	_	_	_	_	_	_
+3	us	us	PRP	_	us	us	PRP	2	PMOD	_	_	_	_	_	_	_	_
+4	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_	_	_	_
+5	call	call	VB	_	call	call	VB	4	VC	call.01	_	_	_	_	_	_	_
+6	you	you	PRP	_	you	you	PRP	5	OBJ	_	A1	_	_	_	_	_	_
+7	to	to	TO	_	to	to	TO	5	PRP	_	_	_	_	_	_	_	_
+8	discuss	discuss	VB	_	discuss	discuss	VB	7	IM	discuss.01	_	_	_	_	_	_	_
+9	how	how	WRB	_	how	how	WRB	13	MNR	_	_	A1	_	_	_	_	_
+10	your	your	PRP$	_	your	your	PRP$	11	NMOD	_	_	_	A1	_	_	_	_
+11	company	company	NN	_	company	company	NN	12	SBJ	company.01	_	_	A3	A1	_	_	_
+12	can	can	MD	_	can	can	MD	8	OBJ	_	_	_	_	_	_	_	_
+13	become	become	VB	_	become	become	VB	12	VC	become.01	_	_	_	_	_	_	_
+14	an	an	DT	_	an	an	DT	18	NMOD	_	_	_	_	_	_	_	_
+15	important	important	JJ	_	important	important	JJ	18	NMOD	_	_	_	_	_	_	_	_
+16	highly	highly	RB	_	highly	highly	RB	17	AMOD	_	_	_	_	_	_	_	_
+17	visible	visible	JJ	_	visible	visible	JJ	18	NMOD	_	_	_	_	_	_	_	_
+18	partner	partner	NN	_	partner	partner	NN	13	PRD	partner.01	_	_	_	A2	A0	_	_
+19	with	with	IN	_	with	with	IN	18	NMOD	_	_	_	_	_	A2	_	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_	_
+21	JCC	jcc	NNP	_	JCC	jcc	NNP	19	PMOD	_	_	_	_	_	_	_	_
+22	in	in	IN	_	in	in	IN	18	NMOD	_	_	_	_	_	A1	_	_
+23	support	support	NN	_	support	support	NN	22	PMOD	_	_	_	_	_	_	_	_
+24	of	of	IN	_	of	of	IN	23	NMOD	_	_	_	_	_	_	_	_
+25	our	our	PRP$	_	our	our	PRP$	27	NMOD	_	_	_	_	_	_	A0	A0
+26	scholarship	scholarship	NN	_	scholarship	scholarship	NN	27	NMOD	scholarship.01	_	_	_	_	_	_	A1
+27	programs	programs	NNS	_	programs	program	NNS	24	PMOD	program.01	_	_	_	_	_	_	_
+28	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_
+
+1	If	if	IN	_	If	if	IN	8	ADV	_	_	_	_	_
+2	you	you	PRP	_	you	you	PRP	3	SBJ	_	A0	A2	_	_
+3	have	have	VBP	_	have	have	VBP	1	SUB	have.04	_	SU	_	_
+4	any	any	DT	_	any	any	DT	5	NMOD	_	_	_	_	_
+5	questions	questions	NNS	_	questions	question	NNS	3	OBJ	question.02	A1	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+7	please	please	UH	_	please	please	UH	8	DEP	_	_	_	_	_
+8	feel	feel	VB	_	feel	feel	VB	0	ROOT	feel.01	_	_	_	_
+9	free	free	JJ	_	free	free	JJ	8	PRD	_	_	_	_	_
+10	to	to	TO	_	to	to	TO	9	AMOD	_	_	_	_	_
+11	call	call	VB	_	call	call	VB	10	IM	call.01	_	_	_	_
+12	Myrna	myrna	NNP	_	Myrna	myrna	NNP	13	NAME	_	_	_	_	_
+13	Weinberger	weinberger	NNP	_	Weinberger	weinberger	NNP	11	OBJ	_	_	_	_	A1
+14	at	at	IN	_	at	at	IN	11	LOC	_	_	_	_	A2
+15	251-9467	251-9467	CD	_	251-9467	251-9467	CD	14	PMOD	_	_	_	_	_
+16	,	,	,	_	,	,	,	15	P	_	_	_	_	_
+17	ext.	ext.	NN	_	ext.	ext.	NN	18	NMOD	_	_	_	_	_
+18	256	256	CD	_	256	256	CD	15	NMOD	_	_	_	_	_
+19	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+
+1	Thank	thank	VBP	_	Thank	thank	VBP	0	ROOT	thank.01	_	_
+2	you	you	PRP	_	you	you	PRP	1	OBJ	_	A1	_
+3	in	in	IN	_	in	in	IN	1	TMP	_	AM-TMP	_
+4	advance	advance	NN	_	advance	advance	NN	3	PMOD	_	_	_
+5	for	for	IN	_	for	for	IN	1	ADV	_	A2	_
+6	your	your	PRP$	_	your	your	PRP$	7	NMOD	_	_	A0
+7	consideration	consideration	NN	_	consideration	consideration	NN	5	PMOD	consideration.02	_	_
+8	.	.	.	_	.	.	.	1	P	_	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	4	MNR	_
+2	,	,	,	_	,	,	,	4	P	_
+3	Judy	judy	NNP	_	Judy	judy	NNP	4	NAME	_
+4	Laikin	laikin	NNP	_	Laikin	laikin	NNP	0	ROOT	_
+5	,	,	,	_	,	,	,	4	P	_
+6	Chair	chair	NNP	_	Chair	chair	NNP	7	NAME	_
+7	Auction	auction	NNP	_	Auction	auction	NNP	10	NMOD	_
+8	'99	'99	NNP	_	'99	'99	NNP	10	NAME	_
+9	Sponsor	sponsor	NNP	_	Sponsor	sponsor	NNP	10	NAME	_
+10	Committee	committee	NNP	_	Committee	committee	NNP	4	APPO	_

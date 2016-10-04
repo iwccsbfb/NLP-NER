@@ -1,0 +1,327 @@
+
+1	Come	come	VBP	_	Come	come	VBP	4	DEP	come.01	_	_	_	_	_	_
+2	one	one	CD	_	one	one	CD	1	SBJ	_	A1	_	_	_	_	_
+3	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_	_
+4	Come	come	VBP	_	Come	come	VBP	0	ROOT	come.01	_	_	_	_	_	_
+5	all	all	DT	_	all	all	DT	4	SBJ	_	_	A1	_	_	_	_
+6	to	to	TO	_	to	to	TO	1	DIR	_	AM-DIR	AM-DIR	_	_	_	_
+7	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_	_
+8	Inaugural	inaugural	JJ	_	Inaugural	inaugural	JJ	10	NMOD	_	_	_	_	_	_	_
+9	Jameson	jameson	NNP	_	Jameson	jameson	NNP	10	NAME	_	_	_	_	_	_	_
+10	Grill	grill	NNP	_	Grill	grill	NNP	6	PMOD	_	_	_	_	_	_	_
+11	The	the	DT	_	The	the	DT	15	NMOD	_	_	_	_	_	_	_
+12	only	only	JJ	_	only	only	JJ	15	NMOD	_	_	_	_	_	_	_
+13	fund	fund	NN	_	fund	fund	NN	14	NMOD	_	_	_	_	_	_	_
+14	raising	raising	NN	_	raising	raising	NN	15	NMOD	_	_	_	A1	_	_	_
+15	event	event	NN	_	event	event	NN	10	APPO	event.01	_	_	_	_	_	_
+16	in	in	IN	_	in	in	IN	15	LOC	_	_	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_	_	_
+18	world	world	NN	_	world	world	NN	16	PMOD	_	_	_	_	_	_	_
+19	where	where	WRB	_	where	where	WRB	22	LOC	_	_	_	_	_	_	_
+20	you	you	PRP	_	you	you	PRP	21	SBJ	_	_	_	_	A0	_	_
+21	can	can	MD	_	can	can	MD	15	NMOD	_	_	_	_	_	_	_
+22	bring	bring	VB	_	bring	bring	VB	21	VC	bring.02	_	_	_	_	_	_
+23	your	your	PRP$	_	your	your	PRP$	25	NMOD	_	_	_	_	_	A2	_
+24	entire	entire	JJ	_	entire	entire	JJ	25	NMOD	_	_	_	_	_	_	_
+25	family	family	NN	_	family	family	NN	22	OBJ	family.01	_	_	_	A1	_	_
+26	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_
+27	other	other	JJ	_	other	other	JJ	28	NMOD	_	_	_	_	_	_	_
+28	employees	employees	NNS	_	employees	employee	NNS	25	COORD	_	_	_	_	_	_	_
+29	,	,	,	_	,	,	,	28	P	_	_	_	_	_	_	_
+30	or	or	CC	_	or	or	CC	28	COORD	_	_	_	_	_	_	_
+31	maybe	maybe	RB	_	maybe	maybe	RB	34	NMOD	_	_	_	_	_	_	_
+32	even	even	RB	_	even	even	RB	34	NMOD	_	_	_	_	_	_	_
+33	your	your	PRP$	_	your	your	PRP$	34	NMOD	_	_	_	_	_	_	A1
+34	neighbors	neighbors	NNS	_	neighbors	neighbor	NNS	30	CONJ	neighbor.01	_	_	_	_	_	A0
+35	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_
+
+1	Saturday	saturday	NNP	_	Saturday	saturday	NNP	5	NMOD	_	_	_
+2	,	,	,	_	,	,	,	5	P	_	_	_
+3	September	september	NNP	_	September	september	NNP	4	NAME	_	_	_
+4	2,	2,	NNP	_	2,	2,	NNP	5	NMOD	_	_	_
+5	1997	1997	CD	_	1997	1997	CD	16	SBJ	_	A0	_
+6	,	,	,	_	,	,	,	5	P	_	_	_
+7	from	from	IN	_	from	from	IN	5	NMOD	_	_	_
+8	2:00	2:00	CD	_	2:00	2:00	CD	10	NMOD	_	_	_
+9	p.	p.	NN	_	p.	p.	NN	10	NMOD	_	_	_
+10	m.	m.	NN	_	m.	m.	NN	7	PMOD	_	_	_
+11	until	until	IN	_	until	until	IN	7	PMOD	_	_	_
+12	7:00	7:00	CD	_	7:00	7:00	CD	14	NMOD	_	_	_
+13	p.	p.	NN	_	p.	p.	NN	14	NMOD	_	_	_
+14	m.	m.	NN	_	m.	m.	NN	11	PMOD	_	_	_
+15	,	,	,	_	,	,	,	16	P	_	_	_
+16	marks	marks	VBZ	_	marks	mark	VBZ	0	ROOT	mark.01	_	_
+17	a	a	DT	_	a	a	DT	19	NMOD	_	_	_
+18	special	special	JJ	_	special	special	JJ	19	NMOD	_	_	_
+19	day	day	NN	_	day	day	NN	16	OBJ	_	A1	_
+20	,	,	,	_	,	,	,	16	P	_	_	_
+21	as	as	IN	_	as	as	IN	16	TMP	_	AM-TMP	_
+22	Jameson	jameson	NNP	_	Jameson	jameson	NNP	23	NAME	_	_	_
+23	Camp	camp	NNP	_	Camp	camp	NNP	24	SBJ	_	_	A0
+24	will	will	MD	_	will	will	MD	21	SUB	_	_	_
+25	hold	hold	VB	_	hold	hold	VB	24	VC	hold.01	_	_
+26	its	its	PRP$	_	its	its	PRP$	30	NMOD	_	_	_
+27	first	first	JJ	_	first	first	JJ	30	NMOD	_	_	_
+28	ever	ever	RB	_	ever	ever	RB	27	AMOD	_	_	_
+29	Jameson	jameson	NNP	_	Jameson	jameson	NNP	30	NAME	_	_	_
+30	Grill	grill	NNP	_	Grill	grill	NNP	25	OBJ	_	_	A1
+31	.	.	.	_	.	.	.	16	P	_	_	_
+
+1	A	a	DT	_	A	a	DT	3	NMOD	_	_	_	_	_	_
+2	fund	fund	NN	_	fund	fund	NN	3	NMOD	_	A2	_	_	_	_
+3	raiser	raiser	NN	_	raiser	raiser	NN	0	ROOT	raiser.01	A0	A1	_	_	_
+4	dedicated	dedicated	VBN	_	dedicated	dedicate	VBN	3	APPO	dedicate.01	_	_	_	_	_
+5	to	to	TO	_	to	to	TO	4	ADV	_	_	A2	_	_	_
+6	you	you	PRP	_	you	you	PRP	10	SBJ	_	_	_	_	A0	A0
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_	_
+8	your	your	PRP$	_	your	your	PRP$	9	NMOD	_	_	_	A2	_	_
+9	family	family	NN	_	family	family	NN	7	CONJ	family.01	_	_	_	_	_
+10	having	having	VBG	_	having	have	VBG	5	PMOD	have.04	_	_	_	_	SU
+11	fun	fun	NN	_	fun	fun	NN	10	OBJ	fun.01	_	_	_	A1	_
+12	!!	!!	.	_	!!	!!	.	3	P	_	_	_	_	_	_
+
+1	For	for	IN	_	For	for	IN	14	ADV	_	_	_	_	_
+2	this	this	DT	_	this	this	DT	3	NMOD	_	_	_	_	_
+3	event	event	NN	_	event	event	NN	1	PMOD	_	_	_	_	_
+4	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+5	when	when	WRB	_	when	when	WRB	7	TMP	_	_	_	_	_
+6	you	you	PRP	_	you	you	PRP	7	SBJ	_	A0	_	_	_
+7	purchase	purchase	VBP	_	purchase	purchase	VBP	14	TMP	purchase.01	_	_	_	_
+8	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_	_
+9	corporate	corporate	JJ	_	corporate	corporate	JJ	11	NMOD	_	_	A0	_	_
+10	picnic	picnic	NN	_	picnic	picnic	NN	11	NMOD	_	_	A1	_	_
+11	table	table	NN	_	table	table	NN	7	OBJ	table.02	A1	_	_	_
+12	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+13	you	you	PRP	_	you	you	PRP	14	SBJ	_	_	_	A1	A0
+14	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_
+15	be	be	VB	_	be	be	VB	14	VC	be.01	_	_	_	_
+16	able	able	JJ	_	able	able	JJ	15	PRD	_	_	_	A2	_
+17	to	to	TO	_	to	to	TO	16	AMOD	_	_	_	_	_
+18	bring	bring	VB	_	bring	bring	VB	17	IM	bring.02	_	_	_	_
+19	16	16	CD	_	16	16	CD	20	NMOD	_	_	_	_	_
+20	people	people	NNS	_	people	people	NNS	18	OBJ	_	_	_	_	A1
+21	.	.	.	_	.	.	.	14	P	_	_	_	_	_
+
+1	(	-lrb-	(	_	(	-lrb-	(	14	P	_	_	_	_	_
+2	and	and	CC	_	and	and	CC	14	DEP	_	_	_	_	_
+3	if	if	IN	_	if	if	IN	14	ADV	_	_	_	_	_
+4	you	you	PRP	_	you	you	PRP	5	SBJ	_	A0	A1	_	_
+5	need	need	VBP	_	need	need	VBP	3	SUB	need.01	_	SU	_	_
+6	room	room	NN	_	room	room	NN	5	OBJ	room.01	A1	A2	_	_
+7	for	for	IN	_	for	for	IN	6	NMOD	_	_	A3	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_	_
+9	couple	couple	NN	_	couple	couple	NN	7	PMOD	couple.01	_	_	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	_	A1	_
+11	more	more	JJR	_	more	more	DT	10	PMOD	_	_	_	_	_
+12	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+13	we	we	PRP	_	we	we	PRP	14	SBJ	_	_	_	_	A0
+14	can	can	MD	_	can	can	MD	0	ROOT	_	_	_	_	_
+15	swing	swing	VB	_	swing	swing	VB	14	VC	swing.02	_	_	_	_
+16	that	that	DT	_	that	that	DT	15	OBJ	_	_	_	_	A1
+17	too	too	RB	_	too	too	RB	15	ADV	_	_	_	_	AM-MNR
+18	!	!	.	_	!	!	.	14	P	_	_	_	_	_
+19	)	-rrb-	)	_	)	-rrb-	)	14	P	_	_	_	_	_
+
+1	The	the	NNP	_	The	the	NNP	2	NAME	_	_	_	_	_	_	_	_
+2	Grill	grill	NNP	_	Grill	grill	NNP	3	SBJ	_	A0	A0	_	_	_	_	_
+3	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_	_	_	_
+4	feature	feature	VB	_	feature	feature	VB	3	VC	feature.01	_	SU	_	_	_	_	_
+5	enough	enough	JJ	_	enough	enough	DT	6	NMOD	_	_	_	_	_	_	_	_
+6	activities	activities	NNS	_	activities	activity	NNS	4	OBJ	activity.01	A1	_	_	_	_	_	_
+7	that	that	IN	_	that	that	IN	6	NMOD	_	_	_	_	_	_	_	_
+8	you	you	PRP	_	you	you	PRP	12	SBJ	_	_	_	_	A0	A1	A0	A0
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_	_	_
+10	your	your	PRP$	_	your	your	PRP$	11	NMOD	_	_	_	A1	_	_	_	_
+11	kids	kids	NNS	_	kids	kid	NNS	9	CONJ	kid.01	_	_	A0	_	_	_	_
+12	will	will	MD	_	will	will	MD	7	SUB	_	_	_	_	_	_	_	_
+13	have	have	VB	_	have	have	VB	12	VC	have.04	_	_	_	_	SU	_	_
+14	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_	_	_
+15	tough	tough	JJ	_	tough	tough	JJ	16	NMOD	_	_	_	_	_	_	_	_
+16	time	time	NN	_	time	time	NN	13	OBJ	time.07	_	_	_	A1	_	_	_
+17	deciding	deciding	VBG	_	deciding	decide	VBG	16	NMOD	decide.01	_	_	_	_	A2	_	_
+18	what	what	WP	_	what	what	WP	20	OBJ	_	_	_	_	_	_	A1	A1
+19	to	to	TO	_	to	to	TO	17	OBJ	_	_	_	_	_	_	_	_
+20	do	do	VB	_	do	do	VB	19	IM	do.02	_	_	_	_	_	_	_
+21	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_
+
+1	From	from	IN	_	From	from	IN	25	ADV	_	_	_	_
+2	basketball	basketball	NN	_	basketball	basketball	NN	1	PMOD	_	_	_	_
+3	,	,	,	_	,	,	,	2	P	_	_	_	_
+4	kickball	kickball	NN	_	kickball	kickball	NN	2	COORD	_	_	_	_
+5	,	,	,	_	,	,	,	4	P	_	_	_	_
+6	volleyball	volleyball	NN	_	volleyball	volleyball	NN	4	COORD	_	_	_	_
+7	,	,	,	_	,	,	,	6	P	_	_	_	_
+8	archery	archery	NN	_	archery	archery	NN	6	COORD	_	_	_	_
+9	,	,	,	_	,	,	,	8	P	_	_	_	_
+10	crafts	crafts	NNS	_	crafts	craft	NNS	8	COORD	_	_	_	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_
+12	an	an	DT	_	an	an	DT	14	NMOD	_	_	_	_
+13	egg	egg	NN	_	egg	egg	NN	14	NMOD	_	_	_	_
+14	toss	toss	NN	_	toss	toss	NN	10	COORD	_	_	_	_
+15	,	,	,	_	,	,	,	14	P	_	_	_	_
+16	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_
+17	even	even	RB	_	even	even	RB	19	NMOD	_	_	_	_
+18	a	a	DT	_	a	a	DT	19	NMOD	_	_	_	_
+19	walk	walk	NN	_	walk	walk	NN	16	CONJ	_	_	_	_
+20	through	through	IN	_	through	through	IN	19	NMOD	_	_	_	_
+21	our	our	PRP$	_	our	our	PRP$	22	NMOD	_	_	_	_
+22	creek	creek	NN	_	creek	creek	NN	20	PMOD	_	_	_	_
+23	,	,	,	_	,	,	,	25	P	_	_	_	_
+24	you	you	PRP	_	you	you	PRP	25	SBJ	_	A0	_	_
+25	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_
+26	have	have	VB	_	have	have	VB	25	VC	have.04	_	_	_
+27	plenty	plenty	JJ	_	plenty	plenty	JJ	26	OBJ	_	A1	A0	A0
+28	to	to	TO	_	to	to	TO	27	NMOD	_	_	_	_
+29	do	do	VB	_	do	do	VB	28	IM	do.02	_	_	_
+30	to	to	TO	_	to	to	TO	29	PRP	_	_	_	_
+31	get	get	VB	_	get	get	VB	30	IM	get.01	_	_	_
+32	you	you	PRP	_	you	you	PRP	31	OBJ	_	_	_	_
+33	good	good	JJ	_	good	good	JJ	31	OPRD	_	_	_	A1
+34	and	and	CC	_	and	and	CC	33	COORD	_	_	_	_
+35	hungry	hungry	JJ	_	hungry	hungry	JJ	34	CONJ	_	_	_	_
+36	.	.	.	_	.	.	.	25	P	_	_	_	_
+
+1	Hungry	hungry	JJ	_	Hungry	hungry	JJ	4	ADV	_	_
+2	,	,	,	_	,	,	,	4	P	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0
+4	bet	bet	VBP	_	bet	bet	VBP	0	ROOT	bet.01	_
+5	!	!	.	_	!	!	.	4	P	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0
+2	'll	'll	MD	_	'll	'll	MD	0	ROOT	_	_
+3	prepare	prepare	VB	_	prepare	prepare	VB	2	VC	prepare.01	_
+4	a	a	DT	_	a	a	DT	6	NMOD	_	_
+5	hog	hog	JJ	_	hog	hog	NN	6	NMOD	_	_
+6	roast	roast	NN	_	roast	roast	NN	3	OBJ	_	A1
+7	and	and	CC	_	and	and	CC	6	COORD	_	_
+8	hot	hot	JJ	_	hot	hot	JJ	9	NMOD	_	_
+9	dogs	dogs	NNS	_	dogs	dog	NNS	7	CONJ	_	_
+10	for	for	IN	_	for	for	IN	9	NMOD	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_
+12	kids	kids	NNS	_	kids	kid	NNS	10	PMOD	_	_
+13	,	,	,	_	,	,	,	6	P	_	_
+14	with	with	IN	_	with	with	IN	6	NMOD	_	_
+15	all	all	PDT	_	all	all	PDT	17	NMOD	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_
+17	fixings	fixings	NNS	_	fixings	fixings	NNS	14	PMOD	_	_
+18	.	.	.	_	.	.	.	2	P	_	_
+
+1	In	in	IN	_	In	in	IN	5	ADV	_	_	_
+2	addition	addition	NN	_	addition	addition	NN	1	PMOD	_	_	_
+3	,	,	,	_	,	,	,	5	P	_	_	_
+4	we	we	PRP	_	we	we	PRP	5	SBJ	_	A0	_
+5	will	will	MD	_	will	will	MD	0	ROOT	_	_	_
+6	have	have	VB	_	have	have	VB	5	VC	have.04	_	_
+7	soft	soft	JJ	_	soft	soft	JJ	8	NMOD	_	_	_
+8	drinks	drinks	NNS	_	drinks	drink	NNS	6	OBJ	_	A1	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_	_
+11	raffle	raffle	NN	_	raffle	raffle	NN	9	CONJ	_	_	_
+12	,	,	,	_	,	,	,	6	P	_	_	_
+13	so	so	IN	_	so	so	IN	6	PRP	_	_	_
+14	that	that	IN	_	that	that	IN	13	DEP	_	_	_
+15	you	you	PRP	_	you	you	PRP	16	SBJ	_	_	A0
+16	can	can	MD	_	can	can	MD	13	SUB	_	_	_
+17	walk	walk	VB	_	walk	walk	VB	16	VC	walk.02	_	_
+18	home	home	RB	_	home	home	RB	17	DIR	_	_	A1
+19	with	with	IN	_	with	with	IN	17	ADV	_	_	AM-MNR
+20	a	a	DT	_	a	a	DT	22	NMOD	_	_	_
+21	great	great	JJ	_	great	great	JJ	22	NMOD	_	_	_
+22	prize	prize	NN	_	prize	prize	NN	19	PMOD	_	_	_
+23	!	!	.	_	!	!	.	5	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_
+2	Jameson	jameson	NNP	_	Jameson	jameson	NNP	3	NAME	_	_	_	_	_	_	_
+3	Grill	grill	NNP	_	Grill	grill	NNP	4	SBJ	_	A0	A1	A0	A1	_	_
+4	has	has	VBZ	_	has	have	VBZ	0	ROOT	have.04	_	_	_	_	_	_
+5	been	been	VBN	_	been	be	VBN	4	VC	be.01	A1	_	_	_	_	_
+6	designed	designed	VBN	_	designed	design	VBN	5	VC	design.01	_	A2	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	_	_	A3	_	_	_
+8	be	be	VB	_	be	be	VB	7	IM	be.01	_	_	_	_	_	_
+9	nothing	nothing	NN	_	nothing	nothing	NN	8	PRD	_	_	_	_	A2	_	_
+10	but	but	IN	_	but	but	IN	9	NMOD	_	_	_	_	_	_	_
+11	fun	fun	NN	_	fun	fun	NN	10	PMOD	_	_	_	_	_	_	_
+12	for	for	IN	_	for	for	IN	11	NMOD	_	_	_	_	_	_	_
+13	you	you	PRP	_	you	you	PRP	12	PMOD	_	_	_	_	_	_	_
+14	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_
+15	your	your	PRP$	_	your	your	PRP$	16	NMOD	_	_	_	_	_	A2	_
+16	family	family	NN	_	family	family	NN	13	COORD	family.01	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_
+18	employees	employees	NNS	_	employees	employee	NNS	16	APPO	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_
+20	and	and	CC	_	and	and	CC	16	COORD	_	_	_	_	_	_	_
+21	maybe	maybe	RB	_	maybe	maybe	RB	24	NMOD	_	_	_	_	_	_	_
+22	even	even	RB	_	even	even	RB	24	NMOD	_	_	_	_	_	_	_
+23	your	your	PRP$	_	your	your	PRP$	24	NMOD	_	_	_	_	_	_	A1
+24	neighbors	neighbors	NNS	_	neighbors	neighbor	NNS	20	CONJ	neighbor.01	_	_	_	_	_	A0
+25	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_
+
+1	Join	join	VB	_	Join	join	VB	0	ROOT	join.01	_	_	_	_	_	_	_	_
+2	in	in	IN	_	in	in	IN	1	ADV	_	AM-LOC	_	_	_	_	_	_	_
+3	this	this	DT	_	this	this	DT	5	NMOD	_	_	_	_	_	_	_	_	_
+4	wonderful	wonderful	JJ	_	wonderful	wonderful	JJ	5	NMOD	_	_	_	_	_	_	_	_	_
+5	event	event	NN	_	event	event	NN	2	PMOD	_	_	_	_	_	_	_	_	_
+6	and	and	CC	_	and	and	CC	1	COORD	_	_	_	_	_	_	_	_	_
+7	help	help	VB	_	help	help	VB	6	CONJ	help.01	_	_	_	_	_	_	_	_
+8	Jameson	jameson	NNP	_	Jameson	jameson	NNP	9	NAME	_	_	_	_	_	_	_	_	_
+9	Camp	camp	NNP	_	Camp	camp	NNP	7	OBJ	_	_	_	A0	A0	_	_	_	_
+10	continue	continue	VB	_	continue	continue	VB	7	OPRD	continue.02	_	A1	_	_	_	_	_	_
+11	to	to	TO	_	to	to	TO	10	OPRD	_	_	_	A1	_	_	_	_	_
+12	provide	provide	VB	_	provide	provide	VB	11	IM	provide.01	_	_	_	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_	_	_
+14	year-round	year-round	JJ	_	year	year	NN	16	HMOD	_	_	_	_	_	_	_	_	_
+15	_	_	_	_	-	-	HYPH	14	HYPH	_	_	_	_	_	_	_	_	_
+16	_	_	_	_	round	round	NN	17	NMOD	_	_	_	_	_	A0	_	_	_
+17	support	support	NN	_	support	support	NN	12	OBJ	support.01	_	_	_	A1	_	A0	A1	A0
+18	that	that	WDT	_	that	that	WDT	19	SBJ	_	_	_	_	_	_	_	_	_
+19	gives	gives	VBZ	_	gives	give	VBZ	17	NMOD	give.01	_	_	_	_	_	_	SU	_
+20	kids	kids	NNS	_	kids	kid	NNS	19	OBJ	_	_	_	_	_	_	A2	A0	_
+21	a	a	DT	_	a	a	DT	22	NMOD	_	_	_	_	_	_	_	_	_
+22	chance	chance	NN	_	chance	chance	NN	19	OBJ	chance.01	_	_	_	_	_	A1	_	_
+23	to	to	TO	_	to	to	TO	22	NMOD	_	_	_	_	_	_	_	A2	_
+24	create	create	VB	_	create	create	VB	23	IM	create.01	_	_	_	_	_	_	_	_
+25	dreams	dreams	NNS	_	dreams	dream	NNS	24	OBJ	_	_	_	_	_	_	_	_	A1
+26	.	.	.	_	.	.	.	1	P	_	_	_	_	_	_	_	_	_
+
+1	Simply	simply	RB	_	Simply	simply	RB	2	ADV	_	_	_	_
+2	fill	fill	VB	_	fill	fill	VB	0	ROOT	fill.01	_	_	_
+3	out	out	RP	_	out	out	RP	2	PRT	_	_	_	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_
+5	enclosed	enclosed	VBN	_	enclosed	enclose	VBN	6	NMOD	enclose.01	_	_	_
+6	card	card	NN	_	card	card	NN	2	OBJ	_	A1	A1	_
+7	,	,	,	_	,	,	,	2	P	_	_	_	_
+8	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_
+9	we	we	PRP	_	we	we	PRP	10	SBJ	_	_	_	A0
+10	will	will	MD	_	will	will	MD	8	CONJ	_	_	_	_
+11	see	see	VB	_	see	see	VB	10	VC	see.01	_	_	_
+12	you	you	PRP	_	you	you	PRP	11	OBJ	_	_	_	A1
+13	at	at	IN	_	at	at	IN	11	LOC	_	_	_	AM-LOC
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_
+15	Grill	grill	NNP	_	Grill	grill	NNP	13	PMOD	_	_	_	_
+16	!	!	.	_	!	!	.	2	P	_	_	_	_
+
+1	One	one	CD	_	One	one	CD	5	SBJ	_	_	A1	A0
+2	of	of	IN	_	of	of	IN	1	NMOD	_	_	_	_
+3	our	our	PRP$	_	our	our	PRP$	4	NMOD	_	A2	_	_
+4	volunteers	volunteers	NNS	_	volunteers	volunteer	NNS	2	PMOD	volunteer.01	A0	_	_
+5	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_
+6	be	be	VB	_	be	be	VB	5	VC	be.01	_	_	_
+7	contacting	contacting	VBG	_	contacting	contact	VBG	6	VC	contact.01	_	A2	_
+8	you	you	PRP	_	you	you	PRP	7	OBJ	_	_	_	A1
+9	soon	soon	RB	_	soon	soon	RB	7	TMP	_	_	_	AM-TMP
+10	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	Questions	questions	NNS	_	Questions	question	NNS	0	ROOT	_
+2	?	?	.	_	?	?	.	1	P	_
+
+1	Call	call	VB	_	Call	call	VB	0	ROOT	call.01	_	_
+2	Pat	pat	NNP	_	Pat	pat	NNP	3	NAME	_	_	_
+3	Bray	bray	NNP	_	Bray	bray	NNP	1	OBJ	_	A1	_
+4	at	at	IN	_	at	at	IN	1	LOC	_	A2	_
+5	241-2661	241-2661	CD	_	241-2661	241-2661	CD	4	PMOD	_	_	_
+6	or	or	CC	_	or	or	CC	1	COORD	_	_	_
+7	e-mail	e-mail	VB	_	e	e	VB	6	CONJ	_	_	_
+8	_	_	_	_	-	-	HYPH	7	DEP	_	_	_
+9	_	_	_	_	mail	mail	VB	7	DEP	mail.01	_	_
+10	,	,	,	_	,	,	,	7	P	_	_	_
+11	jcfundrzr@aol.com	jcfundrzr@aol.com	NN	_	jcfundrzr@aol.com	jcfundrzr@aol.com	NN	7	OBJ	_	_	A1

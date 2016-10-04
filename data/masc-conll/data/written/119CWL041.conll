@@ -1,0 +1,283 @@
+
+1	March	march	NNP	_	March	march	NNP	2	NMOD	_
+2	29	29	CD	_	29	29	CD	4	NMOD	_
+3	,	,	,	_	,	,	,	4	P	_
+4	1999	1999	CD	_	1999	1999	CD	0	ROOT	_
+
+1	Name	name	NN	_	Name	name	NN	6	NMOD	_	A2
+2	Address	address	NN	_	Address	address	NN	6	NMOD	_	A1
+3	City	city	NN	_	City	city	NN	6	NMOD	_	_
+4	,	,	,	_	,	,	,	6	P	_	_
+5	ST	st	NN	_	ST	st	NNP	6	NMOD	_	A3
+6	Zip	zip	NN	_	Zip	zip	NN	0	ROOT	zip.01	_
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	2	NMOD	_
+2	Name	name	NNP	_	Name	name	NNP	0	ROOT	_
+3	:	:	.	_	:	:	.	2	P	_
+
+1	The	the	DT	_	The	the	DT	6	NMOD	_	_	_
+2	1999	1999	CD	_	1999	1999	CD	6	NMOD	_	_	_
+3	Invest	invest	VB	_	Invest	invest	VB	6	NMOD	_	A0	_
+4	in	in	IN	_	in	in	IN	3	ADV	invest.01	_	_
+5	Youth	youth	NN	_	Youth	youth	NN	4	PMOD	_	A1	_
+6	Campaign	campaign	NNP	_	Campaign	campaign	NNP	7	SBJ	_	_	A1
+7	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+8	in	in	IN	_	in	in	IN	7	PRD	_	_	A2
+9	full	full	JJ	_	full	full	JJ	10	NMOD	_	_	_
+10	swing	swing	NN	_	swing	swing	NN	8	PMOD	_	_	_
+11	.	.	.	_	.	.	.	7	P	_	_	_
+
+1	As	as	IN	_	As	as	IN	12	ADV	_	_	_	_
+2	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_
+3	former	former	JJ	_	former	former	JJ	5	NMOD	_	_	_	_
+4	board	board	NN	_	board	board	NN	5	NMOD	_	A1	_	_
+5	member	member	NN	_	member	member	NN	1	PMOD	member.01	_	_	AM-TMP
+6	,	,	,	_	,	,	,	12	P	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+8	success	success	NN	_	success	success	NN	12	SBJ	success.01	_	_	A1
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	A0	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_
+11	YMCA	ymca	NNP	_	YMCA	ymca	NNP	9	PMOD	_	_	_	_
+12	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_
+13	still	still	RB	_	still	still	RB	12	TMP	_	_	_	AM-TMP
+14	important	important	JJ	_	important	important	JJ	12	PRD	_	_	_	A2
+15	to	to	TO	_	to	to	TO	14	AMOD	_	_	_	_
+16	me	me	PRP	_	me	me	PRP	15	PMOD	_	_	_	_
+17	.	.	.	_	.	.	.	12	P	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A1	A0	_	_	_
+2	must	must	MD	_	must	must	MD	0	ROOT	_	_	_	_	_	_
+3	be	be	VB	_	be	be	VB	2	VC	be.01	_	_	_	_	_
+4	able	able	JJ	_	able	able	JJ	3	PRD	_	A2	_	_	_	_
+5	to	to	TO	_	to	to	TO	4	AMOD	_	_	_	_	_	_
+6	reach	reach	VB	_	reach	reach	VB	5	IM	reach.01	_	_	_	_	_
+7	all	all	DT	_	all	all	DT	8	NMOD	_	_	_	_	_	_
+8	youth	youth	NN	_	youth	youth	NN	6	OBJ	_	_	A1	A1	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_
+10	families	families	NNS	_	families	family	NNS	9	CONJ	_	_	_	_	_	_
+11	interested	interested	VBN	_	interested	interest	VBN	8	APPO	interest.01	_	_	_	_	_
+12	in	in	IN	_	in	in	IN	11	ADV	_	_	_	A2	_	_
+13	values	values	NNS	_	values	values	NNS	16	NMOD	_	_	_	_	A1	A1
+14	-	-	HYPH	_	-	-	HYPH	13	AMOD	_	_	_	_	_	_
+15	based	based	VBN	_	based	base	VBN	13	NMOD	base.01	_	_	_	_	_
+16	programs	programs	NNS	_	programs	program	NNS	12	PMOD	program.02	_	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	5	NMOD	_	_	_	_	_
+2	Invest	invest	VB	_	Invest	invest	VB	5	NMOD	_	A0	A1	_	_
+3	in	in	IN	_	in	in	IN	2	ADV	invest.01	_	_	_	_
+4	Youth	youth	NN	_	Youth	youth	NN	3	PMOD	_	A1	_	_	_
+5	campaign	campaign	NN	_	campaign	campaign	NN	6	SBJ	campaign.01	_	_	A0	A0
+6	helps	helps	VBZ	_	helps	help	VBZ	0	ROOT	help.01	_	_	_	_
+7	insure	insure	VB	_	insure	insure	VB	6	OPRD	insure.01	_	_	A1	_
+8	this	this	DT	_	this	this	DT	7	OBJ	_	_	_	_	A1
+9	.	.	.	_	.	.	.	6	P	_	_	_	_	_
+
+1	New	new	JJ	_	New	new	JJ	2	NMOD	_	AM-TMP	_	_
+2	initiatives	initiatives	NNS	_	initiatives	initiative	NNS	8	SBJ	initiative.01	_	A1	A0
+3	in	in	IN	_	in	in	IN	2	LOC	_	_	_	_
+4	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_
+5	inner	inner	JJ	_	inner	inner	JJ	7	NMOD	_	_	_	_
+6	-	-	HYPH	_	-	-	HYPH	7	NMOD	_	_	_	_
+7	city	city	NN	_	city	city	NN	3	PMOD	_	_	_	_
+8	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+9	taking	taking	VBG	_	taking	take	VBG	8	VC	take.01	SU	A2	_
+10	hold	hold	NN	_	hold	hold	NN	9	OBJ	_	A1	_	A1
+11	.	.	.	_	.	.	.	8	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	4	NMOD	_	_	_	_	_	_	_
+2	Urban	urban	NNP	_	Urban	urban	NNP	3	NAME	_	_	_	_	_	_	_
+3	Mission	mission	NNP	_	Mission	mission	NNP	4	NMOD	_	_	_	_	_	_	_
+4	Branch	branch	NNP	_	Branch	branch	NNP	5	SBJ	_	A1	A0	_	_	_	_
+5	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_
+6	reaching	reaching	VBG	_	reaching	reach	VBG	5	VC	reach.01	A2	_	_	_	_	_
+7	out	out	RP	_	out	out	RP	6	PRT	_	_	_	_	_	_	_
+8	to	to	TO	_	to	to	TO	6	ADV	_	_	A1	_	_	_	_
+9	middle	middle	JJ	_	middle	middle	NN	10	NMOD	_	_	_	_	_	_	_
+10	school	school	NN	_	school	school	NN	11	NMOD	_	_	_	A3	_	_	_
+11	youth	youth	NN	_	youth	youth	NN	8	PMOD	youth.02	_	_	A1	_	_	_
+12	with	with	IN	_	with	with	IN	6	MNR	_	_	AM-MNR	_	_	_	_
+13	programs	programs	NNS	_	programs	program	NNS	12	PMOD	program.02	_	_	_	_	A1	_
+14	based	based	VBN	_	based	base	VBN	13	APPO	base.02	_	_	_	SU	_	_
+15	on	on	IN	_	on	on	IN	14	ADV	_	_	_	_	A1	A2	_
+16	caring	caring	NN	_	caring	caring	NN	15	PMOD	_	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_
+18	honesty	honesty	NN	_	honesty	honesty	NN	16	COORD	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_
+20	respect	respect	NN	_	respect	respect	NN	18	COORD	_	_	_	_	_	_	_
+21	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_
+22	responsibility	responsibility	NN	_	responsibility	responsibility	NN	21	CONJ	responsibility.01	_	_	_	_	_	_
+23	for	for	IN	_	for	for	IN	22	NMOD	_	_	_	_	_	_	A1
+24	themselves	themselves	PRP	_	themselves	themselves	PRP	23	PMOD	_	_	_	_	_	_	_
+25	and	and	CC	_	and	and	CC	24	COORD	_	_	_	_	_	_	_
+26	others	others	NNS	_	others	others	NNS	25	CONJ	_	_	_	_	_	_	_
+27	.	.	.	_	.	.	.	5	P	_	_	_	_	_	_	_
+
+1	For	for	IN	_	For	for	IN	5	ADV	_	_	_
+2	some	some	DT	_	some	some	DT	1	PMOD	_	_	_
+3	,	,	,	_	,	,	,	5	P	_	_	_
+4	these	these	DT	_	these	these	DT	5	SBJ	_	A1	_
+5	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_
+6	very	very	RB	_	very	very	RB	7	AMOD	_	_	_
+7	different	different	JJ	_	different	different	JJ	8	NMOD	_	_	_
+8	messages	messages	NNS	_	messages	message	NNS	5	PRD	_	A2	_
+9	from	from	IN	_	from	from	IN	8	NMOD	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_
+11	ones	ones	NNS	_	ones	one	NNS	9	PMOD	_	_	A1
+12	heard	heard	VBN	_	heard	hear	VBN	11	APPO	hear.01	_	_
+13	in	in	IN	_	in	in	IN	12	LOC	_	_	AM-LOC
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_
+15	street	street	NN	_	street	street	NN	13	PMOD	_	_	_
+16	.	.	.	_	.	.	.	5	P	_	_	_
+
+1	They	they	PRP	_	They	they	PRP	2	SBJ	_	A1	A0	A0	_	A0	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_	_
+3	learning	learning	VBG	_	learning	learn	VBG	2	VC	learn.01	A2	_	_	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	_	A1	_	_	_	_	_
+5	make	make	VB	_	make	make	VB	4	IM	make.01	_	_	_	_	_	_	_
+6	positive	positive	JJ	_	positive	positive	JJ	7	NMOD	_	_	_	_	_	_	_	_
+7	choices	choices	NNS	_	choices	choice	NNS	5	OBJ	_	_	_	A1	A0	_	_	_
+8	concerning	concerning	VBG	_	concerning	concern	VBG	7	APPO	concern.01	_	_	_	_	_	_	_
+9	alcohol	alcohol	NN	_	alcohol	alcohol	NN	8	OBJ	_	_	_	_	A1	_	_	_
+10	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_	_
+11	tobacco	tobacco	NN	_	tobacco	tobacco	NN	9	COORD	_	_	_	_	_	_	_	_
+12	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_	_	_
+13	other	other	JJ	_	other	other	JJ	14	NMOD	_	_	_	_	_	_	_	_
+14	drugs	drugs	NNS	_	drugs	drug	NNS	12	CONJ	_	_	_	_	_	_	_	_
+15	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_	_	_	_	_
+16	to	to	TO	_	to	to	TO	15	CONJ	_	_	_	_	_	_	_	_
+17	support	support	VB	_	support	support	VB	16	IM	support.01	_	_	_	_	_	_	_
+18	each	each	DT	_	each	each	DT	19	NMOD	_	_	_	_	_	_	_	_
+19	other	other	JJ	_	other	other	JJ	17	OBJ	_	_	_	_	_	A1	_	_
+20	when	when	WRB	_	when	when	WRB	24	TMP	_	_	_	_	_	AM-TMP	_	_
+21	those	those	DT	_	those	those	DT	22	NMOD	_	_	_	_	_	_	_	_
+22	choices	choices	NNS	_	choices	choice	NNS	23	SBJ	_	_	_	_	_	_	A1	A0
+23	are	are	VBP	_	are	be	VBP	17	TMP	be.01	_	_	_	_	_	_	_
+24	challenged	challenged	VBN	_	challenged	challenge	VBN	23	VC	challenge.01	_	_	_	_	_	A2	_
+25	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_
+
+1	You	you	PRP	_	You	you	PRP	2	SBJ	_	A0	A0	_	_
+2	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_
+3	shared	shared	VBN	_	shared	share	VBN	2	VC	share.01	A1	_	_	_
+4	in	in	IN	_	in	in	IN	3	ADV	_	_	A1	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_
+6	vision	vision	NN	_	vision	vision	NN	4	PMOD	vision.01	_	_	_	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_
+9	leadership	leadership	NN	_	leadership	leadership	NN	7	CONJ	leadership.01	_	_	_	_
+10	of	of	IN	_	of	of	IN	6	NMOD	_	_	_	A0	A0
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_
+12	YMCA	ymca	NNP	_	YMCA	ymca	NNP	10	PMOD	_	_	_	_	_
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	_	_
+14	Greater	greater	NNP	_	Greater	greater	NNP	15	NAME	_	_	_	_	_
+15	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	13	PMOD	_	_	_	_	_
+16	.	.	.	_	.	.	.	2	P	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_	_	_	_
+2	now	now	RB	_	now	now	RB	3	TMP	_	AM-TMP	_	_	_	_
+3	invite	invite	VBP	_	invite	invite	VBP	0	ROOT	invite.01	_	_	_	_	_
+4	you	you	PRP	_	you	you	PRP	3	OBJ	_	A1	A0	A0	_	_
+5	to	to	TO	_	to	to	TO	3	OPRD	_	_	_	_	_	_
+6	continue	continue	VB	_	continue	continue	VB	5	IM	continue.02	_	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	OPRD	_	_	A1	_	_	_
+8	support	support	VB	_	support	support	VB	7	IM	support.01	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_
+10	mission	mission	NN	_	mission	mission	NN	8	OBJ	_	_	_	A1	_	_
+11	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_
+13	message	message	NN	_	message	message	NN	11	CONJ	_	_	_	_	A1	A0
+14	that	that	WDT	_	that	that	WDT	15	SBJ	_	_	_	_	_	_
+15	is	is	VBZ	_	is	be	VBZ	13	NMOD	be.01	_	_	_	_	_
+16	so	so	RB	_	so	so	RB	17	AMOD	_	_	_	_	_	_
+17	important	important	JJ	_	important	important	JJ	15	PRD	_	_	_	_	A2	_
+18	to	to	TO	_	to	to	TO	17	AMOD	_	_	_	_	_	_
+19	building	building	VBG	_	building	build	VBG	18	PMOD	build.01	_	_	_	_	_
+20	strong	strong	JJ	_	strong	strong	JJ	21	NMOD	_	_	_	_	_	_
+21	kids	kids	NNS	_	kids	kid	NNS	19	OBJ	_	_	_	_	_	A1
+22	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_
+23	strong	strong	JJ	_	strong	strong	JJ	24	NMOD	_	_	_	_	_	_
+24	families	families	NNS	_	families	family	NNS	21	COORD	_	_	_	_	_	_
+25	and	and	CC	_	and	and	CC	24	COORD	_	_	_	_	_	_
+26	strong	strong	JJ	_	strong	strong	JJ	27	NMOD	_	_	_	_	_	_
+27	communities	communities	NNS	_	communities	community	NNS	25	CONJ	_	_	_	_	_	_
+28	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_	_
+2	consider	consider	VB	_	consider	consider	VB	0	ROOT	consider.02	_	_	_
+3	joining	joining	VBG	_	joining	join	VBG	2	OPRD	join.01	A1	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_
+5	Chairman	chairman	NNP	_	Chairman	chairman	NNP	7	TITLE	_	_	_	_
+6	's	's	POS	_	's	's	POS	5	SUFFIX	_	_	_	_
+7	Roundtable	roundtable	NNP	_	Roundtable	roundtable	NNP	3	OBJ	_	_	A1	_
+8	with	with	IN	_	with	with	IN	3	MNR	_	_	AM-MNR	_
+9	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_
+10	gift	gift	NN	_	gift	gift	NN	8	PMOD	gift.01	_	_	_
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_	_	A1
+12	$	$	$	_	$	$	$	11	PMOD	_	_	_	_
+13	1,000	1,000	CD	_	1,000	1,000	CD	12	NMOD	_	_	_	_
+14	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	A0
+2	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_
+3	enclosed	enclosed	VBN	_	enclosed	enclose	VBN	2	VC	enclose.01	A1	_
+4	a	a	DT	_	a	a	DT	6	NMOD	_	_	_
+5	pledge	pledge	NN	_	pledge	pledge	NN	6	NMOD	_	_	_
+6	card	card	NN	_	card	card	NN	3	OBJ	_	_	A1
+7	for	for	IN	_	for	for	IN	3	PRP	_	_	_
+8	your	your	PRP$	_	your	your	PRP$	9	NMOD	_	_	_
+9	convenience	convenience	NN	_	convenience	convenience	NN	7	PMOD	_	_	_
+10	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	A0	_	_	_
+2	would	would	MD	_	would	would	MD	0	ROOT	_	_	_	_	_	_
+3	like	like	VB	_	like	like	VB	2	VC	like.01	_	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	A1	_	_	_	_
+5	announce	announce	VB	_	announce	announce	VB	4	IM	announce.01	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+7	success	success	NN	_	success	success	NN	5	OBJ	success.01	_	A1	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	_	A0	_	_
+9	this	this	DT	_	this	this	DT	10	NMOD	_	_	_	_	_	_
+10	year	year	NN	_	year	year	NN	12	NMOD	_	_	_	_	_	_
+11	's	's	POS	_	's	's	POS	10	SUFFIX	_	_	_	_	_	_
+12	campaign	campaign	NN	_	campaign	campaign	NN	8	PMOD	_	_	_	_	_	_
+13	at	at	IN	_	at	at	IN	5	LOC	_	_	AM-LOC	_	_	_
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_	_
+15	Annual	annual	NNP	_	Annual	annual	NNP	16	NAME	_	_	_	_	_	_
+16	Meeting	meeting	NNP	_	Meeting	meeting	NNP	13	PMOD	_	_	_	_	_	_
+17	on	on	IN	_	on	on	IN	16	TMP	_	_	_	_	_	_
+18	April	april	NNP	_	April	april	NNP	19	NMOD	_	_	_	_	_	_
+19	27	27	CD	_	27	27	CD	17	PMOD	_	_	_	_	_	_
+20	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_
+21	so	so	CC	_	so	so	CC	2	COORD	_	_	_	_	_	_
+22	please	please	UH	_	please	please	UH	23	DEP	_	_	_	_	_	_
+23	return	return	VB	_	return	return	VB	21	CONJ	return.01	_	_	_	_	_
+24	your	your	PRP$	_	your	your	PRP$	25	NMOD	_	_	_	_	_	A0
+25	pledge	pledge	NN	_	pledge	pledge	NN	23	OBJ	pledge.01	_	_	_	A2	_
+26	or	or	CC	_	or	or	CC	25	COORD	_	_	_	_	_	_
+27	gift	gift	NN	_	gift	gift	NN	26	CONJ	_	_	_	_	_	_
+28	within	within	IN	_	within	within	IN	23	TMP	_	_	_	_	AM-TMP	_
+29	the	the	DT	_	the	the	DT	32	NMOD	_	_	_	_	_	_
+30	next	next	JJ	_	next	next	JJ	32	NMOD	_	_	_	_	_	_
+31	30	30	CD	_	30	30	CD	32	NMOD	_	_	_	_	_	_
+32	days	days	NNS	_	days	days	NNS	28	PMOD	_	_	_	_	_	_
+33	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	Thank	thank	VBP	_	Thank	thank	VBP	0	ROOT	thank.01	_
+2	you	you	PRP	_	you	you	PRP	1	OBJ	_	A1
+3	.	.	.	_	.	.	.	1	P	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	7	MNR	_
+2	,	,	,	_	,	,	,	7	P	_
+3	Richard	richard	NNP	_	Richard	richard	NNP	5	NAME	_
+4	H.	h.	NNP	_	H.	h.	NNP	5	NAME	_
+5	Gilbert	gilbert	NNP	_	Gilbert	gilbert	NNP	7	NMOD	_
+6	,	,	,	_	,	,	,	7	P	_
+7	Jr.	jr.	NNP	_	Jr.	jr.	NNP	0	ROOT	_
+8	Past	past	NNP	_	Past	past	NNP	10	NAME	_
+9	Board	board	NNP	_	Board	board	NNP	10	NAME	_
+10	Member	member	NNP	_	Member	member	NNP	7	APPO	_
+11	YMCA	ymca	NNP	_	YMCA	ymca	NNP	10	APPO	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_
+13	Greater	greater	NNP	_	Greater	greater	NNP	14	NAME	_
+14	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	12	PMOD	_
+

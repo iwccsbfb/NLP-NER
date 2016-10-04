@@ -1,0 +1,472 @@
+
+1	My	my	PRP$	_	My	my	PRP$	2	NMOD	_	A1	_
+2	name	name	NN	_	name	name	NN	3	SBJ	name.01	A2	A1
+3	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+4	Bonnie	bonnie	NNP	_	Bonnie	bonnie	NNP	5	NAME	_	_	_
+5	Rindner	rindner	NNP	_	Rindner	rindner	NNP	3	PRD	_	_	A2
+6	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A1	A0
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+4	born	born	VBN	_	born	bear	VBN	3	VC	born.01	A2	_
+5	in	in	IN	_	in	in	IN	4	LOC	_	_	AM-LOC
+6	San	san	NNP	_	San	san	NNP	7	NAME	_	_	_
+7	Antonio	antonio	NNP	_	Antonio	antonio	NNP	9	NMOD	_	_	_
+8	,	,	,	_	,	,	,	9	P	_	_	_
+9	TX	tx	NNP	_	TX	tx	NNP	5	PMOD	_	_	_
+10	,	,	,	_	,	,	,	3	P	_	_	_
+11	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	9	DEP	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_
+3	story	story	NN	_	story	story	NN	9	SBJ	_	_	_	A1
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	_	_	_
+5	'm	'm	VBP	_	'm	'm	VBP	3	NMOD	_	_	_	_
+6	going	going	VBG	_	going	go	VBG	5	VC	go.05	_	_	_
+7	to	to	TO	_	to	to	TO	6	VC	_	A1	_	_
+8	tell	tell	VB	_	tell	tell	VB	7	IM	tell.01	_	_	_
+9	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_
+10	about	about	IN	_	about	about	IN	9	PRD	_	_	_	A2
+11	my	my	PRP$	_	my	my	PRP$	12	NMOD	_	_	_	_
+12	mother	mother	NN	_	mother	mother	NN	10	PMOD	_	_	_	_
+13	.	.	.	_	.	.	.	9	P	_	_	_	_
+14	/	/	SU	_	/	/	SU	9	DEP	_	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	5	DEP	_	A2
+2	,	,	,	_	,	,	,	5	P	_	_
+3	a	a	DT	_	a	a	DT	5	NMOD	_	_
+4	little	little	JJ	_	little	little	JJ	5	NMOD	_	_
+5	background	background	NN	_	background	background	NN	0	ROOT	background.01	A1
+6	first	first	RB	_	first	first	RB	5	TMP	_	_
+7	.	.	.	_	.	.	.	5	P	_	_
+8	/	/	SU	_	/	/	SU	5	DEP	_	_
+
+1	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	13	DEP	_	_	_	_	_	_	_
+2	Her	her	PRP$	_	Her	her	PRP$	1	DEP	_	_	_	_	_	_	_
+3	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	1	DEP	_	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_
+5	let	let	VBD	_	let	let	VBD	13	PRN	let.01	_	_	_	_	AM-ADV	_
+6	's	's	PRP	_	's	's	POS	5	OBJ	_	_	A0	_	_	_	_
+7	see	see	VB	_	see	see	VB	5	OPRD	see.01	A1	_	_	_	_	_
+8	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_
+9	her	her	PRP$	_	her	her	PRP$	10	NMOD	_	_	_	A1	_	_	_
+10	mother	mother	NN	_	mother	mother	NN	12	NMOD	mother.01	_	_	A0	A2	_	_
+11	's	's	POS	_	's	's	POS	10	SUFFIX	_	_	_	_	_	_	_
+12	family	family	NN	_	family	family	NN	13	SBJ	family.01	A0	_	_	_	A1	A1
+13	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+14	wealthy	wealthy	JJ	_	wealthy	wealthy	JJ	15	NMOD	_	_	_	_	_	_	_
+15	people	people	NNS	_	people	people	NNS	13	PRD	_	_	_	_	_	A2	_
+16	at	at	IN	_	at	at	IN	13	TMP	_	_	_	_	_	AM-TMP	_
+17	one	one	CD	_	one	one	CD	18	NMOD	_	_	_	_	_	_	_
+18	time	time	NN	_	time	time	NN	16	PMOD	time.04	_	_	_	_	_	A2
+19	.	.	.	_	.	.	.	13	P	_	_	_	_	_	_	_
+20	/	/	SU	_	/	/	SU	13	DEP	_	_	_	_	_	_	_
+
+1	They	they	PRP	_	They	they	PRP	2	SBJ	_	A0	_
+2	owned	owned	VBD	_	owned	own	VBD	0	ROOT	own.01	_	_
+3	car	car	NN	_	car	car	NN	4	NMOD	_	_	A1
+4	dealerships	dealerships	NNS	_	dealerships	dealership	NNS	2	OBJ	dealership.01	A1	A0
+5	and	and	CC	_	and	and	CC	4	COORD	_	_	_
+6	extensive	extensive	JJ	_	extensive	extensive	JJ	7	NMOD	_	_	_
+7	land	land	NN	_	land	land	NN	5	CONJ	_	_	_
+8	.	.	.	_	.	.	.	2	P	_	_	_
+9	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	4	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	4	P	_	_	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	A0	_
+4	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_
+5	n't	not	RB	_	n't	not	RB	4	ADV	_	_	_	_
+6	know	know	VB	_	know	know	VB	4	VC	know.01	A1	_	_
+7	if	if	IN	_	if	if	IN	6	OBJ	_	_	A1	_
+8	they	they	PRP	_	they	they	PRP	9	SBJ	_	_	_	A1
+9	were	were	VBD	_	were	be	VBD	7	COORD	be.01	_	_	_
+10	farmers	farmers	NNS	_	farmers	farmer	NNS	9	PRD	_	_	_	A2
+11	or	or	CC	_	or	or	CC	9	COORD	_	_	_	_
+12	not	not	RB	_	not	not	RB	11	CONJ	_	_	_	_
+13	,	,	,	_	,	,	,	4	P	_	_	_	_
+14	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	but	but	CC	_	but	but	CC	3	DEP	_	_	_
+2	I	i	PRP	_	I	i	PRP	3	SBJ	_	A0	_
+3	know	know	VBP	_	know	know	VBP	0	ROOT	know.01	_	_
+4	they	they	PRP	_	they	they	PRP	5	SBJ	_	_	A1
+5	were	were	VBD	_	were	be	VBD	3	OBJ	be.01	A1	_
+6	land	land	NN	_	land	land	NN	7	NMOD	_	_	_
+7	owners	owners	NNS	_	owners	owner	NNS	5	PRD	_	_	_
+8	,	,	,	_	,	,	,	5	P	_	_	_
+9	um	um	UH	_	um	um	UH	5	DEP	_	_	A2
+10	,	,	,	_	,	,	,	5	P	_	_	_
+11	many	many	JJ	_	many	many	DT	12	NMOD	_	_	_
+12	acres	acres	NNS	_	acres	acres	NNS	5	ADV	_	_	_
+13	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	7	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	7	P	_	_	_	_
+3	um	um	UH	_	um	um	UH	7	DEP	_	_	_	_
+4	,	,	,	_	,	,	,	7	P	_	_	_	_
+5	her	her	PRP$	_	her	her	PRP$	6	NMOD	_	A1	_	_
+6	grandmother	grandmother	NN	_	grandmother	grandmother	NN	7	SBJ	grandmother.01	A0	A1	A0
+7	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+8	raised	raised	VBN	_	raised	raise	VBN	7	VC	raise.01	_	A2	_
+9	in	in	IN	_	in	in	IN	8	MNR	_	_	_	AM-MNR
+10	wealth	wealth	NN	_	wealth	wealth	NN	9	PMOD	_	_	_	_
+11	.	.	.	_	.	.	.	7	P	_	_	_	_
+12	/	/	SU	_	/	/	SU	7	DEP	_	_	_	_
+
+1	Uh	uh	UH	_	Uh	uh	UH	6	DEP	_	_
+2	,	,	,	_	,	,	,	6	P	_	_
+3	then	then	RB	_	then	then	RB	6	TMP	_	AM-TMP
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_
+5	Depression	depression	NNP	_	Depression	depression	NNP	6	SBJ	_	A0
+6	came	came	VBD	_	came	come	VBD	0	ROOT	come.02	_
+7	/	/	SU	_	/	/	SU	6	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_
+2	apparently	apparently	RB	_	apparently	apparently	RB	4	ADV	_	AM-ADV
+3	everyone	everyone	NN	_	everyone	everyone	NN	4	SBJ	_	A1
+4	lost	lost	VBD	_	lost	lose	VBD	0	ROOT	lose.01	_
+5	all	all	DT	_	all	all	DT	7	NMOD	_	_
+6	their	their	PRP$	_	their	their	PRP$	7	NMOD	_	_
+7	money	money	NN	_	money	money	NN	4	OBJ	_	A2
+8	.	.	.	_	.	.	.	4	P	_	_
+9	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	Um	um	UH	_	Um	um	UH	4	DEP	_	_	_
+2	,	,	,	_	,	,	,	4	P	_	_	_
+3	she	she	PRP	_	she	she	PRP	4	SBJ	_	A1	A0
+4	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+5	raised	raised	VBN	_	raised	raise	VBN	4	VC	raise.01	A2	_
+6	in	in	IN	_	in	in	IN	5	LOC	_	_	A1
+7	MO	mo	NNP	_	MO	mo	NNP	6	PMOD	_	_	_
+8	,	,	,	_	,	,	,	4	P	_	_	_
+9	/	/	SU	_	/	/	SU	4	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_
+2	she	she	PRP	_	she	she	PRP	3	SBJ	_	A0
+3	married	married	VBD	_	married	marry	VBD	0	ROOT	marry.01	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_
+5	man	man	NN	_	man	man	NN	3	OBJ	_	A1
+6	,	,	,	_	,	,	,	3	P	_	_
+7	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	this	this	DT	_	this	this	DT	2	SBJ	_	A1	_
+2	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+3	my	my	PRP$	_	my	my	PRP$	4	NMOD	_	_	_
+4	grandmother	grandmother	NN	_	grandmother	grandmother	NN	2	PRD	_	A2	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	_	A0
+6	'm	'm	VBP	_	'm	'm	VBP	4	NMOD	_	_	_
+7	talking	talking	VBG	_	talking	talk	VBG	6	VC	talk.01	_	_
+8	about	about	IN	_	about	about	IN	7	ADV	_	_	A1
+9	.	.	.	_	.	.	.	2	P	_	_	_
+10	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	3	DEP	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A1
+3	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_
+4	very	very	RB	_	very	very	RB	5	AMOD	_	_
+5	poor	poor	JJ	_	poor	poor	JJ	3	PRD	_	A2
+6	by	by	IN	_	by	by	IN	3	TMP	_	AM-TMP
+7	this	this	DT	_	this	this	DT	8	NMOD	_	_
+8	point	point	NN	_	point	point	NN	6	PMOD	_	_
+9	,	,	,	_	,	,	,	3	P	_	_
+10	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A0	_
+3	had	had	VBD	_	had	have	VBD	0	ROOT	have.03	_	_
+4	,	,	,	_	,	,	,	3	P	_	_	_
+5	I	i	PRP	_	I	i	PRP	6	SBJ	_	_	A0
+6	think	think	VBP	_	think	think	VBP	3	PRN	think.01	AM-ADV	_
+7	,	,	,	_	,	,	,	3	P	_	_	_
+8	seven	seven	CD	_	seven	seven	CD	9	NMOD	_	_	_
+9	children	children	NNS	_	children	child	NNS	3	OBJ	_	A1	_
+10	.	.	.	_	.	.	.	3	P	_	_	_
+11	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	And	and	CC	_	And	and	CC	7	DEP	_	_
+2	one	one	CD	_	one	one	CD	4	NMOD	_	_
+3	particular	particular	JJ	_	particular	particular	JJ	4	NMOD	_	_
+4	Christmas	christmas	NNP	_	Christmas	christmas	NNP	7	TMP	_	AM-TMP
+5	,	,	,	_	,	,	,	7	P	_	_
+6	things	things	NNS	_	things	things	NNS	7	SBJ	_	A1
+7	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_
+8	very	very	RB	_	very	very	RB	11	AMOD	_	_
+9	,	,	,	_	,	,	,	11	P	_	_
+10	very	very	RB	_	very	very	RB	11	AMOD	_	_
+11	difficult	difficult	JJ	_	difficult	difficult	JJ	7	PRD	_	A2
+12	.	.	.	_	.	.	.	7	P	_	_
+13	/	/	SU	_	/	/	SU	7	DEP	_	_
+
+1	There	there	EX	_	There	there	EX	2	SBJ	_	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+3	no	no	DT	_	no	no	DT	4	NMOD	_	_	_
+4	money	money	NN	_	money	money	NN	2	PRD	_	A1	A0
+5	to	to	TO	_	to	to	TO	4	NMOD	_	_	_
+6	buy	buy	VB	_	buy	buy	VB	5	IM	buy.01	_	_
+7	any	any	DT	_	any	any	DT	8	NMOD	_	_	_
+8	presents	presents	NNS	_	presents	present	NNS	6	OBJ	_	_	A1
+9	at	at	IN	_	at	at	IN	8	NMOD	_	_	_
+10	all	all	DT	_	all	all	DT	9	AMOD	_	_	_
+11	,	,	,	_	,	,	,	8	P	_	_	_
+12	um	um	UH	_	um	um	UH	8	NMOD	_	_	_
+13	,	,	,	_	,	,	,	8	P	_	_	_
+14	for	for	IN	_	for	for	IN	8	NMOD	_	_	_
+15	the	the	DT	_	the	the	DT	16	NMOD	_	_	_
+16	children	children	NNS	_	children	child	NNS	14	PMOD	_	_	_
+17	,	,	,	_	,	,	,	2	P	_	_	_
+18	/	/	SU	_	/	/	SU	2	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	27	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	my	my	PRP$	_	my	my	PRP$	3	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	grandfather	grandfather	NN	_	grandfather	grandfather	NN	27	DEP	_	A1	A0	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	3	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	who	who	WP	_	who	who	WP	6	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	was	was	VBD	_	was	be	VBD	3	NMOD	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	killed	killed	VBN	_	killed	kill	VBN	6	VC	kill.01	A2	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	when	when	WRB	_	when	when	WRB	11	TMP	_	AM-TMP	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	my	my	PRP$	_	my	my	PRP$	10	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	mother	mother	NN	_	mother	mother	NN	11	SBJ	_	_	_	A1	_	_	_	_	_	_	_	_	_	_	_
+11	was	was	VBD	_	was	be	VBD	7	TMP	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	16	16	CD	_	16	16	CD	11	PRD	_	_	_	A2	_	_	_	_	_	_	_	_	_	_	_
+13	,	,	,	_	,	,	,	27	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	this	this	DT	_	this	this	DT	15	SBJ	_	_	_	_	A1	_	_	_	_	_	_	_	_	_	_
+15	was	was	VBD	_	was	be	VBD	27	PRN	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	of	of	IN	_	of	of	IN	15	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	course	course	NN	_	course	course	NN	17	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	way	way	NN	_	way	way	NN	21	ADV	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	before	before	IN	_	before	before	IN	15	PRD-TMP	_	_	_	_	A2	_	_	_	_	_	_	_	_	_	_
+22	that	that	DT	_	that	that	DT	21	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	,	_	,	,	,	27	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	um	um	UH	_	um	um	UH	27	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	,	,	,	_	,	,	,	27	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	he	he	PRP	_	he	he	PRP	27	SBJ	_	_	_	_	_	A0	A1	_	_	_	_	_	_	_	_
+27	must	must	MD	_	must	must	MD	0	ROOT	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	have	have	VB	_	have	have	VB	27	VC	have.04	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	been	been	VBN	_	been	be	VBN	28	VC	be.01	_	_	_	_	A1	_	_	_	_	_	_	_	_	_
+30	a	a	DT	_	a	a	DT	33	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	very	very	RB	_	very	very	RB	32	AMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	positive	positive	JJ	_	positive	positive	JJ	33	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	person	person	NN	_	person	person	NN	29	PRD	_	_	_	_	_	_	A2	_	_	_	_	_	_	_	_
+34	because	because	IN	_	because	because	IN	29	PRP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	what	what	WP	_	what	what	WP	37	OBJ	_	_	_	_	_	_	_	A1	_	A1	_	_	_	_	_
+36	he	he	PRP	_	he	he	PRP	37	SBJ	_	_	_	_	_	_	_	A0	_	_	_	_	_	_	_
+37	did	did	VBD	_	did	do	VBD	41	SBJ	do.02	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	with	with	IN	_	with	with	IN	37	ADV	_	_	_	_	_	_	_	A3	_	_	_	_	_	_	_
+39	the	the	DT	_	the	the	DT	40	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	situation	situation	NN	_	situation	situation	NN	38	PMOD	situation.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	was	was	VBD	_	was	be	VBD	34	SUB	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	<disfluency>	<disfluency>	CODE	_	<disfluency>	<disfluency>	CODE	47	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	he	he	PRP	_	he	he	PRP	42	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	</disfluency>	</disfluency>	CODE	_	</disfluency>	</disfluency>	CODE	42	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	,	,	,	_	,	,	,	47	P	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	he	he	PRP	_	he	he	PRP	47	SBJ	_	_	_	_	_	_	_	_	_	_	A0	_	_	_	_
+47	told	told	VBD	_	told	tell	VBD	41	PRD	tell.02	_	_	_	_	_	_	_	SU	A2	_	_	_	_	_
+48	the	the	DT	_	the	the	DT	49	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	children	children	NNS	_	children	child	NNS	47	OBJ	_	_	_	_	_	_	_	_	A0	_	A1	_	_	_	_
+50	that	that	IN	_	that	that	IN	47	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	there	there	EX	_	there	there	EX	52	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	were	were	VBD	_	were	be	VBD	50	SUB	be.01	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	no	no	DT	_	no	no	DT	54	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	presents	presents	NNS	_	presents	present	NNS	52	PRD	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+55	this	this	DT	_	this	this	DT	56	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	Christmas	christmas	NNP	_	Christmas	christmas	NNP	52	TMP	_	_	_	_	_	_	_	_	_	_	_	AM-TMP	_	_	_
+57	because	because	IN	_	because	because	IN	52	PRP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	they	they	PRP	_	they	they	PRP	59	SBJ	_	_	_	_	_	_	_	_	_	_	_	_	A0	A0	A0
+59	had	had	VBD	_	had	have	VBD	57	SUB	have.03	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	given	given	VBN	_	given	give	VBN	59	VC	give.01	_	_	_	_	_	_	_	_	_	_	_	A1	_	_
+61	them	them	PRP	_	them	them	PRP	60	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	A1	_
+62	all	all	DT	_	all	all	DT	61	APPO	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	to	to	TO	_	to	to	TO	60	DTV	_	_	_	_	_	_	_	_	_	_	_	_	_	A2	_
+64	Santa	santa	NNP	_	Santa	santa	NNP	63	PMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	to	to	TO	_	to	to	TO	60	PRP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+66	take	take	VB	_	take	take	VB	65	IM	take.16	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	the	the	DT	_	the	the	DT	69	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+68	poor	poor	JJ	_	poor	poor	JJ	69	NMOD	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+69	children	children	NNS	_	children	child	NNS	66	OBJ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
+70	/	/	SU	_	/	/	SU	27	DEP	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_
+2	this	this	DT	_	this	this	DT	3	SBJ	_	A0	_
+3	made	made	VBD	_	made	make	VBD	0	ROOT	make.08	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+5	children	children	NNS	_	children	child	NNS	3	OBJ	_	_	A0
+6	feel	feel	VB	_	feel	feel	VB	3	OPRD	feel.01	A2	_
+7	happy	happy	JJ	_	happy	happy	JJ	6	PRD	_	_	_
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_
+9	proud	proud	JJ	_	proud	proud	JJ	8	CONJ	_	_	_
+10	of	of	IN	_	of	of	IN	9	AMOD	_	_	_
+11	themselves	themselves	PRP	_	themselves	themselves	PRP	10	PMOD	_	_	_
+12	/	/	SU	_	/	/	SU	3	DEP	_	_	_
+
+1	and	and	CC	_	and	and	CC	3	DEP	_	_	_	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A0	_	_
+3	gave	gave	VBD	_	gave	give	VBD	0	ROOT	give.01	_	_	_
+4	them	them	PRP	_	them	them	PRP	3	OBJ	_	A2	_	_
+5	a	a	DT	_	a	a	DT	7	NMOD	_	_	_	_
+6	good	good	JJ	_	good	good	JJ	7	NMOD	_	_	_	_
+7	feeling	feeling	NN	_	feeling	feeling	NN	3	OBJ	_	A1	_	_
+8	that	that	IN	_	that	that	IN	3	EXTR	_	_	_	_
+9	they	they	PRP	_	they	they	PRP	10	SBJ	_	_	A0	A0
+10	had	had	VBD	_	had	have	VBD	8	SUB	have.03	_	_	_
+11	done	done	VBN	_	done	do	VBN	10	VC	do.02	_	A1	_
+12	something	something	NN	_	something	something	NN	11	OBJ	_	_	_	A1
+13	very	very	RB	_	very	very	RB	14	AMOD	_	_	_	_
+14	nice	nice	JJ	_	nice	nice	JJ	12	APPO	_	_	_	_
+15	for	for	IN	_	for	for	IN	11	ADV	_	_	_	_
+16	someone	someone	NN	_	someone	someone	NN	15	PMOD	_	_	_	_
+17	less	less	RBR	_	less	less	RBR	18	AMOD	_	_	_	_
+18	fortunate	fortunate	JJ	_	fortunate	fortunate	JJ	16	APPO	_	_	_	_
+19	than	than	IN	_	than	than	IN	18	AMOD	_	_	_	_
+20	themselves	themselves	PRP	_	themselves	themselves	PRP	19	PMOD	_	_	_	_
+21	.	.	.	_	.	.	.	3	P	_	_	_	_
+22	/	/	SU	_	/	/	SU	3	DEP	_	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	4	DEP	_	_	_	_
+2	,	,	,	_	,	,	,	4	P	_	_	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_	_
+4	felt	felt	VBD	_	felt	felt	VBD	0	ROOT	felt.01	_	_	_
+5	like	like	IN	_	like	like	IN	4	OBJ	_	_	_	_
+6	that	that	DT	_	that	that	DT	7	SBJ	_	_	A1	A0
+7	was	was	VBD	_	was	be	VBD	5	SUB	be.01	_	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_
+9	way	way	NN	_	way	way	NN	7	PRD	_	_	AM-ADV	_
+10	to	to	TO	_	to	to	TO	9	NMOD	_	_	_	_
+11	face	face	VB	_	face	face	VB	10	IM	face.01	_	_	_
+12	that	that	DT	_	that	that	DT	13	NMOD	_	_	_	_
+13	situation	situation	NN	_	situation	situation	NN	11	OBJ	_	_	_	A1
+14	with	with	IN	_	with	with	IN	11	MNR	_	_	_	AM-MNR
+15	such	such	JJ	_	such	such	DT	16	NMOD	_	_	_	_
+16	hope	hope	NN	_	hope	hope	NN	14	PMOD	_	_	_	_
+17	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_
+18	with	with	IN	_	with	with	IN	17	CONJ	_	_	_	_
+19	joy	joy	NN	_	joy	joy	NN	18	PMOD	_	_	_	_
+20	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_
+21	with	with	IN	_	with	with	IN	20	CONJ	_	_	_	_
+22	love	love	NN	_	love	love	NN	21	PMOD	_	_	_	_
+23	.	.	.	_	.	.	.	4	P	_	_	_	_
+24	/	/	SU	_	/	/	SU	4	DEP	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	10	DEP	_	_	_	_	_
+2	although	although	IN	_	although	although	IN	10	ADV	_	_	_	_	_
+3	I	i	PRP	_	I	i	PRP	5	SBJ	_	A0	_	_	_
+4	never	never	RB	_	never	never	RB	5	TMP	_	AM-TMP	_	_	_
+5	met	met	VBD	_	met	meet	VBD	2	SUB	meet.01	_	_	_	_
+6	my	my	PRP$	_	my	my	PRP$	7	NMOD	_	_	_	_	_
+7	grandfather	grandfather	NN	_	grandfather	grandfather	NN	5	OBJ	_	A1	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_
+9	I	i	PRP	_	I	i	PRP	10	SBJ	_	_	A0	A0	A0
+10	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_
+11	never	never	RB	_	never	never	RB	10	TMP	_	_	AM-TMP	_	_
+12	forgotten	forgotten	VBN	_	forgotten	forget	VBN	10	VC	forget.01	_	A1	_	SU
+13	that	that	DT	_	that	that	DT	14	NMOD	_	_	_	_	_
+14	story	story	NN	_	story	story	NN	12	OBJ	story.01	_	_	A1	_
+15	/	/	SU	_	/	/	SU	10	DEP	_	_	_	_	_
+
+1	and	and	CC	_	and	and	CC	8	DEP	_	_	_	_	_
+2	when	when	WRB	_	when	when	WRB	4	TMP	_	_	AM-TMP	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	_	_	_
+4	hear	hear	VBP	_	hear	hear	VBP	8	TMP	hear.01	_	_	_	_
+5	of	of	IN	_	of	of	IN	4	ADV	_	A2	_	_	_
+6	him	him	PRP	_	him	him	PRP	5	PMOD	_	_	_	_	_
+7	I	i	PRP	_	I	i	PRP	8	SBJ	_	_	A0	_	_
+8	think	think	VBP	_	think	think	VBP	0	ROOT	think.01	_	_	_	_
+9	what	what	WP	_	what	what	WP	14	NMOD	_	_	_	_	_
+10	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_
+11	wonderful	wonderful	JJ	_	wonderful	wonderful	JJ	14	NMOD	_	_	_	_	_
+12	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+13	wonderful	wonderful	JJ	_	wonderful	wonderful	JJ	14	NMOD	_	_	_	_	_
+14	person	person	NN	_	person	person	NN	18	PRD	_	_	_	_	A2
+15	he	he	PRP	_	he	he	PRP	16	SBJ	_	_	_	A0	A1
+16	must	must	MD	_	must	must	MD	8	OBJ	_	_	_	_	_
+17	have	have	VB	_	have	have	VB	16	VC	have.04	_	_	_	_
+18	been	been	VBN	_	been	be	VBN	17	VC	be.01	_	_	A1	_
+19	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+20	/	/	SU	_	/	/	SU	8	DEP	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	4	DEP	_	_
+2	how	how	WRB	_	how	how	WRB	6	TMP	_	_
+3	long	long	JJ	_	long	long	JJ	2	AMOD	_	_
+4	have	have	VBP	_	have	have	VBP	0	ROOT	_	_
+5	you	you	PRP	_	you	you	PRP	4	SBJ	_	A0
+6	lived	lived	VBN	_	lived	live	VBN	4	VC	live.01	_
+7	in	in	IN	_	in	in	IN	6	LOC	_	A1
+8	Charlotte	charlotte	NNP	_	Charlotte	charlotte	NNP	7	PMOD	_	_
+9	?	?	.	_	?	?	.	4	P	_	_
+10	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	Oh	oh	UH	_	Oh	oh	UH	4	DEP	_	_	_
+2	,	,	,	_	,	,	,	4	P	_	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0	A0
+4	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_
+5	lived	lived	VBN	_	lived	live	VBN	4	VC	live.01	A1	_
+6	in	in	IN	_	in	in	IN	5	LOC	_	_	AM-LOC
+7	Charlotte	charlotte	NNP	_	Charlotte	charlotte	NNP	6	PMOD	_	_	_
+8	,	,	,	_	,	,	,	5	P	_	_	_
+9	um	um	UH	_	um	um	UH	5	DEP	_	_	A1
+10	,	,	,	_	,	,	,	5	P	_	_	_
+11	for	for	IN	_	for	for	IN	5	TMP	_	_	AM-TMP
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_
+13	year	year	NN	_	year	year	NN	11	PMOD	_	_	_
+14	.	.	.	_	.	.	.	4	P	_	_	_
+15	/	/	SU	_	/	/	SU	4	DEP	_	_	_
+
+1	Um	um	UH	_	Um	um	UH	4	DEP	_	_
+2	,	,	,	_	,	,	,	4	P	_	_
+3	I	i	PRP	_	I	i	PRP	4	SBJ	_	A0
+4	lived	lived	VBD	_	lived	live	VBD	0	ROOT	live.01	_
+5	in	in	IN	_	in	in	IN	4	LOC	_	A1
+6	Charlotte	charlotte	NNP	_	Charlotte	charlotte	NNP	5	PMOD	_	_
+7	for	for	IN	_	for	for	IN	4	TMP	_	AM-TMP
+8	five	five	CD	_	five	five	CD	9	NMOD	_	_
+9	years	years	NNS	_	years	years	NNS	7	PMOD	_	_
+10	.	.	.	_	.	.	.	4	P	_	_
+11	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0
+2	came	came	VBD	_	came	come	VBD	0	ROOT	come.02	_
+3	here	here	RB	_	here	here	RB	2	DIR	_	A1
+4	in	in	IN	_	in	in	IN	2	TMP	_	AM-TMP
+5	1986	1986	CD	_	1986	1986	CD	4	PMOD	_	_
+6	,	,	,	_	,	,	,	2	P	_	_
+7	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	we	we	PRP	_	we	we	PRP	2	SBJ	_	A0
+2	lived	lived	VBD	_	lived	live	VBD	0	ROOT	live.01	_
+3	here	here	RB	_	here	here	RB	2	LOC	_	AM-LOC
+4	for	for	IN	_	for	for	IN	2	TMP	_	AM-TMP
+5	five	five	CD	_	five	five	CD	6	NMOD	_	_
+6	years	years	NNS	_	years	years	NNS	4	PMOD	_	_
+7	,	,	,	_	,	,	,	2	P	_	_
+8	/	/	SU	_	/	/	SU	2	DEP	_	_
+
+1	then	then	RB	_	then	then	RB	3	TMP	_	AM-TMP
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A0
+3	moved	moved	VBD	_	moved	move	VBD	0	ROOT	move.04	_
+4	to	to	TO	_	to	to	TO	3	DIR	_	A1
+5	Raleigh	raleigh	NNP	_	Raleigh	raleigh	NNP	4	PMOD	_	_
+6	for	for	IN	_	for	for	IN	3	TMP	_	AM-TMP
+7	seven	seven	CD	_	seven	seven	CD	8	NMOD	_	_
+8	years	years	NNS	_	years	years	NNS	6	PMOD	_	_
+9	/	/	SU	_	/	/	SU	3	DEP	_	_
+
+1	and	and	CC	_	and	and	CC	4	DEP	_	_
+2	now	now	RB	_	now	now	RB	4	TMP	_	_
+3	we	we	PRP	_	we	we	PRP	4	SBJ	_	A1
+4	've	've	VBP	_	've	've	VBP	0	ROOT	_	_
+5	been	been	VBN	_	been	be	VBN	4	VC	be.01	_
+6	back	back	RB	_	back	back	RB	5	LOC-PRD	_	A2
+7	one	one	CD	_	one	one	CD	8	NMOD	_	_
+8	year	year	NN	_	year	year	NN	5	TMP	_	AM-TMP
+9	.	.	.	_	.	.	.	4	P	_	_
+10	/	/	SU	_	/	/	SU	4	DEP	_	_
+
+1	Well	well	UH	_	Well	well	UH	3	DEP	_
+2	,	,	,	_	,	,	,	3	P	_
+3	good	good	JJ	_	good	good	JJ	0	ROOT	_
+4	.	.	.	_	.	.	.	3	P	_
+5	/	/	SU	_	/	/	SU	3	DEP	_
+

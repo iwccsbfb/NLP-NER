@@ -1,0 +1,369 @@
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	2	NMOD	_	_
+2	Friends	friends	NNS	_	Friends	friend	NNS	0	ROOT	friend.02	A0
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1
+4	Pleasant	pleasant	NNP	_	Pleasant	pleasant	NNP	5	NAME	_	_
+5	Run	run	NNP	_	Run	run	NNP	3	PMOD	_	_
+6	:	:	.	_	:	:	.	2	P	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_	_	_	_
+2	holiday	holiday	NN	_	holiday	holiday	NN	3	NMOD	_	A1	_	_	_	_	_	_	_	_
+3	season	season	NN	_	season	season	NN	4	SBJ	season.01	_	A1	_	_	_	_	_	_	_
+4	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_	_	_
+6	time	time	NN	_	time	time	NN	4	PRD	time.04	_	A2	A1	_	_	_	_	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	_	A2	_	_	_	_	_	_
+8	year	year	NN	_	year	year	NN	7	PMOD	_	_	_	_	_	_	_	_	_	_
+9	when	when	WRB	_	when	when	WRB	11	TMP	_	_	_	_	_	_	_	_	_	_
+10	we	we	PRP	_	we	we	PRP	11	SBJ	_	_	_	_	A0	A0	A0	_	A0	A1
+11	're	're	VBP	_	're	're	VBP	6	NMOD	_	_	_	_	_	_	_	_	_	_
+12	all	all	DT	_	all	all	DT	11	DEP	_	_	_	_	_	_	_	_	_	_
+13	busy	busy	JJ	_	busy	busy	JJ	11	PRD	_	_	_	_	_	_	_	_	_	_
+14	buying	buying	VBG	_	buying	buy	VBG	13	AMOD	buy.01	_	_	_	_	_	_	_	_	_
+15	gifts	gifts	NNS	_	gifts	gift	NNS	14	OBJ	_	_	_	_	A1	_	_	_	_	_
+16	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_	_	_	_	_
+17	baking	baking	VBG	_	baking	bake	VBG	14	COORD	bake.01	_	_	_	_	_	_	_	_	_
+18	goodies	goodies	NNS	_	goodies	goody	NNS	17	OBJ	_	_	_	_	_	A1	_	_	_	_
+19	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_	_	_
+20	decorating	decorating	VBG	_	decorating	decorate	VBG	17	COORD	decorate.01	_	_	_	_	_	_	_	_	_
+21	our	our	PRP$	_	our	our	PRP$	22	NMOD	_	_	_	_	_	_	_	A0	_	_
+22	homes	homes	NNS	_	homes	home	NNS	20	OBJ	home.01	_	_	_	_	_	A1	A1	_	_
+23	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_	_	_	_
+24	making	making	VBG	_	making	make	VBG	23	CONJ	make.01	_	_	_	_	_	_	_	_	_
+25	arrangements	arrangements	NNS	_	arrangements	arrangement	NNS	24	OBJ	_	_	_	_	_	_	_	_	A1	_
+26	to	to	TO	_	to	to	TO	25	NMOD	_	_	_	_	_	_	_	_	_	_
+27	be	be	VB	_	be	be	VB	26	IM	be.01	_	_	_	_	_	_	_	_	_
+28	with	with	IN	_	with	with	IN	27	ADV	_	_	_	_	_	_	_	_	_	A2
+29	family	family	NN	_	family	family	NN	28	PMOD	_	_	_	_	_	_	_	_	_	_
+30	and	and	CC	_	and	and	CC	29	COORD	_	_	_	_	_	_	_	_	_	_
+31	friends	friends	NNS	_	friends	friend	NNS	30	CONJ	_	_	_	_	_	_	_	_	_	_
+32	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_	_	_
+
+1	This	this	DT	_	This	this	DT	2	SBJ	_	A1	_	_	_	_
+2	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_
+4	time	time	NN	_	time	time	NN	2	PRD	time.04	A2	A1	_	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	_	A2	_	_	_
+6	year	year	NN	_	year	year	NN	5	PMOD	_	_	_	_	_	_
+7	when	when	WRB	_	when	when	WRB	9	TMP	_	_	_	_	_	_
+8	we	we	PRP	_	we	we	PRP	9	SBJ	_	_	_	A0	A0	_
+9	give	give	VBP	_	give	give	VBP	4	NMOD	give.01	_	_	_	SU	_
+10	thanks	thanks	NNS	_	thanks	thanks	NNS	9	OBJ	thank.01	_	_	A1	_	_
+11	for	for	IN	_	for	for	IN	10	NMOD	_	_	_	_	A1	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_
+13	warmth	warmth	NN	_	warmth	warmth	NN	11	PMOD	_	_	_	_	_	A0
+14	and	and	CC	_	and	and	CC	13	COORD	_	_	_	_	_	_
+15	love	love	NN	_	love	love	NN	14	CONJ	_	_	_	_	_	_
+16	that	that	WDT	_	that	that	WDT	17	SBJ	_	_	_	_	_	_
+17	surrounds	surrounds	VBZ	_	surrounds	surround	VBZ	13	NMOD	surround.01	_	_	_	_	_
+18	us	us	PRP	_	us	us	PRP	17	OBJ	_	_	_	_	_	A1
+19	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	And	and	CC	_	And	and	CC	6	DEP	_	_	_	_	_
+2	this	this	DT	_	this	this	DT	3	NMOD	_	_	_	_	_
+3	time	time	NN	_	time	time	NN	6	SBJ	time.04	A1	A1	A0	_
+4	of	of	IN	_	of	of	IN	3	NMOD	_	A2	_	_	_
+5	year	year	NN	_	year	year	NN	4	PMOD	_	_	_	_	_
+6	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_
+7	an	an	DT	_	an	an	DT	8	NMOD	_	_	_	_	_
+8	occasion	occasion	NN	_	occasion	occasion	NN	6	PRD	_	_	A2	_	_
+9	to	to	TO	_	to	to	TO	8	NMOD	_	_	_	_	_
+10	remember	remember	VB	_	remember	remember	VB	9	IM	remember.01	_	_	_	_
+11	those	those	DT	_	those	those	DT	10	OBJ	_	_	_	A1	_
+12	not	not	RB	_	not	not	RB	14	AMOD	_	_	_	_	_
+13	as	as	RB	_	as	as	IN	14	AMOD	_	_	_	_	_
+14	fortunate	fortunate	JJ	_	fortunate	fortunate	JJ	11	APPO	_	_	_	_	_
+15	as	as	IN	_	as	as	IN	14	AMOD	_	_	_	_	_
+16	we	we	PRP	_	we	we	PRP	17	SBJ	_	_	_	_	A1
+17	are	are	VBP	_	are	be	VBP	15	SUB	be.01	_	_	_	_
+18	.	.	.	_	.	.	.	6	P	_	_	_	_	_
+
+1	Pleasant	pleasant	NNP	_	Pleasant	pleasant	NNP	2	NAME	_	_
+2	Run	run	NNP	_	Run	run	NNP	3	SBJ	_	A0
+3	cares	cares	VBZ	_	cares	care	VBZ	0	ROOT	care.01	_
+4	for	for	IN	_	for	for	IN	3	ADV	_	A1
+5	at-risk	at-risk	JJ	_	at	at	IN	7	HMOD	_	_
+6	_	_	_	_	-	-	HYPH	5	HYPH	_	_
+7	_	_	_	_	risk	risk	NN	8	NMOD	_	_
+8	children	children	NNS	_	children	child	NNS	4	PMOD	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_
+10	families	families	NNS	_	families	family	NNS	9	CONJ	_	_
+11	.	.	.	_	.	.	.	3	P	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	_	_	_	_	_	_	_
+2	do	do	VBP	_	do	do	VBP	0	ROOT	do.02	_	_	_	_	_	_	_	_
+3	this	this	DT	_	this	this	DT	2	OBJ	_	A1	_	_	_	_	_	_	_
+4	through	through	IN	_	through	through	IN	2	MNR	_	AM-MNR	_	_	_	_	_	_	_
+5	a	a	DT	_	a	a	DT	7	NMOD	_	_	_	_	_	_	_	_	_
+6	wide	wide	JJ	_	wide	wide	JJ	7	NMOD	_	_	_	_	_	_	_	_	_
+7	range	range	NN	_	range	range	NN	4	PMOD	range.01	_	_	_	_	_	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A1	_	_	_	_	_	_
+9	programs	programs	NNS	_	programs	program	NNS	8	PMOD	program.01	_	_	_	A0	_	_	_	_
+10	including	including	VBG	_	including	include	VBG	9	APPO	include.01	_	_	SU	_	_	_	_	_
+11	community	community	NN	_	community	community	NN	17	NMOD	_	_	_	_	_	A1	_	_	_
+12	-	-	HYPH	_	-	-	HYPH	11	AMOD	_	_	_	_	_	_	_	_	_
+13	based	based	VBN	_	based	base	VBN	11	NMOD	base.01	_	_	_	_	_	_	_	_
+14	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_	_
+15	therapeutic	therapeutic	JJ	_	therapeutic	therapeutic	JJ	17	NMOD	_	_	_	_	_	_	_	_	_
+16	foster	foster	NN	_	foster	foster	NN	17	NMOD	_	_	_	_	_	_	_	_	_
+17	care	care	NN	_	care	care	NN	10	OBJ	_	_	_	A1	A1	_	_	_	_
+18	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_	_
+19	group	group	VB	_	group	group	NN	20	NMOD	_	_	_	_	_	_	A0	_	_
+20	homes	homes	NNS	_	homes	home	NNS	17	COORD	home.01	_	_	_	_	_	A1	_	_
+21	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_	_	_
+22	our	our	PRP$	_	our	our	PRP$	24	NMOD	_	_	_	_	_	_	_	A1	A2
+23	treatment	treatment	NN	_	treatment	treatment	NN	24	NMOD	treatment.01	_	_	_	_	_	_	_	_
+24	center	center	NN	_	center	center	NN	21	CONJ	center.01	_	_	_	_	_	_	_	_
+25	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_
+
+1	Many	many	JJ	_	Many	many	DT	5	SBJ	_	A1	_	A0
+2	of	of	IN	_	of	of	IN	1	NMOD	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_
+4	children	children	NNS	_	children	child	NNS	2	PMOD	_	_	_	_
+5	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+6	victims	victims	NNS	_	victims	victim	NNS	5	PRD	victim.01	A2	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	A1	_
+8	abuse	abuse	NN	_	abuse	abuse	NN	7	PMOD	_	_	_	_
+9	or	or	CC	_	or	or	CC	5	COORD	_	_	_	_
+10	live	live	VBP	_	live	live	VBP	9	CONJ	live.02	_	_	_
+11	in	in	IN	_	in	in	IN	10	LOC	_	_	_	A1
+12	unstable	unstable	JJ	_	unstable	unstable	JJ	13	NMOD	_	_	_	_
+13	homes	homes	NNS	_	homes	home	NNS	11	PMOD	_	_	_	_
+14	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	Today	today	NN	_	Today	today	NN	3	TMP	_	AM-TMP	_	_	_	_	_	_	_	_
+2	we	we	PRP	_	we	we	PRP	3	SBJ	_	A1	A0	_	_	_	_	_	_	_
+3	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_	_	_	_
+4	asking	asking	VBG	_	asking	ask	VBG	3	VC	ask.01	A2	_	_	_	_	_	_	_	_
+5	you	you	PRP	_	you	you	PRP	4	OBJ	_	_	A1	A0	A0	A0	A0	A0	_	_
+6	to	to	TO	_	to	to	TO	4	OPRD	_	_	A3	_	_	_	_	_	_	_
+7	take	take	VB	_	take	take	VB	6	IM	take.18	_	_	_	_	_	_	_	_	_
+8	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_	_	_	_	_	_	_
+9	few	few	JJ	_	few	few	DT	10	NMOD	_	_	_	_	_	_	_	_	_	_
+10	minutes	minutes	NNS	_	minutes	minutes	NNS	7	OBJ	_	_	_	A1	_	_	_	_	_	_
+11	to	to	TO	_	to	to	TO	7	OPRD	_	_	_	A2	_	_	_	_	_	_
+12	consider	consider	VB	_	consider	consider	VB	11	IM	consider.02	_	_	_	_	_	_	_	_	_
+13	making	making	VBG	_	making	make	VBG	12	OPRD	make.01	_	_	_	A1	_	SU	_	_	_
+14	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_	_	_	_	_	_
+15	contribution	contribution	NN	_	contribution	contribution	NN	13	OBJ	contribution.01	_	_	_	_	A1	_	_	_	_
+16	to	to	TO	_	to	to	TO	15	NMOD	_	_	_	_	_	_	A1	_	_	_
+17	Pleasant	pleasant	NNP	_	Pleasant	pleasant	NNP	18	NAME	_	_	_	_	_	_	_	_	_	_
+18	Run	run	NNP	_	Run	run	NNP	16	PMOD	_	_	_	_	_	_	_	_	_	_
+19	to	to	TO	_	to	to	TO	13	PRP	_	_	_	_	_	_	_	_	_	_
+20	help	help	VB	_	help	help	VB	19	IM	help.01	_	_	_	_	_	_	_	_	_
+21	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_	_	_	_
+22	1,500	1,500	CD	_	1,500	1,500	CD	24	NMOD	_	_	_	_	_	_	_	_	_	_
+23	children	children	NNS	_	children	child	NNS	24	NMOD	_	_	_	_	_	_	_	_	A2	_
+24	families	families	NNS	_	families	family	NNS	20	OBJ	family.01	_	_	_	_	_	_	A1	_	_
+25	we	we	PRP	_	we	we	PRP	26	SBJ	_	_	_	_	_	_	_	_	_	A0
+26	care	care	VBP	_	care	care	VBP	24	NMOD	care.01	_	_	_	_	_	_	_	_	_
+27	for	for	IN	_	for	for	IN	26	ADV	_	_	_	_	_	_	_	_	_	A1
+28	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_	_	_
+
+1	Many	many	JJ	_	Many	many	DT	5	SBJ	_	A0	_
+2	of	of	IN	_	of	of	IN	1	NMOD	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_
+4	children	children	NNS	_	children	child	NNS	2	PMOD	_	_	_
+5	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_
+6	no	no	DT	_	no	no	DT	7	NMOD	_	_	_
+7	homes	homes	NNS	_	homes	home	NNS	10	NMOD	_	_	_
+8	;	;	:	_	;	;	:	10	P	_	_	_
+9	no	no	DT	_	no	no	DT	10	NMOD	_	_	_
+10	memories	memories	NNS	_	memories	memory	NNS	5	OBJ	memory.02	_	A2
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_	A1
+12	joy	joy	NN	_	joy	joy	NN	11	PMOD	_	_	_
+13	from	from	IN	_	from	from	IN	10	NMOD	_	_	_
+14	past	past	JJ	_	past	past	JJ	15	NMOD	_	_	_
+15	holidays	holidays	NNS	_	holidays	holiday	NNS	13	PMOD	_	_	_
+16	.	.	.	_	.	.	.	5	P	_	_	_
+
+1	Others	others	NNS	_	Others	others	NNS	2	SBJ	_	A1	_	_	_	_	_	_	_
+2	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_	_	_
+3	from	from	IN	_	from	from	IN	2	PRD	_	A2	_	_	_	_	_	_	_
+4	families	families	NNS	_	families	family	NNS	3	PMOD	_	_	A1	A0	A0	A0	A0	A2	_
+5	that	that	WDT	_	that	that	WDT	6	SBJ	_	_	_	_	_	_	_	_	_
+6	are	are	VBP	_	are	be	VBP	4	NMOD	be.01	_	_	_	_	_	_	_	_
+7	struggling	struggling	VBG	_	struggling	struggle	VBG	6	VC	struggle.02	_	A2	_	_	_	_	_	_
+8	to	to	TO	_	to	to	TO	7	OPRD	_	_	_	A1	_	_	_	_	_
+9	provide	provide	VB	_	provide	provide	VB	8	IM	provide.01	_	_	_	_	_	_	_	_
+10	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_	_	_	_	_
+11	healthy	healthy	JJ	_	healthy	healthy	JJ	14	NMOD	_	_	_	_	_	_	_	_	_
+12	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_	_	_	_
+13	happy	happy	JJ	_	happy	happy	JJ	14	NMOD	_	_	_	_	_	_	_	_	_
+14	environment	environment	NN	_	environment	environment	NN	9	OBJ	_	_	_	_	A1	_	_	_	_
+15	but	but	CC	_	but	but	CC	6	COORD	_	_	_	_	_	_	_	_	_
+16	do	do	VBP	_	do	do	VBP	15	CONJ	do.02	_	_	_	_	_	_	_	_
+17	n't	not	RB	_	n't	not	RB	16	ADV	_	_	_	_	_	_	_	_	_
+18	have	have	VB	_	have	have	VB	16	VC	have.04	_	_	_	_	A1	_	SU	_
+19	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_	_	_	_	_	_
+20	resources	resources	NNS	_	resources	resource	NNS	18	OBJ	resource.01	_	_	_	_	_	A1	_	A0
+21	to	to	TO	_	to	to	TO	20	NMOD	_	_	_	_	_	_	_	_	_
+22	make	make	VB	_	make	make	VB	21	IM	make.08	_	_	_	_	_	_	_	_
+23	it	it	PRP	_	it	it	PRP	22	OBJ	_	_	_	_	_	_	_	_	_
+24	possible	possible	JJ	_	possible	possible	JJ	22	OPRD	_	_	_	_	_	_	_	_	A2
+25	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_
+
+1	Your	your	PRP$	_	Your	your	PRP$	2	NMOD	_	A0	_	_	_
+2	contribution	contribution	NN	_	contribution	contribution	NN	3	SBJ	contribution.01	_	A0	A0	_
+3	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_	_
+4	make	make	VB	_	make	make	VB	3	VC	make.01	_	_	SU	_
+5	a	a	DT	_	a	a	DT	6	NMOD	_	_	_	_	_
+6	difference	difference	NN	_	difference	difference	NN	4	OBJ	difference.01	_	A1	_	_
+7	in	in	IN	_	in	in	IN	6	NMOD	_	_	_	A1	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_	_
+9	child	child	NN	_	child	child	NN	11	NMOD	_	_	_	_	A1
+10	's	's	POS	_	's	's	POS	9	SUFFIX	_	_	_	_	_
+11	life	life	NN	_	life	life	NN	7	PMOD	life.02	_	_	_	A2
+12	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	A0	_
+2	may	may	MD	_	may	may	MD	0	ROOT	_	_	_
+3	help	help	VB	_	help	help	VB	2	VC	help.01	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_
+5	family	family	NN	_	family	family	NN	3	OBJ	_	_	A0
+6	stay	stay	VB	_	stay	stay	VB	3	OPRD	stay.03	A1	_
+7	together	together	RB	_	together	together	RB	6	ADV	_	_	AM-MNR
+8	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	A0	_
+2	can	can	MD	_	can	can	MD	0	ROOT	_	_	_
+3	certainly	certainly	RB	_	certainly	certainly	RB	2	ADV	_	_	_
+4	make	make	VB	_	make	make	VB	2	VC	make.01	_	_
+5	happy	happy	JJ	_	happy	happy	JJ	7	NMOD	_	_	_
+6	holiday	holiday	NN	_	holiday	holiday	NN	7	NMOD	_	_	A1
+7	memories	memories	NNS	_	memories	memory	NNS	4	OBJ	memory.02	A1	A2
+8	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	A	a	DT	_	A	a	DT	2	NMOD	_	_	_	_	_	_
+2	gift	gift	NN	_	gift	gift	NN	6	SBJ	gift.01	_	A0	_	_	_
+3	to	to	TO	_	to	to	TO	2	NMOD	_	A2	_	_	_	_
+4	Pleasant	pleasant	NNP	_	Pleasant	pleasant	NNP	5	NAME	_	_	_	_	_	_
+5	Run	run	NNP	_	Run	run	NNP	3	PMOD	_	_	_	_	_	_
+6	means	means	VBZ	_	means	mean	VBZ	0	ROOT	mean.01	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_
+8	children	children	NNS	_	children	child	NNS	12	SBJ	_	_	_	_	A0	_
+9	in	in	IN	_	in	in	IN	8	NMOD	_	_	_	_	_	_
+10	our	our	PRP$	_	our	our	PRP$	11	NMOD	_	_	_	A0	_	_
+11	care	care	NN	_	care	care	NN	9	PMOD	care.01	_	_	_	_	_
+12	will	will	MD	_	will	will	MD	6	OBJ	_	_	_	_	_	_
+13	have	have	VB	_	have	have	VB	12	VC	have.04	_	_	SU	_	_
+14	presents	presents	NNS	_	presents	present	NNS	13	OBJ	_	_	_	A1	A1	A0
+15	to	to	TO	_	to	to	TO	14	NMOD	_	_	_	_	_	_
+16	open	open	VB	_	open	open	VB	15	IM	open.01	_	_	_	_	_
+17	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_
+
+1	A	a	DT	_	A	a	DT	2	NMOD	_	_	_	_
+2	gift	gift	NN	_	gift	gift	NN	3	SBJ	_	A0	_	_
+3	means	means	VBZ	_	means	mean	VBZ	0	ROOT	mean.01	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_
+5	family	family	NN	_	family	family	NN	6	SBJ	_	_	A0	_
+6	will	will	MD	_	will	will	MD	3	OBJ	_	_	_	_
+7	have	have	VB	_	have	have	VB	6	VC	have.04	_	_	_
+8	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_
+9	holiday	holiday	NN	_	holiday	holiday	NN	10	NMOD	_	_	_	_
+10	meal	meal	NN	_	meal	meal	NN	7	OBJ	_	_	A1	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_
+12	cooking	cooking	NN	_	cooking	cooking	NN	13	NMOD	_	_	_	_
+13	utensils	utensils	NNS	_	utensils	utensil	NNS	10	COORD	_	_	_	_
+14	to	to	TO	_	to	to	TO	13	NMOD	_	_	_	_
+15	prepare	prepare	VB	_	prepare	prepare	VB	14	IM	_	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_
+17	meal	meal	NN	_	meal	meal	NN	15	OBJ	_	_	_	_
+18	and	and	CC	_	and	and	CC	13	COORD	_	_	_	_
+19	dishes	dishes	NNS	_	dishes	dish	NNS	18	CONJ	_	_	_	A0
+20	to	to	TO	_	to	to	TO	19	NMOD	_	_	_	_
+21	serve	serve	VB	_	serve	serve	VB	20	IM	serve.02	_	_	_
+22	it	it	PRP	_	it	it	PRP	21	OBJ	_	_	_	A1
+23	on	on	IN	_	on	on	IN	21	ADV	_	_	_	A2
+24	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	Your	your	PRP$	_	Your	your	PRP$	2	NMOD	_	A0	_	_
+2	gift	gift	NN	_	gift	gift	NN	3	SBJ	gift.01	_	A1	_
+3	will	will	MD	_	will	will	MD	0	ROOT	_	_	_	_
+4	go	go	VB	_	go	go	VB	3	VC	go.01	_	_	_
+5	beyond	beyond	IN	_	beyond	beyond	IN	4	DIR	_	_	A2	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+7	holiday	holiday	NN	_	holiday	holiday	NN	8	NMOD	_	_	_	A1
+8	season	season	NN	_	season	season	NN	5	PMOD	season.01	_	_	_
+9	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	A0	A0	_
+2	can	can	MD	_	can	can	MD	0	ROOT	_	_	_	_
+3	help	help	VB	_	help	help	VB	2	VC	help.01	_	_	_
+4	purchase	purchase	VB	_	purchase	purchase	VB	3	OPRD	purchase.01	A1	_	_
+5	clothing	clothing	NN	_	clothing	clothing	NN	4	OBJ	_	_	A1	_
+6	,	,	,	_	,	,	,	5	P	_	_	_	_
+7	school	school	NN	_	school	school	NN	8	NMOD	_	_	_	A1
+8	supplies	supplies	NNS	_	supplies	supply	NNS	5	COORD	supply.01	_	_	_
+9	,	,	,	_	,	,	,	8	P	_	_	_	_
+10	books	books	NNS	_	books	book	NNS	8	COORD	_	_	_	_
+11	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_
+12	educational	educational	JJ	_	educational	educational	JJ	13	NMOD	_	_	_	_
+13	tools	tools	NNS	_	tools	tool	NNS	11	CONJ	_	_	_	_
+14	throughout	throughout	IN	_	throughout	throughout	IN	4	TMP	_	_	AM-TMP	_
+15	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_
+16	year	year	NN	_	year	year	NN	14	PMOD	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_
+2	take	take	VB	_	take	take	VB	0	ROOT	take.18	_	_
+3	a	a	DT	_	a	a	DT	5	NMOD	_	_	_
+4	few	few	JJ	_	few	few	DT	5	NMOD	_	_	_
+5	minutes	minutes	NNS	_	minutes	minutes	NNS	2	OBJ	_	A1	_
+6	to	to	TO	_	to	to	TO	2	OPRD	_	A2	_
+7	mail	mail	VB	_	mail	mail	VB	6	IM	mail.01	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_
+9	donation	donation	NN	_	donation	donation	NN	7	OBJ	_	_	A1
+10	to	to	TO	_	to	to	TO	7	DTV	_	_	A2
+11	Pleasant	pleasant	NNP	_	Pleasant	pleasant	NNP	12	NAME	_	_	_
+12	run	run	NNP	_	run	run	NNP	10	PMOD	_	_	_
+13	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	Let	let	VB	_	Let	let	VB	0	ROOT	let.01	_	_	_	_	_	_	_	_
+2	our	our	PRP$	_	our	our	PRP$	3	NMOD	_	_	A2	_	_	_	_	_	_
+3	families	families	NNS	_	families	family	NNS	1	OBJ	family.01	_	_	A0	_	_	_	_	_
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_	_	_	_	_
+5	children	children	NNS	_	children	child	NNS	4	CONJ	_	_	_	_	_	_	_	_	_
+6	know	know	VB	_	know	know	VB	1	OPRD	know.01	A1	_	_	_	_	_	_	_
+7	that	that	IN	_	that	that	IN	6	OBJ	_	_	_	A1	_	_	_	_	_
+8	you	you	PRP	_	you	you	PRP	9	SBJ	_	_	_	_	A0	_	_	_	_
+9	want	want	VBP	_	want	want	VBP	7	SUB	want.01	_	_	_	_	_	_	_	_
+10	them	them	PRP	_	them	them	PRP	9	OBJ	_	_	_	_	_	A0	_	_	_
+11	to	to	TO	_	to	to	TO	9	OPRD	_	_	_	_	A1	_	_	_	_
+12	have	have	VB	_	have	have	VB	11	IM	have.03	_	_	_	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_	_	_	_
+14	same	same	JJ	_	same	same	JJ	15	NMOD	_	_	_	_	_	_	_	_	_
+15	kinds	kinds	NNS	_	kinds	kind	NNS	12	OBJ	kind.02	_	_	_	_	A1	_	_	A1
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	_	_	A1	_	_
+17	memories	memories	NNS	_	memories	memory	NNS	16	PMOD	memory.02	_	_	_	_	_	_	A2	_
+18	of	of	IN	_	of	of	IN	17	NMOD	_	_	_	_	_	_	_	A1	_
+19	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_	_	_	_	_	_
+20	holidays	holidays	NNS	_	holidays	holiday	NNS	18	PMOD	_	_	_	_	_	_	_	_	_
+21	you	you	PRP	_	you	you	PRP	22	SBJ	_	_	_	_	_	_	_	_	A0
+22	will	will	MD	_	will	will	MD	15	NMOD	_	_	_	_	_	_	_	_	_
+23	have	have	VB	_	have	have	VB	22	VC	have.04	_	_	_	_	_	_	_	_
+24	.	.	.	_	.	.	.	1	P	_	_	_	_	_	_	_	_	_
+
+1	We	we	PRP	_	We	we	PRP	2	SBJ	_	A0	_	_
+2	wish	wish	VBP	_	wish	wish	VBP	0	ROOT	wish.01	_	_	_
+3	you	you	PRP	_	you	you	PRP	2	OBJ	_	A2	_	_
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_
+5	your	your	PRP$	_	your	your	PRP$	6	NMOD	_	_	A2	_
+6	family	family	NN	_	family	family	NN	4	CONJ	family.01	_	_	_
+7	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_
+8	new	new	JJ	_	new	new	JJ	9	NMOD	_	_	_	AM-TMP
+9	year	year	NN	_	year	year	NN	2	OBJ	year.04	AM-TMP	_	A2
+10	full	full	JJ	_	full	full	JJ	9	APPO	_	_	_	_
+11	of	of	IN	_	of	of	IN	10	AMOD	_	_	_	_
+12	joy	joy	NN	_	joy	joy	NN	11	PMOD	_	_	_	_
+13	and	and	CC	_	and	and	CC	12	COORD	_	_	_	_
+14	love	love	NN	_	love	love	NN	13	CONJ	_	_	_	_
+15	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	6	MNR	_
+2	,	,	,	_	,	,	,	6	P	_
+3	Mary	mary	NNP	_	Mary	mary	NNP	6	NAME	_
+4	Roth	roth	NNP	_	Roth	roth	NNP	6	NAME	_
+5	Executive	executive	NNP	_	Executive	executive	NNP	6	NAME	_
+6	Director	director	NNP	_	Director	director	NNP	0	ROOT	_
+

@@ -1,0 +1,332 @@
+
+1	June	june	NNP	_	June	june	NNP	2	NMOD	_
+2	1	1	CD	_	1	1	CD	4	NMOD	_
+3	,	,	,	_	,	,	,	4	P	_
+4	1998	1998	CD	_	1998	1998	CD	0	ROOT	_
+
+1	BOYS	boys	NNPS	_	BOYS	boy	NNPS	3	NAME	_
+2	&	&	CC	_	&	&	NNP	3	NAME	_
+3	Girls	girls	NNPS	_	Girls	girl	NNPS	4	NMOD	_
+4	Club	club	NNP	_	Club	club	NNP	0	ROOT	_
+5	OF	of	IN	_	OF	of	IN	4	NMOD	_
+6	INDIANAPOLIS	indianapolis	NNP	_	INDIANAPOLIS	indianapolis	NNP	5	PMOD	_
+
+1	Dear	dear	JJ	_	Dear	dear	JJ	2	NMOD	_
+2	Friend	friend	NN	_	Friend	friend	NN	0	ROOT	_
+3	,	,	.	_	,	,	.	2	P	_
+
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	_	_
+2	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_
+3	summertime	summertime	NN	_	summertime	summertime	NN	2	PRD	_	_	_
+4	,	,	,	_	,	,	,	2	P	_	_	_
+5	so	so	CC	_	so	so	CC	2	COORD	_	_	_
+6	it	it	PRP	_	it	it	PRP	7	SBJ	_	A1	_
+7	must	must	MD	_	must	must	MD	5	CONJ	_	_	_
+8	be	be	VB	_	be	be	VB	7	VC	be.01	_	_
+9	time	time	NN	_	time	time	NN	8	PRD	time.06	A2	_
+10	for	for	IN	_	for	for	IN	9	NMOD	_	_	A1
+11	CAMP	camp	NN	_	CAMP	camp	NN	10	PMOD	_	_	_
+12	!	!	.	_	!	!	.	2	P	_	_	_
+
+1	Yes	yes	UH	_	Yes	yes	UH	4	DEP	_	_	_
+2	,	,	,	_	,	,	,	4	P	_	_	_
+3	it	it	PRP	_	it	it	PRP	4	SBJ	_	_	_
+4	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_
+5	that	that	DT	_	that	that	DT	6	NMOD	_	_	_
+6	time	time	NN	_	time	time	NN	4	PRD	time.04	A1	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	A2	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	year	year	NN	_	year	year	NN	7	PMOD	_	_	_
+10	--	--	:	_	--	--	:	6	P	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_
+12	start	start	NN	_	start	start	NN	6	APPO	start.02	_	A2
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	A1
+14	the	the	DT	_	the	the	DT	18	NMOD	_	_	_
+15	Boys	boys	NNPS	_	Boys	boy	NNPS	17	NAME	_	_	_
+16	&	&	CC	_	&	&	NNP	17	NAME	_	_	_
+17	Girls	girls	NNPS	_	Girls	girl	NNPS	18	NMOD	_	_	_
+18	clubs	clubs	NNPS	_	clubs	club	NNPS	22	NMOD	_	_	_
+19	of	of	IN	_	of	of	IN	18	NMOD	_	_	_
+20	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	19	PMOD	_	_	_
+21	'	'	POS	_	'	'	POS	18	SUFFIX	_	_	_
+22	Camp	camp	NNP	_	Camp	camp	NNP	13	PMOD	_	_	_
+23	.	.	.	_	.	.	.	4	P	_	_	_
+
+1	Six	six	CD	_	Six	six	CD	2	NMOD	_	_
+2	weeks	weeks	NNS	_	weeks	week	NNS	0	ROOT	week.03	A2
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1
+4	learning	learning	NN	_	learning	learning	NN	3	PMOD	_	_
+5	and	and	CC	_	and	and	CC	4	COORD	_	_
+6	exploring	exploring	NN	_	exploring	exploring	NN	5	CONJ	_	_
+7	,	,	,	_	,	,	,	4	P	_	_
+8	sports	sports	NNS	_	sports	sport	NNS	4	NMOD	_	_
+9	,	,	,	_	,	,	,	8	P	_	_
+10	arts	arts	NNS	_	arts	arts	NNS	8	COORD	_	_
+11	,	,	,	_	,	,	,	10	P	_	_
+12	and	and	CC	_	and	and	CC	10	COORD	_	_
+13	fellowship	fellowship	NN	_	fellowship	fellowship	NN	12	CONJ	_	_
+14	.	.	.	_	.	.	.	2	P	_	_
+
+1	A	a	DT	_	A	a	DT	2	NMOD	_	_	_	_	_	_
+2	time	time	NN	_	time	time	NN	0	ROOT	_	_	_	_	_	_
+3	for	for	IN	_	for	for	IN	2	NMOD	_	_	_	_	_	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_	_	_
+5	youngster	youngster	NN	_	youngster	youngster	NN	6	SBJ	_	A0	_	_	_	A0
+6	to	to	TO	_	to	to	TO	3	SUB	_	_	_	_	_	_
+7	enjoy	enjoy	VB	_	enjoy	enjoy	VB	6	IM	enjoy.01	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_
+9	fun	fun	NN	_	fun	fun	NN	7	OBJ	fun.01	A1	_	_	_	_
+10	and	and	CC	_	and	and	CC	9	COORD	_	_	_	_	_	_
+11	benefits	benefits	NNS	_	benefits	benefit	NNS	10	CONJ	_	_	_	_	_	_
+12	of	of	IN	_	of	of	IN	9	NMOD	_	_	A1	_	_	_
+13	residential	residential	JJ	_	residential	residential	JJ	15	NMOD	_	_	_	_	_	_
+14	camp	camp	NN	_	camp	camp	NN	15	NMOD	_	_	_	_	_	_
+15	living	living	NN	_	living	living	NN	12	PMOD	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_
+17	dedicated	dedicated	JJ	_	dedicated	dedicate	VBN	18	NMOD	dedicate.01	_	_	_	_	_
+18	staff	staff	NN	_	staff	staff	NN	9	APPO	_	_	_	A1	_	_
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_
+20	instruction	instruction	NN	_	instruction	instruction	NN	19	CONJ	_	_	_	_	_	_
+21	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_
+23	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_	_	_
+24	chance	chance	NN	_	chance	chance	NN	22	CONJ	chance.01	_	_	_	_	_
+25	to	to	TO	_	to	to	TO	24	NMOD	_	_	_	_	A2	_
+26	make	make	VB	_	make	make	VB	25	IM	make.12	_	_	_	_	_
+27	special	special	JJ	_	special	special	JJ	28	NMOD	_	_	_	_	_	_
+28	friends	friends	NNS	_	friends	friend	NNS	26	OBJ	_	_	_	_	_	A1
+29	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	I	i	PRP	_	I	i	PRP	2	SBJ	_	A0	_	_	_	_
+2	know	know	VBP	_	know	know	VBP	0	ROOT	know.01	_	_	_	_	_
+3	you	you	PRP	_	you	you	PRP	4	SBJ	_	_	A0	A0	_	_
+4	're	're	VBP	_	're	're	VBP	2	OBJ	_	A1	_	_	_	_
+5	committed	committed	VBN	_	committed	commit	VBN	4	VC	commit.01	_	_	_	_	_
+6	to	to	TO	_	to	to	TO	5	ADV	_	_	A2	_	_	_
+7	ensuring	ensuring	VBG	_	ensuring	ensure	VBG	6	PMOD	ensure.01	_	_	_	_	_
+8	today	today	NN	_	today	today	NN	10	NMOD	_	_	_	_	_	_
+9	's	's	POS	_	's	's	POS	8	SUFFIX	_	_	_	_	_	_
+10	children	children	NNS	_	children	child	NNS	11	SBJ	_	_	_	_	A0	_
+11	have	have	VBP	_	have	have	VBP	7	OBJ	have.04	_	_	A1	_	_
+12	safe	safe	JJ	_	safe	safe	JJ	19	NMOD	_	_	_	_	_	_
+13	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_
+14	healthy	healthy	JJ	_	healthy	healthy	JJ	12	COORD	_	_	_	_	_	_
+15	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_
+16	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_	_	_
+17	positive	positive	JJ	_	positive	positive	JJ	16	CONJ	_	_	_	_	_	_
+18	summer	summer	NN	_	summer	summer	NN	19	NMOD	_	_	_	_	_	A1
+19	experiences	experiences	NNS	_	experiences	experience	NNS	11	OBJ	experience.01	_	_	_	A1	_
+20	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	That	that	DT	_	That	that	DT	2	SBJ	_	_	_
+2	's	's	VBZ	_	's	be	VBZ	0	ROOT	_	_	_
+3	why	why	WRB	_	why	why	WRB	5	PRP	_	_	_
+4	I	i	PRP	_	I	i	PRP	5	SBJ	_	A0	_
+5	want	want	VBP	_	want	want	VBP	2	PRD	want.01	_	_
+6	you	you	PRP	_	you	you	PRP	5	OBJ	_	_	A0
+7	to	to	TO	_	to	to	TO	5	OPRD	_	A1	_
+8	learn	learn	VB	_	learn	learn	VB	7	IM	learn.01	_	_
+9	more	more	JJR	_	more	more	DT	8	OBJ	_	_	A1
+10	about	about	IN	_	about	about	IN	9	NMOD	_	_	_
+11	the	the	DT	_	the	the	DT	15	NMOD	_	_	_
+12	Super	super	NNP	_	Super	super	NNP	15	NAME	_	_	_
+13	Summer	summer	NNP	_	Summer	summer	NNP	15	NAME	_	_	_
+14	Safari	safari	NNP	_	Safari	safari	NNP	15	NAME	_	_	_
+15	Camp	camp	NNP	_	Camp	camp	NNP	10	PMOD	_	_	_
+16	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	At	at	IN	_	At	at	IN	8	LOC	_	AM-LOC	_	_
+2	Super	super	NNP	_	Super	super	NNP	5	NAME	_	_	_	_
+3	Summer	summer	NNP	_	Summer	summer	NNP	5	NAME	_	_	_	_
+4	Safari	safari	NNP	_	Safari	safari	NNP	5	NAME	_	_	_	_
+5	Camp	camp	NNP	_	Camp	camp	NNP	1	PMOD	_	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_	_
+7	there	there	EX	_	there	there	EX	8	SBJ	_	_	_	_
+8	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_
+9	daily	daily	JJ	_	daily	daily	JJ	16	NMOD	_	_	AM-TMP	AM-TMP
+10	sports	sports	NNS	_	sports	sport	NNS	16	NMOD	_	_	_	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_
+12	nature	nature	NN	_	nature	nature	NN	10	COORD	nature.01	_	A1	_
+13	,	,	,	_	,	,	,	12	P	_	_	_	_
+14	and	and	CC	_	and	and	CC	12	COORD	_	_	_	_
+15	arts	arts	NNS	_	arts	arts	NNS	14	CONJ	art.02	_	_	A1
+16	activities	activities	NNS	_	activities	activity	NNS	8	PRD	_	A1	_	_
+17	.	.	.	_	.	.	.	8	P	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	23	ADV	_	_	_	_	_	_	AM-LOC	_	_
+2	addition	addition	NN	_	addition	addition	NN	1	PMOD	addition.01	_	_	_	_	_	_	_	_
+3	to	to	TO	_	to	to	TO	2	NMOD	_	A2	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_	_
+5	fun	fun	NN	_	fun	fun	NN	6	NMOD	_	_	A1	_	_	_	_	_	_
+6	stuff	stuff	NN	_	stuff	stuff	NN	3	PMOD	stuff.01	_	A2	_	_	_	_	_	_
+7	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_	_	_	_
+8	important	important	JJ	_	important	important	JJ	11	NMOD	_	_	_	_	_	_	_	_	_
+9	life-skills	life-skills	NN	_	life	life	NN	11	HMOD	life.02	_	_	_	A1	_	_	_	_
+10	_	_	_	_	-	-	HYPH	9	HYPH	_	_	_	_	_	_	_	_	_
+11	_	_	_	_	skills	skill	NNS	23	SBJ	skill.01	_	_	A2	_	_	A1	A1	A1
+12	such	such	JJ	_	such	such	JJ	13	DEP	_	_	_	_	_	_	_	_	_
+13	as	as	IN	_	as	as	IN	11	NMOD	_	_	_	_	_	_	_	_	_
+14	self-esteem	self-esteem	NN	_	self	self	NN	16	HMOD	_	_	_	_	_	A1	_	_	_
+15	_	_	_	_	-	-	HYPH	14	HYPH	_	_	_	_	_	_	_	_	_
+16	_	_	_	_	esteem	esteem	NN	13	PMOD	esteem.01	_	_	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_	_	_
+18	leadership	leadership	NN	_	leadership	leadership	NN	16	COORD	_	_	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_	_	_
+20	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_	_	_	_
+21	interpersonal	interpersonal	JJ	_	interpersonal	interpersonal	JJ	22	NMOD	_	_	_	_	_	_	_	_	_
+22	cooperation	cooperation	NN	_	cooperation	cooperation	NN	20	CONJ	_	_	_	_	_	_	_	_	_
+23	are	are	VBP	_	are	be	VBP	0	ROOT	be.01	_	_	_	_	_	_	_	_
+24	being	being	VBG	_	being	be	VBG	23	VC	be.01	_	_	_	_	_	A2	_	_
+25	developed	developed	VBN	_	developed	develop	VBN	24	VC	develop.01	_	_	_	_	_	_	A2	_
+26	.	.	.	_	.	.	.	23	P	_	_	_	_	_	_	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_	_	_
+2	read	read	VB	_	read	read	VB	0	ROOT	read.01	_	_	SU	_
+3	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+4	enclosed	enclosed	VBN	_	enclosed	enclose	VBN	5	NMOD	enclose.01	_	_	_	_
+5	brochure	brochure	NN	_	brochure	brochure	NN	2	OBJ	brochure.01	A1	A1	_	_
+6	for	for	IN	_	for	for	IN	2	PRP	_	_	_	_	_
+7	more	more	JJR	_	more	more	DT	8	NMOD	_	_	_	_	_
+8	information	information	NN	_	information	information	NN	6	PMOD	information.01	_	_	_	_
+9	on	on	IN	_	on	on	IN	8	NMOD	_	_	_	_	A1
+10	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_
+11	wonderful	wonderful	JJ	_	wonderful	wonderful	JJ	15	NMOD	_	_	_	_	_
+12	Super	super	NNP	_	Super	super	NNP	15	NAME	_	_	_	_	_
+13	Summer	summer	NNP	_	Summer	summer	NNP	15	NAME	_	_	_	_	_
+14	Safari	safari	NNP	_	Safari	safari	NNP	15	NAME	_	_	_	_	_
+15	Camp	camp	NNP	_	Camp	camp	NNP	9	PMOD	_	_	_	_	_
+16	!	!	.	_	!	!	.	2	P	_	_	_	_	_
+
+1	It	it	PRP	_	It	it	PRP	2	SBJ	_	A1	_
+2	costs	costs	VBZ	_	costs	cost	VBZ	0	ROOT	cost.01	_	_
+3	$	$	$	_	$	$	$	2	OBJ	_	A2	_
+4	225	225	CD	_	225	225	CD	3	NMOD	_	_	_
+5	to	to	TO	_	to	to	TO	2	EXTR	_	_	_
+6	send	send	VB	_	send	send	VB	5	IM	send.02	_	_
+7	one	one	CD	_	one	one	CD	8	NMOD	_	_	_
+8	child	child	NN	_	child	child	NN	6	OBJ	_	_	A1
+9	to	to	TO	_	to	to	TO	6	DIR	_	_	A2
+10	camp	camp	NN	_	camp	camp	NN	9	PMOD	_	_	_
+11	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	Many	many	JJ	_	Many	many	DT	2	NMOD	_	_	_	_	_	_
+2	members	members	NNS	_	members	member	NNS	11	SBJ	member.01	_	A0	A0	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_	_	_
+4	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_
+5	Boys	boys	NNPS	_	Boys	boy	NNPS	7	NAME	_	_	_	_	_	_
+6	&	&	CC	_	&	&	NNP	7	NAME	_	_	_	_	_	_
+7	Girls	girls	NNPS	_	Girls	girl	NNPS	8	NMOD	_	_	_	_	_	_
+8	Clubs	clubs	NNPS	_	Clubs	club	NNPS	3	PMOD	_	_	_	_	_	_
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	_	_	_	_
+10	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	9	PMOD	_	_	_	_	_	_
+11	ca	ca	MD	_	ca	ca	MD	0	ROOT	_	_	_	_	_	_
+12	n't	not	RB	_	n't	not	RB	11	ADV	_	_	_	_	_	_
+13	afford	afford	VB	_	afford	afford	VB	11	VC	afford.01	_	_	_	_	_
+14	to	to	TO	_	to	to	TO	13	OPRD	_	_	A1	_	_	_
+15	go	go	VB	_	go	go	VB	14	IM	go.03	_	_	_	_	_
+16	to	to	TO	_	to	to	TO	15	DIR	_	_	_	A1	_	_
+17	camp	camp	NN	_	camp	camp	NN	16	PMOD	_	_	_	_	_	_
+18	without	without	IN	_	without	without	IN	15	MNR	_	_	_	AM-MNR	_	_
+19	financial	financial	JJ	_	financial	financial	JJ	20	NMOD	_	_	_	_	A0	_
+20	assistance	assistance	NN	_	assistance	assistance	NN	18	PMOD	assistance.01	_	_	_	_	_
+21	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_
+23	that	that	DT	_	that	that	DT	24	SBJ	_	_	_	_	_	_
+24	's	's	VBZ	_	's	be	VBZ	22	CONJ	_	_	_	_	_	_
+25	why	why	WRB	_	why	why	WRB	27	PRP	_	_	_	_	_	_
+26	we	we	PRP	_	we	we	PRP	27	SBJ	_	_	_	_	_	A0
+27	need	need	VBP	_	need	need	VBP	24	PRD	need.01	_	_	_	_	_
+28	you	you	PRP	_	you	you	PRP	27	OBJ	_	_	_	_	_	A1
+29	!	!	.	_	!	!	.	11	P	_	_	_	_	_	_
+
+1	Please	please	UH	_	Please	please	UH	2	DEP	_	_	_	_
+2	make	make	VB	_	make	make	VB	0	ROOT	make.08	_	_	_
+3	camp	camp	NN	_	camp	camp	NN	2	OBJ	_	_	_	_
+4	possible	possible	JJ	_	possible	possible	JJ	2	OPRD	_	A2	_	_
+5	for	for	IN	_	for	for	IN	4	AMOD	_	_	_	_
+6	all	all	DT	_	all	all	DT	9	NMOD	_	_	_	_
+7	deserving	deserving	VBG	_	deserving	deserve	VBG	9	NMOD	_	_	_	_
+8	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	9	NMOD	_	_	_	_
+9	children	children	NNS	_	children	child	NNS	5	PMOD	_	_	_	_
+10	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_
+11	send	send	VB	_	send	send	VB	10	CONJ	send.02	_	_	_
+12	in	in	RB	_	in	in	RB	11	DIR	_	_	A2	_
+13	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_
+14	tax	tax	NN	_	tax	tax	NN	16	NMOD	_	_	_	_
+15	deductible	deductible	JJ	_	deductible	deductible	JJ	14	AMOD	_	_	_	_
+16	contribution	contribution	NN	_	contribution	contribution	NN	11	OBJ	_	_	A1	_
+17	today	today	NN	_	today	today	NN	11	TMP	_	_	AM-TMP	_
+18	in	in	IN	_	in	in	IN	11	LOC	_	_	AM-LOC	_
+19	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_
+20	enclosed	enclosed	VBN	_	enclosed	enclose	VBN	21	NMOD	enclose.01	_	_	_
+21	envelope	envelope	NN	_	envelope	envelope	NN	18	PMOD	_	_	_	A1
+22	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Consider	consider	VB	_	Consider	consider	VB	0	ROOT	consider.02	_	_
+2	sponsoring	sponsoring	VBG	_	sponsoring	sponsor	VBG	1	OPRD	sponsor.01	A1	_
+3	1	1	CD	_	1	1	CD	9	NMOD	_	_	_
+4	,	,	,	_	,	,	,	3	P	_	_	_
+5	2	2	CD	_	2	2	CD	3	COORD	_	_	_
+6	,	,	,	_	,	,	,	5	P	_	_	_
+7	or	or	CC	_	or	or	CC	5	COORD	_	_	_
+8	3	3	CD	_	3	3	CD	7	CONJ	_	_	_
+9	children	children	NNS	_	children	child	NNS	2	OBJ	_	_	A1
+10	.	.	.	_	.	.	.	1	P	_	_	_
+
+1	No	no	DT	_	No	no	DT	2	AMOD	_	_	_	_	_	_	_	_
+2	matter	matter	NN	_	matter	matter	NN	10	ADV	_	_	_	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_	_	_
+4	size	size	NN	_	size	size	NN	2	AMOD	size.01	A2	_	_	_	_	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A1	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_	_
+7	donation	donation	NN	_	donation	donation	NN	5	PMOD	_	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_	_
+9	please	please	UH	_	please	please	UH	10	DEP	_	_	_	_	_	_	_	_
+10	know	know	VB	_	know	know	VB	0	ROOT	know.01	_	_	_	_	_	_	_
+11	that	that	IN	_	that	that	IN	10	OBJ	_	_	A1	_	_	_	_	_
+12	your	your	PRP$	_	your	your	PRP$	13	NMOD	_	_	_	A0	_	_	_	_
+13	gift	gift	NN	_	gift	gift	NN	14	SBJ	gift.01	_	_	_	A1	A1	A0	A0
+14	will	will	MD	_	will	will	MD	11	SUB	_	_	_	_	_	_	_	_
+15	be	be	VB	_	be	be	VB	14	VC	be.01	_	_	_	_	_	_	_
+16	appreciated	appreciated	VBN	_	appreciated	appreciate	VBN	15	VC	appreciate.01	_	_	_	A2	_	_	_
+17	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_	_
+18	make	make	VB	_	make	make	VB	17	CONJ	make.01	_	_	_	_	_	_	SU
+19	a	a	DT	_	a	a	DT	20	NMOD	_	_	_	_	_	_	_	_
+20	difference	difference	NN	_	difference	difference	NN	18	OBJ	difference.01	_	_	_	_	_	A1	_
+21	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_	_	_
+
+1	Sincerely	sincerely	RB	_	Sincerely	sincerely	RB	4	MNR	_
+2	,	,	,	_	,	,	,	4	P	_
+3	Richard	richard	NNP	_	Richard	richard	NNP	4	NAME	_
+4	Dickinson	dickinson	NNP	_	Dickinson	dickinson	NNP	0	ROOT	_
+
+1	P.S.	p.s.	FW	_	P.S.	p.s.	FW	0	ROOT	_
+
+1	You	you	PRP	_	You	you	PRP	2	SBJ	_	A0	A0	_
+2	can	can	MD	_	can	can	MD	0	ROOT	_	_	_	_
+3	make	make	VB	_	make	make	VB	2	VC	make.01	_	SU	_
+4	a	a	DT	_	a	a	DT	5	NMOD	_	_	_	_
+5	difference	difference	NN	_	difference	difference	NN	3	OBJ	difference.01	A1	_	_
+6	in	in	IN	_	in	in	IN	5	NMOD	_	_	A1	_
+7	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_
+8	child	child	NN	_	child	child	NN	10	NMOD	_	_	_	A1
+9	's	's	POS	_	's	's	POS	8	SUFFIX	_	_	_	_
+10	life	life	NN	_	life	life	NN	6	PMOD	life.02	_	_	A2
+11	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Sponsor	sponsor	VB	_	Sponsor	sponsor	VB	0	ROOT	sponsor.01	_	_	_
+2	a	a	DT	_	a	a	DT	3	NMOD	_	_	_	_
+3	child	child	NN	_	child	child	NN	1	OBJ	_	A1	_	_
+4	at	at	IN	_	at	at	IN	3	LOC	_	_	_	_
+5	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+6	Boys	boys	NNPS	_	Boys	boy	NNPS	8	NAME	_	_	_	_
+7	&	&	CC	_	&	&	NNP	8	NAME	_	_	_	_
+8	Girls	girls	NNPS	_	Girls	girl	NNPS	9	NMOD	_	_	_	_
+9	Clubs	clubs	NNPS	_	Clubs	club	NNPS	14	NMOD	_	_	A1	A2
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	_	_
+11	Indianapolis	indianapolis	NNP	_	Indianapolis	indianapolis	NNP	10	PMOD	_	_	_	_
+12	'	'	POS	_	'	'	POS	9	SUFFIX	_	_	_	_
+13	summer	summer	NN	_	summer	summer	NN	14	NMOD	summer.01	_	_	AM-TMP
+14	camp	camp	NN	_	camp	camp	NN	4	PMOD	camp.01	_	_	_
+15	today	today	NN	_	today	today	NN	1	TMP	_	AM-TMP	_	_
+16	!	!	.	_	!	!	.	1	P	_	_	_	_

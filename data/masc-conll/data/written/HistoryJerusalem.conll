@@ -1,0 +1,3206 @@
+
+1	A	a	DT	_	A	a	DT	3	NMOD	_
+2	Brief	brief	JJ	_	Brief	brief	JJ	3	NMOD	_
+3	History	history	NN	_	History	history	NN	0	ROOT	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	4	NMOD	_	_	A1	_	_	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_	_	_	_	_
+3	recorded	recorded	JJ	_	recorded	record	VBN	4	NMOD	record.01	_	_	_	_	_	_	_	_	_
+4	history	history	NN	_	history	history	NN	5	SBJ	history.02	A1	_	A0	_	_	_	_	_	_
+5	begins	begins	VBZ	_	begins	begin	VBZ	0	ROOT	begin.01	_	SU	_	_	_	_	_	_	_
+6	with	with	IN	_	with	with	IN	5	MNR	_	_	A0	AM-MNR	_	_	_	_	_	_
+7	its	its	PRP$	_	its	its	PRP$	8	NMOD	_	_	_	_	A1	_	_	_	_	_
+8	mention	mention	NN	_	mention	mention	NN	6	PMOD	mention.01	_	_	_	_	_	_	_	_	_
+9	in	in	IN	_	in	in	IN	8	LOC	_	_	_	_	_	_	_	_	_	_
+10	Egyptian	egyptian	JJ	_	Egyptian	egyptian	JJ	12	NMOD	_	_	_	_	_	A2	_	_	_	_
+11	court	court	NN	_	court	court	NN	12	NMOD	_	_	_	_	_	A1	_	_	_	_
+12	records	records	NNS	_	records	record	NNS	9	PMOD	record.02	_	_	_	_	_	_	_	_	_
+13	4,000	4,000	CD	_	4,000	4,000	CD	14	NMOD	_	_	_	_	_	_	_	_	_	_
+14	years	years	NNS	_	years	years	NNS	15	AMOD	_	_	_	_	_	_	_	_	_	_
+15	ago	ago	RB	_	ago	ago	RB	8	TMP	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	5	P	_	_	_	_	_	_	_	_	_	_
+17	but	but	CC	_	but	but	CC	5	COORD	_	_	_	_	_	_	_	_	_	_
+18	there	there	EX	_	there	there	EX	19	SBJ	_	_	_	_	_	_	A0	A1	_	_
+19	had	had	VBD	_	had	have	VBD	17	CONJ	have.03	_	_	_	_	_	_	_	_	_
+20	been	been	VBN	_	been	be	VBN	19	VC	be.01	_	_	_	_	_	A1	_	_	_
+21	human	human	JJ	_	human	human	JJ	22	NMOD	_	_	_	_	_	_	_	_	_	_
+22	settlements	settlements	NNS	_	settlements	settlement	NNS	20	PRD	settlement.01	_	_	_	_	_	_	A2	_	_
+23	here	here	RB	_	here	here	RB	22	LOC	_	_	_	_	_	_	_	_	A1	_
+24	for	for	IN	_	for	for	IN	20	TMP	_	_	_	_	_	_	_	AM-TMP	_	_
+25	centuries	centuries	NNS	_	centuries	century	NNS	24	PMOD	century.02	_	_	_	_	_	_	_	_	_
+26	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_	_	_	_
+27	probably	probably	RB	_	probably	probably	RB	28	NMOD	_	_	_	_	_	_	_	_	_	_
+28	millennia	millennia	NN	_	millennia	millennium	NN	25	NMOD	_	_	_	_	_	_	_	_	_	A1
+29	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_	_	_	_
+30	before	before	IN	_	before	before	IN	25	NMOD	_	_	_	_	_	_	_	_	_	_
+31	that	that	DT	_	that	that	DT	30	PMOD	_	_	_	_	_	_	_	_	_	_
+32	.	.	.	_	.	.	.	5	P	_	_	_	_	_	_	_	_	_	_
+
+1	At	at	IN	_	At	at	IN	12	TMP	_	_	AM-TMP	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_
+3	beginning	beginning	NN	_	beginning	beginning	NN	1	PMOD	beginning.01	_	_	_
+4	of	of	IN	_	of	of	IN	3	NMOD	_	A1	_	_
+5	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+6	second	second	JJ	_	second	second	JJ	9	NMOD	_	_	_	_
+7	millennium	millennium	NN	_	millennium	millennium	NN	9	NMOD	_	_	_	_
+8	b.	b.	NN	_	b.	b.	NN	9	NMOD	_	_	_	_
+9	c.	c.	NN	_	c.	c.	NN	4	PMOD	_	_	_	_
+10	,	,	,	_	,	,	,	12	P	_	_	_	_
+11	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	12	SBJ	_	_	A1	_
+12	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+13	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_
+14	Canaanite	canaanite	JJ	_	Canaanite	canaanite	JJ	16	NMOD	_	_	_	_
+15	mountain	mountain	NN	_	mountain	mountain	NN	16	NMOD	_	_	_	_
+16	stronghold	stronghold	NN	_	stronghold	stronghold	NN	12	PRD	_	_	A2	_
+17	on	on	IN	_	on	on	IN	16	LOC	_	_	_	_
+18	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_
+19	secondary	secondary	JJ	_	secondary	secondary	JJ	21	NMOD	_	_	_	_
+20	trade	trade	NN	_	trade	trade	NN	21	NMOD	_	_	_	A1
+21	route	route	NN	_	route	route	NN	17	PMOD	route.01	_	_	_
+22	,	,	,	_	,	,	,	16	P	_	_	_	_
+23	far	far	RB	_	far	far	RB	16	APPO	_	_	_	_
+24	less	less	RBR	_	less	less	RBR	23	AMOD	_	_	_	_
+25	important	important	JJ	_	important	important	JJ	23	AMOD	_	_	_	_
+26	than	than	IN	_	than	than	IN	23	AMOD	_	_	_	_
+27	biblical	biblical	JJ	_	biblical	biblical	JJ	28	NMOD	_	_	_	_
+28	cities	cities	NNS	_	cities	city	NNS	26	PMOD	_	_	_	_
+29	such	such	JJ	_	such	such	JJ	30	DEP	_	_	_	_
+30	as	as	IN	_	as	as	IN	28	NMOD	_	_	_	_
+31	Hazor	hazor	NNP	_	Hazor	hazor	NNP	30	PMOD	_	_	_	_
+32	,	,	,	_	,	,	,	31	P	_	_	_	_
+33	Megiddo	megiddo	NNP	_	Megiddo	megiddo	NNP	31	COORD	_	_	_	_
+34	,	,	,	_	,	,	,	33	P	_	_	_	_
+35	Beth	beth	NNP	_	Beth	beth	NNP	36	NAME	_	_	_	_
+36	Shean	shean	NNP	_	Shean	shean	NNP	33	COORD	_	_	_	_
+37	,	,	,	_	,	,	,	36	P	_	_	_	_
+38	and	and	CC	_	and	and	CC	36	COORD	_	_	_	_
+39	Shechem	shechem	NNP	_	Shechem	shechem	NNP	38	CONJ	_	_	_	_
+40	.	.	.	_	.	.	.	12	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_
+2	earliest	earliest	JJS	_	earliest	earliest	JJS	3	NMOD	_	AM-TMP	_	_	_	_
+3	name	name	NN	_	name	name	NN	13	SBJ	name.01	A2	A1	A0	_	_
+4	associated	associated	VBN	_	associated	associate	VBN	3	APPO	associate.01	_	_	_	_	_
+5	with	with	IN	_	with	with	IN	4	ADV	_	_	AM-MNR	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+7	city	city	NN	_	city	city	NN	5	PMOD	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	3	P	_	_	_	_	_	_
+9	Ur	ur	NNP	_	Ur	ur	NNP	10	NAME	_	_	_	_	_	_
+10	usalim	usalim	NNP	_	usalim	usalim	NNP	3	APPO	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_
+12	perhaps	perhaps	RB	_	perhaps	perhaps	RB	13	ADV	_	_	_	_	_	_
+13	meant	meant	VBD	_	meant	mean	VBD	0	ROOT	mean.01	_	_	_	_	_
+14	"	"	''	_	"	"	''	13	OBJ	_	_	_	A1	_	_
+15	city	city	NN	_	city	city	NN	14	COORD	city.01	_	_	_	_	_
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	A1	_
+17	Shalim	shalim	NNP	_	Shalim	shalim	NNP	16	PMOD	_	_	_	_	_	_
+18	"	"	''	_	"	"	''	15	P	_	_	_	_	_	_
+19	or	or	CC	_	or	or	CC	15	COORD	_	_	_	_	_	_
+20	"	"	''	_	"	"	''	19	P	_	_	_	_	_	_
+21	founded	founded	VBN	_	founded	found	VBN	19	CONJ	found.01	_	_	_	_	_
+22	by	by	IN	_	by	by	IN	21	LGS	_	_	_	_	_	AM-LOC
+23	Shalim	shalim	NNP	_	Shalim	shalim	NNP	22	PMOD	_	_	_	_	_	_
+24	.	.	.	_	.	.	.	13	P	_	_	_	_	_	_
+25	"	"	''	_	"	"	''	13	P	_	_	_	_	_	_
+
+1	Scholars	scholars	NNS	_	Scholars	scholar	NNS	2	SBJ	_	A0	_	_	_
+2	speculate	speculate	VBP	_	speculate	speculate	VBP	0	ROOT	speculate.01	_	_	_	_
+3	that	that	IN	_	that	that	IN	2	OBJ	_	A1	_	_	_
+4	Shalim	shalim	NNP	_	Shalim	shalim	NNP	5	SBJ	_	_	A0	A1	_
+5	might	might	MD	_	might	might	MD	3	SUB	_	_	_	_	_
+6	have	have	VB	_	have	have	VB	5	VC	have.04	_	_	_	_
+7	been	been	VBN	_	been	be	VBN	6	VC	be.01	_	A1	_	_
+8	an	an	DT	_	an	an	DT	11	NMOD	_	_	_	_	_
+9	ancient	ancient	JJ	_	ancient	ancient	JJ	11	NMOD	_	_	_	_	_
+10	Semitic	semitic	JJ	_	Semitic	semitic	JJ	11	NMOD	_	_	_	_	_
+11	deity	deity	NN	_	deity	deity	NN	7	PRD	_	_	_	A2	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	_	_
+13	peace	peace	NN	_	peace	peace	NN	12	PMOD	_	_	_	_	_
+14	,	,	,	_	,	,	,	2	P	_	_	_	_	_
+15	for	for	IN	_	for	for	IN	2	PRP	_	_	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_
+17	name	name	NN	_	name	name	NN	18	SBJ	_	_	_	_	A1
+18	resembles	resembles	VBZ	_	resembles	resemble	VBZ	15	SUB	resemble.01	_	_	_	_
+19	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_
+20	modern	modern	JJ	_	modern	modern	JJ	24	NMOD	_	_	_	_	_
+21	Hebrew	hebrew	NNP	_	Hebrew	hebrew	NNP	24	NMOD	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	21	COORD	_	_	_	_	_
+23	Arabic	arabic	JJ	_	Arabic	arabic	JJ	22	CONJ	_	_	_	_	_
+24	words	words	NNS	_	words	words	NNS	18	OBJ	_	_	_	_	A2
+25	for	for	IN	_	for	for	IN	24	NMOD	_	_	_	_	_
+26	"	"	''	_	"	"	''	27	P	_	_	_	_	_
+27	peace	peace	NN	_	peace	peace	NN	25	PMOD	_	_	_	_	_
+28	"	"	''	_	"	"	''	27	P	_	_	_	_	_
+29	:	:	:	_	:	:	:	24	P	_	_	_	_	_
+30	shalom	shalom	NN	_	shalom	shalom	NN	24	APPO	_	_	_	_	_
+31	and	and	CC	_	and	and	CC	30	COORD	_	_	_	_	_
+32	salaam	salaam	NN	_	salaam	salaam	NN	31	CONJ	_	_	_	_	_
+33	,	,	,	_	,	,	,	32	P	_	_	_	_	_
+34	respectively	respectively	RB	_	respectively	respectively	RB	32	COORD	_	_	_	_	_
+35	.	.	.	_	.	.	.	2	P	_	_	_	_	_
+
+1	If	if	IN	_	If	if	IN	5	ADV	_	_	_	_	_
+2	true	true	JJ	_	true	true	JJ	1	SUB	_	_	_	_	_
+3	,	,	,	_	,	,	,	5	P	_	_	_	_	_
+4	this	this	DT	_	this	this	DT	5	SBJ	_	A1	_	_	_
+5	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_
+6	an	an	DT	_	an	an	DT	8	NMOD	_	_	_	_	_
+7	ironic	ironic	JJ	_	ironic	ironic	JJ	8	NMOD	_	_	_	_	_
+8	name	name	NN	_	name	name	NN	5	PRD	name.01	A2	A2	_	_
+9	for	for	IN	_	for	for	IN	8	NMOD	_	_	A1	_	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_	_
+11	city	city	NN	_	city	city	NN	9	PMOD	_	_	_	A1	_
+12	that	that	WDT	_	that	that	WDT	13	SBJ	_	_	_	_	_
+13	would	would	MD	_	would	would	MD	11	NMOD	_	_	_	_	_
+14	become	become	VB	_	become	become	VB	13	VC	become.01	_	_	_	_
+15	one	one	CD	_	one	one	CD	14	PRD	_	_	_	A2	_
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_
+18	most	most	RBS	_	most	most	RBS	19	AMOD	_	_	_	_	_
+19	constantly	constantly	RB	_	constantly	constantly	RB	23	NMOD	_	_	_	_	_
+20	and	and	CC	_	and	and	CC	19	COORD	_	_	_	_	_
+21	bitterly	bitterly	RB	_	bitterly	bitterly	RB	20	CONJ	_	_	_	_	_
+22	embattled	embattled	JJ	_	embattled	embattled	JJ	19	AMOD	_	_	_	_	_
+23	places	places	NNS	_	places	place	NNS	16	PMOD	_	_	_	_	_
+24	on	on	IN	_	on	on	IN	23	LOC	_	_	_	_	_
+25	the	the	DT	_	the	the	DT	26	NMOD	_	_	_	_	_
+26	face	face	NN	_	face	face	NN	24	PMOD	face.01	_	_	_	A1
+27	of	of	IN	_	of	of	IN	26	NMOD	_	_	_	_	A2
+28	the	the	DT	_	the	the	DT	29	NMOD	_	_	_	_	_
+29	earth	earth	NN	_	earth	earth	NN	27	PMOD	_	_	_	_	_
+30	.	.	.	_	.	.	.	5	P	_	_	_	_	_
+
+1	Biblical	biblical	JJ	_	Biblical	biblical	JJ	2	NMOD	_
+2	Jerusalem	jerusalem	NN	_	Jerusalem	jerusalem	NNP	0	ROOT	_
+
+1	In	in	IN	_	In	in	IN	11	LOC	_	AM-LOC	_	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_	_
+3	Bible	bible	NNP	_	Bible	bible	NNP	1	PMOD	_	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_
+5	Genesis	genesis	JJ	_	Genesis	genesis	NN	6	NMOD	_	_	_	_	_	_	_
+6	14	14	CD	_	14	14	CD	11	SBJ	_	A0	_	_	_	_	_
+7	:	:	:	_	:	:	:	6	P	_	_	_	_	_	_	_
+8	18	18	CD	_	18	18	CD	10	NMOD	_	_	_	_	_	_	_
+9	-	-	SYM	_	-	-	TO	10	NMOD	_	_	_	_	_	_	_
+10	20	20	CD	_	20	20	CD	6	APPO	_	_	_	_	_	_	_
+11	records	records	VBZ	_	records	record	VBZ	0	ROOT	record.01	_	_	_	_	_	_
+12	that	that	IN	_	that	that	IN	11	OBJ	_	A1	_	_	_	_	_
+13	Abraham	abraham	NNP	_	Abraham	abraham	NNP	14	SBJ	_	_	A0	_	A1	A0	_
+14	visited	visited	VBD	_	visited	visit	VBD	12	SUB	visit.01	_	_	_	_	_	_
+15	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_	_	_
+16	city	city	NN	_	city	city	NN	14	OBJ	city.01	_	A1	_	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	A1	_	_	_
+18	"	"	''	_	"	"	''	19	P	_	_	_	_	_	_	_
+19	Salem	salem	NNP	_	Salem	salem	NNP	17	PMOD	_	_	_	_	_	_	_
+20	"	"	''	_	"	"	''	19	P	_	_	_	_	_	_	_
+21	in	in	IN	_	in	in	IN	14	TMP	_	_	AM-TMP	_	_	_	_
+22	approximately	approximately	RB	_	approximately	approximately	RB	25	NMOD	_	_	_	_	_	_	_
+23	1800	1800	CD	_	1800	1800	CD	22	DEP	_	_	_	_	_	_	_
+24	b.	b.	NN	_	b.	b.	NN	25	NMOD	_	_	_	_	_	_	_
+25	c.	c.	NN	_	c.	c.	NN	21	PMOD	_	_	_	_	_	_	_
+26	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_	_	_	_
+27	was	was	VBD	_	was	be	VBD	26	CONJ	be.01	_	_	_	_	_	_
+28	blessed	blessed	VBN	_	blessed	bless	VBN	27	VC	bless.01	_	_	_	A2	_	_
+29	by	by	IN	_	by	by	IN	28	LGS	_	_	_	_	_	_	_
+30	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_	_	_	_
+31	city	city	NN	_	city	city	NN	33	NMOD	_	_	_	_	_	_	_
+32	's	's	POS	_	's	's	POS	31	SUFFIX	_	_	_	_	_	_	_
+33	ruler	ruler	NN	_	ruler	ruler	NN	29	PMOD	_	_	_	_	_	A1	A0
+34	,	,	,	_	,	,	,	33	P	_	_	_	_	_	_	_
+35	Melchzedik	melchzedik	NNP	_	Melchzedik	melchzedik	NNP	33	APPO	_	_	_	_	_	_	_
+36	,	,	,	_	,	,	,	33	P	_	_	_	_	_	_	_
+37	who	who	WP	_	who	who	WP	38	SBJ	_	_	_	_	_	_	_
+38	offered	offered	VBD	_	offered	offer	VBD	33	NMOD	offer.01	_	_	_	_	_	_
+39	him	him	PRP	_	him	him	PRP	38	OBJ	_	_	_	_	_	_	A2
+40	bread	bread	NN	_	bread	bread	NN	38	OBJ	_	_	_	_	_	_	A1
+41	and	and	CC	_	and	and	CC	40	COORD	_	_	_	_	_	_	_
+42	wine	wine	NN	_	wine	wine	NN	41	CONJ	_	_	_	_	_	_	_
+43	.	.	.	_	.	.	.	11	P	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	city	city	NN	_	city	city	NN	3	SBJ	_	A1	A0	_	_
+3	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_
+4	not	not	RB	_	not	not	RB	3	ADV	_	AM-NEG	_	_	_
+5	mentioned	mentioned	VBN	_	mentioned	mention	VBN	3	VC	mention.01	A2	_	_	_
+6	again	again	RB	_	again	again	RB	5	ADV	_	_	AM-TMP	_	_
+7	in	in	IN	_	in	in	IN	5	LOC	_	_	AM-LOC	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_
+9	Bible	bible	NNP	_	Bible	bible	NNP	7	PMOD	_	_	_	_	_
+10	until	until	IN	_	until	until	IN	5	TMP	_	_	AM-TMP	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_
+12	time	time	NN	_	time	time	NN	10	PMOD	time.04	_	_	A2	_
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	A1	_
+14	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_
+15	great	great	JJ	_	great	great	JJ	17	NMOD	_	_	_	_	_
+16	poet	poet	NN	_	poet	poet	NN	17	NMOD	_	_	_	_	_
+17	warrior	warrior	NN	_	warrior	warrior	NN	13	PMOD	_	_	_	_	A0
+18	,	,	,	_	,	,	,	17	P	_	_	_	_	_
+19	King	king	NNP	_	King	king	NNP	20	TITLE	_	_	_	_	_
+20	David	david	NNP	_	David	david	NNP	17	APPO	_	_	_	_	_
+21	,	,	,	_	,	,	,	17	P	_	_	_	_	_
+22	who	who	WP	_	who	who	WP	23	SBJ	_	_	_	_	_
+23	captured	captured	VBD	_	captured	capture	VBD	17	NMOD	capture.01	_	_	_	_
+24	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_
+25	city	city	NN	_	city	city	NN	23	OBJ	_	_	_	_	A1
+26	from	from	IN	_	from	from	IN	23	ADV	_	_	_	_	AM-DIR
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_
+28	Jebusites	jebusites	NNPS	_	Jebusites	jebusites	NNPS	26	PMOD	_	_	_	_	_
+29	in	in	IN	_	in	in	IN	23	TMP	_	_	_	_	AM-TMP
+30	about	about	RB	_	about	about	RB	33	NMOD	_	_	_	_	_
+31	1000	1000	CD	_	1000	1000	CD	30	DEP	_	_	_	_	_
+32	b.	b.	NN	_	b.	b.	NN	33	NMOD	_	_	_	_	_
+33	c	c	NN	_	c	c	NN	29	PMOD	_	_	_	_	_
+34	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_
+2	Bible	bible	NNP	_	Bible	bible	NNP	3	SBJ	_	A0	_	_	_	_	_
+3	describes	describes	VBZ	_	describes	describe	VBZ	0	ROOT	describe.01	_	_	_	_	_	_
+4	how	how	WRB	_	how	how	WRB	8	MNR	_	_	_	_	_	_	_
+5	David	david	NNP	_	David	david	NNP	7	NMOD	_	_	A2	_	_	_	_
+6	's	's	POS	_	's	's	POS	5	SUFFIX	_	_	_	_	_	_	_
+7	soldiers	soldiers	NNS	_	soldiers	soldier	NNS	8	SBJ	soldier.01	_	A0	A0	A0	A0	A0
+8	conquered	conquered	VBD	_	conquered	conquer	VBD	3	OBJ	conquer.01	_	_	_	_	_	_
+9	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	8	OBJ	_	_	_	A1	_	_	_
+10	by	by	IN	_	by	by	IN	8	MNR	_	_	_	AM-MNR	_	_	_
+11	discovering	discovering	VBG	_	discovering	discover	VBG	10	PMOD	discover.01	_	_	_	_	_	_
+12	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_	_	_
+13	water	water	NN	_	water	water	NN	14	NMOD	_	_	_	_	_	_	_
+14	tunnel	tunnel	NN	_	tunnel	tunnel	NN	11	OBJ	_	_	_	_	A1	_	_
+15	under	under	IN	_	under	under	IN	14	LOC	_	_	_	_	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_
+17	walls	walls	NNS	_	walls	wall	NNS	15	PMOD	_	_	_	_	_	_	_
+18	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_	_
+19	using	using	VBG	_	using	use	VBG	18	CONJ	use.01	_	_	_	_	_	_
+20	it	it	PRP	_	it	it	PRP	19	OBJ	_	_	_	_	_	A1	_
+21	to	to	TO	_	to	to	TO	19	OPRD	_	_	_	_	_	A2	_
+22	take	take	VB	_	take	take	VB	21	IM	take.01	_	_	_	_	_	_
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_
+24	city	city	NN	_	city	city	NN	22	OBJ	_	_	_	_	_	_	A1
+25	by	by	IN	_	by	by	IN	22	MNR	_	_	_	_	_	_	AM-MNR
+26	surprise	surprise	NN	_	surprise	surprise	NN	25	PMOD	_	_	_	_	_	_	_
+27	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_
+
+1	Warren	warren	NNP	_	Warren	warren	NNP	3	NMOD	_	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_
+3	Shaft	shaft	NNP	_	Shaft	shaft	NNP	22	SBJ	_	_	_	A1	_	_
+4	,	,	,	_	,	,	,	3	P	_	_	_	_	_	_
+5	part	part	NN	_	part	part	NN	3	NMOD	part.04	_	_	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	A1	_	_	_	_
+7	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_	_	_
+8	Canaanite	canaanite	JJ	_	Canaanite	canaanite	JJ	10	NMOD	_	_	_	_	_	_
+9	water	water	NN	_	water	water	NN	10	NMOD	_	_	_	_	_	_
+10	system	system	NN	_	system	system	NN	6	PMOD	_	_	A2	_	_	_
+11	discovered	discovered	VBN	_	discovered	discover	VBN	10	APPO	discover.01	_	_	_	_	_
+12	by	by	IN	_	by	by	IN	11	LGS	_	_	_	_	_	_
+13	19th	19th	JJ	_	19th	19th	JJ	15	NMOD	_	_	_	_	_	_
+14	-	-	HYPH	_	-	-	HYPH	15	NMOD	_	_	_	_	_	_
+15	century	century	NN	_	century	century	NN	16	NMOD	_	_	_	_	_	_
+16	archaeologists	archaeologists	NNS	_	archaeologists	archaeologist	NNS	12	PMOD	_	_	A0	_	_	_
+17	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_
+18	open	open	JJ	_	open	open	JJ	17	CONJ	_	_	_	_	_	_
+19	to	to	TO	_	to	to	TO	18	AMOD	_	_	_	_	_	_
+20	visitors	visitors	NNS	_	visitors	visitor	NNS	19	PMOD	_	_	_	_	_	_
+21	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_
+22	might	might	MD	_	might	might	MD	0	ROOT	_	_	_	_	_	_
+23	be	be	VB	_	be	be	VB	22	VC	be.01	_	_	_	_	_
+24	the	the	DT	_	the	the	DT	26	NMOD	_	_	_	_	_	_
+25	very	very	JJ	_	very	very	JJ	26	NMOD	_	_	_	_	_	_
+26	tunnel	tunnel	NN	_	tunnel	tunnel	NN	23	PRD	_	_	_	A2	A1	_
+27	infiltrated	infiltrated	VBN	_	infiltrated	infiltrate	VBN	26	APPO	infiltrate.01	_	_	_	_	_
+28	by	by	IN	_	by	by	IN	27	LGS	_	_	_	_	_	_
+29	David	david	NNP	_	David	david	NNP	31	NMOD	_	_	_	_	_	A2
+30	's	's	POS	_	's	's	POS	29	SUFFIX	_	_	_	_	_	_
+31	army	army	NN	_	army	army	NN	28	PMOD	army.01	_	_	_	A0	_
+32	.	.	.	_	.	.	.	22	P	_	_	_	_	_	_
+
+1	Perhaps	perhaps	RB	_	Perhaps	perhaps	RB	2	ADV	_	_	_	_	_	_	_	_	_	_	_
+2	because	because	IN	_	because	because	IN	21	PRP	_	_	_	_	_	_	_	_	_	_	_
+3	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	4	SBJ	_	A1	_	_	_	_	_	_	_	_	_
+4	was	was	VBD	_	was	be	VBD	2	SUB	be.01	_	_	_	_	_	_	_	_	_	_
+5	in	in	IN	_	in	in	IN	4	LOC-PRD	_	A2	_	_	_	_	_	_	_	_	_
+6	neutral	neutral	JJ	_	neutral	neutral	JJ	7	NMOD	_	_	_	_	_	_	_	_	_	_	_
+7	territory	territory	NN	_	territory	territory	NN	5	PMOD	_	_	_	_	_	_	_	_	_	_	_
+8	not	not	RB	_	not	not	RB	9	ADV	_	_	_	_	_	_	_	_	_	_	_
+9	allotted	allotted	VBN	_	allotted	allot	VBN	7	APPO	_	_	_	_	_	_	_	_	_	_	_
+10	to	to	TO	_	to	to	TO	9	ADV	_	_	_	_	_	_	_	_	_	_	_
+11	any	any	DT	_	any	any	DT	10	PMOD	_	_	_	_	_	_	_	_	_	_	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	_	_	_	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_	_	_	_	_	_	_
+14	twelve	twelve	JJ	_	twelve	twelve	CD	15	NMOD	_	_	_	_	_	_	_	_	_	_	_
+15	rival	rival	JJ	_	rival	rival	NN	16	NMOD	_	_	_	_	_	_	_	_	_	_	_
+16	tribes	tribes	NNS	_	tribes	tribe	NNS	12	PMOD	_	_	_	_	_	_	_	_	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	_	_	_	_	_	_
+18	Israel	israel	NNP	_	Israel	israel	NNP	17	PMOD	_	_	_	_	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_	_	_	_	_	_
+20	David	david	NNP	_	David	david	NNP	21	SBJ	_	_	A0	_	A0	_	_	_	_	_	_
+21	made	made	VBD	_	made	make	VBD	0	ROOT	make.08	_	_	_	_	_	_	_	_	_	_
+22	it	it	PRP	_	it	it	PRP	21	OBJ	_	_	_	_	_	_	_	_	_	_	_
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_	_	_	_	_
+24	capital	capital	NN	_	capital	capital	NN	21	OPRD	_	_	A2	_	_	_	_	_	_	_	_
+25	of	of	IN	_	of	of	IN	24	NMOD	_	_	_	_	_	_	_	_	_	_	_
+26	his	his	PRP$	_	his	his	PRP$	29	NMOD	_	_	_	_	_	_	_	_	_	_	_
+27	newly	newly	RB	_	newly	newly	RB	28	AMOD	_	_	_	_	_	_	_	_	_	_	_
+28	formed	formed	VBN	_	formed	form	VBN	29	NMOD	form.01	_	_	_	_	_	_	_	_	_	_
+29	kingdom	kingdom	NN	_	kingdom	kingdom	NN	25	PMOD	_	_	_	A1	_	_	_	_	_	_	_
+30	and	and	CC	_	and	and	CC	21	COORD	_	_	_	_	_	_	_	_	_	_	_
+31	brought	brought	VBD	_	brought	bring	VBD	30	CONJ	bring.02	_	_	_	_	_	_	_	_	_	_
+32	the	the	DT	_	the	the	DT	41	NMOD	_	_	_	_	_	_	_	_	_	_	_
+33	most	most	RBS	_	most	most	RBS	41	NMOD	_	_	_	_	_	_	_	_	_	_	_
+34	talented	talented	JJ	_	talented	talented	JJ	35	NMOD	_	_	_	_	_	_	_	_	_	_	_
+35	artisans	artisans	NNS	_	artisans	artisan	NNS	41	NMOD	_	_	_	_	_	_	A2	A2	_	_	_
+36	,	,	,	_	,	,	,	41	P	_	_	_	_	_	_	_	_	_	_	_
+37	dedicated	dedicated	VBN	_	dedicated	dedicate	VBN	38	NMOD	dedicate.01	_	_	_	_	_	_	_	_	_	_
+38	priests	priests	NNS	_	priests	priest	NNS	41	NMOD	priest.01	_	_	_	_	A1	A0	_	_	_	_
+39	,	,	,	_	,	,	,	41	P	_	_	_	_	_	_	_	_	_	_	_
+40	magical	magical	JJ	_	magical	magical	JJ	41	NMOD	_	_	_	_	_	_	_	_	_	_	_
+41	poets	poets	NNS	_	poets	poet	NNS	31	OBJ	_	_	_	_	A1	_	_	_	_	A0	_
+42	and	and	CC	_	and	and	CC	41	COORD	_	_	_	_	_	_	_	_	_	_	_
+43	musicians	musicians	NNS	_	musicians	musician	NNS	42	CONJ	musician.01	_	_	_	_	_	_	A0	_	_	_
+44	,	,	,	_	,	,	,	43	P	_	_	_	_	_	_	_	_	_	_	_
+45	and	and	CC	_	and	and	CC	43	COORD	_	_	_	_	_	_	_	_	_	_	_
+46	the	the	DT	_	the	the	DT	49	NMOD	_	_	_	_	_	_	_	_	_	_	_
+47	most	most	RBS	_	most	most	RBS	48	AMOD	_	_	_	_	_	_	_	_	_	_	_
+48	formidable	formidable	JJ	_	formidable	formidable	JJ	49	NMOD	_	_	_	_	_	_	_	_	_	_	_
+49	soldiers	soldiers	NNS	_	soldiers	soldier	NNS	45	CONJ	soldier.01	_	_	_	_	_	_	_	A0	_	_
+50	from	from	IN	_	from	from	IN	41	NMOD	_	_	_	_	_	_	_	A1	A1	_	_
+51	each	each	DT	_	each	each	DT	50	PMOD	_	_	_	_	_	_	_	_	_	_	_
+52	of	of	IN	_	of	of	IN	51	NMOD	_	_	_	_	_	_	_	_	_	_	_
+53	the	the	DT	_	the	the	DT	54	NMOD	_	_	_	_	_	_	_	_	_	_	_
+54	tribes	tribes	NNS	_	tribes	tribe	NNS	52	PMOD	_	_	_	_	_	_	_	_	_	_	_
+55	to	to	TO	_	to	to	TO	31	PRP	_	_	_	_	_	_	_	_	_	_	_
+56	live	live	VB	_	live	live	VB	55	IM	live.02	_	_	_	_	_	_	_	_	_	_
+57	in	in	IN	_	in	in	IN	56	LOC	_	_	_	_	_	_	_	_	_	A1	_
+58	his	his	PRP$	_	his	his	PRP$	59	NMOD	_	_	_	_	_	_	_	_	_	_	A1
+59	city	city	NN	_	city	city	NN	57	PMOD	city.01	_	_	_	_	_	_	_	_	_	_
+60	.	.	.	_	.	.	.	21	P	_	_	_	_	_	_	_	_	_	_	_
+
+1	He	he	PRP	_	He	he	PRP	3	SBJ	_	A0	_	_	_
+2	also	also	RB	_	also	also	RB	3	ADV	_	AM-DIS	_	_	_
+3	brought	brought	VBD	_	brought	bring	VBD	0	ROOT	bring.02	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+5	Ark	ark	NNP	_	Ark	ark	NNP	3	OBJ	_	A1	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_
+8	Covenant	covenant	NNP	_	Covenant	covenant	NNP	6	PMOD	_	_	_	_	_
+9	,	,	,	_	,	,	,	5	P	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_
+11	portable	portable	JJ	_	portable	portable	JJ	12	NMOD	_	_	_	_	_
+12	tabernacle	tabernacle	NN	_	tabernacle	tabernacle	NN	5	APPO	_	_	A0	_	_
+13	containing	containing	VBG	_	containing	contain	VBG	12	APPO	contain.01	_	_	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_
+15	Tablets	tablets	NNPS	_	Tablets	tablet	NNPS	13	OBJ	_	_	A1	A1	_
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_
+18	Law	law	NNP	_	Law	law	NNP	16	PMOD	_	_	_	_	_
+19	received	received	VBN	_	received	receive	VBN	15	APPO	receive.01	_	_	_	_
+20	on	on	IN	_	on	on	IN	19	LOC	_	_	_	AM-LOC	_
+21	Mount	mount	NNP	_	Mount	mount	NNP	22	NAME	_	_	_	_	_
+22	Sinai	sinai	NNP	_	Sinai	sinai	NNP	20	PMOD	_	_	_	_	_
+23	,	,	,	_	,	,	,	3	P	_	_	_	_	_
+24	to	to	TO	_	to	to	TO	3	DIR	_	AM-ARGM	_	_	_
+25	the	the	DT	_	the	the	DT	26	NMOD	_	_	_	_	_
+26	Spring	spring	NNP	_	Spring	spring	NNP	24	PMOD	_	_	_	_	_
+27	of	of	IN	_	of	of	IN	26	NMOD	_	_	_	_	_
+28	Gihon	gihon	NNP	_	Gihon	gihon	NNP	27	PMOD	_	_	_	_	_
+29	,	,	,	_	,	,	,	26	P	_	_	_	_	_
+30	just	just	RB	_	just	just	RB	31	PMOD	_	_	_	_	_
+31	outside	outside	IN	_	outside	outside	IN	26	LOC	_	_	_	_	_
+32	the	the	DT	_	the	the	DT	33	NMOD	_	_	_	_	_
+33	walls	walls	NNS	_	walls	wall	NNS	31	PMOD	wall.01	_	_	_	_
+34	of	of	IN	_	of	of	IN	33	NMOD	_	_	_	_	A1
+35	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	34	PMOD	_	_	_	_	_
+36	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	There	there	RB	_	There	there	RB	4	LOC	_	AM-LOC	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_
+3	Ark	ark	NNP	_	Ark	ark	NNP	4	SBJ	_	A0	_	_	_	_
+4	rested	rested	VBD	_	rested	rest	VBD	0	ROOT	rest.01	_	_	_	_	_
+5	until	until	IN	_	until	until	IN	4	TMP	_	AM-TMP	_	_	_	_
+6	it	it	PRP	_	it	it	PRP	7	SBJ	_	_	A1	A0	_	_
+7	was	was	VBD	_	was	be	VBD	5	SUB	be.01	_	_	_	_	_
+8	placed	placed	VBN	_	placed	place	VBN	7	VC	place.01	_	A2	_	_	_
+9	in	in	IN	_	in	in	IN	8	LOC	_	_	_	A1	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_
+11	Temple	temple	NNP	_	Temple	temple	NNP	9	PMOD	_	_	_	_	A1	_
+12	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_
+13	built	built	VBN	_	built	build	VBN	11	APPO	build.03	_	_	_	_	_
+14	in	in	IN	_	in	in	IN	13	TMP	_	_	_	_	AM-TMP	_
+15	approximately	approximately	RB	_	approximately	approximately	RB	18	NMOD	_	_	_	_	_	_
+16	960	960	CD	_	960	960	CD	15	DEP	_	_	_	_	_	_
+17	b.	b.	NN	_	b.	b.	NN	18	NMOD	_	_	_	_	_	_
+18	c.	c.	NN	_	c.	c.	NN	14	PMOD	_	_	_	_	_	_
+19	on	on	IN	_	on	on	IN	13	LOC	_	_	_	_	A2	_
+20	Mt.	mt.	NNP	_	Mt.	mt.	NNP	21	TITLE	_	_	_	_	_	_
+21	Moriah	moriah	NNP	_	Moriah	moriah	NNP	19	PMOD	_	_	_	_	_	_
+22	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_
+23	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_	_
+24	high	high	JJ	_	high	high	JJ	25	NMOD	_	_	_	_	_	_
+25	point	point	NN	_	point	point	NN	21	APPO	_	_	_	_	_	_
+26	at	at	IN	_	at	at	IN	25	LOC	_	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	29	NMOD	_	_	_	_	_	_
+28	northern	northern	JJ	_	northern	northern	JJ	29	NMOD	_	_	_	_	_	_
+29	end	end	NN	_	end	end	NN	26	PMOD	end.03	_	_	_	_	_
+30	of	of	IN	_	of	of	IN	29	NMOD	_	_	_	_	_	A1
+31	the	the	DT	_	the	the	DT	32	NMOD	_	_	_	_	_	_
+32	city	city	NN	_	city	city	NN	30	PMOD	_	_	_	_	_	_
+33	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	Temple	temple	NNP	_	Temple	temple	NNP	13	SBJ	_	_	A1	A0	_
+3	(	-lrb-	(	_	(	-lrb-	(	5	P	_	_	_	_	_
+4	today	today	NN	_	today	today	NN	5	TMP	_	A1	_	_	_
+5	known	known	VBN	_	known	know	VBN	2	NMOD	know.01	_	_	_	_
+6	as	as	IN	_	as	as	IN	5	ADV	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_
+8	"	"	''	_	"	"	''	11	P	_	_	_	_	_
+9	First	first	NNP	_	First	first	NNP	11	NMOD	_	_	_	_	_
+10	"	"	''	_	"	"	''	11	P	_	_	_	_	_
+11	Temple	temple	NNP	_	Temple	temple	NNP	6	PMOD	_	A2	_	_	_
+12	)	-rrb-	)	_	)	-rrb-	)	5	P	_	_	_	_	_
+13	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+14	completed	completed	VBN	_	completed	complete	VBN	13	VC	complete.01	_	A2	_	_
+15	by	by	IN	_	by	by	IN	14	LGS	_	_	_	_	_
+16	David	david	NNP	_	David	david	NNP	18	NMOD	_	_	_	_	A1
+17	's	's	POS	_	's	's	POS	16	SUFFIX	_	_	_	_	_
+18	son	son	NN	_	son	son	NN	15	PMOD	son.01	_	_	A1	A0
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_
+20	successor	successor	NN	_	successor	successor	NN	19	CONJ	_	_	_	_	_
+21	,	,	,	_	,	,	,	18	P	_	_	_	_	_
+22	King	king	NNP	_	King	king	NNP	23	TITLE	_	_	_	_	_
+23	Solomon	solomon	NNP	_	Solomon	solomon	NNP	18	APPO	_	_	_	_	_
+24	.	.	.	_	.	.	.	13	P	_	_	_	_	_
+
+1	According	according	VBG	_	According	accord	VBG	22	ADV	accord.01	_	_	_	_	_	_	_	_	_	_
+2	to	to	TO	_	to	to	TO	1	PMOD	_	A1	_	_	_	_	_	_	_	_	_
+3	biblical	biblical	JJ	_	biblical	biblical	JJ	4	NMOD	_	_	_	_	_	_	_	_	_	_	_
+4	tradition	tradition	NN	_	tradition	tradition	NN	2	PMOD	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_	_	_	_
+6	although	although	IN	_	although	although	IN	22	ADV	_	_	_	_	_	_	_	_	_	_	_
+7	David	david	NNP	_	David	david	NNP	8	SBJ	_	_	A0	A0	_	_	_	_	_	_	_
+8	bought	bought	VBD	_	bought	buy	VBD	6	SUB	buy.01	_	_	_	_	_	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_	_	_	_	_	_
+10	land	land	NN	_	land	land	NN	8	OBJ	_	_	A1	_	_	_	_	_	_	_	_
+11	for	for	IN	_	for	for	IN	10	NMOD	_	_	_	_	_	_	_	_	_	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_	_	_	_	_	_
+13	Temple	temple	NNP	_	Temple	temple	NNP	11	PMOD	_	_	_	_	_	_	_	_	_	_	_
+14	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_	_	_	_	_	_
+15	carefully	carefully	RB	_	carefully	carefully	RB	8	MNR	_	_	AM-MNR	AM-MNR	_	_	_	_	_	_	_
+16	assembled	assembled	VBD	_	assembled	assemble	VBD	14	CONJ	assemble.01	_	_	_	_	_	_	_	_	_	_
+17	its	its	PRP$	_	its	its	PRP$	19	NMOD	_	_	_	_	A1	_	_	_	_	_	_
+18	building	building	NN	_	building	building	NN	19	NMOD	building.01	_	_	_	_	_	_	_	_	_	_
+19	materials	materials	NNS	_	materials	material	NNS	16	OBJ	_	_	_	A1	_	_	_	_	_	_	_
+20	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_	_	_	_
+21	he	he	PRP	_	he	he	PRP	22	SBJ	_	A0	_	_	_	A1	A0	A0	_	_	_
+22	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_	_
+23	deemed	deemed	VBN	_	deemed	deem	VBN	22	VC	deem.01	_	_	_	_	A2	_	_	_	_	_
+24	unworthy	unworthy	JJ	_	unworthy	unworthy	JJ	23	OPRD	_	_	_	_	_	_	A1	_	_	_	_
+25	of	of	IN	_	of	of	IN	24	AMOD	_	_	_	_	_	_	_	_	_	_	_
+26	constructing	constructing	VBG	_	constructing	construct	VBG	25	PMOD	construct.01	_	_	_	_	_	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_	_	_	_	_
+28	Temple	temple	NN	_	Temple	temple	NN	26	OBJ	_	_	_	_	_	_	_	A1	_	_	_
+29	because	because	IN	_	because	because	IN	23	PRP	_	_	_	_	_	_	_	_	_	_	_
+30	he	he	PRP	_	he	he	PRP	31	SBJ	_	_	_	_	_	_	_	_	A1	_	_
+31	was	was	VBD	_	was	be	VBD	29	SUB	be.01	_	_	_	_	_	_	_	_	_	_
+32	a	a	DT	_	a	a	DT	33	NMOD	_	_	_	_	_	_	_	_	_	_	_
+33	man	man	NN	_	man	man	NN	31	PRD	man.01	_	_	_	_	_	_	_	A2	A0	_
+34	of	of	IN	_	of	of	IN	33	NMOD	_	_	_	_	_	_	_	_	_	A1	_
+35	war	war	NN	_	war	war	NN	34	PMOD	_	_	_	_	_	_	_	_	_	_	_
+36	with	with	IN	_	with	with	IN	33	NMOD	_	_	_	_	_	_	_	_	_	A3	_
+37	blood	blood	NN	_	blood	blood	NN	36	PMOD	_	_	_	_	_	_	_	_	_	_	_
+38	on	on	IN	_	on	on	IN	37	LOC	_	_	_	_	_	_	_	_	_	_	_
+39	his	his	PRP$	_	his	his	PRP$	40	NMOD	_	_	_	_	_	_	_	_	_	_	A1
+40	hands	hands	NNS	_	hands	hands	NNS	38	PMOD	hand.06	_	_	_	_	_	_	_	_	_	A2
+41	.	.	.	_	.	.	.	22	P	_	_	_	_	_	_	_	_	_	_	_
+
+1	At	at	IN	_	At	at	IN	8	TMP	_	_	AM-TMP	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_
+3	Temple	temple	NNP	_	Temple	temple	NNP	5	NMOD	_	A0	_	_	_	_
+4	's	's	POS	_	's	's	POS	3	SUFFIX	_	_	_	_	_	_
+5	dedication	dedication	NN	_	dedication	dedication	NN	1	PMOD	dedication.01	_	_	_	_	_
+6	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_
+7	Solomon	solomon	NNP	_	Solomon	solomon	NNP	8	SBJ	_	_	A0	_	_	_
+8	addressed	addressed	VBD	_	addressed	address	VBD	0	ROOT	address.01	_	_	_	_	_
+9	his	his	PRP$	_	his	his	PRP$	10	NMOD	_	_	_	_	_	_
+10	God	god	NNP	_	God	god	NNP	8	OBJ	_	_	A1	_	_	_
+11	:	:	:	_	:	:	:	8	P	_	_	_	_	_	_
+12	"	"	''	_	"	"	''	8	P	_	_	_	_	_	_
+13	...	...	:	_	...	...	:	8	P	_	_	_	_	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_
+15	Heavens	heavens	NNPS	_	Heavens	heavens	NNPS	24	SBJ	_	_	_	A0	_	_
+16	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_
+17	even	even	RB	_	even	even	RB	19	NMOD	_	_	_	_	_	_
+18	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_	_
+19	Heaven	heaven	NNP	_	Heaven	heaven	NNP	15	APPO	_	_	_	_	_	_
+20	of	of	IN	_	of	of	IN	19	NMOD	_	_	_	_	_	_
+21	the	the	DT	_	the	the	DT	22	NMOD	_	_	_	_	_	_
+22	Heavens	heavens	NNPS	_	Heavens	heavens	NNPS	20	PMOD	_	_	_	_	_	_
+23	,	,	,	_	,	,	,	24	P	_	_	_	_	_	_
+24	can	can	MD	_	can	can	MD	8	OBJ	_	_	_	_	_	_
+25	not	not	RB	_	not	not	RB	24	ADV	_	_	_	_	_	_
+26	contain	contain	VB	_	contain	contain	VB	24	VC	contain.01	_	_	_	_	_
+27	Thee	thee	PRP	_	Thee	thee	PRP	26	OBJ	_	_	_	A1	_	_
+28	;	;	:	_	;	;	:	24	P	_	_	_	_	_	_
+29	how	how	WRB	_	how	how	WRB	33	EXT	_	_	_	_	_	_
+30	much	much	JJ	_	much	much	JJ	29	AMOD	_	_	_	_	_	_
+31	less	less	RBR	_	less	less	RBR	29	AMOD	_	_	_	_	_	_
+32	this	this	DT	_	this	this	DT	33	NMOD	_	_	_	_	_	_
+33	House	house	NN	_	House	house	NN	24	COORD	_	_	_	_	_	A1
+34	that	that	WDT	_	that	that	WDT	37	OBJ	_	_	_	_	_	_
+35	I	i	PRP	_	I	i	PRP	36	SBJ	_	_	_	_	A0	A0
+36	have	have	VBP	_	have	have	VBP	33	NMOD	have.04	_	_	_	_	_
+37	built	built	VBN	_	built	build	VBN	36	VC	build.01	_	_	_	A1	_
+38	?	?	.	_	?	?	.	8	P	_	_	_	_	_	_
+39	"	"	''	_	"	"	''	8	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_	_
+2	site	site	NN	_	site	site	NN	7	SBJ	site.02	_	A1	A0	_	_	_	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_	_	_	_
+5	Temple	temple	NNP	_	Temple	temple	NNP	3	PMOD	_	_	_	_	_	_	_	_	_
+6	eventually	eventually	RB	_	eventually	eventually	RB	7	TMP	_	_	AM-TMP	_	_	_	_	_	_
+7	became	became	VBD	_	became	become	VBD	0	ROOT	become.01	_	_	_	_	_	_	_	_
+8	identified	identified	VBN	_	identified	identify	VBN	7	VC	identify.01	_	A2	_	_	_	_	_	_
+9	as	as	IN	_	as	as	IN	8	ADV	_	_	_	_	_	_	_	_	_
+10	Mt.	mt.	NNP	_	Mt.	mt.	NNP	11	TITLE	_	_	_	_	_	_	_	_	_
+11	Moriah	moriah	NNP	_	Moriah	moriah	NNP	9	PMOD	_	_	_	A1	_	_	_	_	_
+12	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_	_	_
+13	on	on	IN	_	on	on	IN	16	LOC	_	_	_	_	_	_	_	_	_
+14	which	which	WDT	_	which	which	WDT	13	PMOD	_	_	_	_	_	_	_	_	_
+15	it	it	PRP	_	it	it	PRP	16	SBJ	_	_	_	_	A0	_	_	_	_
+16	stood	stood	VBD	_	stood	stand	VBD	11	NMOD	stand.01	_	_	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	11	P	_	_	_	_	_	_	_	_	_
+18	where	where	WRB	_	where	where	WRB	21	LOC	_	_	_	_	_	_	_	_	_
+19	Abraham	abraham	NNP	_	Abraham	abraham	NNP	20	SBJ	_	_	_	_	_	A1	A0	A0	_
+20	was	was	VBD	_	was	be	VBD	11	NMOD	be.01	_	_	_	_	_	_	_	_
+21	called	called	VBN	_	called	call	VBN	20	VC	call.01	_	_	_	_	A2	_	_	_
+22	to	to	TO	_	to	to	TO	21	OPRD	_	_	_	_	_	_	A2	_	_
+23	sacrifice	sacrifice	VB	_	sacrifice	sacrifice	VB	22	IM	sacrifice.01	_	_	_	_	_	_	_	_
+24	his	his	PRP$	_	his	his	PRP$	25	NMOD	_	_	_	_	_	_	_	_	A1
+25	son	son	NN	_	son	son	NN	23	OBJ	son.01	_	_	_	_	_	_	A1	A0
+26	Isaac	isaac	NNP	_	Isaac	isaac	NNP	25	APPO	_	_	_	_	_	_	_	_	_
+27	.	.	.	_	.	.	.	7	P	_	_	_	_	_	_	_	_	_
+
+1	Along	along	IN	_	Along	along	IN	10	ADV	_	_	AM-LOC	_	_	_	_
+2	with	with	IN	_	with	with	IN	1	PMOD	_	_	_	_	_	_	_
+3	this	this	DT	_	this	this	DT	5	NMOD	_	_	_	_	_	_	_
+4	splendid	splendid	JJ	_	splendid	splendid	JJ	5	NMOD	_	_	_	_	_	_	_
+5	house	house	NN	_	house	house	NN	2	PMOD	house.03	_	_	_	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	A1	_	_	_	_	_
+7	worship	worship	NN	_	worship	worship	NN	6	PMOD	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_
+9	Solomon	solomon	NNP	_	Solomon	solomon	NNP	10	SBJ	_	_	A0	_	_	_	_
+10	built	built	VBD	_	built	build	VBD	0	ROOT	build.01	_	_	_	_	_	_
+11	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_	_	_	_
+12	royal	royal	JJ	_	royal	royal	JJ	13	NMOD	_	_	_	_	_	_	_
+13	palace	palace	NN	_	palace	palace	NN	10	OBJ	_	_	A1	_	_	_	_
+14	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_
+15	mansions	mansions	NNS	_	mansions	mansion	NNS	13	COORD	_	_	_	_	_	_	_
+16	for	for	IN	_	for	for	IN	15	NMOD	_	_	_	_	_	_	_
+17	his	his	PRP$	_	his	his	PRP$	18	NMOD	_	_	_	A1	_	_	_
+18	wives	wives	NNS	_	wives	wife	NNS	16	PMOD	wife.01	_	_	A0	_	_	_
+19	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_
+20	temples	temples	NNS	_	temples	temple	NNS	15	COORD	_	_	_	_	_	_	_
+21	for	for	IN	_	for	for	IN	20	NMOD	_	_	_	_	_	_	_
+22	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_
+23	foreign	foreign	JJ	_	foreign	foreign	JJ	24	NMOD	_	_	_	_	_	_	_
+24	gods	gods	NNS	_	gods	god	NNS	21	PMOD	_	_	_	_	_	_	_
+25	worshipped	worshipped	VBN	_	worshipped	worship	VBN	24	APPO	_	_	_	_	_	_	_
+26	by	by	IN	_	by	by	IN	25	LGS	_	_	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_
+28	princesses	princesses	NNS	_	princesses	princess	NNS	26	PMOD	_	_	_	_	_	A1	_
+29	he	he	PRP	_	he	he	PRP	30	SBJ	_	_	_	_	A0	A0	_
+30	had	had	VBD	_	had	have	VBD	28	NMOD	have.04	_	_	_	_	_	_
+31	married	married	VBN	_	married	marry	VBN	30	VC	marry.01	_	_	_	A1	_	_
+32	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_	_
+33	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_
+34	towers	towers	NNS	_	towers	tower	NNS	33	CONJ	_	_	_	_	_	_	_
+35	for	for	IN	_	for	for	IN	34	NMOD	_	_	_	_	_	_	_
+36	the	the	DT	_	the	the	DT	37	NMOD	_	_	_	_	_	_	_
+37	defense	defense	NN	_	defense	defense	NN	35	PMOD	defense.01	_	_	_	_	_	_
+38	of	of	IN	_	of	of	IN	37	NMOD	_	_	_	_	_	_	A1
+39	the	the	DT	_	the	the	DT	40	NMOD	_	_	_	_	_	_	_
+40	capital	capital	NN	_	capital	capital	NN	38	PMOD	_	_	_	_	_	_	_
+41	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_	_
+
+1	Under	under	IN	_	Under	under	IN	10	TMP	_	_	AM-TMP	_	AM-TMP	_
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_
+3	wise	wise	JJ	_	wise	wise	JJ	4	NMOD	_	_	_	_	_	_
+4	reign	reign	NN	_	reign	reign	NN	1	PMOD	reign.01	_	_	_	_	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A0	_	_	_	_
+6	Solomon	solomon	NNP	_	Solomon	solomon	NNP	5	PMOD	_	_	_	_	_	_
+7	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_
+9	city	city	NN	_	city	city	NN	10	SBJ	_	_	A1	_	A0	_
+10	flourished	flourished	VBD	_	flourished	flourish	VBD	0	ROOT	flourish.01	_	_	_	_	_
+11	as	as	IN	_	as	as	IN	10	MNR	_	_	_	_	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_
+13	capital	capital	NN	_	capital	capital	NN	11	PMOD	_	_	AM-TMP	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_	_	_
+15	an	an	DT	_	an	an	DT	16	NMOD	_	_	_	_	_	_
+16	empire	empire	NN	_	empire	empire	NN	14	PMOD	_	_	_	A0	_	_
+17	that	that	WDT	_	that	that	WDT	18	SBJ	_	_	_	_	_	_
+18	stretched	stretched	VBD	_	stretched	stretch	VBD	16	NMOD	stretch.01	_	_	_	_	_
+19	from	from	IN	_	from	from	IN	18	DIR	_	_	_	A1	_	_
+20	Damascus	damascus	NNP	_	Damascus	damascus	NNP	19	PMOD	_	_	_	_	_	_
+21	to	to	TO	_	to	to	TO	18	DIR	_	_	_	A2	_	_
+22	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_
+23	Red	red	NNP	_	Red	red	NNP	24	NAME	_	_	_	_	_	_
+24	Sea	sea	NNP	_	Sea	sea	NNP	21	PMOD	_	_	_	_	_	_
+25	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_	_	_
+26	controlled	controlled	VBD	_	controlled	control	VBD	25	CONJ	control.01	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	29	NMOD	_	_	_	_	_	_
+28	trade	trade	NN	_	trade	trade	NN	29	NMOD	_	_	_	_	_	A0
+29	routes	routes	NNS	_	routes	route	NNS	26	OBJ	route.01	_	_	_	A1	_
+30	from	from	IN	_	from	from	IN	29	DIR	_	_	_	_	_	_
+31	Egypt	egypt	NNP	_	Egypt	egypt	NNP	30	PMOD	_	_	_	_	_	_
+32	to	to	TO	_	to	to	TO	29	DIR	_	_	_	_	_	A1
+33	Phoenicia	phoenicia	NNP	_	Phoenicia	phoenicia	NNP	32	PMOD	_	_	_	_	_	_
+34	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_
+2	Temple	temple	NNP	_	Temple	temple	NNP	6	SBJ	_	A1	A0
+3	and	and	CC	_	and	and	CC	2	COORD	_	_	_
+4	royal	royal	JJ	_	royal	royal	JJ	5	NMOD	_	_	_
+5	palace	palace	NN	_	palace	palace	NN	3	CONJ	_	_	_
+6	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+7	adorned	adorned	VBN	_	adorned	adorn	VBN	6	VC	adorn.01	A2	_
+8	with	with	IN	_	with	with	IN	7	ADV	_	_	A1
+9	gold	gold	NN	_	gold	gold	NN	8	PMOD	_	_	_
+10	and	and	CC	_	and	and	CC	9	COORD	_	_	_
+11	ivory	ivory	NN	_	ivory	ivory	NN	10	CONJ	_	_	_
+12	from	from	IN	_	from	from	IN	9	NMOD	_	_	_
+13	Africa	africa	NNP	_	Africa	africa	NNP	12	PMOD	_	_	_
+14	and	and	CC	_	and	and	CC	8	COORD	_	_	_
+15	with	with	IN	_	with	with	IN	14	CONJ	_	_	_
+16	cedar	cedar	NN	_	cedar	cedar	NN	15	PMOD	_	_	_
+17	from	from	IN	_	from	from	IN	16	NMOD	_	_	_
+18	Lebanon	lebanon	NNP	_	Lebanon	lebanon	NNP	17	PMOD	_	_	_
+19	;	;	:	_	;	;	:	6	P	_	_	_
+
+1	the	the	DT	_	the	the	DT	2	NMOD	_	_	_	_	_	_
+2	beauties	beauties	NNS	_	beauties	beauty	NNS	9	SBJ	beauty.01	A3	_	A0	A0	_
+3	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_	_	_
+4	glories	glories	NNS	_	glories	glory	NNS	3	CONJ	glory.01	_	_	_	_	_
+5	of	of	IN	_	of	of	IN	2	NMOD	_	A1	A1	_	_	_
+6	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	5	PMOD	_	_	_	_	_	_
+7	under	under	IN	_	under	under	IN	2	TMP	_	_	_	_	_	_
+8	Solomon	solomon	NNP	_	Solomon	solomon	NNP	7	PMOD	_	_	_	_	_	_
+9	have	have	VBP	_	have	have	VBP	0	ROOT	have.04	_	_	_	_	_
+10	captivated	captivated	VBN	_	captivated	captivate	VBN	9	VC	captivate.01	_	_	A1	_	_
+11	readers	readers	NNS	_	readers	reader	NNS	10	OBJ	reader.01	_	_	_	A1	A0
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	_	_	A1
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_	_	_
+14	Bible	bible	NNP	_	Bible	bible	NNP	12	PMOD	_	_	_	_	_	_
+15	for	for	IN	_	for	for	IN	10	TMP	_	_	_	_	AM-TMP	_
+16	almost	almost	RB	_	almost	almost	RB	18	NMOD	_	_	_	_	_	_
+17	3,000	3,000	CD	_	3,000	3,000	CD	16	DEP	_	_	_	_	_	_
+18	years	years	NNS	_	years	years	NNS	15	PMOD	_	_	_	_	_	_
+19	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	7	DEP	_	_	AM-DIS	AM-DIS	_	_	_	_	_	_	_	_
+2	with	with	IN	_	with	with	IN	7	ADV	_	_	AM-MNR	AM-MNR	_	_	_	_	_	_	_	_
+3	his	his	PRP$	_	his	his	PRP$	4	NMOD	_	A1	_	_	_	_	_	_	_	_	_	_
+4	death	death	NN	_	death	death	NN	2	PMOD	death.01	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+6	empire	empire	NN	_	empire	empire	NN	7	SBJ	_	_	A0	_	_	_	_	_	_	_	_	_
+7	collapsed	collapsed	VBD	_	collapsed	collapse	VBD	0	ROOT	collapse.01	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_	_	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+11	Israelite	israelite	JJ	_	Israelite	israelite	JJ	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+12	kingdom	kingdom	NN	_	kingdom	kingdom	NN	13	SBJ	_	_	_	A1	A0	_	_	_	_	_	_	_
+13	was	was	VBD	_	was	be	VBD	9	CONJ	be.01	_	_	_	_	_	_	_	_	_	_	_
+14	divided	divided	VBN	_	divided	divide	VBN	13	VC	divide.01	_	_	A2	_	_	_	_	_	_	_	_
+15	into	into	IN	_	into	into	IN	14	ADV	_	_	_	_	A1	_	_	_	_	_	_	_
+16	two	two	CD	_	two	two	CD	23	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+17	separate	separate	JJ	_	separate	separate	JJ	23	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+18	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_	_	_	_	_
+19	impoverished	impoverished	JJ	_	impoverished	impoverish	VBN	17	APPO	_	_	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_	_	_	_	_
+21	often	often	RB	_	often	often	RB	22	AMOD	_	_	_	_	_	AM-TMP	_	_	_	_	_	_
+22	warring	warring	VBG	_	warring	war	VBG	17	COORD	war.01	_	_	_	_	_	_	_	_	_	_	_
+23	nations	nations	NNS	_	nations	nation	NNS	15	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+24	:	:	:	_	:	:	:	23	P	_	_	_	_	_	_	_	_	_	_	_	_
+25	Israel	israel	NNP	_	Israel	israel	NNP	23	APPO	_	_	_	_	_	_	_	A1	_	_	_	_
+26	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_	_	_	_	_	_
+27	with	with	IN	_	with	with	IN	25	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+28	its	its	PRP$	_	its	its	PRP$	29	NMOD	_	_	_	_	_	_	A1	_	_	_	_	_
+29	capital	capital	NN	_	capital	capital	NN	27	PMOD	capital.02	_	_	_	_	_	_	_	_	_	_	_
+30	at	at	IN	_	at	at	IN	29	LOC	_	_	_	_	_	_	_	_	_	_	_	_
+31	Shechem	shechem	NNP	_	Shechem	shechem	NNP	30	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+32	in	in	IN	_	in	in	IN	31	LOC	_	_	_	_	_	_	_	_	_	_	_	_
+33	the	the	DT	_	the	the	DT	34	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+34	north	north	NN	_	north	north	NN	32	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+35	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_	_	_	_	_	_
+36	ruled	ruled	VBN	_	ruled	rule	VBN	25	APPO	rule.01	_	_	_	_	_	_	_	_	_	_	_
+37	by	by	IN	_	by	by	IN	36	LGS	_	_	_	_	_	_	_	_	_	_	_	_
+38	a	a	DT	_	a	a	DT	39	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+39	series	series	NN	_	series	series	NN	37	PMOD	series.03	_	_	_	_	_	_	A0	_	_	_	_
+40	of	of	IN	_	of	of	IN	39	NMOD	_	_	_	_	_	_	_	_	A1	_	_	_
+41	northern	northern	JJ	_	northern	northern	JJ	42	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+42	dynasties	dynasties	NNS	_	dynasties	dynasty	NNS	40	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+43	;	;	:	_	;	;	:	25	P	_	_	_	_	_	_	_	_	_	_	_	_
+44	and	and	CC	_	and	and	CC	25	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+45	the	the	DT	_	the	the	DT	47	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+46	smaller	smaller	JJR	_	smaller	smaller	JJR	47	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+47	kingdom	kingdom	NN	_	kingdom	kingdom	NN	44	CONJ	_	_	_	_	_	_	_	_	_	_	_	_
+48	of	of	IN	_	of	of	IN	47	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+49	Judah	judah	NNP	_	Judah	judah	NNP	48	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+50	,	,	,	_	,	,	,	47	P	_	_	_	_	_	_	_	_	_	_	_	_
+51	with	with	IN	_	with	with	IN	47	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+52	its	its	PRP$	_	its	its	PRP$	53	NMOD	_	_	_	_	_	_	_	_	_	A1	_	_
+53	capital	capital	NN	_	capital	capital	NN	51	PMOD	capital.02	_	_	_	_	_	_	_	_	_	_	_
+54	at	at	IN	_	at	at	IN	53	LOC	_	_	_	_	_	_	_	_	_	_	_	_
+55	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	54	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+56	,	,	,	_	,	,	,	47	P	_	_	_	_	_	_	_	_	_	_	_	_
+57	from	from	IN	_	from	from	IN	64	DIR	_	_	_	_	_	_	_	_	_	_	_	A1
+58	which	which	WDT	_	which	which	WDT	57	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+59	the	the	DT	_	the	the	DT	61	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+60	Davidic	davidic	JJ	_	Davidic	davidic	JJ	61	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+61	dynasty	dynasty	NN	_	dynasty	dynasty	NN	62	SBJ	_	_	_	_	_	_	_	_	_	_	A0	A0
+62	continued	continued	VBD	_	continued	continue	VBD	47	NMOD	continue.02	_	_	_	_	_	_	_	_	_	_	_
+63	to	to	TO	_	to	to	TO	62	OPRD	_	_	_	_	_	_	_	_	_	_	A1	_
+64	rule	rule	VB	_	rule	rule	VB	63	IM	rule.01	_	_	_	_	_	_	_	_	_	_	_
+65	.	.	.	_	.	.	.	7	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	Bible	bible	NNP	_	Bible	bible	NNP	3	SBJ	_	A0	_	_	_
+3	tells	tells	VBZ	_	tells	tell	VBZ	0	ROOT	tell.02	_	_	_	_
+4	us	us	PRP	_	us	us	PRP	3	OBJ	_	A1	_	_	_
+5	that	that	IN	_	that	that	IN	3	OBJ	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_
+7	cruelty	cruelty	NN	_	cruelty	cruelty	NN	16	SBJ	_	_	_	A0	_
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_
+9	impiety	impiety	NN	_	impiety	impiety	NN	8	CONJ	_	_	_	_	_
+10	of	of	IN	_	of	of	IN	7	NMOD	_	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_
+12	rulers	rulers	NNS	_	rulers	ruler	NNS	10	PMOD	ruler.01	_	A0	_	_
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	A1	_	_
+14	both	both	DT	_	both	both	DT	15	NMOD	_	_	_	_	_
+15	kingdoms	kingdoms	NNS	_	kingdoms	kingdom	NNS	13	PMOD	_	_	_	_	_
+16	aroused	aroused	VBD	_	aroused	arouse	VBD	5	SUB	arouse.01	_	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_
+18	fury	fury	NN	_	fury	fury	NN	16	OBJ	fury.01	_	_	A1	_
+19	of	of	IN	_	of	of	IN	18	NMOD	_	_	_	_	A0
+20	the	the	DT	_	the	the	DT	22	NMOD	_	_	_	_	_
+21	great	great	JJ	_	great	great	JJ	22	NMOD	_	_	_	_	_
+22	Prophets	prophets	NNPS	_	Prophets	prophets	NNPS	19	PMOD	_	_	_	_	_
+23	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	10	TMP	_	_	AM-TMP	AM-TMP	_
+2	701	701	CD	_	701	701	CD	4	NMOD	_	_	_	_	_
+3	b.	b.	NN	_	b.	b.	NN	4	NMOD	_	_	_	_	_
+4	c.	c.	NN	_	c.	c.	NN	1	PMOD	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_
+6	Assyrian	assyrian	JJ	_	Assyrian	assyrian	JJ	7	NMOD	_	_	_	_	_
+7	armies	armies	NNS	_	armies	army	NNS	10	SBJ	army.01	_	A0	A0	A0
+8	of	of	IN	_	of	of	IN	7	NMOD	_	A2	_	_	_
+9	Sennacherib	sennacherib	NNP	_	Sennacherib	sennacherib	NNP	8	PMOD	_	_	_	_	_
+10	destroyed	destroyed	VBD	_	destroyed	destroy	VBD	0	ROOT	destroy.01	_	_	_	_
+11	Israel	israel	NNP	_	Israel	israel	NNP	10	OBJ	_	_	A1	_	_
+12	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_	_
+13	moved	moved	VBD	_	moved	move	VBD	12	CONJ	move.01	_	_	_	_
+14	southward	southward	RB	_	southward	southward	RB	13	DIR	_	_	_	A1	_
+15	to	to	TO	_	to	to	TO	13	PRP	_	_	_	_	_
+16	besiege	besiege	VB	_	besiege	besiege	VB	15	IM	besiege.01	_	_	_	_
+17	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	16	OBJ	_	_	_	_	A1
+18	.	.	.	_	.	.	.	10	P	_	_	_	_	_
+
+1	Thanks	thanks	NNS	_	Thanks	thanks	NNS	13	ADV	_	_	_
+2	to	to	TO	_	to	to	TO	1	NMOD	_	_	_
+3	King	king	NNP	_	King	king	NNP	4	TITLE	_	_	_
+4	Hezekiah	hezekiah	NNP	_	Hezekiah	hezekiah	NNP	8	NMOD	_	_	_
+5	's	's	POS	_	's	's	POS	4	SUFFIX	_	_	_
+6	hidden	hidden	JJ	_	hidden	hide	VBN	8	NMOD	hide.01	_	_
+7	water	water	NN	_	water	water	NN	8	NMOD	_	_	_
+8	tunnel	tunnel	NN	_	tunnel	tunnel	NN	2	PMOD	_	A1	_
+9	,	,	,	_	,	,	,	13	P	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_
+11	city	city	NN	_	city	city	NN	13	SBJ	_	_	A0
+12	narrowly	narrowly	RB	_	narrowly	narrowly	RB	13	MNR	_	_	AM-MNR
+13	escaped	escaped	VBD	_	escaped	escape	VBD	0	ROOT	escape.01	_	_
+14	destruction	destruction	NN	_	destruction	destruction	NN	13	OBJ	_	_	A1
+15	.	.	.	_	.	.	.	13	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	end	end	NN	_	end	end	NN	7	SBJ	end.03	_	A1	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	A1	_	_	_
+4	David	david	NNP	_	David	david	NNP	6	NMOD	_	_	_	_	_
+5	's	's	POS	_	's	's	POS	4	SUFFIX	_	_	_	_	_
+6	dynasty	dynasty	NN	_	dynasty	dynasty	NN	3	PMOD	_	_	_	_	_
+7	came	came	VBD	_	came	come	VBD	0	ROOT	come.01	_	_	_	_
+8	in	in	IN	_	in	in	IN	7	TMP	_	_	AM-TMP	_	_
+9	587	587	CD	_	587	587	CD	11	NMOD	_	_	_	_	_
+10	b.	b.	NN	_	b.	b.	NN	11	NMOD	_	_	_	_	_
+11	c.	c.	NN	_	c.	c.	NN	8	PMOD	_	_	_	_	_
+12	,	,	,	_	,	,	,	11	P	_	_	_	_	_
+13	when	when	WRB	_	when	when	WRB	20	TMP	_	_	_	_	_
+14	Nebuchadnezzar	nebuchadnezzar	NNP	_	Nebuchadnezzar	nebuchadnezzar	NNP	20	SBJ	_	_	_	A0	A0
+15	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+16	King	king	NNP	_	King	king	NNP	14	APPO	_	_	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_
+18	Babylon	babylon	NNP	_	Babylon	babylon	NNP	17	PMOD	_	_	_	_	_
+19	,	,	,	_	,	,	,	20	P	_	_	_	_	_
+20	invaded	invaded	VBD	_	invaded	invade	VBD	11	NMOD	invade.01	_	_	_	_
+21	Judah	judah	NNP	_	Judah	judah	NNP	20	OBJ	_	_	_	A1	_
+22	to	to	TO	_	to	to	TO	20	PRP	_	_	_	_	_
+23	lay	lay	VB	_	lay	lay	VB	22	IM	lay.01	_	_	_	_
+24	siege	siege	NN	_	siege	siege	NN	23	OBJ	_	_	_	_	A1
+25	to	to	TO	_	to	to	TO	23	ADV	_	_	_	_	A2
+26	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	25	PMOD	_	_	_	_	_
+27	.	.	.	_	.	.	.	7	P	_	_	_	_	_
+
+1	When	when	WRB	_	When	when	WRB	3	TMP	_	_	AM-TMP	_
+2	it	it	PRP	_	it	it	PRP	3	SBJ	_	A0	_	_
+3	fell	fell	VBD	_	fell	fell	VBD	11	TMP	fell.01	_	_	_
+4	,	,	,	_	,	,	,	11	P	_	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_
+6	Temple	temple	NNP	_	Temple	temple	NNP	11	SBJ	_	_	A1	A0
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_
+8	all	all	PDT	_	all	all	PDT	10	NMOD	_	_	_	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_
+10	buildings	buildings	NNS	_	buildings	building	NNS	7	CONJ	_	_	_	_
+11	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_
+12	burned	burned	VBN	_	burned	burn	VBN	11	VC	burn.02	_	A2	_
+13	.	.	.	_	.	.	.	11	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_
+2	people	people	NNS	_	people	people	NNS	9	SBJ	_	A1	A0	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_	_
+4	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+5	once	once	RB	_	once	once	RB	7	AMOD	_	_	_	_
+6	-	-	HYPH	_	-	-	HYPH	7	AMOD	_	_	_	_
+7	glorious	glorious	JJ	_	glorious	glorious	JJ	8	NMOD	_	_	_	_
+8	city	city	NN	_	city	city	NN	3	PMOD	_	_	_	_
+9	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_
+10	forced	forced	VBN	_	forced	force	VBN	9	VC	force.01	A2	_	_
+11	into	into	IN	_	into	into	IN	10	ADV	_	_	A2	_
+12	an	an	DT	_	an	an	DT	13	NMOD	_	_	_	_
+13	exile	exile	NN	_	exile	exile	NN	11	PMOD	_	_	_	A1
+14	known	known	VBN	_	known	know	VBN	13	APPO	know.01	_	_	_
+15	as	as	IN	_	as	as	IN	14	ADV	_	_	_	_
+16	"	"	''	_	"	"	''	15	P	_	_	_	_
+17	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_
+18	Babylonian	babylonian	NNP	_	Babylonian	babylonian	NNP	19	NAME	_	_	_	_
+19	Captivity	captivity	NNP	_	Captivity	captivity	NNP	15	PMOD	_	_	_	A2
+20	.	.	.	_	.	.	.	9	P	_	_	_	_
+21	"	"	''	_	"	"	''	9	P	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	0	ROOT	_	AM-TMP	_	AM-TMP	_	_
+2	time	time	NN	_	time	time	NN	1	PMOD	_	_	_	_	_	_
+3	,	,	,	_	,	,	,	1	P	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_
+5	kingdom	kingdom	NN	_	kingdom	kingdom	NN	8	SBJ	_	A1	A0	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	_	_	_	_
+7	Babylon	babylon	NNP	_	Babylon	babylon	NNP	6	PMOD	_	_	_	_	_	_
+8	was	was	VBD	_	was	be	VBD	1	COORD	be.01	_	_	_	_	_
+9	overthrown	overthrown	VBN	_	overthrown	overthrow	VBN	8	VC	overthrow.01	A2	_	_	_	_
+10	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_
+12	Israelites	israelites	NNPS	_	Israelites	israelites	NNPS	13	SBJ	_	_	_	A1	A0	A0
+13	were	were	VBD	_	were	be	VBD	10	CONJ	be.01	_	_	_	_	_
+14	permitted	permitted	VBN	_	permitted	permit	VBN	13	VC	permit.01	_	_	A2	_	_
+15	to	to	TO	_	to	to	TO	14	OPRD	_	_	_	_	_	_
+16	return	return	VB	_	return	return	VB	15	IM	return.02	_	_	_	_	_
+17	to	to	TO	_	to	to	TO	16	DIR	_	_	_	_	_	A2
+18	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	17	PMOD	_	_	_	_	_	_
+19	in	in	IN	_	in	in	IN	16	TMP	_	_	_	_	_	AM-TMP
+20	539	539	CD	_	539	539	CD	22	NMOD	_	_	_	_	_	_
+21	b.	b.	NN	_	b.	b.	NN	22	NMOD	_	_	_	_	_	_
+22	c	c	NN	_	c	c	NN	19	PMOD	_	_	_	_	_	_
+23	.	.	.	_	.	.	.	1	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_
+2	city	city	NN	_	city	city	NN	3	SBJ	_	A1	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+4	now	now	RB	_	now	now	RB	3	TMP	_	AM-TMP	_	_
+5	under	under	IN	_	under	under	IN	3	PRD	_	A2	_	_
+6	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+7	more	more	RBR	_	more	more	RBR	8	AMOD	_	_	_	_
+8	tolerant	tolerant	JJ	_	tolerant	tolerant	JJ	9	NMOD	_	_	_	_
+9	rule	rule	NN	_	rule	rule	NN	5	PMOD	rule.02	_	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	A0	_
+11	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_
+12	Persians	persians	NNPS	_	Persians	persian	NNPS	10	PMOD	_	_	_	_
+13	,	,	,	_	,	,	,	3	P	_	_	_	_
+14	but	but	CC	_	but	but	CC	3	COORD	_	_	_	_
+15	rebuilding	rebuilding	NN	_	rebuilding	rebuilding	NN	16	SBJ	_	_	_	A1
+16	was	was	VBD	_	was	be	VBD	14	CONJ	be.01	_	_	_
+17	slow	slow	JJ	_	slow	slow	JJ	18	NMOD	_	_	_	_
+18	work	work	NN	_	work	work	NN	16	PRD	_	_	_	A2
+19	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_
+2	Second	second	NNP	_	Second	second	NNP	3	NAME	_	_	_	_
+3	Temple	temple	NNP	_	Temple	temple	NNP	4	SBJ	_	A1	A0	_
+4	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+5	finished	finished	VBN	_	finished	finish	VBN	4	VC	finish.01	A2	_	_
+6	in	in	IN	_	in	in	IN	5	TMP	_	_	AM-TMP	_
+7	515	515	CD	_	515	515	CD	9	NMOD	_	_	_	_
+8	b.	b.	NN	_	b.	b.	NN	9	NMOD	_	_	_	_
+9	c.	c.	NN	_	c.	c.	NN	6	PMOD	_	_	_	_
+10	,	,	,	_	,	,	,	4	P	_	_	_	_
+11	but	but	CC	_	but	but	CC	4	COORD	_	_	_	_
+12	much	much	JJ	_	much	much	JJ	17	SBJ	_	_	_	A0
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_
+15	city	city	NN	_	city	city	NN	13	PMOD	_	_	_	_
+16	still	still	RB	_	still	still	RB	17	TMP	_	_	_	AM-TMP
+17	lay	lay	VBD	_	lay	lay	VBD	11	CONJ	lay.01	_	_	_
+18	in	in	IN	_	in	in	IN	17	ADV	_	_	_	A1
+19	ruins	ruins	NNS	_	ruins	ruin	NNS	18	PMOD	_	_	_	_
+20	.	.	.	_	.	.	.	4	P	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	2	SBJ	_	A0	_	_
+2	submitted	submitted	VBD	_	submitted	submit	VBD	0	ROOT	submit.01	_	_	_
+3	peaceably	peaceably	RB	_	peaceably	peaceably	RB	2	MNR	_	AM-MNR	_	_
+4	to	to	TO	_	to	to	TO	2	DEP	_	A1	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_
+6	rule	rule	NN	_	rule	rule	NN	4	PMOD	rule.02	_	_	_
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	A0	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+9	Greeks	greeks	NNPS	_	Greeks	greek	NNPS	7	PMOD	_	_	_	_
+10	in	in	IN	_	in	in	IN	2	TMP	_	AM-TMP	_	_
+11	332	332	CD	_	332	332	CD	13	NMOD	_	_	_	_
+12	b.	b.	NN	_	b.	b.	NN	13	NMOD	_	_	_	_
+13	c.	c.	NN	_	c.	c.	NN	10	PMOD	_	_	_	_
+14	under	under	IN	_	under	under	IN	9	NMOD	_	_	_	_
+15	Alexander	alexander	NNP	_	Alexander	alexander	NNP	14	PMOD	_	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_
+17	Great	great	NNP	_	Great	great	NNP	15	APPO	_	_	_	_
+18	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_
+19	,	,	,	_	,	,	,	18	P	_	_	_	_
+20	subsequently	subsequently	RB	_	subsequently	subsequently	RB	2	TMP	_	AM-TMP	_	_
+21	,	,	,	_	,	,	,	18	P	_	_	_	_
+22	to	to	TO	_	to	to	TO	18	DEP-GAP	_	_	_	_
+23	his	his	PRP$	_	his	his	PRP$	25	NMOD	_	_	_	A1
+24	Hellenistic	hellenistic	JJ	_	Hellenistic	hellenistic	JJ	25	NMOD	_	_	_	_
+25	successors	successors	NNS	_	successors	successor	NNS	22	PMOD	successor.01	_	_	A0
+26	as	as	RB	_	as	as	RB	25	COORD	_	_	_	_
+27	well	well	RB	_	well	well	RB	26	DEP	_	_	_	_
+28	as	as	IN	_	as	as	IN	26	DEP	_	_	_	_
+29	the	the	DT	_	the	the	DT	31	NMOD	_	_	_	_
+30	Egyptian	egyptian	JJ	_	Egyptian	egyptian	JJ	31	NMOD	_	_	_	_
+31	Ptolomeys	ptolomeys	NNPS	_	Ptolomeys	ptolomeys	NNPS	26	CONJ	_	_	_	_
+32	and	and	CC	_	and	and	CC	31	COORD	_	_	_	_
+33	the	the	DT	_	the	the	DT	35	NMOD	_	_	_	_
+34	Syrian	syrian	JJ	_	Syrian	syrian	JJ	35	NMOD	_	_	_	_
+35	Seleucids	seleucids	NNPS	_	Seleucids	seleucids	NNPS	32	CONJ	_	_	_	_
+36	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	When	when	WRB	_	When	when	WRB	4	TMP	_	_	_	_	AM-TMP	_	AM-TMP	_
+2	Seleucid	seleucid	JJ	_	Seleucid	seleucid	JJ	3	NMOD	_	_	_	_	_	_	_	_
+3	rulers	rulers	NNS	_	rulers	ruler	NNS	4	SBJ	_	A0	_	_	_	_	_	_
+4	outlawed	outlawed	VBD	_	outlawed	outlaw	VBD	15	TMP	outlaw.01	_	_	_	_	_	_	_
+5	Judaism	judaism	NNP	_	Judaism	judaism	NNP	4	OBJ	_	A1	_	_	_	_	_	_
+6	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_	_
+7	Jews	jews	NNPS	_	Jews	jew	NNPS	15	SBJ	_	_	A1	_	A0	A1	A0	_
+8	led	led	VBN	_	led	lead	VBN	7	APPO	lead.01	_	_	_	_	_	_	_
+9	by	by	IN	_	by	by	IN	8	LGS	_	_	_	_	_	_	_	_
+10	Judah	judah	NNP	_	Judah	judah	NNP	11	NAME	_	_	_	_	_	_	_	_
+11	Maccabee	maccabee	NNP	_	Maccabee	maccabee	NNP	9	PMOD	_	_	A0	_	_	_	_	_
+12	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_	_	_
+13	his	his	PRP$	_	his	his	PRP$	14	NMOD	_	_	_	A1	_	_	_	_
+14	brothers	brothers	NNS	_	brothers	brother	NNS	12	CONJ	brother.01	_	_	A0	_	_	_	_
+15	staged	staged	VBD	_	staged	stage	VBD	0	ROOT	stage.01	_	_	_	_	_	_	_
+16	a	a	DT	_	a	a	DT	17	NMOD	_	_	_	_	_	_	_	_
+17	revolution	revolution	NN	_	revolution	revolution	NN	15	OBJ	_	_	_	_	A1	_	_	_
+18	in	in	IN	_	in	in	IN	15	TMP	_	_	_	_	AM-TMP	_	_	_
+19	167	167	CD	_	167	167	CD	21	NMOD	_	_	_	_	_	_	_	_
+20	b.	b.	NN	_	b.	b.	NN	21	NMOD	_	_	_	_	_	_	_	_
+21	c.	c.	NN	_	c.	c.	NN	18	PMOD	_	_	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_	_	_	_
+23	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_
+24	against	against	IN	_	against	against	IN	15	MNR	_	_	_	_	AM-MNR	_	AM-MNR	_
+25	all	all	DT	_	all	all	DT	26	NMOD	_	_	_	_	_	_	_	_
+26	odds	odds	NNS	_	odds	odds	NNS	24	PMOD	odds.01	_	_	_	_	A2	_	_
+27	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_
+28	restored	restored	VBD	_	restored	restore	VBD	22	CONJ	restore.01	_	_	_	_	_	_	_
+29	the	the	DT	_	the	the	DT	30	NMOD	_	_	_	_	_	_	_	_
+30	primacy	primacy	NN	_	primacy	primacy	NN	28	OBJ	_	_	_	_	_	_	A1	_
+31	of	of	IN	_	of	of	IN	30	NMOD	_	_	_	_	_	_	_	_
+32	Jewish	jewish	JJ	_	Jewish	jewish	JJ	34	NMOD	_	_	_	_	_	_	_	A1
+33	religious	religious	JJ	_	religious	religious	JJ	34	NMOD	_	_	_	_	_	_	_	_
+34	life	life	NN	_	life	life	NN	31	PMOD	life.02	_	_	_	_	_	_	A2
+35	in	in	IN	_	in	in	IN	30	LOC	_	_	_	_	_	_	_	_
+36	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	35	PMOD	_	_	_	_	_	_	_	_
+37	.	.	.	_	.	.	.	15	P	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	Macabbees	macabbees	NNPS	_	Macabbees	macabbees	NNPS	3	SBJ	_	A0	_	_	_
+3	cleansed	cleansed	VBD	_	cleansed	cleanse	VBD	0	ROOT	cleanse.01	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+5	Temple	temple	NN	_	Temple	temple	NN	3	OBJ	_	A1	_	_	_
+6	of	of	IN	_	of	of	IN	3	ADV	_	A2	_	_	_
+7	Hellenistic	hellenistic	JJ	_	Hellenistic	hellenistic	JJ	8	NMOD	_	_	_	_	_
+8	idols	idols	NNS	_	idols	idol	NNS	6	PMOD	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_
+11	blood	blood	NN	_	blood	blood	NN	9	CONJ	_	_	_	_	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	_	_	_	_
+13	pagan	pagan	JJ	_	pagan	pagan	JJ	14	NMOD	_	_	A0	_	_
+14	sacrifices	sacrifices	NNS	_	sacrifices	sacrifice	NNS	12	PMOD	sacrifice.01	_	_	_	_
+15	;	;	,	_	;	;	,	3	P	_	_	_	_	_
+16	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_	_
+17	eight	eight	CD	_	eight	eight	CD	19	NMOD	_	_	_	_	_
+18	-	-	HYPH	_	-	-	HYPH	19	NMOD	_	_	_	_	_
+19	day	day	NN	_	day	day	NN	20	NMOD	_	_	_	_	_
+20	celebration	celebration	NN	_	celebration	celebration	NN	28	SBJ	_	_	_	A0	_
+21	of	of	IN	_	of	of	IN	20	NMOD	_	_	_	_	_
+22	Hanukkah	hanukkah	NNP	_	Hanukkah	hanukkah	NNP	21	PMOD	_	_	_	_	_
+23	(	-lrb-	(	_	(	-lrb-	(	24	P	_	_	_	_	_
+24	Feast	feast	NNP	_	Feast	feast	NNP	22	APPO	_	_	_	_	_
+25	of	of	IN	_	of	of	IN	24	NMOD	_	_	_	_	_
+26	Dedication	dedication	NNP	_	Dedication	dedication	NNP	25	PMOD	_	_	_	_	_
+27	)	-rrb-	)	_	)	-rrb-	)	24	P	_	_	_	_	_
+28	commemorates	commemorates	VBZ	_	commemorates	commemorate	VBZ	3	COORD	commemorate.01	_	_	_	_
+29	their	their	PRP$	_	their	their	PRP$	30	NMOD	_	_	_	_	A1
+30	victory	victory	NN	_	victory	victory	NN	28	PRD	victory.01	_	_	A1	_
+31	.	.	.	_	.	.	.	3	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_
+2	Hasmonean	hasmonean	JJ	_	Hasmonean	hasmonean	JJ	3	NMOD	_	_	_	_
+3	dynasty	dynasty	NN	_	dynasty	dynasty	NN	11	SBJ	_	_	A0	_
+4	,	,	,	_	,	,	,	3	P	_	_	_	_
+5	descendants	descendants	NNS	_	descendants	descendants	NNS	3	APPO	_	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	_	_
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+8	Maccabee	maccabee	NNP	_	Maccabee	maccabee	NNP	9	NMOD	_	A2	_	_
+9	family	family	NN	_	family	family	NN	6	PMOD	family.01	_	_	_
+10	,	,	,	_	,	,	,	11	P	_	_	_	_
+11	ruled	ruled	VBD	_	ruled	rule	VBD	0	ROOT	rule.01	_	_	_
+12	an	an	DT	_	an	an	DT	15	NMOD	_	_	_	_
+13	independent	independent	JJ	_	independent	independent	JJ	15	NMOD	_	_	_	_
+14	Jewish	jewish	JJ	_	Jewish	jewish	JJ	15	NMOD	_	_	_	_
+15	Commonwealth	commonwealth	NN	_	Commonwealth	commonwealth	NN	11	OBJ	_	_	A1	A0
+16	that	that	WDT	_	that	that	WDT	17	SBJ	_	_	_	_
+17	stretched	stretched	VBD	_	stretched	stretch	VBD	15	NMOD	stretch.01	_	_	_
+18	from	from	IN	_	from	from	IN	17	EXT	_	_	_	AM-EXT
+19	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_
+20	Negev	negev	NNP	_	Negev	negev	NNP	18	PMOD	_	_	_	_
+21	to	to	TO	_	to	to	TO	18	PMOD	_	_	_	_
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_
+23	Galilee	galilee	NNP	_	Galilee	galilee	NNP	21	PMOD	_	_	_	_
+24	.	.	.	_	.	.	.	11	P	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	2	SBJ	_	A0	A0	A0
+2	grew	grew	VBD	_	grew	grow	VBD	0	ROOT	grow.01	_	_	_
+3	,	,	,	_	,	,	,	2	P	_	_	_	_
+4	surrounded	surrounded	VBN	_	surrounded	surround	VBN	2	ADV	surround.01	_	_	_
+5	with	with	IN	_	with	with	IN	4	ADV	_	_	A1	_
+6	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_
+7	formidable	formidable	JJ	_	formidable	formidable	JJ	8	NMOD	_	_	_	_
+8	wall	wall	NN	_	wall	wall	NN	5	PMOD	_	_	_	_
+9	and	and	CC	_	and	and	CC	4	COORD	_	_	_	_
+10	defended	defended	VBN	_	defended	defend	VBN	9	CONJ	defend.01	_	_	_
+11	by	by	IN	_	by	by	IN	10	LGS	_	_	_	_
+12	towers	towers	NNS	_	towers	tower	NNS	11	PMOD	_	_	_	A1
+13	beside	beside	IN	_	beside	beside	IN	12	NMOD	_	_	_	_
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_
+15	Jaffa	jaffa	NNP	_	Jaffa	jaffa	NNP	16	NAME	_	_	_	_
+16	Gate	gate	NNP	_	Gate	gate	NNP	13	PMOD	_	_	_	_
+17	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_
+2	Hasmoneans	hasmoneans	NNPS	_	Hasmoneans	hasmoneans	NNPS	3	SBJ	_	A0	_	_
+3	ruled	ruled	VBD	_	ruled	rule	VBD	0	ROOT	rule.01	_	_	_
+4	until	until	IN	_	until	until	IN	3	TMP	_	AM-TMP	_	_
+5	Pompey	pompey	NNP	_	Pompey	pompey	NNP	8	NMOD	_	_	A2	_
+6	's	's	POS	_	's	's	POS	5	SUFFIX	_	_	_	_
+7	Roman	roman	NNP	_	Roman	roman	NNP	8	NMOD	_	_	_	_
+8	legions	legions	NNS	_	legions	legion	NNS	9	SBJ	legion.01	_	_	A1
+9	arrived	arrived	VBD	_	arrived	arrive	VBD	4	SUB	arrive.01	_	_	_
+10	in	in	IN	_	in	in	IN	9	TMP	_	_	_	AM-TMP
+11	63	63	CD	_	63	63	CD	13	NMOD	_	_	_	_
+12	b.	b.	NN	_	b.	b.	NN	13	NMOD	_	_	_	_
+13	c	c	NN	_	c	c	NN	10	PMOD	_	_	_	_
+14	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	Roman	roman	JJ	_	Roman	roman	JJ	2	NMOD	_
+2	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	0	ROOT	_
+
+1	After	after	IN	_	After	after	IN	13	TMP	_	_	AM-TMP
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_
+3	initial	initial	JJ	_	initial	initial	JJ	4	NMOD	_	AM-TMP	_
+4	years	years	NNS	_	years	years	NNS	1	PMOD	year.04	A2	_
+5	of	of	IN	_	of	of	IN	4	NMOD	_	A1	_
+6	Roman	roman	JJ	_	Roman	roman	JJ	7	NMOD	_	_	_
+7	administration	administration	NN	_	administration	administration	NN	5	PMOD	_	_	_
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_
+9	political	political	JJ	_	political	political	JJ	10	NMOD	_	_	_
+10	infighting	infighting	NN	_	infighting	infighting	NN	8	CONJ	_	_	_
+11	,	,	,	_	,	,	,	13	P	_	_	_
+12	Rome	rome	NNP	_	Rome	rome	NNP	13	SBJ	_	_	A0
+13	installed	installed	VBD	_	installed	instal	VBD	0	ROOT	install.01	_	_
+14	Herod	herod	NNP	_	Herod	herod	NNP	13	OBJ	_	_	A1
+15	(	-lrb-	(	_	(	-lrb-	(	16	P	_	_	_
+16	scion	scion	NN	_	scion	scion	NN	14	APPO	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_
+18	a	a	DT	_	a	a	DT	19	NMOD	_	_	_
+19	family	family	NN	_	family	family	NN	17	PMOD	_	_	_
+20	from	from	IN	_	from	from	IN	19	NMOD	_	_	_
+21	Idumea	idumea	NNP	_	Idumea	idumea	NNP	20	PMOD	_	_	_
+22	,	,	,	_	,	,	,	21	P	_	_	_
+23	a	a	DT	_	a	a	DT	25	NMOD	_	_	_
+24	Jewish	jewish	JJ	_	Jewish	jewish	JJ	25	NMOD	_	_	_
+25	kingdom	kingdom	NN	_	kingdom	kingdom	NN	21	APPO	_	_	_
+26	in	in	IN	_	in	in	IN	25	LOC	_	_	_
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_
+28	desert	desert	NN	_	desert	desert	NN	26	PMOD	_	_	_
+29	)	-rrb-	)	_	)	-rrb-	)	16	P	_	_	_
+30	as	as	IN	_	as	as	IN	13	ADV	_	_	_
+31	King	king	NNP	_	King	king	NNP	30	PMOD	_	_	A2
+32	of	of	IN	_	of	of	IN	31	NMOD	_	_	_
+33	Judea	judea	NNP	_	Judea	judea	NNP	32	PMOD	_	_	_
+34	.	.	.	_	.	.	.	13	P	_	_	_
+
+1	He	he	PRP	_	He	he	PRP	2	SBJ	_	A0	_	_
+2	reigned	reigned	VBD	_	reigned	reign	VBD	0	ROOT	reign.01	_	_	_
+3	from	from	IN	_	from	from	IN	2	TMP	_	AM-TMP	_	_
+4	37	37	CD	_	37	37	CD	6	DEP	_	_	_	_
+5	to	to	TO	_	to	to	TO	6	DEP	_	_	_	_
+6	4	4	CD	_	4	4	CD	8	NMOD	_	_	_	_
+7	b.	b.	NN	_	b.	b.	NN	8	NMOD	_	_	_	_
+8	c.	c.	NN	_	c.	c.	NN	3	PMOD	_	_	_	_
+9	,	,	,	_	,	,	,	8	P	_	_	_	_
+10	during	during	IN	_	during	during	IN	14	TMP	_	_	_	_
+11	which	which	WDT	_	which	which	WDT	12	NMOD	_	_	_	_
+12	time	time	NN	_	time	time	NN	10	PMOD	_	_	_	_
+13	he	he	PRP	_	he	he	PRP	14	SBJ	_	_	A0	_
+14	fortified	fortified	VBD	_	fortified	fortify	VBD	8	NMOD	_	_	_	_
+15	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_
+16	Hasmonean	hasmonean	JJ	_	Hasmonean	hasmonean	JJ	17	NMOD	_	_	_	_
+17	wall	wall	NN	_	wall	wall	NN	14	OBJ	_	_	_	_
+18	and	and	CC	_	and	and	CC	14	COORD	_	_	_	_
+19	rebuilt	rebuilt	VBD	_	rebuilt	rebuild	VBD	18	CONJ	rebuild.01	_	_	_
+20	the	the	DT	_	the	the	DT	22	NMOD	_	_	_	_
+21	defense	defense	NN	_	defense	defense	NN	22	NMOD	_	_	_	_
+22	towers	towers	NNS	_	towers	tower	NNS	19	OBJ	_	_	A1	_
+23	beside	beside	IN	_	beside	beside	IN	22	LOC	_	_	_	_
+24	Jaffa	jaffa	NNP	_	Jaffa	jaffa	NNP	25	NAME	_	_	_	_
+25	Gate	gate	NNP	_	Gate	gate	NNP	23	PMOD	_	_	_	_
+26	,	,	,	_	,	,	,	22	P	_	_	_	_
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_
+28	foundation	foundation	NN	_	foundation	foundation	NN	32	SBJ	_	_	_	A0
+29	of	of	IN	_	of	of	IN	28	NMOD	_	_	_	_
+30	which	which	WDT	_	which	which	WDT	29	PMOD	_	_	_	_
+31	still	still	RB	_	still	still	RB	32	TMP	_	_	_	AM-TMP
+32	stand	stand	VBP	_	stand	stand	VBP	22	NMOD	stand.01	_	_	_
+33	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Several	several	JJ	_	Several	several	DT	2	NMOD	_	_	_	_
+2	palaces	palaces	NNS	_	palaces	palace	NNS	3	SBJ	_	A1	A0	_
+3	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_
+4	built	built	VBN	_	built	build	VBN	3	VC	build.01	A2	_	_
+5	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_
+6	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_
+7	water	water	NN	_	water	water	NN	8	NMOD	_	_	_	_
+8	system	system	NN	_	system	system	NN	5	GAP-SBJ	_	_	_	A0
+9	installed	installed	VBN	_	installed	instal	VBN	5	GAP-VC	install.01	_	_	_
+10	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	Herod	herod	NNP	_	Herod	herod	NNP	4	SBJ	_	A0	A0
+2	also	also	RB	_	also	also	RB	4	ADV	_	AM-DIS	_
+3	completely	completely	RB	_	completely	completely	RB	4	MNR	_	AM-MNR	_
+4	rebuilt	rebuilt	VBD	_	rebuilt	rebuild	VBD	0	ROOT	rebuild.01	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+6	Temple	temple	NNP	_	Temple	temple	NNP	4	OBJ	_	A1	_
+7	,	,	,	_	,	,	,	4	P	_	_	_
+8	making	making	VBG	_	making	make	VBG	4	ADV	make.08	_	_
+9	it	it	PRP	_	it	it	PRP	8	OBJ	_	_	_
+10	one	one	CD	_	one	one	CD	8	OPRD	_	_	A2
+11	of	of	IN	_	of	of	IN	10	NMOD	_	_	_
+12	the	the	DT	_	the	the	DT	16	NMOD	_	_	_
+13	most	most	RBS	_	most	most	RBS	14	AMOD	_	_	_
+14	important	important	JJ	_	important	important	JJ	16	NMOD	_	_	_
+15	religious	religious	JJ	_	religious	religious	JJ	16	NMOD	_	_	_
+16	centers	centers	NNS	_	centers	center	NNS	11	PMOD	_	_	_
+17	in	in	IN	_	in	in	IN	16	LOC	_	_	_
+18	the	the	DT	_	the	the	DT	20	NMOD	_	_	_
+19	Roman	roman	NNP	_	Roman	roman	NNP	20	NAME	_	_	_
+20	Empire	empire	NNP	_	Empire	empire	NNP	17	PMOD	_	_	_
+21	.	.	.	_	.	.	.	4	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_	_
+2	courtyard	courtyard	NN	_	courtyard	courtyard	NN	6	SBJ	_	A1	A0	A0	_	_	_	_	_
+3	around	around	IN	_	around	around	IN	2	LOC	_	_	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_	_	_	_
+5	Temple	temple	NNP	_	Temple	temple	NNP	3	PMOD	_	_	_	_	_	_	_	_	_
+6	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_
+7	expanded	expanded	VBN	_	expanded	expand	VBN	6	VC	expand.01	A2	_	_	_	_	_	_	_
+8	to	to	TO	_	to	to	TO	7	PRP	_	_	_	_	_	_	_	_	_
+9	accommodate	accommodate	VB	_	accommodate	accommodate	VB	8	IM	accommodate.01	_	_	_	_	_	_	_	_
+10	hundreds	hundreds	NNS	_	hundreds	hundred	NNS	12	DEP	hundreds.01	_	_	A1	_	_	_	_	_
+11	of	of	IN	_	of	of	IN	12	DEP	_	_	_	_	A1	_	_	_	_
+12	thousands	thousands	NNS	_	thousands	thousand	NNS	9	OBJ	_	_	_	_	_	_	_	_	_
+13	of	of	IN	_	of	of	IN	12	NMOD	_	_	_	_	_	_	_	_	_
+14	pilgrims	pilgrims	NNS	_	pilgrims	pilgrim	NNS	13	PMOD	_	_	_	_	_	_	_	_	_
+15	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_	_	_	_
+16	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_	_	_	_	_
+18	Temple	temple	NNP	_	Temple	temple	NNP	19	NAME	_	_	_	_	_	_	_	_	_
+19	Mount	mount	NNP	_	Mount	mount	NNP	20	SBJ	_	_	_	_	_	A1	A0	_	_
+20	was	was	VBD	_	was	be	VBD	16	CONJ	be.01	_	_	_	_	_	_	_	_
+21	shored	shored	VBN	_	shored	shore	VBN	20	VC	shore.01	_	_	_	_	A2	_	_	_
+22	up	up	RP	_	up	up	RP	21	PRT	_	_	_	_	_	_	_	_	_
+23	by	by	IN	_	by	by	IN	21	LGS	_	_	_	_	_	_	_	_	_
+24	retaining	retaining	VBG	_	retaining	retain	VBG	25	NMOD	_	_	_	_	_	_	_	_	_
+25	walls	walls	NNS	_	walls	wall	NNS	23	PMOD	_	_	_	_	_	_	A1	A1	_
+26	made	made	VBN	_	made	make	VBN	25	APPO	make.01	_	_	_	_	_	_	_	_
+27	with	with	IN	_	with	with	IN	26	MNR	_	_	_	_	_	_	_	AM-MNR	_
+28	great	great	JJ	_	great	great	JJ	30	NMOD	_	_	_	_	_	_	_	_	_
+29	stone	stone	NN	_	stone	stone	NN	30	NMOD	_	_	_	_	_	_	_	_	A1
+30	blocks	blocks	NNS	_	blocks	block	NNS	27	PMOD	block.01	_	_	_	_	_	_	_	_
+31	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_	_	_	_
+
+1	One	one	CD	_	One	one	CD	10	SBJ	_	A1	_
+2	of	of	IN	_	of	of	IN	1	NMOD	_	_	_
+3	these	these	DT	_	these	these	DT	4	NMOD	_	_	_
+4	walls	walls	NNS	_	walls	wall	NNS	2	PMOD	_	_	_
+5	,	,	,	_	,	,	,	1	P	_	_	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_
+7	Western	western	NNP	_	Western	western	NNP	8	NAME	_	_	_
+8	Wall	wall	NNP	_	Wall	wall	NNP	1	APPO	_	_	_
+9	,	,	,	_	,	,	,	10	P	_	_	_
+10	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_
+11	today	today	NN	_	today	today	NN	10	TMP	_	AM-TMP	_
+12	a	a	DT	_	a	a	DT	14	NMOD	_	_	_
+13	major	major	JJ	_	major	major	JJ	14	NMOD	_	_	_
+14	reminder	reminder	NN	_	reminder	reminder	NN	10	PRD	_	A2	_
+15	of	of	IN	_	of	of	IN	14	NMOD	_	_	_
+16	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	18	NMOD	_	_	A1
+17	's	's	POS	_	's	's	POS	16	SUFFIX	_	_	_
+18	greatness	greatness	NN	_	greatness	greatness	NN	15	PMOD	greatness.01	_	_
+19	under	under	IN	_	under	under	IN	18	NMOD	_	_	_
+20	Herod	herod	NNP	_	Herod	herod	NNP	19	PMOD	_	_	_
+21	.	.	.	_	.	.	.	10	P	_	_	_
+
+1	A	a	DT	_	A	a	DT	3	NMOD	_	_	_	_	_	_	_	_
+2	massive	massive	JJ	_	massive	massive	JJ	3	NMOD	_	_	_	_	_	_	_	_
+3	fortress	fortress	NN	_	fortress	fortress	NN	4	SBJ	_	A1	A0	A0	_	_	_	_
+4	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_
+5	built	built	VBN	_	built	build	VBN	4	VC	build.01	A2	_	_	_	_	_	_
+6	overlooking	overlooking	VBG	_	overlooking	overlook	VBG	5	ADV	overlook.01	_	_	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_	_	_
+8	Temple	temple	NNP	_	Temple	temple	NNP	9	NAME	_	_	_	_	_	_	_	_
+9	Mount	mount	NNP	_	Mount	mount	NNP	6	OBJ	_	_	_	A1	_	_	_	_
+10	,	,	,	_	,	,	,	5	P	_	_	_	_	_	_	_	_
+11	which	which	WDT	_	which	which	WDT	12	SBJ	_	_	_	_	A0	_	_	_
+12	Herod	herod	VBD	_	Herod	herod	VBD	3	NMOD	_	_	_	_	_	_	_	_
+13	named	named	VBN	_	named	name	VBN	12	VC	name.01	_	_	_	_	_	_	_
+14	"	"	''	_	"	"	''	15	P	_	_	_	_	_	_	_	_
+15	Antonia	antonia	NNP	_	Antonia	antonia	NNP	13	OPRD	_	_	_	_	A2	_	_	_
+16	"	"	''	_	"	"	''	15	P	_	_	_	_	_	_	_	_
+17	in	in	IN	_	in	in	IN	13	PRP	_	_	_	_	AM-LOC	_	_	_
+18	honor	honor	NN	_	honor	honor	NN	17	PMOD	honor.01	_	_	_	_	_	_	_
+19	of	of	IN	_	of	of	IN	18	NMOD	_	_	_	_	_	A1	_	_
+20	his	his	PRP$	_	his	his	PRP$	22	NMOD	_	_	_	_	_	_	A1	A0
+21	Roman	roman	JJ	_	Roman	roman	JJ	22	NMOD	_	_	_	_	_	_	_	_
+22	friend	friend	NN	_	friend	friend	NN	19	PMOD	friend.02	_	_	_	_	_	A0	_
+23	and	and	CC	_	and	and	CC	22	COORD	_	_	_	_	_	_	_	_
+24	benefactor	benefactor	NN	_	benefactor	benefactor	NN	23	CONJ	benefactor.01	_	_	_	_	_	_	A1
+25	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_	_	_
+26	Mark	mark	NNP	_	Mark	mark	NNP	27	NAME	_	_	_	_	_	_	_	_
+27	Antony	antony	NNP	_	Antony	antony	NNP	22	APPO	_	_	_	_	_	_	_	_
+28	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_
+
+1	For	for	IN	_	For	for	IN	7	ADV	_	_	_	_	_	_	_	_	_	_	_	_
+2	all	all	PDT	_	all	all	PDT	4	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+3	his	his	PRP$	_	his	his	PRP$	4	NMOD	_	A0	_	_	_	_	_	_	_	_	_	_
+4	accomplishments	accomplishments	NNS	_	accomplishments	accomplishment	NNS	1	PMOD	accomplishment.01	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_	_	_	_	_	_	_
+6	Herod	herod	NNP	_	Herod	herod	NNP	7	SBJ	_	_	A1	A0	_	_	_	_	_	_	_	_
+7	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_	_	_
+8	nevertheless	nevertheless	RB	_	nevertheless	nevertheless	RB	7	ADV	_	_	AM-DIS	_	_	_	_	_	_	_	_	_
+9	hated	hated	VBN	_	hated	hate	VBN	7	VC	hate.01	_	A2	_	_	_	_	_	_	_	_	_
+10	by	by	IN	_	by	by	IN	9	LGS	_	_	_	_	_	_	_	_	_	_	_	_
+11	his	his	PRP$	_	his	his	PRP$	12	NMOD	_	_	_	_	A1	_	_	_	_	_	_	_
+12	subjects	subjects	NNS	_	subjects	subject	NNS	10	PMOD	subject.04	_	_	A1	A0	_	_	_	_	_	_	_
+13	;	;	,	_	;	;	,	7	P	_	_	_	_	_	_	_	_	_	_	_	_
+14	he	he	PRP	_	he	he	PRP	15	SBJ	_	_	_	_	_	A0	_	_	_	_	_	_
+15	taxed	taxed	VBD	_	taxed	tax	VBD	7	COORD	tax.01	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	15	P	_	_	_	_	_	_	_	_	_	_	_	_
+17	he	he	PRP	_	he	he	PRP	18	SBJ	_	_	_	_	_	_	A0	_	_	_	_	_
+18	tortured	tortured	VBD	_	tortured	torture	VBD	15	COORD	torture.01	_	_	_	_	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_	_	_	_	_	_
+20	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+21	he	he	PRP	_	he	he	PRP	22	SBJ	_	_	_	_	_	_	_	A0	_	_	A0	_
+22	ordered	ordered	VBD	_	ordered	order	VBD	20	CONJ	order.01	_	_	_	_	_	_	_	_	_	_	_
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+24	massacre	massacre	NN	_	massacre	massacre	NN	22	OBJ	massacre.01	_	_	_	_	_	_	A1	_	_	_	_
+25	of	of	IN	_	of	of	IN	24	NMOD	_	_	_	_	_	_	_	_	A1	_	_	_
+26	male	male	JJ	_	male	male	JJ	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+27	Jewish	jewish	JJ	_	Jewish	jewish	JJ	28	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+28	infants	infants	NNS	_	infants	infant	NNS	25	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+29	in	in	IN	_	in	in	IN	22	PRP	_	_	_	_	_	_	_	AM-LOC	_	_	_	_
+30	an	an	DT	_	an	an	DT	31	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+31	attempt	attempt	NN	_	attempt	attempt	NN	29	PMOD	attempt.01	_	_	_	_	_	_	_	_	_	_	_
+32	to	to	TO	_	to	to	TO	31	NMOD	_	_	_	_	_	_	_	_	_	A1	_	_
+33	do	do	VB	_	do	do	VB	32	IM	do.02	_	_	_	_	_	_	_	_	_	_	_
+34	away	away	RP	_	away	away	RP	33	PRT	_	_	_	_	_	_	_	_	_	_	_	_
+35	with	with	IN	_	with	with	IN	33	ADV	_	_	_	_	_	_	_	_	_	_	A3	_
+36	the	the	DT	_	the	the	DT	38	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+37	heralded	heralded	VBN	_	heralded	herald	VBN	38	NMOD	herald.01	_	_	_	_	_	_	_	_	_	_	_
+38	Messiah	messiah	NNP	_	Messiah	messiah	NNP	35	PMOD	_	_	_	_	_	_	_	_	_	_	_	A1
+39	.	.	.	_	.	.	.	7	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	When	when	WRB	_	When	when	WRB	4	TMP	_	_	_	AM-TMP	_	_
+2	Jesus	jesus	NNP	_	Jesus	jesus	NNP	3	SBJ	_	A1	A0	_	_	_
+3	was	was	VBD	_	was	be	VBD	14	TMP	be.01	_	_	_	_	_
+4	born	born	VBN	_	born	bear	VBN	3	VC	born.01	A2	_	_	_	_
+5	in	in	IN	_	in	in	IN	4	TMP	_	_	AM-TMP	_	_	_
+6	about	about	RB	_	about	about	RB	9	NMOD	_	_	_	_	_	_
+7	4	4	CD	_	4	4	CD	6	DEP	_	_	_	_	_	_
+8	b.	b.	NN	_	b.	b.	NN	9	NMOD	_	_	_	_	_	_
+9	c.	c.	NN	_	c.	c.	NN	5	PMOD	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_
+11	Joseph	joseph	NNP	_	Joseph	joseph	NNP	14	SBJ	_	_	_	A0	A0	_
+12	and	and	CC	_	and	and	CC	11	COORD	_	_	_	_	_	_
+13	Mary	mary	NNP	_	Mary	mary	NNP	12	CONJ	_	_	_	_	_	_
+14	escaped	escaped	VBD	_	escaped	escape	VBD	0	ROOT	escape.01	_	_	_	_	_
+15	Herod	herod	NNP	_	Herod	herod	NNP	17	NMOD	_	_	_	_	_	_
+16	's	's	POS	_	's	's	POS	15	SUFFIX	_	_	_	_	_	_
+17	paranoia	paranoia	NN	_	paranoia	paranoia	NN	14	OBJ	_	_	_	A1	_	_
+18	by	by	IN	_	by	by	IN	14	MNR	_	_	_	AM-MNR	_	_
+19	fleeing	fleeing	VBG	_	fleeing	flee	VBG	18	PMOD	flee.01	_	_	_	_	_
+20	into	into	IN	_	into	into	IN	19	DIR	_	_	_	_	A1	_
+21	Egypt	egypt	NN	_	Egypt	egypt	NNP	20	PMOD	_	_	_	_	_	_
+22	with	with	IN	_	with	with	IN	19	ADV	_	_	_	_	AM-MNR	_
+23	the	the	DT	_	the	the	DT	27	NMOD	_	_	_	_	_	_
+24	new	new	RB	_	new	new	RB	26	AMOD	_	_	_	_	_	_
+25	-	-	HYPH	_	-	-	HYPH	26	AMOD	_	_	_	_	_	_
+26	born	born	VBN	_	born	bear	VBN	27	NMOD	born.02	_	_	_	_	_
+27	infant	infant	NN	_	infant	infant	NN	22	PMOD	_	_	_	_	_	A1
+28	.	.	.	_	.	.	.	14	P	_	_	_	_	_	_
+
+1	They	they	PRP	_	They	they	PRP	2	SBJ	_	A1	A0	_	A0	_
+2	returned	returned	VBD	_	returned	return	VBD	0	ROOT	return.01	_	_	_	_	_
+3	to	to	TO	_	to	to	TO	2	PRP	_	_	_	_	_	_
+4	live	live	VB	_	live	live	VB	3	IM	live.02	_	_	_	_	_
+5	in	in	IN	_	in	in	IN	4	LOC	_	_	A1	_	_	_
+6	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_
+7	Galilee	galilee	NNP	_	Galilee	galilee	NNP	8	NMOD	_	_	_	_	_	_
+8	village	village	NN	_	village	village	NN	5	PMOD	village.01	_	_	_	_	_
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	_	A1	_	_
+10	Nazareth	nazareth	NNP	_	Nazareth	nazareth	NNP	9	PMOD	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	4	P	_	_	_	_	_	_
+12	making	making	VBG	_	making	make	VBG	4	ADV	make.01	_	_	_	_	_
+13	pilgrimages	pilgrimages	NNS	_	pilgrimages	pilgrimage	NNS	12	OBJ	pilgrimage.01	_	_	_	A1	_
+14	to	to	TO	_	to	to	TO	13	NMOD	_	_	_	_	_	A1
+15	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	14	PMOD	_	_	_	_	_	_
+16	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	According	according	VBG	_	According	accord	VBG	7	ADV	accord.01	_	_	_
+2	to	to	TO	_	to	to	TO	1	PMOD	_	A1	_	_
+3	biblical	biblical	JJ	_	biblical	biblical	JJ	4	NMOD	_	_	_	_
+4	accounts	accounts	NNS	_	accounts	account	NNS	2	PMOD	_	_	_	_
+5	,	,	,	_	,	,	,	7	P	_	_	_	_
+6	Jesus	jesus	NNP	_	Jesus	jesus	NNP	7	SBJ	_	A0	A0	_
+7	spent	spent	VBD	_	spent	spend	VBD	0	ROOT	spent.01	_	_	_
+8	his	his	PRP$	_	his	his	PRP$	9	NMOD	_	_	_	A1
+9	life	life	NN	_	life	life	NN	7	OBJ	life.02	_	A1	A2
+10	ministering	ministering	VBG	_	ministering	minister	VBG	7	OPRD	_	_	A3	_
+11	in	in	IN	_	in	in	IN	10	LOC	_	_	_	_
+12	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_
+13	Galilee	galilee	NNP	_	Galilee	galilee	NNP	14	NAME	_	_	_	_
+14	Valley	valley	NNP	_	Valley	valley	NNP	11	PMOD	_	_	_	_
+15	.	.	.	_	.	.	.	7	P	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	10	TMP	_	_	AM-TMP	_	_
+2	about	about	RB	_	about	about	RB	5	NMOD	_	_	_	_	_
+3	a.	a.	NN	_	a.	a.	NN	5	NMOD	_	_	_	_	_
+4	d.	d.	NN	_	d.	d.	NN	5	NMOD	_	_	_	_	_
+5	30	30	CD	_	30	30	CD	1	PMOD	_	_	_	_	_
+6	he	he	PRP	_	he	he	PRP	10	SBJ	_	_	A0	_	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_
+8	his	his	PRP$	_	his	his	PRP$	9	NMOD	_	A1	_	_	_
+9	followers	followers	NNS	_	followers	followers	NNS	7	CONJ	follower.01	A0	_	_	_
+10	went	went	VBD	_	went	go	VBD	0	ROOT	go.03	_	_	_	_
+11	for	for	IN	_	for	for	IN	10	PRP	_	_	_	_	_
+12	Passover	passover	NNP	_	Passover	passover	NNP	11	PMOD	_	_	_	_	_
+13	to	to	TO	_	to	to	TO	10	DIR	_	_	A1	_	_
+14	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	13	PMOD	_	_	_	A1	A0
+15	,	,	,	_	,	,	,	14	P	_	_	_	_	_
+16	which	which	WDT	_	which	which	WDT	17	SBJ	_	_	_	_	_
+17	was	was	VBD	_	was	be	VBD	14	NMOD	be.01	_	_	_	_
+18	in	in	IN	_	in	in	IN	17	PRD	_	_	_	A2	_
+19	unrest	unrest	NN	_	unrest	unrest	NN	18	PMOD	_	_	_	_	_
+20	at	at	IN	_	at	at	IN	17	TMP	_	_	_	AM-TMP	_
+21	this	this	DT	_	this	this	DT	22	NMOD	_	_	_	_	_
+22	time	time	NN	_	time	time	NN	20	PMOD	_	_	_	_	_
+23	,	,	,	_	,	,	,	17	P	_	_	_	_	_
+24	dissatisfied	dissatisfied	JJ	_	dissatisfied	dissatisfy	VBN	17	ADV	dissatisfy.01	_	_	_	_
+25	with	with	IN	_	with	with	IN	24	AMOD	_	_	_	_	AM-MNR
+26	Roman	roman	JJ	_	Roman	roman	JJ	27	NMOD	_	_	_	_	_
+27	domination	domination	NN	_	domination	domination	NN	25	PMOD	_	_	_	_	_
+28	.	.	.	_	.	.	.	10	P	_	_	_	_	_
+
+1	Jesus	jesus	NNP	_	Jesus	jesus	NNP	3	NMOD	_	A0	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_	_
+3	entry	entry	NN	_	entry	entry	NN	7	SBJ	entry.01	_	A0	_	_	_	_
+4	into	into	IN	_	into	into	IN	3	DIR	_	A1	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_
+6	Temple	temple	NN	_	Temple	temple	NN	4	PMOD	_	_	_	_	_	_	_
+7	caused	caused	VBD	_	caused	cause	VBD	0	ROOT	cause.01	_	_	_	_	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_	_	_	_
+9	commotion	commotion	NN	_	commotion	commotion	NN	7	OBJ	_	_	A1	_	_	_	_
+10	;	;	,	_	;	;	,	7	P	_	_	_	_	_	_	_
+11	after	after	IN	_	after	after	IN	16	TMP	_	_	_	AM-TMP	_	_	_
+12	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_	_	_	_
+13	Passover	passover	NNP	_	Passover	passover	NNP	14	NMOD	_	_	_	_	_	_	_
+14	dinner	dinner	NN	_	dinner	dinner	NN	11	PMOD	_	_	_	_	_	_	_
+15	he	he	PRP	_	he	he	PRP	16	SBJ	_	_	_	A1	A0	_	_
+16	was	was	VBD	_	was	be	VBD	7	COORD	be.01	_	_	_	_	_	_
+17	arrested	arrested	VBN	_	arrested	arrest	VBN	16	VC	arrest.01	_	_	A2	_	_	_
+18	by	by	IN	_	by	by	IN	17	LGS	_	_	_	_	_	_	_
+19	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_
+20	temple	temple	NN	_	temple	temple	NN	21	NMOD	_	_	_	_	_	A1	_
+21	priests	priests	NNS	_	priests	priest	NNS	18	PMOD	priest.01	_	_	_	A1	A0	A1
+22	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_	_
+23	who	who	WP	_	who	who	WP	24	SBJ	_	_	_	_	_	_	_
+24	were	were	VBD	_	were	be	VBD	21	NMOD	be.01	_	_	_	_	_	_
+25	under	under	IN	_	under	under	IN	24	PRD	_	_	_	_	_	_	A2
+26	direct	direct	JJ	_	direct	direct	JJ	28	NMOD	_	_	_	_	_	_	_
+27	Roman	roman	JJ	_	Roman	roman	JJ	28	NMOD	_	_	_	_	_	_	_
+28	rule	rule	NN	_	rule	rule	NN	25	PMOD	_	_	_	_	_	_	_
+29	.	.	.	_	.	.	.	7	P	_	_	_	_	_	_	_
+
+1	Jesus	jesus	NNP	_	Jesus	jesus	NNP	2	SBJ	_	A1	A0	A0	_	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+3	put	put	VBN	_	put	put	VBN	2	VC	put.01	A2	_	_	_	_	_
+4	on	on	IN	_	on	on	IN	3	ADV	_	_	A2	_	_	_	_
+5	trial	trial	NN	_	trial	trial	NN	4	PMOD	_	_	_	_	_	_	_
+6	quickly	quickly	RB	_	quickly	quickly	RB	3	MNR	_	_	AM-MNR	_	_	_	_
+7	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_	_	_
+8	condemned	condemned	VBN	_	condemned	condemn	VBN	7	CONJ	condemn.01	_	_	_	_	_	_
+9	to	to	TO	_	to	to	TO	8	ADV	_	_	_	A2	_	_	_
+10	crucifixion	crucifixion	NN	_	crucifixion	crucifixion	NN	9	PMOD	_	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_
+12	a	a	DT	_	a	a	DT	14	NMOD	_	_	_	_	_	_	_
+13	Roman	roman	JJ	_	Roman	roman	JJ	14	NMOD	_	_	_	_	_	_	_
+14	form	form	NN	_	form	form	NN	10	APPO	form.01	_	_	_	_	_	_
+15	of	of	IN	_	of	of	IN	14	NMOD	_	_	_	_	A1	_	_
+16	execution	execution	NN	_	execution	execution	NN	15	PMOD	execution.01	_	_	_	_	_	_
+17	for	for	IN	_	for	for	IN	16	NMOD	_	_	_	_	_	_	_
+18	political	political	JJ	_	political	political	JJ	21	NMOD	_	_	_	_	_	_	_
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_	_
+20	religious	religious	JJ	_	religious	religious	JJ	19	CONJ	_	_	_	_	_	_	_
+21	dissidents	dissidents	NNS	_	dissidents	dissident	NNS	17	PMOD	_	_	_	_	_	_	_
+22	as	as	RB	_	as	as	RB	17	COORD	_	_	_	_	_	A1	_
+23	well	well	RB	_	well	well	RB	22	DEP	_	_	_	_	_	_	_
+24	as	as	IN	_	as	as	IN	22	DEP	_	_	_	_	_	_	_
+25	for	for	IN	_	for	for	IN	22	CONJ	_	_	_	_	_	_	_
+26	common	common	JJ	_	common	common	JJ	27	NMOD	_	_	_	_	_	_	AM-TMP
+27	criminals	criminals	NNS	_	criminals	criminal	NNS	25	PMOD	criminal.01	_	_	_	_	_	A0
+28	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	22	LOC	_	_	_	AM-LOC	_	_
+2	a	a	DT	_	a	a	DT	3	NMOD	_	_	_	_	_	_
+3	province	province	NN	_	province	province	NN	1	PMOD	_	_	_	_	_	_
+4	rife	rife	JJ	_	rife	rife	JJ	3	APPO	_	_	_	_	_	_
+5	with	with	IN	_	with	with	IN	4	AMOD	_	_	_	_	_	_
+6	rebellion	rebellion	NN	_	rebellion	rebellion	NN	5	PMOD	_	_	_	_	_	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_	_
+8	retaliation	retaliation	NN	_	retaliation	retaliation	NN	7	CONJ	_	_	_	_	_	_
+9	,	,	,	_	,	,	,	22	P	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_	_
+11	execution	execution	NN	_	execution	execution	NN	22	SBJ	execution.01	_	_	A0	A0	_
+12	in	in	IN	_	in	in	IN	11	LOC	_	_	_	_	_	_
+13	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	12	PMOD	_	_	_	_	_	_
+14	of	of	IN	_	of	of	IN	11	NMOD	_	A1	_	_	_	_
+15	yet	yet	RB	_	yet	yet	RB	18	NMOD	_	_	_	_	_	_
+16	another	another	DT	_	another	another	DT	18	NMOD	_	_	_	_	_	_
+17	religious	religious	JJ	_	religious	religious	JJ	18	NMOD	_	_	_	_	_	_
+18	leader	leader	NN	_	leader	leader	NN	14	PMOD	leader.01	_	A0	_	_	_
+19	from	from	IN	_	from	from	IN	18	NMOD	_	_	A2	_	_	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_
+21	Galilee	galilee	NNP	_	Galilee	galilee	NNP	19	PMOD	_	_	_	_	_	_
+22	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_	_	_	_
+23	not	not	RB	_	not	not	RB	22	ADV	_	_	_	AM-NEG	_	_
+24	by	by	IN	_	by	by	IN	22	MNR	_	_	_	AM-MNR	_	_
+25	itself	itself	PRP	_	itself	itself	PRP	24	PMOD	_	_	_	_	_	_
+26	have	have	VB	_	have	have	VB	22	VC	have.04	_	SU	A1	_	_
+27	an	an	DT	_	an	an	DT	29	NMOD	_	_	_	_	_	_
+28	immediate	immediate	JJ	_	immediate	immediate	JJ	29	NMOD	_	_	_	_	_	AM-TMP
+29	effect	effect	NN	_	effect	effect	NN	26	OBJ	effect.01	_	A1	_	A1	_
+30	on	on	IN	_	on	on	IN	29	NMOD	_	_	_	_	_	A1
+31	history	history	NN	_	history	history	NN	30	PMOD	_	_	_	_	_	_
+32	.	.	.	_	.	.	.	22	P	_	_	_	_	_	_
+
+1	After	after	IN	_	After	after	IN	9	TMP	_	AM-TMP	_
+2	Jesus	jesus	NNP	_	Jesus	jesus	NNP	4	NMOD	_	_	_
+3	's	's	POS	_	's	's	POS	2	SUFFIX	_	_	_
+4	crucifixion	crucifixion	NN	_	crucifixion	crucifixion	NN	1	SUB	_	_	_
+5	,	,	,	_	,	,	,	9	P	_	_	_
+6	harsh	harsh	JJ	_	harsh	harsh	JJ	8	NMOD	_	_	_
+7	Roman	roman	JJ	_	Roman	roman	JJ	8	NMOD	_	_	_
+8	rule	rule	NN	_	rule	rule	NN	9	SBJ	_	A0	_
+9	continued	continued	VBD	_	continued	continue	VBD	0	ROOT	continue.01	_	_
+10	until	until	IN	_	until	until	IN	9	TMP	_	AM-TMP	_
+11	a.	a.	NN	_	a.	a.	NN	13	NMOD	_	_	_
+12	d.	d.	NN	_	d.	d.	NN	13	NMOD	_	_	_
+13	66	66	CD	_	66	66	CD	10	PMOD	_	_	_
+14	,	,	,	_	,	,	,	13	P	_	_	_
+15	when	when	WRB	_	when	when	WRB	18	TMP	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_
+17	Jews	jews	NNPS	_	Jews	jew	NNPS	18	SBJ	_	_	A0
+18	rebelled	rebelled	VBD	_	rebelled	rebel	VBD	13	NMOD	rebel.01	_	_
+19	.	.	.	_	.	.	.	9	P	_	_	_
+
+1	For	for	IN	_	For	for	IN	6	TMP	_	AM-TMP	_
+2	four	four	CD	_	four	four	CD	3	NMOD	_	_	_
+3	years	years	NNS	_	years	years	NNS	1	PMOD	_	_	_
+4	Jewish	jewish	JJ	_	Jewish	jewish	JJ	5	NMOD	_	_	_
+5	zealots	zealots	NNS	_	zealots	zealot	NNS	6	SBJ	_	A0	_
+6	fought	fought	VBD	_	fought	fight	VBD	0	ROOT	fight.02	_	_
+7	against	against	IN	_	against	against	IN	6	ADV	_	A1	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	might	might	NN	_	might	might	NN	7	PMOD	might.01	_	A2
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	A1
+11	Rome	rome	NNP	_	Rome	rome	NNP	10	PMOD	_	_	_
+12	.	.	.	_	.	.	.	6	P	_	_	_
+
+1	At	at	IN	_	At	at	IN	9	TMP	_	_	AM-TMP	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_	_
+3	end	end	NN	_	end	end	NN	1	PMOD	_	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+6	Roman	roman	JJ	_	Roman	roman	JJ	7	NMOD	_	_	_	_	_	_	_
+7	general	general	NN	_	general	general	NN	9	SBJ	general.01	_	A0	A0	_	_	_
+8	Titus	titus	NNP	_	Titus	titus	NNP	7	APPO	_	_	_	_	_	_	_
+9	laid	laid	VBD	_	laid	lay	VBD	0	ROOT	lay.01	SU	_	_	_	_	_
+10	siege	siege	NN	_	siege	siege	NN	9	OBJ	_	_	A1	_	_	_	_
+11	to	to	TO	_	to	to	TO	9	ADV	_	A0	A2	_	_	_	_
+12	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	11	PMOD	_	_	_	_	_	_	_
+13	in	in	IN	_	in	in	IN	9	TMP	_	_	AM-TMP	_	_	_	_
+14	a.	a.	NN	_	a.	a.	NN	16	NMOD	_	_	_	_	_	_	_
+15	d.	d.	NN	_	d.	d.	NN	16	NMOD	_	_	_	_	_	_	_
+16	70	70	CD	_	70	70	CD	13	PMOD	_	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_
+18	finally	finally	RB	_	finally	finally	RB	19	TMP	_	_	_	AM-TMP	_	_	_
+19	attacking	attacking	VBG	_	attacking	attack	VBG	9	ADV	attack.01	_	_	_	_	_	_
+20	its	its	PRP$	_	its	its	PRP$	24	NMOD	_	_	_	_	_	_	A1
+21	starved	starved	VBN	_	starved	starve	VBN	24	NMOD	starve.01	_	_	_	_	_	_
+22	and	and	CC	_	and	and	CC	21	COORD	_	_	_	_	_	_	_
+23	weakened	weakened	VBN	_	weakened	weaken	VBN	22	CONJ	weaken.01	_	_	_	_	_	_
+24	defenders	defenders	NNS	_	defenders	defender	NNS	19	OBJ	defender.01	_	_	A1	A1	A1	A0
+25	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_
+
+1	Those	those	DT	_	Those	those	DT	6	SBJ	_	A0	A1	A0	A0
+2	who	who	WP	_	who	who	WP	3	SBJ	_	_	_	_	_
+3	did	did	VBP	_	did	do	VBP	1	NMOD	do.02	_	_	_	_
+4	n't	not	RB	_	n't	not	RB	3	ADV	_	_	_	_	_
+5	escape	escape	VB	_	escape	escape	VB	3	VC	_	A1	_	_	_
+6	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_
+7	executed	executed	VBN	_	executed	execute	VBN	6	VC	execute.02	_	A2	_	_
+8	or	or	CC	_	or	or	CC	7	COORD	_	_	_	_	_
+9	sold	sold	VBN	_	sold	sell	VBN	8	CONJ	sell.01	_	_	_	_
+10	into	into	IN	_	into	into	IN	7	ADV	_	_	_	A1	A1
+11	slavery	slavery	NN	_	slavery	slavery	NN	10	PMOD	_	_	_	_	_
+12	.	.	.	_	.	.	.	6	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_
+2	Holy	holy	NNP	_	Holy	holy	NNP	3	NAME	_	_	_
+3	City	city	NNP	_	City	city	NNP	7	SBJ	_	A1	A0
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+6	Temple	temple	NNP	_	Temple	temple	NNP	4	CONJ	_	_	_
+7	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+8	destroyed	destroyed	VBN	_	destroyed	destroy	VBN	7	VC	destroy.01	A2	_
+9	.	.	.	_	.	.	.	7	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_
+2	last	last	JJ	_	last	last	JJ	6	SBJ	_	A0	A0
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+5	zealots	zealots	NNS	_	zealots	zealot	NNS	3	PMOD	_	_	_
+6	held	held	VBD	_	held	hold	VBD	0	ROOT	hold.01	_	_
+7	out	out	RP	_	out	out	RP	6	PRT	_	_	_
+8	for	for	IN	_	for	for	IN	6	TMP	_	AM-TMP	_
+9	another	another	DT	_	another	another	DT	11	NMOD	_	_	_
+10	three	three	CD	_	three	three	CD	11	NMOD	_	_	_
+11	years	years	NNS	_	years	years	NNS	8	PMOD	_	_	_
+12	at	at	IN	_	at	at	IN	6	LOC	_	AM-LOC	_
+13	Masada	masada	NNP	_	Masada	masada	NNP	12	PMOD	_	_	_
+14	(	-lrb-	(	_	(	-lrb-	(	15	P	_	_	_
+15	see	see	VB	_	see	see	VB	6	PRN	see.01	AM-ADV	_
+16	page	page	NN	_	page	page	NN	17	NMOD	_	_	_
+17	76	76	CD	_	76	76	CD	15	OBJ	_	_	A1
+18	)	-rrb-	)	_	)	-rrb-	)	15	P	_	_	_
+19	.	.	.	_	.	.	.	6	P	_	_	_
+
+1	Half	half	PDT	_	Half	half	PDT	2	DEP	_	_	_	_
+2	a	a	DT	_	a	a	DT	4	NMOD	_	_	_	_
+3	million	million	CD	_	million	million	CD	2	DEP	_	_	_	_
+4	civilians	civilians	NNS	_	civilians	civilian	NNS	5	SBJ	_	_	_	_
+5	died	died	VBD	_	died	die	VBD	0	ROOT	die.01	_	_	SU
+6	in	in	IN	_	in	in	IN	5	LOC	_	AM-LOC	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+8	Galilee	galilee	NNP	_	Galilee	galilee	NNP	6	PMOD	_	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_
+10	Judea	judea	NNP	_	Judea	judea	NNP	9	CONJ	_	_	_	_
+11	as	as	IN	_	as	as	IN	5	PRP	_	_	_	_
+12	a	a	DT	_	a	a	DT	13	NMOD	_	_	_	_
+13	result	result	NN	_	result	result	NN	11	PMOD	result.01	AM-TMP	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	A1	_
+15	this	this	DT	_	this	this	DT	17	NMOD	_	_	_	_
+16	first	first	JJ	_	first	first	JJ	17	NMOD	_	_	_	_
+17	revolt	revolt	NN	_	revolt	revolt	NN	14	PMOD	_	_	_	_
+18	against	against	IN	_	against	against	IN	17	NMOD	_	_	_	_
+19	Rome	rome	NNP	_	Rome	rome	NNP	18	PMOD	_	_	_	_
+20	,	,	,	_	,	,	,	5	P	_	_	_	_
+21	a	a	DT	_	a	a	DT	22	NMOD	_	_	_	_
+22	number	number	NN	_	number	number	NN	4	NMOD	number.02	A1	_	A2
+23	unequaled	unequaled	JJ	_	unequaled	unequaled	JJ	22	APPO	_	_	_	_
+24	in	in	IN	_	in	in	IN	23	AMOD	_	_	_	_
+25	ancient	ancient	JJ	_	ancient	ancient	JJ	26	NMOD	_	_	_	_
+26	warfare	warfare	NN	_	warfare	warfare	NN	24	PMOD	_	_	_	_
+27	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	Christian	christian	JJ	_	Christian	christian	NN	4	NMOD	_
+2	and	and	CC	_	and	and	CC	1	COORD	_
+3	Islamic	islamic	JJ	_	Islamic	islamic	JJ	2	CONJ	_
+4	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	0	ROOT	_
+
+1	For	for	IN	_	For	for	IN	5	TMP	_	AM-TMP	_	_	_
+2	60	60	CD	_	60	60	CD	3	NMOD	_	_	_	_	_
+3	years	years	NNS	_	years	years	NNS	1	PMOD	_	_	_	_	_
+4	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	5	SBJ	_	A0	_	_	_
+5	lay	lay	VBD	_	lay	lay	VBD	0	ROOT	lay.01	_	_	_	_
+6	in	in	IN	_	in	in	IN	5	ADV	_	A1	_	_	_
+7	ruins	ruins	NNS	_	ruins	ruin	NNS	6	PMOD	_	_	_	_	_
+8	,	,	,	_	,	,	,	5	P	_	_	_	_	_
+9	until	until	IN	_	until	until	IN	5	TMP	_	AM-TMP	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_
+11	Roman	roman	NNP	_	Roman	roman	NNP	12	NAME	_	_	_	_	_
+12	Emperor	emperor	NNP	_	Emperor	emperor	NNP	14	SBJ	_	_	A0	_	_
+13	Hadrian	hadrian	NNP	_	Hadrian	hadrian	NNP	12	APPO	_	_	_	_	_
+14	ordered	ordered	VBD	_	ordered	order	VBD	9	SUB	order.01	_	_	_	_
+15	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_
+16	city	city	NN	_	city	city	NN	14	OBJ	_	_	_	A0	_
+17	rebuilt	rebuilt	VBN	_	rebuilt	rebuild	VBD	14	OPRD	rebuild.01	_	A2	_	_
+18	as	as	IN	_	as	as	IN	17	ADV	_	_	_	_	_
+19	a	a	DT	_	a	a	DT	21	NMOD	_	_	_	_	_
+20	Roman	roman	JJ	_	Roman	roman	JJ	21	NMOD	_	_	_	_	_
+21	town	town	NN	_	town	town	NN	18	PMOD	_	_	_	A1	A1
+22	dedicated	dedicated	VBN	_	dedicated	dedicate	VBN	21	APPO	dedicate.01	_	_	_	_
+23	to	to	TO	_	to	to	TO	22	ADV	_	_	_	_	A2
+24	Jupiter	jupiter	NNP	_	Jupiter	jupiter	NNP	23	PMOD	_	_	_	_	_
+25	.	.	.	_	.	.	.	5	P	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	6	ADV	_	AM-LOC	_
+2	outrage	outrage	NN	_	outrage	outrage	NN	1	PMOD	_	_	_
+3	,	,	,	_	,	,	,	6	P	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+5	Jews	jews	NNPS	_	Jews	jew	NNPS	6	SBJ	_	A0	_
+6	began	began	VBD	_	began	begin	VBD	0	ROOT	begin.01	_	_
+7	a	a	DT	_	a	a	DT	9	NMOD	_	_	_
+8	second	second	JJ	_	second	second	JJ	9	NMOD	_	_	_
+9	revolt	revolt	NN	_	revolt	revolt	NN	6	OBJ	_	A1	A1
+10	against	against	IN	_	against	against	IN	9	NMOD	_	_	_
+11	Rome	rome	NNP	_	Rome	rome	NNP	10	PMOD	_	_	_
+12	,	,	,	_	,	,	,	9	P	_	_	_
+13	led	led	VBN	_	led	lead	VBN	9	APPO	lead.01	_	_
+14	by	by	IN	_	by	by	IN	13	LGS	_	_	_
+15	Simon	simon	NNP	_	Simon	simon	NNP	17	NMOD	_	_	_
+16	bar	bar	NN	_	bar	bar	NN	17	NMOD	_	_	_
+17	Kochba	kochba	NNP	_	Kochba	kochba	NNP	14	PMOD	_	_	A0
+18	.	.	.	_	.	.	.	6	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_
+2	ruins	ruins	NNS	_	ruins	ruin	NNS	5	SBJ	_	A1	A0	_	_	_	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_	_	_	_	_	_
+4	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	3	PMOD	_	_	_	_	_	_	_	_
+5	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_
+6	briefly	briefly	NN	_	briefly	briefly	NN	5	MNR	_	AM-MNR	_	_	_	_	_	_
+7	liberated	liberated	VBN	_	liberated	liberate	VBN	5	VC	liberate.01	A2	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	5	P	_	_	_	_	_	_	_	_
+9	but	but	CC	_	but	but	CC	5	COORD	_	_	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_	_
+11	in	in	IN	_	in	in	IN	19	TMP	_	_	_	_	_	AM-TMP	_	_
+12	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_	_	_
+13	end	end	NN	_	end	end	NN	11	PMOD	end.02	_	_	_	_	_	_	_
+14	,	,	,	_	,	,	,	19	P	_	_	_	_	_	_	_	_
+15	Jewish	jewish	JJ	_	Jewish	jewish	JJ	16	NMOD	_	_	_	_	A0	_	_	_
+16	resistance	resistance	NN	_	resistance	resistance	NN	19	SBJ	resistance.01	_	_	A1	_	A1	A0	_
+17	to	to	TO	_	to	to	TO	16	NMOD	_	_	_	_	A1	_	_	_
+18	Rome	rome	NNP	_	Rome	rome	NNP	17	PMOD	_	_	_	_	_	_	_	_
+19	was	was	VBD	_	was	be	VBD	9	CONJ	be.01	_	_	_	_	_	_	_
+20	defeated	defeated	VBN	_	defeated	defeat	VBN	19	VC	defeat.01	_	_	_	_	A2	_	_
+21	with	with	IN	_	with	with	IN	20	MNR	_	_	_	_	_	_	AM-MNR	_
+22	great	great	JJ	_	great	great	JJ	23	NMOD	_	_	_	_	_	_	_	_
+23	loss	loss	NN	_	loss	loss	NN	21	PMOD	loss.01	_	_	_	_	_	_	_
+24	of	of	IN	_	of	of	IN	23	NMOD	_	_	_	_	_	_	_	A1
+25	life	life	NN	_	life	life	NN	24	PMOD	_	_	_	_	_	_	_	_
+26	.	.	.	_	.	.	.	5	P	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	5	NMOD	_	_	_	_	_	_	_
+2	planned	planned	VBN	_	planned	plan	VBN	5	NMOD	plan.01	_	_	_	_	_	_
+3	new	new	JJ	_	new	new	JJ	5	NMOD	_	_	_	_	_	_	_
+4	Roman	roman	JJ	_	Roman	roman	JJ	5	NMOD	_	_	_	_	_	_	_
+5	city	city	NN	_	city	city	NN	10	SBJ	_	A1	A1	A0	_	_	_
+6	,	,	,	_	,	,	,	5	P	_	_	_	_	_	_	_
+7	Aelia	aelia	NNP	_	Aelia	aelia	NNP	8	NAME	_	_	_	_	_	_	_
+8	Capitolina	capitolina	NNP	_	Capitolina	capitolina	NNP	5	APPO	_	_	_	_	_	_	_
+9	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_
+10	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+11	built	built	VBN	_	built	build	VBN	10	VC	build.01	_	A2	_	_	_	_
+12	over	over	IN	_	over	over	IN	11	LOC	_	_	_	A1	_	_	_
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_	_	_	_
+14	ruins	ruins	NNS	_	ruins	ruin	NNS	12	PMOD	_	_	_	_	_	_	_
+15	of	of	IN	_	of	of	IN	14	NMOD	_	_	_	_	_	_	_
+16	Herodian	herodian	JJ	_	Herodian	herodian	JJ	17	NMOD	_	_	_	_	_	_	_
+17	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	15	PMOD	_	_	_	_	_	_	_
+18	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_
+19	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_	_	_	_
+20	Jews	jews	NNPS	_	Jews	jew	NNPS	21	SBJ	_	_	_	_	A1	A0	A0
+21	were	were	VBD	_	were	be	VBD	19	CONJ	be.01	_	_	_	_	_	_
+22	barred	barred	VBN	_	barred	bar	VBN	21	VC	bar.01	_	_	_	A2	_	_
+23	from	from	IN	_	from	from	IN	22	ADV	_	_	_	_	_	A2	_
+24	residing	residing	VBG	_	residing	reside	VBG	23	PMOD	reside.01	_	_	_	_	_	_
+25	there	there	RB	_	there	there	RB	24	LOC	_	_	_	_	_	_	AM-LOC
+26	for	for	IN	_	for	for	IN	24	TMP	_	_	_	_	_	_	AM-TMP
+27	all	all	DT	_	all	all	DT	28	NMOD	_	_	_	_	_	_	_
+28	time	time	NN	_	time	time	NN	26	PMOD	_	_	_	_	_	_	_
+29	.	.	.	_	.	.	.	10	P	_	_	_	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	4	NMOD	_	A1	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_	_
+3	physical	physical	JJ	_	physical	physical	JJ	4	NMOD	_	_	_	_	_	_	_
+4	existence	existence	NN	_	existence	existence	NN	9	SBJ	existence.01	_	A1	A0	_	_	_
+5	as	as	IN	_	as	as	IN	4	NMOD	_	_	_	_	_	_	_
+6	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_	_
+7	spiritual	spiritual	JJ	_	spiritual	spiritual	JJ	8	NMOD	_	_	_	_	_	_	_
+8	city	city	NN	_	city	city	NN	5	PMOD	_	A2	_	_	_	_	_
+9	seemed	seemed	VBD	_	seemed	seem	VBD	0	ROOT	seem.01	_	_	_	_	_	_
+10	finished	finished	VBN	_	finished	finish	VBN	9	OPRD	finish.01	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_
+12	but	but	CC	_	but	but	CC	9	COORD	_	_	_	_	_	_	_
+13	its	its	PRP$	_	its	its	PRP$	15	NMOD	_	_	_	_	A1	_	_
+14	spiritual	spiritual	JJ	_	spiritual	spiritual	JJ	15	NMOD	_	_	_	_	_	_	_
+15	power	power	NN	_	power	power	NN	27	SBJ	power.01	_	_	_	_	_	A1
+16	for	for	IN	_	for	for	IN	15	NMOD	_	_	_	_	_	_	_
+17	Jews	jews	NNPS	_	Jews	jew	NNPS	16	PMOD	_	_	_	_	_	_	_
+18	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_
+19	and	and	CC	_	and	and	CC	16	COORD	_	_	_	_	_	_	_
+20	for	for	IN	_	for	for	IN	19	CONJ	_	_	_	_	_	_	_
+21	the	the	DT	_	the	the	DT	25	NMOD	_	_	_	_	_	_	_
+22	struggling	struggling	VBG	_	struggling	struggle	VBG	25	NMOD	_	_	_	_	_	_	_
+23	new	new	JJ	_	new	new	JJ	25	NMOD	_	_	_	_	_	AM-TMP	_
+24	Christian	christian	JJ	_	Christian	christian	NN	25	NMOD	_	_	_	_	_	A1	_
+25	religion	religion	NN	_	religion	religion	NN	20	PMOD	religion.01	_	_	_	_	A2	_
+26	,	,	,	_	,	,	,	27	P	_	_	_	_	_	_	_
+27	remained	remained	VBD	_	remained	remain	VBD	12	CONJ	remain.01	_	_	_	_	_	_
+28	.	.	.	_	.	.	.	9	P	_	_	_	_	_	_	_
+
+1	For	for	IN	_	For	for	IN	8	TMP	_	AM-TMP
+2	the	the	DT	_	the	the	DT	5	NMOD	_	_
+3	next	next	JJ	_	next	next	JJ	5	NMOD	_	_
+4	two	two	CD	_	two	two	CD	5	NMOD	_	_
+5	centuries	centuries	NNS	_	centuries	century	NNS	1	PMOD	_	_
+6	Aelia	aelia	NNP	_	Aelia	aelia	NNP	7	NAME	_	_
+7	Capitolina	capitolina	NNP	_	Capitolina	capitolina	NNP	8	SBJ	_	A0
+8	enjoyed	enjoyed	VBD	_	enjoyed	enjoy	VBD	0	ROOT	enjoy.01	_
+9	an	an	DT	_	an	an	DT	11	NMOD	_	_
+10	innocuous	innocuous	JJ	_	innocuous	innocuous	JJ	11	NMOD	_	_
+11	history	history	NN	_	history	history	NN	8	OBJ	_	A1
+12	.	.	.	_	.	.	.	8	P	_	_
+
+1	But	but	CC	_	But	but	CC	5	DEP	_	_	_	_
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_
+3	Roman	roman	NNP	_	Roman	roman	NNP	4	NAME	_	_	_	_
+4	Empire	empire	NNP	_	Empire	empire	NNP	5	SBJ	_	A1	_	_
+5	became	became	VBD	_	became	become	VBD	0	ROOT	become.01	_	_	_
+6	Christian	christian	JJ	_	Christian	christian	NN	5	PRD	_	A2	_	_
+7	in	in	IN	_	in	in	IN	5	TMP	_	AM-TMP	_	_
+8	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_
+9	fourth	fourth	JJ	_	fourth	fourth	JJ	10	NMOD	_	_	_	_
+10	century	century	NN	_	century	century	NN	7	PMOD	_	_	_	_
+11	,	,	,	_	,	,	,	5	P	_	_	_	_
+12	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_
+13	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	14	SBJ	_	_	A1	_
+14	became	became	VBD	_	became	become	VBD	12	CONJ	become.01	_	_	_
+15	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_
+16	center	center	NN	_	center	center	NN	14	PRD	center.01	_	A2	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	A1
+18	religion	religion	NN	_	religion	religion	NN	17	PMOD	_	_	_	_
+19	once	once	RB	_	once	once	RB	14	TMP	_	_	_	_
+20	again	again	RB	_	again	again	RB	19	AMOD	_	_	AM-TMP	_
+21	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	Queen	queen	NNP	_	Queen	queen	NNP	2	NAME	_	_	_	_	_	_	_
+2	Helena	helena	NNP	_	Helena	helena	NNP	16	SBJ	_	_	A0	A0	A0	_	_
+3	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_
+4	a	a	DT	_	a	a	DT	6	NMOD	_	_	_	_	_	_	_
+5	devout	devout	JJ	_	devout	devout	JJ	6	NMOD	_	_	_	_	_	_	_
+6	Christian	christian	NNP	_	Christian	christian	NNP	2	APPO	_	_	_	_	_	_	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_	_
+9	mother	mother	NN	_	mother	mother	NN	7	CONJ	mother.01	A0	_	_	_	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	A1	_	_	_	_	_
+11	Emperor	emperor	NNP	_	Emperor	emperor	NNP	12	NAME	_	_	_	_	_	_	_
+12	Constantine	constantine	NNP	_	Constantine	constantine	NNP	10	PMOD	_	_	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_	_	_	_
+14	Great	great	NNP	_	Great	great	NNP	12	APPO	_	_	_	_	_	_	_
+15	,	,	,	_	,	,	,	16	P	_	_	_	_	_	_	_
+16	made	made	VBD	_	made	make	VBD	0	ROOT	make.01	_	_	SU	_	_	_
+17	a	a	DT	_	a	a	DT	18	NMOD	_	_	_	_	_	_	_
+18	pilgrimage	pilgrimage	NN	_	pilgrimage	pilgrimage	NN	16	OBJ	pilgrimage.01	_	A1	_	_	_	_
+19	to	to	TO	_	to	to	TO	18	NMOD	_	_	_	A1	_	_	_
+20	the	the	DT	_	the	the	DT	22	NMOD	_	_	_	_	_	_	_
+21	Holy	holy	NNP	_	Holy	holy	NNP	22	NAME	_	_	_	_	_	_	_
+22	Land	land	NNP	_	Land	land	NNP	19	PMOD	_	_	_	_	_	_	_
+23	in	in	IN	_	in	in	IN	16	TMP	_	_	AM-TMP	_	_	_	_
+24	326	326	CD	_	326	326	CD	23	PMOD	_	_	_	_	_	_	_
+25	to	to	TO	_	to	to	TO	16	PRP	_	_	_	_	_	_	_
+26	identify	identify	VB	_	identify	identify	VB	25	IM	identify.01	_	_	_	_	_	_
+27	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_
+28	sites	sites	NNS	_	sites	site	NNS	26	OBJ	_	_	_	_	A1	A1	_
+29	associated	associated	VBN	_	associated	associate	VBN	28	APPO	associate.01	_	_	_	_	_	_
+30	with	with	IN	_	with	with	IN	29	ADV	_	_	_	_	_	AM-MNR	_
+31	Jesus	jesus	NNP	_	Jesus	jesus	NNP	33	NMOD	_	_	_	_	_	_	A1
+32	's	's	POS	_	's	's	POS	31	SUFFIX	_	_	_	_	_	_	_
+33	life	life	NN	_	life	life	NN	30	PMOD	life.02	_	_	_	_	_	A2
+34	.	.	.	_	.	.	.	16	P	_	_	_	_	_	_	_
+
+1	She	she	PRP	_	She	she	PRP	2	SBJ	_	A0	_	_	_	_
+2	found	found	VBD	_	found	found	VBD	0	ROOT	find.01	_	_	_	_	_
+3	that	that	IN	_	that	that	IN	2	OBJ	_	A1	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_
+5	city	city	NN	_	city	city	NN	10	NMOD	_	_	A1	_	_	_
+6	's	's	POS	_	's	's	POS	5	SUFFIX	_	_	_	_	_	_
+7	most	most	RBS	_	most	most	RBS	8	AMOD	_	_	_	_	_	_
+8	beautiful	beautiful	JJ	_	beautiful	beautiful	JJ	10	NMOD	_	_	_	_	_	_
+9	Roman	roman	JJ	_	Roman	roman	JJ	10	NMOD	_	_	_	_	_	_
+10	temple	temple	NN	_	temple	temple	NN	18	SBJ	temple.01	_	_	A1	A0	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_
+12	dedicated	dedicated	VBN	_	dedicated	dedicate	VBN	10	APPO	dedicate.01	_	_	_	_	_
+13	to	to	TO	_	to	to	TO	12	ADV	_	_	_	A2	_	_
+14	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_
+15	goddess	goddess	NN	_	goddess	goddess	NN	13	PMOD	_	_	_	_	_	_
+16	Aphrodite	aphrodite	NNP	_	Aphrodite	aphrodite	NNP	15	APPO	_	_	_	_	_	_
+17	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_
+18	stood	stood	VBD	_	stood	stand	VBD	3	SUB	stand.01	_	_	_	_	_
+19	on	on	IN	_	on	on	IN	18	LOC	_	_	_	_	A1	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_
+21	site	site	NN	_	site	site	NN	19	PMOD	site.02	_	_	_	_	_
+22	of	of	IN	_	of	of	IN	21	NMOD	_	_	_	_	_	A1
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_
+24	crucifixion	crucifixion	NN	_	crucifixion	crucifixion	NN	22	PMOD	_	_	_	_	_	_
+25	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+2	temple	temple	NN	_	temple	temple	NN	3	SBJ	_	A1	A0	_	_	_	_	_	_	_	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_	_	_
+4	demolished	demolished	VBN	_	demolished	demolish	VBN	3	VC	demolish.01	A2	_	_	_	_	_	_	_	_	_	_
+5	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+6	a	a	DT	_	a	a	DT	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+7	vast	vast	JJ	_	vast	vast	JJ	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_	_	_	_	_	_	_
+9	Classical	classical	JJ	_	Classical	classical	JJ	11	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+10	-	-	HYPH	_	-	-	HYPH	11	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+11	style	style	NN	_	style	style	NN	12	NMOD	style.01	_	_	_	A1	_	_	_	_	_	_	_
+12	church	church	NN	_	church	church	NN	13	SBJ	church.01	_	_	_	_	A1	A0	_	_	_	_	_
+13	was	was	VBD	_	was	be	VBD	5	CONJ	be.01	_	_	_	_	_	_	_	_	_	_	_
+14	built	built	VBN	_	built	build	VBN	13	VC	build.03	_	_	SU	_	A2	_	_	_	_	_	_
+15	around	around	IN	_	around	around	IN	14	LOC	_	_	_	A1	_	_	A2	_	_	_	_	_
+16	Golgotha	golgotha	NNP	_	Golgotha	golgotha	NNP	15	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+17	(	-lrb-	(	_	(	-lrb-	(	19	P	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+19	hill	hill	NN	_	hill	hill	NN	16	APPO	_	_	_	_	_	_	_	_	_	_	_	_
+20	where	where	WRB	_	where	where	WRB	28	LOC	_	_	_	_	_	_	_	_	_	_	_	_
+21	Jesus	jesus	NNS	_	Jesus	jesus	NNPS	23	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+22	's	's	POS	_	's	's	POS	21	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_
+23	crucifixion	crucifixion	NN	_	crucifixion	crucifixion	NN	24	SBJ	_	_	_	_	_	_	_	A1	A0	A0	A0	A1
+24	was	was	VBD	_	was	be	VBD	19	NMOD	be.01	_	_	_	_	_	_	_	_	_	_	_
+25	believed	believed	VBN	_	believed	believe	VBN	24	VC	believe.01	_	_	_	_	_	_	A2	_	_	_	_
+26	to	to	TO	_	to	to	TO	25	OPRD	_	_	_	_	_	_	_	_	A1	_	_	_
+27	have	have	VB	_	have	have	VB	26	IM	have.03	_	_	_	_	_	_	_	_	_	_	_
+28	taken	taken	VBN	_	taken	take	VBN	27	VC	take.01	_	_	_	_	_	_	_	_	A1	_	SU
+29	place	place	NN	_	place	place	NN	28	OBJ	place.09	_	_	_	_	_	_	_	_	_	A1	A2
+30	)	-rrb-	)	_	)	-rrb-	)	19	P	_	_	_	_	_	_	_	_	_	_	_	_
+31	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Throughout	throughout	IN	_	Throughout	throughout	IN	11	LOC	_	_	AM-LOC	_
+2	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	1	PMOD	_	_	_	_
+3	,	,	,	_	,	,	,	11	P	_	_	_	_
+4	other	other	JJ	_	other	other	JJ	5	NMOD	_	_	_	_
+5	spots	spots	NNS	_	spots	spots	NNS	11	SBJ	_	_	A1	A0
+6	important	important	JJ	_	important	important	JJ	5	APPO	_	_	_	_
+7	to	to	TO	_	to	to	TO	6	AMOD	_	_	_	_
+8	Jesus	jesus	NNP	_	Jesus	jesus	NNP	10	NMOD	_	A1	_	_
+9	's	's	POS	_	's	's	POS	8	SUFFIX	_	_	_	_
+10	life	life	NN	_	life	life	NN	7	PMOD	life.02	A2	_	_
+11	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_
+12	commemorated	commemorated	VBN	_	commemorated	commemorate	VBN	11	VC	commemorate.01	_	A2	_
+13	with	with	IN	_	with	with	IN	12	ADV	_	_	_	A1
+14	religious	religious	JJ	_	religious	religious	JJ	15	NMOD	_	_	_	_
+15	structures	structures	NNS	_	structures	structure	NNS	13	PMOD	_	_	_	_
+16	.	.	.	_	.	.	.	11	P	_	_	_	_
+
+1	Pilgrims	pilgrims	NNS	_	Pilgrims	pilgrim	NNPS	2	SBJ	_	A0	_	_	_	_
+2	came	came	VBD	_	came	come	VBD	0	ROOT	come.02	_	_	_	_	_
+3	from	from	IN	_	from	from	IN	2	DIR	_	A1	_	_	_	_
+4	all	all	RB	_	all	all	RB	15	NMOD	_	_	_	_	_	_
+5	over	over	RB	_	over	over	RB	15	NMOD	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_
+7	Roman	roman	JJ	_	Roman	roman	JJ	15	NMOD	_	_	_	_	_	_
+8	(	-lrb-	(	_	(	-lrb-	(	7	P	_	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_	_
+10	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_
+11	later	later	RB	_	later	later	RB	7	TMP	_	_	_	_	_	_
+12	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_
+13	Byzantine	byzantine	JJ	_	Byzantine	byzantine	JJ	9	CONJ	_	_	_	_	_	_
+14	)	-rrb-	)	_	)	-rrb-	)	15	P	_	_	_	_	_	_
+15	Empire	empire	NN	_	Empire	empire	NN	3	PMOD	_	_	_	_	_	_
+16	during	during	IN	_	during	during	IN	2	TMP	_	AM-TMP	_	_	_	_
+17	the	the	DT	_	the	the	DT	19	NMOD	_	_	_	_	_	_
+18	following	following	VBG	_	following	follow	VBG	19	NMOD	_	_	_	_	_	_
+19	centuries	centuries	NNS	_	centuries	century	NNS	16	PMOD	_	_	_	_	_	_
+20	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_
+21	but	but	CC	_	but	but	CC	2	COORD	_	_	_	_	_	_
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_	_
+23	prosperity	prosperity	NN	_	prosperity	prosperity	NN	26	SBJ	_	_	A1	A1	_	_
+24	they	they	PRP	_	they	they	PRP	25	SBJ	_	_	A0	_	_	_
+25	brought	brought	VBD	_	brought	bring	VBD	23	NMOD	bring.01	_	_	_	_	_
+26	lasted	lasted	VBD	_	lasted	last	VBD	21	CONJ	last.01	_	_	_	_	_
+27	only	only	RB	_	only	only	RB	28	PMOD	_	_	_	_	_	_
+28	until	until	IN	_	until	until	IN	26	TMP	_	_	_	AM-TMP	_	_
+29	614	614	CD	_	614	614	CD	28	PMOD	_	_	_	_	_	_
+30	,	,	,	_	,	,	,	29	P	_	_	_	_	_	_
+31	when	when	WRB	_	when	when	WRB	34	TMP	_	_	_	_	_	_
+32	Persian	persian	JJ	_	Persian	persian	JJ	33	NMOD	_	_	_	_	_	_
+33	armies	armies	NNS	_	armies	army	NNS	34	SBJ	_	_	_	_	A0	A0
+34	overtook	overtook	VBD	_	overtook	overtake	VBD	29	NMOD	overtake.01	_	_	_	_	_
+35	Judea	judea	NNP	_	Judea	judea	NNP	34	OBJ	_	_	_	_	A1	_
+36	and	and	CC	_	and	and	CC	34	COORD	_	_	_	_	_	_
+37	reduced	reduced	VBD	_	reduced	reduce	VBD	36	CONJ	reduce.01	_	_	_	_	_
+38	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	37	OBJ	_	_	_	_	_	A1
+39	to	to	TO	_	to	to	TO	37	ADV	_	_	_	_	_	A2
+40	rubble	rubble	NN	_	rubble	rubble	NN	39	PMOD	_	_	_	_	_	_
+41	again	again	RB	_	again	again	RB	37	ADV	_	_	_	_	_	AM-TMP
+42	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	5	TMP	_	AM-TMP	_
+2	629	629	CD	_	629	629	CD	1	PMOD	_	_	_
+3	,	,	,	_	,	,	,	5	P	_	_	_
+4	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	5	SBJ	_	A1	A0
+5	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+6	recaptured	recaptured	VBN	_	recaptured	recapture	VBN	5	VC	recapture.01	A2	_
+7	by	by	IN	_	by	by	IN	6	LGS	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	Byzantines	byzantines	NNPS	_	Byzantines	byzantine	NNPS	7	PMOD	_	_	A1
+10	.	.	.	_	.	.	.	5	P	_	_	_
+
+1	Still	still	RB	_	Still	still	RB	2	TMP	_	AM-TMP	_	_	_
+2	reeling	reeling	VBG	_	reeling	reel	VBG	12	ADV	reel.01	_	_	_	_
+3	from	from	IN	_	from	from	IN	2	ADV	_	A2	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+5	effects	effects	NNS	_	effects	effects	NNS	3	PMOD	_	_	_	_	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_
+8	Persian	persian	JJ	_	Persian	persian	JJ	9	NMOD	_	_	_	_	_
+9	devastation	devastation	NN	_	devastation	devastation	NN	6	PMOD	_	_	_	_	_
+10	,	,	,	_	,	,	,	12	P	_	_	_	_	_
+11	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	12	SBJ	_	A1	A1	A0	_
+12	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+13	conquered	conquered	VBN	_	conquered	conquer	VBN	12	VC	conquer.01	_	A2	_	_
+14	in	in	IN	_	in	in	IN	13	TMP	_	_	_	AM-TMP	_
+15	638	638	CD	_	638	638	CD	14	PMOD	_	_	_	_	_
+16	by	by	IN	_	by	by	IN	13	LGS	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_
+18	forces	forces	NNS	_	forces	force	NNS	16	PMOD	force.02	_	_	A1	A2
+19	of	of	IN	_	of	of	IN	18	NMOD	_	_	_	_	A1
+20	Islam	islam	NNP	_	Islam	islam	NNP	19	PMOD	_	_	_	_	_
+21	.	.	.	_	.	.	.	12	P	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_
+2	Temple	temple	NNP	_	Temple	temple	NNP	3	NAME	_	_	_	_	_	_	_
+3	Mount	mount	NNP	_	Mount	mount	NNP	4	SBJ	_	A1	A0	_	_	_	_
+4	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+5	identified	identified	VBN	_	identified	identify	VBN	4	VC	identify.01	A2	_	_	_	_	_
+6	in	in	IN	_	in	in	IN	5	LOC	_	_	A1	_	_	_	_
+7	Islamic	islamic	JJ	_	Islamic	islamic	JJ	8	NMOD	_	_	_	_	_	_	_
+8	tradition	tradition	NN	_	tradition	tradition	NN	6	PMOD	_	_	_	_	_	_	_
+9	as	as	IN	_	as	as	IN	5	ADV	_	_	_	_	_	_	_
+10	"	"	''	_	"	"	''	13	P	_	_	_	_	_	_	_
+11	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_	_
+12	farthest	farthest	JJS	_	farthest	farthest	JJS	13	NMOD	_	_	_	_	_	_	_
+13	spot	spot	NN	_	spot	spot	NN	9	PMOD	_	_	A2	_	_	_	_
+14	"	"	''	_	"	"	''	13	P	_	_	_	_	_	_	_
+15	(	-lrb-	(	_	(	-lrb-	(	19	P	_	_	_	_	_	_	_
+16	in	in	IN	_	in	in	IN	19	NMOD	_	_	_	_	_	_	_
+17	Arabic	arabic	NNP	_	Arabic	arabic	NNP	16	PMOD	_	_	_	_	_	_	_
+18	,	,	,	_	,	,	,	19	P	_	_	_	_	_	_	_
+19	el-aksa	el-aksa	FW	_	el-aksa	el-aksa	FW	13	APPO	_	_	_	_	_	_	_
+20	)	-rrb-	)	_	)	-rrb-	)	19	P	_	_	_	_	_	_	_
+21	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_	_	_
+23	site	site	NN	_	site	site	NN	13	APPO	_	_	_	_	_	_	_
+24	to	to	TO	_	to	to	TO	30	DIR	_	_	_	_	A2	_	_
+25	which	which	WDT	_	which	which	WDT	24	PMOD	_	_	_	_	_	_	_
+26	the	the	DT	_	the	the	DT	28	NMOD	_	_	_	_	_	_	_
+27	Prophet	prophet	NNP	_	Prophet	prophet	NNP	28	NAME	_	_	_	_	_	_	_
+28	Muhammad	muhammad	NNP	_	Muhammad	muhammad	NNP	29	SBJ	_	_	_	A1	A0	_	_
+29	was	was	VBD	_	was	be	VBD	23	NMOD	be.01	_	_	_	_	_	_
+30	transported	transported	VBN	_	transported	transport	VBN	29	VC	transport.01	_	_	A2	_	_	_
+31	in	in	IN	_	in	in	IN	30	TMP	_	_	_	_	AM-TMP	_	_
+32	one	one	CD	_	one	one	CD	33	NMOD	_	_	_	_	_	_	_
+33	night	night	NN	_	night	night	NN	31	PMOD	_	_	_	_	_	_	_
+34	from	from	IN	_	from	from	IN	30	DIR	_	_	_	_	A1	_	_
+35	Mecca	mecca	NNP	_	Mecca	mecca	NNP	34	PMOD	_	_	_	_	_	_	_
+36	on	on	IN	_	on	on	IN	30	MNR	_	_	_	_	AM-MNR	_	_
+37	a	a	DT	_	a	a	DT	39	NMOD	_	_	_	_	_	_	_
+38	winged	winged	JJ	_	winged	winged	JJ	39	NMOD	_	_	_	_	_	_	_
+39	horse	horse	NN	_	horse	horse	NN	36	PMOD	_	_	_	_	_	_	_
+40	,	,	,	_	,	,	,	30	P	_	_	_	_	_	_	_
+41	as	as	IN	_	as	as	IN	30	ADV	_	_	_	AM-TMP	_	_	_
+42	described	described	VBN	_	described	describe	VBN	41	SUB	describe.01	_	_	_	_	_	_
+43	in	in	IN	_	in	in	IN	42	LOC	_	_	_	_	_	AM-LOC	_
+44	the	the	DT	_	the	the	DT	46	NMOD	_	_	_	_	_	_	_
+45	17th	17th	JJ	_	17th	17th	JJ	46	NMOD	_	_	_	_	_	_	_
+46	chapter	chapter	NN	_	chapter	chapter	NN	43	PMOD	chapter.01	_	_	_	_	_	_
+47	of	of	IN	_	of	of	IN	46	NMOD	_	_	_	_	_	_	A1
+48	the	the	DT	_	the	the	DT	49	NMOD	_	_	_	_	_	_	_
+49	Koran	koran	NNP	_	Koran	koran	NNP	47	PMOD	_	_	_	_	_	_	_
+50	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_
+
+1	From	from	IN	_	From	from	IN	5	DIR	_	AM-DIR	AM-DIR	_
+2	here	here	RB	_	here	here	RB	1	PMOD	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_
+4	Prophet	prophet	NNP	_	Prophet	prophet	NNP	5	SBJ	_	A0	A1	A0
+5	ascended	ascended	VBD	_	ascended	ascend	VBD	0	ROOT	ascend.01	_	_	_
+6	to	to	TO	_	to	to	TO	5	DIR	_	A1	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_
+8	heavens	heavens	NNS	_	heavens	heavens	NNS	6	PMOD	_	_	_	_
+9	and	and	CC	_	and	and	CC	5	COORD	_	_	_	_
+10	was	was	VBD	_	was	be	VBD	9	CONJ	be.01	_	_	_
+11	permitted	permitted	VBN	_	permitted	permit	VBN	10	VC	permit.01	_	A2	_
+12	to	to	TO	_	to	to	TO	11	OPRD	_	_	_	_
+13	glimpse	glimpse	VB	_	glimpse	glimpse	VB	12	IM	_	_	_	_
+14	paradise	paradise	NN	_	paradise	paradise	NN	13	OBJ	_	_	_	_
+15	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_
+2	rock	rock	NN	_	rock	rock	NN	23	SBJ	_	_	_	_	A1	A0	_
+3	on	on	IN	_	on	on	IN	2	NMOD	_	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_
+5	Temple	temple	NNP	_	Temple	temple	NNP	6	NAME	_	_	_	_	_	_	_
+6	Mount	mount	NNP	_	Mount	mount	NNP	3	PMOD	_	_	_	_	_	_	_
+7	from	from	IN	_	from	from	IN	10	DIR	_	A1	_	_	_	_	_
+8	which	which	WDT	_	which	which	WDT	7	PMOD	_	_	_	_	_	_	_
+9	he	he	PRP	_	he	he	PRP	10	SBJ	_	A0	_	_	_	_	_
+10	ascended	ascended	VBD	_	ascended	ascend	VBD	6	NMOD	ascend.01	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_
+12	at	at	IN	_	at	at	IN	2	LOC	_	_	_	_	_	_	_
+13	or	or	CC	_	or	or	CC	12	COORD	_	_	_	_	_	_	_
+14	close	close	RB	_	close	close	RB	13	CONJ	_	_	_	_	_	_	_
+15	to	to	TO	_	to	to	TO	14	AMOD	_	_	_	_	_	_	_
+16	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_
+17	site	site	NN	_	site	site	NN	12	PMOD	site.02	_	_	_	_	_	_
+18	of	of	IN	_	of	of	IN	17	NMOD	_	_	A1	_	_	_	_
+19	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_
+20	ruined	ruined	VBN	_	ruined	ruin	VBN	21	NMOD	ruin.01	_	_	_	_	_	_
+21	Temple	temple	NNP	_	Temple	temple	NNP	18	PMOD	_	_	_	A1	_	_	_
+22	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_	_
+23	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+24	commemorated	commemorated	VBN	_	commemorated	commemorate	VBN	23	VC	commemorate.01	_	_	_	A2	_	_
+25	by	by	IN	_	by	by	IN	24	MNR	_	_	_	_	_	_	_
+26	the	the	DT	_	the	the	DT	27	NMOD	_	_	_	_	_	_	_
+27	construction	construction	NN	_	construction	construction	NN	25	PMOD	construction.02	_	_	_	_	A1	_
+28	of	of	IN	_	of	of	IN	27	NMOD	_	_	_	_	_	_	A0
+29	the	the	DT	_	the	the	DT	30	NMOD	_	_	_	_	_	_	_
+30	Dome	dome	NNP	_	Dome	dome	NNP	28	PMOD	_	_	_	_	_	_	_
+31	of	of	IN	_	of	of	IN	30	NMOD	_	_	_	_	_	_	_
+32	the	the	DT	_	the	the	DT	33	NMOD	_	_	_	_	_	_	_
+33	Rock	rock	NNP	_	Rock	rock	NNP	31	PMOD	_	_	_	_	_	_	_
+34	in	in	IN	_	in	in	IN	27	TMP	_	_	_	_	_	_	A1
+35	691	691	CD	_	691	691	CD	34	PMOD	_	_	_	_	_	_	_
+36	.	.	.	_	.	.	.	23	P	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_
+2	Dome	dome	NNP	_	Dome	dome	NNP	6	SBJ	_	A1	_	_	_
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+5	Rock	rock	NNP	_	Rock	rock	NNP	3	PMOD	_	_	_	_	_
+6	remains	remains	VBZ	_	remains	remain	VBZ	0	ROOT	remain.01	_	_	_	_
+7	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	11	NMOD	_	_	_	_	_
+8	's	's	POS	_	's	's	POS	7	SUFFIX	_	_	_	_	_
+9	most	most	RBS	_	most	most	RBS	10	AMOD	_	_	_	_	_
+10	striking	striking	JJ	_	striking	striking	JJ	11	NMOD	_	_	_	_	_
+11	monument	monument	NN	_	monument	monument	NN	6	OBJ	_	A2	_	_	_
+12	;	;	,	_	;	;	,	6	P	_	_	_	_	_
+13	it	it	PRP	_	it	it	PRP	14	SBJ	_	_	A1	A0	_
+14	is	is	VBZ	_	is	be	VBZ	6	COORD	be.01	_	_	_	_
+15	counted	counted	VBN	_	counted	count	VBN	14	VC	count.01	_	A2	_	_
+16	among	among	IN	_	among	among	IN	15	LOC	_	_	_	A1	_
+17	the	the	DT	_	the	the	DT	20	NMOD	_	_	_	_	_
+18	most	most	RBS	_	most	most	RBS	19	AMOD	_	_	_	_	_
+19	beautiful	beautiful	JJ	_	beautiful	beautiful	JJ	20	NMOD	_	_	_	_	_
+20	buildings	buildings	NNS	_	buildings	building	NNS	16	PMOD	_	_	_	_	A1
+21	ever	ever	RB	_	ever	ever	RB	22	TMP	_	_	_	_	AM-TMP
+22	created	created	VBN	_	created	create	VBN	20	APPO	create.01	_	_	_	_
+23	.	.	.	_	.	.	.	6	P	_	_	_	_	_
+
+1	By	by	IN	_	By	by	IN	23	TMP	_	_	AM-TMP	_	_	_
+2	about	about	IN	_	about	about	IN	3	NMOD	_	_	_	_	_	_
+3	715	715	CD	_	715	715	CD	1	PMOD	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+6	El-Aksa	el-aksa	NNP	_	El-Aksa	el-aksa	NNP	7	NAME	_	_	_	_	_	_
+7	Mosque	mosque	NNP	_	Mosque	mosque	NNP	23	SBJ	_	_	A0	A1	A0	_
+8	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_
+9	third	third	RB	_	third	third	RB	10	AMOD	_	_	_	_	_	_
+10	holiest	holiest	JJS	_	holiest	holy	JJS	11	NMOD	_	_	_	_	_	_
+11	place	place	NN	_	place	place	NN	7	APPO	place.09	A2	_	_	_	_
+12	of	of	IN	_	of	of	IN	11	NMOD	_	A1	_	_	_	_
+13	prayer	prayer	NN	_	prayer	prayer	NN	12	PMOD	_	_	_	_	_	_
+14	in	in	IN	_	in	in	IN	11	LOC	_	_	_	_	_	_
+15	Islam	islam	NNP	_	Islam	islam	NNP	14	PMOD	_	_	_	_	_	_
+16	(	-lrb-	(	_	(	-lrb-	(	17	P	_	_	_	_	_	_
+17	after	after	IN	_	after	after	IN	10	AMOD	_	_	_	_	_	_
+18	Mecca	mecca	NNP	_	Mecca	mecca	NNP	17	PMOD	_	_	_	_	_	_
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_
+20	Medina	medina	NNP	_	Medina	medina	NNP	19	CONJ	_	_	_	_	_	_
+21	)	-rrb-	)	_	)	-rrb-	)	17	P	_	_	_	_	_	_
+22	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_
+23	had	had	VBD	_	had	have	VBD	0	ROOT	have.04	_	_	_	_	_
+24	been	been	VBN	_	been	be	VBN	23	VC	be.01	_	A1	_	_	_
+25	built	built	VBN	_	built	build	VBN	24	VC	build.01	_	_	A2	_	_
+26	on	on	IN	_	on	on	IN	25	LOC	_	_	_	_	A1	_
+27	the	the	DT	_	the	the	DT	29	NMOD	_	_	_	_	_	_
+28	southern	southern	JJ	_	southern	southern	JJ	29	NMOD	_	_	_	_	_	_
+29	side	side	NN	_	side	side	NN	26	PMOD	side.02	_	_	_	_	A2
+30	of	of	IN	_	of	of	IN	29	NMOD	_	_	_	_	_	A1
+31	the	the	DT	_	the	the	DT	33	NMOD	_	_	_	_	_	_
+32	Temple	temple	NNP	_	Temple	temple	NNP	33	NAME	_	_	_	_	_	_
+33	Mount	mount	NNP	_	Mount	mount	NNP	30	PMOD	_	_	_	_	_	_
+34	.	.	.	_	.	.	.	23	P	_	_	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	2	SBJ	_	A0
+2	continued	continued	VBD	_	continued	continue	VBD	0	ROOT	continue.01	_
+3	under	under	IN	_	under	under	IN	2	LOC	_	AM-LOC
+4	Islamic	islamic	JJ	_	Islamic	islamic	JJ	5	NMOD	_	_
+5	rule	rule	NN	_	rule	rule	NN	3	PMOD	_	_
+6	for	for	IN	_	for	for	IN	2	TMP	_	AM-TMP
+7	the	the	DT	_	the	the	DT	13	NMOD	_	_
+8	next	next	JJ	_	next	next	JJ	13	NMOD	_	_
+9	four	four	CD	_	four	four	CD	13	NMOD	_	_
+10	and	and	CC	_	and	and	CC	9	COORD	_	_
+11	a	a	DT	_	a	a	DT	10	CONJ	_	_
+12	half	half	NN	_	half	half	NN	11	COORD	_	_
+13	centuries	centuries	NNS	_	centuries	century	NNS	6	PMOD	_	_
+14	.	.	.	_	.	.	.	2	P	_	_
+
+1	In	in	IN	_	In	in	IN	15	TMP	_	_	AM-TMP	_
+2	1099	1099	CD	_	1099	1099	CD	1	PMOD	_	_	_	_
+3	,	,	,	_	,	,	,	15	P	_	_	_	_
+4	under	under	IN	_	under	under	IN	15	ADV	_	_	AM-LOC	_
+5	their	their	PRP$	_	their	their	PRP$	6	NMOD	_	A1	_	_
+6	leaders	leaders	NNS	_	leaders	leaders	NNS	4	PMOD	leader.01	A0	_	_
+7	Godfrey	godfrey	NNP	_	Godfrey	godfrey	NNP	9	NAME	_	_	_	_
+8	de	de	NNP	_	de	de	NNP	9	NAME	_	_	_	_
+9	Bouillon	bouillon	NNP	_	Bouillon	bouillon	NNP	6	APPO	_	_	_	_
+10	and	and	CC	_	and	and	CC	9	COORD	_	_	_	_
+11	Tancred	tancred	NNP	_	Tancred	tancred	NNP	10	CONJ	_	_	_	_
+12	,	,	,	_	,	,	,	15	P	_	_	_	_
+13	the	the	DT	_	the	the	DT	14	NMOD	_	_	_	_
+14	Crusaders	crusaders	NNPS	_	Crusaders	crusader	NNPS	15	SBJ	_	_	A0	A0
+15	captured	captured	VBD	_	captured	capture	VBD	0	ROOT	capture.01	_	_	_
+16	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_
+17	Holy	holy	NNP	_	Holy	holy	NNP	18	NAME	_	_	_	_
+18	City	city	NNP	_	City	city	NNP	15	OBJ	_	_	A1	_
+19	for	for	IN	_	for	for	IN	15	ADV	_	_	_	_
+20	Christendom	christendom	NNP	_	Christendom	christendom	NNP	19	PMOD	_	_	_	_
+21	by	by	IN	_	by	by	IN	15	MNR	_	_	AM-MNR	_
+22	slaughtering	slaughtering	VBG	_	slaughtering	slaughter	VBG	21	PMOD	slaughter.01	_	_	_
+23	both	both	CC	_	both	both	DT	24	NMOD	_	_	_	_
+24	Muslims	muslims	NNPS	_	Muslims	muslim	NNPS	22	OBJ	_	_	_	A1
+25	and	and	CC	_	and	and	CC	24	COORD	_	_	_	_
+26	Jews	jews	NNPS	_	Jews	jew	NNPS	25	CONJ	_	_	_	_
+27	.	.	.	_	.	.	.	15	P	_	_	_	_
+
+1	Crusaders	crusaders	NNPS	_	Crusaders	crusader	NNPS	0	ROOT	_
+2	,	,	,	_	,	,	,	1	P	_
+3	Mamelukes	mamelukes	NNPS	_	Mamelukes	mamelukes	NNPS	1	COORD	_
+4	,	,	,	_	,	,	,	3	P	_
+5	and	and	CC	_	and	and	CC	3	COORD	_
+6	Turks	turks	NNPS	_	Turks	turk	NNPS	5	CONJ	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_
+2	Crusaders	crusaders	NNPS	_	Crusaders	crusader	NNPS	3	SBJ	_	A0	_	_
+3	established	established	VBD	_	established	establish	VBD	0	ROOT	establish.01	_	_	_
+4	a	a	DT	_	a	a	DT	7	NMOD	_	_	_	_
+5	feudal	feudal	JJ	_	feudal	feudal	JJ	7	NMOD	_	_	_	_
+6	Christian	christian	JJ	_	Christian	christian	NN	7	NMOD	_	_	A1	_
+7	state	state	NN	_	state	state	NN	3	OBJ	state.01	A1	A2	_
+8	with	with	IN	_	with	with	IN	7	NMOD	_	_	_	_
+9	Godfrey	godfrey	NNP	_	Godfrey	godfrey	NNP	8	PMOD	_	_	_	_
+10	at	at	IN	_	at	at	IN	9	LOC	_	_	_	_
+11	its	its	PRP$	_	its	its	PRP$	12	NMOD	_	_	_	A1
+12	head	head	NN	_	head	head	NN	10	PMOD	head.01	_	_	A0
+13	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	They	they	PRP	_	They	they	PRP	2	SBJ	_	A0	_	_	_	_
+2	built	built	VBD	_	built	build	VBD	0	ROOT	build.01	_	_	_	_	_
+3	many	many	JJ	_	many	many	DT	5	NMOD	_	_	_	_	_	_
+4	impressive	impressive	JJ	_	impressive	impressive	JJ	5	NMOD	_	_	_	_	_	_
+5	churches	churches	NNS	_	churches	church	NNS	2	OBJ	_	A1	_	_	_	_
+6	during	during	IN	_	during	during	IN	2	TMP	_	AM-TMP	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_
+8	term	term	NN	_	term	term	NN	6	PMOD	term.05	_	A2	_	_	_
+9	of	of	IN	_	of	of	IN	8	NMOD	_	_	A1	_	_	_
+10	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_
+11	first	first	JJ	_	first	first	JJ	13	NMOD	_	_	_	_	_	_
+12	Latin	latin	NNP	_	Latin	latin	NNP	13	NAME	_	_	_	_	_	_
+13	Kingdom	kingdom	NNP	_	Kingdom	kingdom	NNP	9	PMOD	_	_	_	_	_	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	_	_	_
+15	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	14	PMOD	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_
+17	but	but	CC	_	but	but	CC	2	COORD	_	_	_	_	_	_
+18	in	in	IN	_	in	in	IN	21	TMP	_	_	_	AM-TMP	_	_
+19	1187	1187	CD	_	1187	1187	CD	18	PMOD	_	_	_	_	_	_
+20	they	they	PRP	_	they	they	PRP	21	SBJ	_	_	_	A1	A0	_
+21	were	were	VBD	_	were	be	VBD	17	CONJ	be.01	_	_	_	_	_
+22	driven	driven	VBN	_	driven	drive	VBN	21	VC	drive.01	_	_	A2	_	_
+23	out	out	RP	_	out	out	RP	22	PRT	_	_	_	_	_	_
+24	by	by	IN	_	by	by	IN	22	LGS	_	_	_	_	_	_
+25	Muslim	muslim	NNP	_	Muslim	muslim	NNP	26	NMOD	_	_	_	_	_	A1
+26	forces	forces	NNS	_	forces	force	NNS	24	PMOD	force.02	_	_	_	A1	A2
+27	under	under	IN	_	under	under	IN	26	NMOD	_	_	_	_	_	_
+28	the	the	DT	_	the	the	DT	30	NMOD	_	_	_	_	_	_
+29	great	great	JJ	_	great	great	JJ	30	NMOD	_	_	_	_	_	_
+30	warrior	warrior	NN	_	warrior	warrior	NN	27	PMOD	_	_	_	_	_	_
+31	Saladin	saladin	NNP	_	Saladin	saladin	NNP	30	APPO	_	_	_	_	_	_
+32	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	During	during	IN	_	During	during	IN	17	TMP	_	AM-TMP	_
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_
+3	Sixth	sixth	NNP	_	Sixth	sixth	NNP	4	NAME	_	_	_
+4	Crusade	crusade	NNP	_	Crusade	crusade	NNP	1	PMOD	_	_	_
+5	(	-lrb-	(	_	(	-lrb-	(	8	P	_	_	_
+6	1228	1228	CD	_	1228	1228	CD	8	NMOD	_	_	_
+7	-	-	SYM	_	-	-	TO	8	NMOD	_	_	_
+8	1229	1229	CD	_	1229	1229	CD	4	APPO	_	_	_
+9	)	-rrb-	)	_	)	-rrb-	)	8	P	_	_	_
+10	,	,	,	_	,	,	,	17	P	_	_	_
+11	the	the	DT	_	the	the	DT	14	NMOD	_	_	_
+12	Holy	holy	NNP	_	Holy	holy	NNP	14	NAME	_	_	_
+13	Roman	roman	NNP	_	Roman	roman	NNP	14	NAME	_	_	_
+14	Emperor	emperor	NNP	_	Emperor	emperor	NNP	17	SBJ	_	A0	A0
+15	Frederick	frederick	NNP	_	Frederick	frederick	NNP	14	APPO	_	_	_
+16	II	ii	NNP	_	II	ii	NNP	15	POSTHON	_	_	_
+17	managed	managed	VBD	_	managed	manage	VBD	0	ROOT	manage.01	_	_
+18	to	to	TO	_	to	to	TO	17	OPRD	_	_	_
+19	secure	secure	VB	_	secure	secure	VB	18	IM	secure.01	_	_
+20	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	19	OBJ	_	_	A1
+21	for	for	IN	_	for	for	IN	19	ADV	_	_	A3
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_
+23	Christians	christians	NNPS	_	Christians	christian	NNPS	21	PMOD	_	_	_
+24	by	by	IN	_	by	by	IN	19	MNR	_	_	AM-MNR
+25	negotiation	negotiation	NN	_	negotiation	negotiation	NN	24	PMOD	_	_	_
+26	.	.	.	_	.	.	.	17	P	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_
+2	Christians	christians	NNPS	_	Christians	christian	NNPS	6	SBJ	_	A0
+3	,	,	,	_	,	,	,	6	P	_	_
+4	however	however	RB	_	however	however	RB	6	ADV	_	_
+5	,	,	,	_	,	,	,	6	P	_	_
+6	could	could	MD	_	could	could	MD	0	ROOT	_	_
+7	not	not	RB	_	not	not	RB	6	ADV	_	_
+8	hold	hold	VB	_	hold	hold	VB	6	VC	hold.01	_
+9	the	the	DT	_	the	the	DT	10	NMOD	_	_
+10	city	city	NN	_	city	city	NN	8	OBJ	_	A1
+11	.	.	.	_	.	.	.	6	P	_	_
+
+1	After	after	IN	_	After	after	IN	0	ROOT	_	_	_	AM-TMP	AM-TMP	_	_
+2	they	they	PRP	_	they	they	PRP	3	SBJ	_	A1	_	_	_	_	_
+3	lost	lost	VBD	_	lost	lose	VBD	1	SUB	lose.01	_	_	_	_	_	_
+4	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	3	OBJ	_	A2	_	_	_	_	_
+5	,	,	,	_	,	,	,	1	P	_	_	_	_	_	_	_
+6	a	a	DT	_	a	a	DT	8	NMOD	_	_	_	_	_	_	_
+7	Mongol	mongol	NNP	_	Mongol	mongol	NNP	8	NMOD	_	_	A0	_	_	_	_
+8	invasion	invasion	NN	_	invasion	invasion	NN	9	SBJ	invasion.01	_	_	A0	_	_	_
+9	swept	swept	VBD	_	swept	sweep	VBD	1	COORD	sweep.01	_	_	_	_	_	_
+10	through	through	RB	_	through	through	RB	9	ADV	_	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	9	P	_	_	_	_	_	_	_
+12	and	and	CC	_	and	and	CC	9	COORD	_	_	_	_	_	_	_
+13	in	in	IN	_	in	in	IN	20	TMP	_	_	_	_	AM-TMP	_	_
+14	1244	1244	CD	_	1244	1244	CD	13	PMOD	_	_	_	_	_	_	_
+15	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_
+16	Mameluke	mameluke	NNP	_	Mameluke	mameluke	NNP	17	NMOD	_	_	_	_	_	_	_
+17	dynasty	dynasty	NN	_	dynasty	dynasty	NN	20	SBJ	_	_	_	_	A0	A0	_
+18	of	of	IN	_	of	of	IN	17	NMOD	_	_	_	_	_	_	_
+19	Egypt	egypt	NNP	_	Egypt	egypt	NNP	18	PMOD	_	_	_	_	_	_	_
+20	took	took	VBD	_	took	take	VBD	12	CONJ	take.01	_	_	_	_	_	_
+21	control	control	NN	_	control	control	NN	20	OBJ	_	_	_	_	A1	_	_
+22	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_	_
+23	ruling	ruling	VBG	_	ruling	rule	VBG	20	ADV	rule.01	_	_	_	_	_	_
+24	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	23	OBJ	_	_	_	_	_	A1	_
+25	for	for	IN	_	for	for	IN	23	TMP	_	_	_	_	_	AM-TMP	_
+26	the	the	DT	_	the	the	DT	29	NMOD	_	_	_	_	_	_	_
+27	next	next	JJ	_	next	next	JJ	29	NMOD	_	_	_	_	_	_	AM-TMP
+28	250	250	CD	_	250	250	CD	29	NMOD	_	_	_	_	_	_	_
+29	years	years	NNS	_	years	years	NNS	25	PMOD	year.04	_	_	_	_	_	A2
+30	.	.	.	_	.	.	.	1	P	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_
+2	city	city	NN	_	city	city	NN	3	SBJ	_	A0	A0	_
+3	struggled	struggled	VBD	_	struggled	struggle	VBD	0	ROOT	struggle.01	_	_	_
+4	to	to	TO	_	to	to	TO	3	OPRD	_	A2	_	_
+5	rebuild	rebuild	VB	_	rebuild	rebuild	VB	4	IM	rebuild.01	_	_	_
+6	from	from	IN	_	from	from	IN	5	ADV	_	_	A1	_
+7	Crusader	crusader	NNP	_	Crusader	crusader	NNP	8	NMOD	_	_	_	A0
+8	wars	wars	NNS	_	wars	war	NNS	6	PMOD	war.01	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_
+10	invasions	invasions	NNS	_	invasions	invasion	NNS	9	CONJ	_	_	_	_
+11	.	.	.	_	.	.	.	3	P	_	_	_	_
+
+1	Much	much	JJ	_	Much	much	JJ	10	SBJ	_	A1	A0	_	_	_	_	_
+2	of	of	IN	_	of	of	IN	1	NMOD	_	_	_	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	6	NMOD	_	_	_	_	_	_	_	_
+4	best	best	JJS	_	best	best	JJS	6	NMOD	_	_	_	_	_	_	_	_
+5	Islamic	islamic	JJ	_	Islamic	islamic	JJ	6	NMOD	_	_	_	_	_	_	_	_
+6	architecture	architecture	NN	_	architecture	architecture	NN	2	PMOD	_	_	_	_	_	_	_	_
+7	in	in	IN	_	in	in	IN	6	LOC	_	_	_	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_	_	_	_	_
+9	city	city	NN	_	city	city	NN	7	PMOD	_	_	_	_	_	_	_	_
+10	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_
+11	constructed	constructed	VBN	_	constructed	construct	VBN	10	VC	construct.01	A2	_	_	_	_	_	_
+12	in	in	IN	_	in	in	IN	11	TMP	_	_	AM-TMP	_	_	_	_	_
+13	the	the	DT	_	the	the	DT	15	NMOD	_	_	_	_	_	_	_	_
+14	Mameluke	mameluke	NNP	_	Mameluke	mameluke	NNP	15	NMOD	_	_	_	A1	_	_	_	_
+15	era	era	NN	_	era	era	NN	12	PMOD	era.01	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_	_
+17	but	but	CC	_	but	but	CC	10	COORD	_	_	_	_	_	_	_	_
+18	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_	_
+19	past	past	JJ	_	past	past	JJ	21	NMOD	_	_	_	_	AM-TMP	_	_	_
+20	thousand	thousand	CD	_	thousand	thousand	CD	21	NMOD	_	_	_	_	_	_	_	_
+21	years	years	NNS	_	years	years	NNS	22	SBJ	year.04	_	_	_	A2	A0	A0	_
+22	had	had	VBD	_	had	have	VBD	17	CONJ	have.03	_	_	_	_	_	_	_
+23	taken	taken	VBN	_	taken	take	VBN	22	VC	take.01	_	_	_	SU	A1	_	_
+24	their	their	PRP$	_	their	their	PRP$	25	NMOD	_	_	_	_	_	_	_	A1
+25	toll	toll	NN	_	toll	toll	NN	23	OBJ	toll.02	_	_	_	A1	_	A1	_
+26	:	:	:	_	:	:	:	10	P	_	_	_	_	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	2	SBJ	_	A1	A0	A1	_	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+3	unable	unable	JJ	_	unable	unable	JJ	2	PRD	_	A2	_	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	AMOD	_	_	_	_	_	_	_
+5	regain	regain	VB	_	regain	regain	VB	4	IM	regain.01	_	_	SU	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_
+7	prosperity	prosperity	NN	_	prosperity	prosperity	NN	5	OBJ	prosperity.01	_	A1	_	_	A1	_
+8	it	it	PRP	_	it	it	PRP	9	SBJ	_	_	_	_	A0	A0	_
+9	had	had	VBD	_	had	have	VBD	7	NMOD	have.03	_	_	_	_	_	_
+10	enjoyed	enjoyed	VBN	_	enjoyed	enjoy	VBN	9	VC	enjoy.01	_	_	_	A1	_	_
+11	in	in	IN	_	in	in	IN	10	TMP	_	_	_	_	_	AM-TMP	_
+12	earlier	earlier	JJR	_	earlier	earlier	JJR	13	NMOD	_	_	_	_	_	_	AM-TMP
+13	times	times	NNS	_	times	times	NNS	11	PMOD	time.04	_	_	_	_	_	A2
+14	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	11	TMP	_	AM-TMP	_
+2	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+3	early	early	JJ	_	early	early	JJ	5	NMOD	_	_	_
+4	16th	16th	JJ	_	16th	16th	JJ	5	NMOD	_	_	_
+5	century	century	NN	_	century	century	NN	1	PMOD	_	_	_
+6	,	,	,	_	,	,	,	11	P	_	_	_
+7	the	the	DT	_	the	the	DT	10	NMOD	_	_	_
+8	Ottoman	ottoman	NNP	_	Ottoman	ottoman	NNP	10	NAME	_	_	_
+9	Turkish	turkish	NNP	_	Turkish	turkish	NNP	10	NAME	_	_	_
+10	Empire	empire	NNP	_	Empire	empire	NNP	11	SBJ	_	A1	A0
+11	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+12	advancing	advancing	VBG	_	advancing	advance	VBG	11	VC	advance.01	A2	_
+13	through	through	IN	_	through	through	IN	12	DIR	_	_	A1
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_
+15	Middle	middle	NNP	_	Middle	middle	NNP	16	NAME	_	_	_
+16	East	east	NNP	_	East	east	NNP	13	PMOD	_	_	_
+17	.	.	.	_	.	.	.	11	P	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	2	SBJ	_	A1	A1	_
+2	fell	fell	VBD	_	fell	fell	VBD	0	ROOT	fell.01	_	_	_
+3	to	to	TO	_	to	to	TO	2	ADV	_	AM-ARGM	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_
+5	Ottomans	ottomans	NNPS	_	Ottomans	ottomans	NNPS	3	PMOD	_	_	_	_
+6	in	in	IN	_	in	in	IN	2	TMP	_	AM-TMP	_	_
+7	1517	1517	CD	_	1517	1517	CD	6	PMOD	_	_	_	_
+8	,	,	,	_	,	,	,	2	P	_	_	_	_
+9	remaining	remaining	VBG	_	remaining	remain	VBG	2	ADV	remain.01	_	_	_
+10	under	under	IN	_	under	under	IN	9	LOC	_	_	AM-LOC	_
+11	their	their	PRP$	_	their	their	PRP$	12	NMOD	_	_	_	A0
+12	control	control	NN	_	control	control	NN	10	PMOD	control.01	_	_	_
+13	for	for	IN	_	for	for	IN	9	TMP	_	_	AM-TMP	_
+14	400	400	CD	_	400	400	CD	15	NMOD	_	_	_	_
+15	years	years	NNS	_	years	years	NNS	13	PMOD	_	_	_	_
+16	.	.	.	_	.	.	.	2	P	_	_	_	_
+
+1	Suleiman	suleiman	NNP	_	Suleiman	suleiman	NNP	4	SBJ	_	A0	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_
+3	Magnificent	magnificent	NNP	_	Magnificent	magnificent	NNP	1	APPO	_	_	_
+4	rebuilt	rebuilt	VBD	_	rebuilt	rebuild	VBD	0	ROOT	rebuild.01	_	_
+5	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+6	walls	walls	NNS	_	walls	wall	NNS	4	OBJ	_	A1	_
+7	and	and	CC	_	and	and	CC	6	COORD	_	_	_
+8	gates	gates	NNS	_	gates	gates	NNS	7	CONJ	_	_	_
+9	in	in	IN	_	in	in	IN	4	MNR	_	AM-MNR	_
+10	the	the	DT	_	the	the	DT	11	NMOD	_	_	_
+11	form	form	NN	_	form	form	NN	9	PMOD	_	_	A1
+12	they	they	PRP	_	they	they	PRP	13	SBJ	_	_	A0
+13	retain	retain	VBP	_	retain	retain	VBP	11	NMOD	retain.01	_	_
+14	to	to	TO	_	to	to	TO	13	TMP	_	_	AM-TMP
+15	this	this	DT	_	this	this	DT	16	NMOD	_	_	_
+16	day	day	NN	_	day	day	NN	14	PMOD	_	_	_
+17	.	.	.	_	.	.	.	4	P	_	_	_
+
+1	Fountains	fountains	NNS	_	Fountains	fountain	NNS	10	SBJ	_	A1	A0
+2	,	,	,	_	,	,	,	1	P	_	_	_
+3	inns	inns	NNS	_	inns	inn	NNS	1	COORD	_	_	_
+4	,	,	,	_	,	,	,	3	P	_	_	_
+5	religious	religious	JJ	_	religious	religious	JJ	6	NMOD	_	_	_
+6	schools	schools	NNS	_	schools	school	NNS	3	COORD	_	_	_
+7	,	,	,	_	,	,	,	6	P	_	_	_
+8	and	and	CC	_	and	and	CC	6	COORD	_	_	_
+9	barracks	barracks	NNS	_	barracks	barrack	NNS	8	CONJ	_	_	_
+10	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_
+11	constructed	constructed	VBN	_	constructed	construct	VBN	10	VC	construct.01	A2	_
+12	.	.	.	_	.	.	.	10	P	_	_	_
+
+1	But	but	CC	_	But	but	CC	12	DEP	_	_	_	_	_	_
+2	when	when	WRB	_	when	when	WRB	4	TMP	_	_	_	_	AM-TMP	_
+3	Suleiman	suleiman	NNP	_	Suleiman	suleiman	NNP	4	SBJ	_	A1	_	_	_	_
+4	died	died	VBD	_	died	die	VBD	12	TMP	die.01	_	_	_	_	_
+5	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_
+6	his	his	PRP$	_	his	his	PRP$	7	NMOD	_	_	A2	_	_	_
+7	empire	empire	NN	_	empire	empire	NN	12	SBJ	empire.01	_	_	_	A0	_
+8	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_
+9	including	including	VBG	_	including	include	VBG	7	NMOD	include.01	_	_	_	_	_
+10	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	9	PMOD	_	_	_	A1	_	_
+11	,	,	,	_	,	,	,	12	P	_	_	_	_	_	_
+12	began	began	VBD	_	began	begin	VBD	0	ROOT	begin.01	_	_	_	_	_
+13	a	a	DT	_	a	a	DT	15	NMOD	_	_	_	_	_	_
+14	long	long	JJ	_	long	long	JJ	15	NMOD	_	_	_	_	_	_
+15	period	period	NN	_	period	period	NN	12	OBJ	period.01	_	_	_	A1	_
+16	of	of	IN	_	of	of	IN	15	NMOD	_	_	_	_	_	A1
+17	decline	decline	NN	_	decline	decline	NN	16	PMOD	_	_	_	_	_	_
+18	.	.	.	_	.	.	.	12	P	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	3	NMOD	_	_	_	_	_	_	_	_
+2	Holy	holy	NNP	_	Holy	holy	NNP	3	NAME	_	_	_	_	_	_	_	_
+3	City	city	NNP	_	City	city	NNP	4	SBJ	_	A1	_	_	_	_	_	_
+4	remained	remained	VBD	_	remained	remain	VBD	0	ROOT	remain.01	_	_	_	_	_	_	_
+5	a	a	DT	_	a	a	DT	6	NMOD	_	_	_	_	_	_	_	_
+6	backwater	backwater	NN	_	backwater	backwater	NN	4	PRD	_	A2	_	_	_	_	_	_
+7	until	until	IN	_	until	until	IN	4	TMP	_	AM-TMP	_	_	_	_	_	_
+8	the	the	DT	_	the	the	DT	10	NMOD	_	_	_	_	_	_	_	_
+9	19th	19th	JJ	_	19th	19th	JJ	10	NMOD	_	_	_	_	_	_	_	_
+10	century	century	NN	_	century	century	NN	7	PMOD	_	_	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	10	P	_	_	_	_	_	_	_	_
+12	when	when	WRB	_	when	when	WRB	18	TMP	_	_	_	_	_	_	_	_
+13	renewed	renewed	VBN	_	renewed	renew	VBN	14	NMOD	renew.01	_	_	_	_	_	_	_
+14	interest	interest	NN	_	interest	interest	NN	18	SBJ	interest.03	_	A1	_	A0	_	_	A1
+15	among	among	IN	_	among	among	IN	14	LOC	_	_	_	A0	_	_	_	_
+16	Christian	christian	JJ	_	Christian	christian	NN	17	NMOD	_	_	_	_	_	_	_	_
+17	pilgrims	pilgrims	NNS	_	pilgrims	pilgrim	NNS	15	PMOD	_	_	_	_	_	_	_	_
+18	made	made	VBD	_	made	make	VBD	10	NMOD	make.08	_	_	_	_	_	_	SU
+19	it	it	PRP	_	it	it	PRP	18	OBJ	_	_	_	_	_	_	_	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_	_
+21	destination	destination	NN	_	destination	destination	NN	18	OPRD	destination.01	_	_	_	A2	_	_	_
+22	of	of	IN	_	of	of	IN	21	NMOD	_	_	_	_	_	A1	_	_
+23	thousands	thousands	NNS	_	thousands	thousand	NNS	22	PMOD	thousands.01	_	_	_	_	_	_	_
+24	of	of	IN	_	of	of	IN	23	NMOD	_	_	_	_	_	_	A1	_
+25	travelers	travelers	NNS	_	travelers	traveler	NNS	24	PMOD	_	_	_	_	_	_	_	_
+26	each	each	DT	_	each	each	DT	27	NMOD	_	_	_	_	_	_	_	_
+27	year	year	NN	_	year	year	NN	18	TMP	year.04	_	_	_	AM-TMP	_	_	A2
+28	.	.	.	_	.	.	.	4	P	_	_	_	_	_	_	_	_
+
+1	19th	19th	JJ	_	19th	19th	JJ	3	NMOD	_
+2	-	-	HYPH	_	-	-	HYPH	3	NMOD	_
+3	Century	century	NN	_	Century	century	NN	4	NMOD	_
+4	Aspirations	aspirations	NNS	_	Aspirations	aspiration	NNS	0	ROOT	_
+
+1	At	at	IN	_	At	at	IN	8	TMP	_	AM-TMP	_	_	_
+2	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_
+3	same	same	JJ	_	same	same	JJ	4	NMOD	_	_	_	_	_
+4	time	time	NN	_	time	time	NN	1	PMOD	_	_	_	_	_
+5	,	,	,	_	,	,	,	8	P	_	_	_	_	_
+6	many	many	JJ	_	many	many	DT	7	NMOD	_	_	_	_	_
+7	Jews	jews	NNPS	_	Jews	jew	NNPS	8	SBJ	_	A0	A0	_	_
+8	sought	sought	VBD	_	sought	seek	VBD	0	ROOT	seek.01	_	_	_	_
+9	religious	religious	JJ	_	religious	religious	JJ	10	NMOD	_	_	_	_	_
+10	freedom	freedom	NN	_	freedom	freedom	NN	8	OBJ	_	A1	_	_	_
+11	and	and	CC	_	and	and	CC	10	COORD	_	_	_	_	_
+12	fulfillment	fulfillment	NN	_	fulfillment	fulfillment	NN	11	CONJ	_	_	_	_	_
+13	by	by	IN	_	by	by	IN	8	MNR	_	AM-MNR	_	_	_
+14	moving	moving	VBG	_	moving	move	VBG	13	PMOD	move.04	_	_	_	_
+15	to	to	TO	_	to	to	TO	14	DIR	_	_	A1	_	_
+16	Palestine	palestine	NNP	_	Palestine	palestine	NNP	15	PMOD	_	_	_	_	_
+17	(	-lrb-	(	_	(	-lrb-	(	18	P	_	_	_	_	_
+18	as	as	IN	_	as	as	IN	16	ADV	_	_	_	_	_
+19	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_
+20	Holy	holy	NNP	_	Holy	holy	NNP	21	NAME	_	_	_	_	_
+21	Land	land	NNP	_	Land	land	NNP	22	SBJ	_	_	_	A1	A0
+22	was	was	VBD	_	was	be	VBD	18	SUB	be.01	_	_	_	_
+23	traditionally	traditionally	RB	_	traditionally	traditionally	RB	22	MNR	_	_	_	AM-MNR	_
+24	called	called	VBN	_	called	call	VBN	22	VC	call.01	_	_	A2	_
+25	)	-rrb-	)	_	)	-rrb-	)	18	P	_	_	_	_	_
+26	and	and	CC	_	and	and	CC	15	COORD	_	_	_	_	_
+27	especially	especially	RB	_	especially	especially	RB	26	CONJ	_	_	_	_	_
+28	to	to	TO	_	to	to	TO	27	COORD	_	_	_	_	_
+29	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	28	PMOD	_	_	_	_	_
+30	.	.	.	_	.	.	.	8	P	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	12	TMP	_	AM-TMP	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_
+3	1890s	1890s	CD	_	1890s	1890s	CD	1	PMOD	_	_	_	_	_
+4	,	,	,	_	,	,	,	12	P	_	_	_	_	_
+5	Theodor	theodor	NNP	_	Theodor	theodor	NNP	6	NAME	_	_	_	_	_
+6	Herzl	herzl	NNP	_	Herzl	herzl	NNP	12	SBJ	_	A0	A0	_	_
+7	(	-lrb-	(	_	(	-lrb-	(	10	P	_	_	_	_	_
+8	1860	1860	CD	_	1860	1860	CD	10	NMOD	_	_	_	_	_
+9	-	-	SYM	_	-	-	TO	10	NMOD	_	_	_	_	_
+10	1904	1904	CD	_	1904	1904	CD	6	TMP	_	_	_	_	_
+11	)	-rrb-	)	_	)	-rrb-	)	10	P	_	_	_	_	_
+12	worked	worked	VBD	_	worked	work	VBD	0	ROOT	work.01	_	_	_	_
+13	to	to	TO	_	to	to	TO	12	PRP	_	_	_	_	_
+14	organize	organize	VB	_	organize	organize	VB	13	IM	organize.01	_	_	_	_
+15	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_
+16	movement	movement	NN	_	movement	movement	NN	14	OBJ	_	_	A1	A0	_
+17	,	,	,	_	,	,	,	16	P	_	_	_	_	_
+18	Zionism	zionism	NNP	_	Zionism	zionism	NNP	16	APPO	_	_	_	_	_
+19	,	,	,	_	,	,	,	16	P	_	_	_	_	_
+20	to	to	TO	_	to	to	TO	16	NMOD	_	_	_	_	_
+21	create	create	VB	_	create	create	VB	20	IM	create.01	_	_	_	_
+22	a	a	DT	_	a	a	DT	24	NMOD	_	_	_	_	_
+23	Jewish	jewish	JJ	_	Jewish	jewish	JJ	24	NMOD	_	_	_	_	A1
+24	state	state	NN	_	state	state	NN	21	OBJ	state.01	_	_	A1	A2
+25	.	.	.	_	.	.	.	12	P	_	_	_	_	_
+
+1	Chaim	chaim	NNP	_	Chaim	chaim	NNP	2	NAME	_	_	_	_	_	_
+2	Weizmann	weizmann	NNP	_	Weizmann	weizmann	NNP	20	SBJ	_	_	_	A0	A0	_
+3	(	-lrb-	(	_	(	-lrb-	(	6	P	_	_	_	_	_	_
+4	1874	1874	CD	_	1874	1874	CD	6	NMOD	_	_	_	_	_	_
+5	-	-	SYM	_	-	-	TO	6	NMOD	_	_	_	_	_	_
+6	1952	1952	CD	_	1952	1952	CD	2	TMP	_	_	_	_	_	_
+7	)	-rrb-	)	_	)	-rrb-	)	6	P	_	_	_	_	_	_
+8	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_
+9	a	a	DT	_	a	a	DT	10	NMOD	_	_	_	_	_	_
+10	scientist	scientist	NN	_	scientist	scientist	NN	2	APPO	_	A1	_	_	_	_
+11	born	born	VBN	_	born	bear	VBN	10	APPO	born.02	_	_	_	_	_
+12	in	in	IN	_	in	in	IN	11	LOC	_	AM-LOC	_	_	_	_
+13	Russia	russia	NNP	_	Russia	russia	NNP	12	PMOD	_	_	_	_	_	_
+14	but	but	CC	_	but	but	CC	11	COORD	_	_	_	_	_	_
+15	later	later	RB	_	later	later	RB	14	CONJ	_	_	_	_	_	_
+16	a	a	DT	_	a	a	DT	18	NMOD	_	_	_	_	_	_
+17	British	british	JJ	_	British	british	JJ	18	NMOD	_	_	A1	_	_	_
+18	subject	subject	NN	_	subject	subject	NN	15	COORD	subject.04	_	A0	_	_	_
+19	,	,	,	_	,	,	,	20	P	_	_	_	_	_	_
+20	did	did	VBD	_	did	do	VBD	0	ROOT	do.02	_	_	_	_	_
+21	much	much	JJ	_	much	much	JJ	20	OBJ	_	_	_	A1	_	_
+22	to	to	TO	_	to	to	TO	20	PRP	_	_	_	_	_	_
+23	put	put	VB	_	put	put	VB	22	IM	put.01	_	_	_	_	_
+24	Herzl	herzl	NNP	_	Herzl	herzl	NNP	26	NMOD	_	_	_	_	_	A0
+25	's	's	POS	_	's	's	POS	24	SUFFIX	_	_	_	_	_	_
+26	hopes	hopes	NNS	_	hopes	hope	NNS	23	OBJ	hope.01	_	_	_	A1	_
+27	into	into	IN	_	into	into	IN	23	ADV	_	_	_	_	A2	_
+28	practice	practice	NN	_	practice	practice	NN	27	PMOD	_	_	_	_	_	_
+29	.	.	.	_	.	.	.	20	P	_	_	_	_	_	_
+
+1	Weizmann	weizmann	NNP	_	Weizmann	weizmann	NNP	2	SBJ	_	A1	_	_	_	_	_	_	_	_	_	_
+2	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_	_	_	_
+3	an	an	DT	_	an	an	DT	5	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+4	important	important	JJ	_	important	important	JJ	5	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+5	figure	figure	NN	_	figure	figure	NN	2	PRD	figure.01	A2	_	_	_	_	_	_	_	_	_	_
+6	in	in	IN	_	in	in	IN	5	NMOD	_	_	A1	_	_	_	_	_	_	_	_	_
+7	the	the	DT	_	the	the	DT	8	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+8	negotiations	negotiations	NNS	_	negotiations	negotiation	NNS	6	PMOD	negotiation.01	_	_	_	_	A0	_	_	_	_	_	_
+9	with	with	IN	_	with	with	IN	8	NMOD	_	_	_	A0	_	_	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+11	British	british	JJ	_	British	british	JJ	12	NMOD	_	_	_	_	A2	_	_	_	_	_	_	_
+12	government	government	NN	_	government	government	NN	9	PMOD	government.01	_	_	_	_	_	_	_	_	_	_	_
+13	that	that	WDT	_	that	that	WDT	14	SBJ	_	_	_	_	_	_	_	_	_	_	_	_
+14	led	led	VBD	_	led	lead	VBD	8	NMOD	lead.01	_	_	_	_	_	_	_	_	_	_	_
+15	to	to	TO	_	to	to	TO	14	ADV	_	_	_	_	_	A1	_	_	_	_	_	_
+16	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+17	Balfour	balfour	NNP	_	Balfour	balfour	NNP	18	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+18	Declaration	declaration	NNP	_	Declaration	declaration	NNP	15	PMOD	_	_	_	_	_	_	A0	A1	_	_	_	_
+19	of	of	IN	_	of	of	IN	18	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+20	1917	1917	CD	_	1917	1917	CD	19	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	,	_	,	,	,	18	P	_	_	_	_	_	_	_	_	_	_	_	_
+22	supporting	supporting	VBG	_	supporting	support	VBG	18	APPO	support.01	_	_	_	_	_	_	SU	_	_	_	_
+23	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+24	idea	idea	NN	_	idea	idea	NN	22	OBJ	idea.01	_	_	_	_	_	A1	_	_	_	_	_
+25	of	of	IN	_	of	of	IN	24	NMOD	_	_	_	_	_	_	_	A0	_	_	_	_
+26	a	a	DT	_	a	a	DT	30	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+27	Jewish	jewish	JJ	_	Jewish	jewish	JJ	30	NMOD	_	_	_	_	_	_	_	_	A0	_	_	_
+28	"	"	''	_	"	"	''	30	P	_	_	_	_	_	_	_	_	_	_	_	_
+29	national	national	JJ	_	national	national	JJ	30	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+30	home	home	NN	_	home	home	NN	25	PMOD	home.01	_	_	_	_	_	_	_	A1	A0	_	_
+31	"	"	''	_	"	"	''	30	P	_	_	_	_	_	_	_	_	_	_	_	_
+32	in	in	IN	_	in	in	IN	30	LOC	_	_	_	_	_	_	_	_	_	_	_	_
+33	Palestine	palestine	NNP	_	Palestine	palestine	NNP	32	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+34	that	that	WDT	_	that	that	WDT	36	SBJ	_	_	_	_	_	_	_	_	_	_	_	_
+35	also	also	RB	_	also	also	RB	36	ADV	_	_	_	_	_	_	_	_	_	AM-DIS	_	_
+36	respected	respected	VBD	_	respected	respect	VBD	30	NMOD	respect.01	_	_	_	_	_	_	_	_	_	_	_
+37	the	the	DT	_	the	the	DT	38	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+38	rights	rights	NNS	_	rights	right	NNS	36	OBJ	right.02	_	_	_	_	_	_	_	_	A1	_	_
+39	of	of	IN	_	of	of	IN	38	NMOD	_	_	_	_	_	_	_	_	_	_	A1	_
+40	existing	existing	VBG	_	existing	exist	VBG	42	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+41	non-Jewish	non-jewish	JJ	_	non-Jewish	non-jewish	JJ	42	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+42	people	people	NNS	_	people	people	NNS	39	PMOD	_	_	_	_	_	_	_	_	_	_	_	A0
+43	already	already	RB	_	already	already	RB	44	TMP	_	_	_	_	_	_	_	_	_	_	_	AM-TMP
+44	living	living	VBG	_	living	live	VBG	42	APPO	live.01	_	_	_	_	_	_	_	_	_	_	_
+45	there	there	RB	_	there	there	RB	44	LOC	_	_	_	_	_	_	_	_	_	_	_	AM-LOC
+46	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_	_	_	_	_	_
+2	problem	problem	NN	_	problem	problem	NN	3	SBJ	_	A1	_	_	_	_	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_
+4	that	that	IN	_	that	that	IN	3	PRD	_	A2	_	_	_	_	_	_
+5	British	british	JJ	_	British	british	JJ	6	NMOD	_	_	A2	_	_	_	_	_
+6	strategists	strategists	NNS	_	strategists	strategist	NNS	17	SBJ	strategist.01	_	_	A1	_	A0	A0	_
+7	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_	_	_
+8	who	who	WP	_	who	who	WP	9	SBJ	_	_	_	_	_	_	_	_
+9	were	were	VBD	_	were	be	VBD	6	NMOD	be.01	_	_	_	_	_	_	_
+10	fighting	fighting	VBG	_	fighting	fight	VBG	9	VC	fight.01	_	_	A2	_	_	_	_
+11	the	the	DT	_	the	the	DT	13	NMOD	_	_	_	_	_	_	_	_
+12	Ottoman	ottoman	NNP	_	Ottoman	ottoman	NNP	13	NAME	_	_	_	_	_	_	_	_
+13	Turks	turks	NNS	_	Turks	turk	NNPS	10	OBJ	_	_	_	_	A1	_	_	_
+14	in	in	IN	_	in	in	IN	10	TMP	_	_	_	_	AM-TMP	_	_	_
+15	1917	1917	CD	_	1917	1917	CD	14	PMOD	_	_	_	_	_	_	_	_
+16	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_	_
+17	had	had	VBD	_	had	have	VBD	4	SUB	have.03	_	SU	_	_	_	_	_
+18	secretly	secretly	RB	_	secretly	secretly	RB	17	MNR	_	_	A1	_	_	AM-MNR	_	_
+19	promised	promised	VBN	_	promised	promise	VBN	17	VC	promise.01	_	SU	_	_	A1	_	_
+20	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_	_
+21	lands	lands	NNS	_	lands	land	NNS	19	OBJ	_	_	_	_	_	_	A1	_
+22	to	to	TO	_	to	to	TO	19	ADV	_	_	A0	_	_	_	A2	_
+23	their	their	PRP$	_	their	their	PRP$	28	NMOD	_	_	_	_	_	_	_	A2
+24	World	world	NNP	_	World	world	NNP	25	NAME	_	_	_	_	_	_	_	_
+25	War	war	NNP	_	War	war	NNP	28	NMOD	_	_	_	_	_	_	_	A1
+26	I	i	NNP	_	I	i	NNP	25	POSTHON	_	_	_	_	_	_	_	_
+27	Arab	arab	JJ	_	Arab	arab	JJ	28	NMOD	_	_	_	_	_	_	_	_
+28	allies	allies	NNS	_	allies	allies	NNS	22	PMOD	ally.01	_	_	_	_	_	_	A0
+29	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	7	TMP	_	AM-TMP	_	_
+2	1922	1922	CD	_	1922	1922	CD	1	PMOD	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_
+4	League	league	NNP	_	League	league	NNP	7	SBJ	_	A0	_	A0
+5	of	of	IN	_	of	of	IN	4	NMOD	_	_	_	_
+6	Nations	nations	NNPS	_	Nations	nation	NNPS	5	PMOD	_	_	_	_
+7	granted	granted	VBD	_	granted	grant	VBD	0	ROOT	grant.01	_	_	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+9	British	british	NNP	_	British	british	NNP	7	OBJ	_	A2	_	_
+10	a	a	DT	_	a	a	DT	11	NMOD	_	_	_	_
+11	mandate	mandate	NN	_	mandate	mandate	NN	7	OBJ	mandate.01	A1	_	_
+12	to	to	TO	_	to	to	TO	11	NMOD	_	_	A1	_
+13	administer	administer	VB	_	administer	administer	VB	12	IM	administer.01	_	_	_
+14	Palestine	palestine	NNP	_	Palestine	palestine	NNP	13	OBJ	_	_	_	A1
+15	.	.	.	_	.	.	.	7	P	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	2	SBJ	_	A1	_
+2	flourished	flourished	VBD	_	flourished	flourish	VBD	0	ROOT	flourish.01	_	_
+3	during	during	IN	_	during	during	IN	2	TMP	_	AM-TMP	_
+4	the	the	DT	_	the	the	DT	6	NMOD	_	_	_
+5	early	early	JJ	_	early	early	JJ	6	NMOD	_	_	AM-TMP
+6	years	years	NNS	_	years	years	NNS	3	PMOD	year.04	_	A2
+7	of	of	IN	_	of	of	IN	6	NMOD	_	_	A1
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	Mandate	mandate	NNP	_	Mandate	mandate	NNP	7	PMOD	_	_	_
+10	.	.	.	_	.	.	.	2	P	_	_	_
+
+1	Modern	modern	JJ	_	Modern	modern	JJ	6	NMOD	_	AM-TMP	AM-TMP	_	_
+2	neighborhoods	neighborhoods	NNS	_	neighborhoods	neighborhood	NNS	6	NMOD	neighborhood.03	A1	A1	_	_
+3	,	,	,	_	,	,	,	6	P	_	_	_	_	_
+4	hospitals	hospitals	NNS	_	hospitals	hospital	NNS	6	NMOD	_	_	_	_	_
+5	,	,	,	_	,	,	,	6	P	_	_	_	_	_
+6	schools	schools	NNS	_	schools	school	NNS	12	SBJ	school.01	_	_	A1	A0
+7	,	,	,	_	,	,	,	6	P	_	_	_	_	_
+8	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	11	NMOD	_	_	_	_	_
+10	Hebrew	hebrew	NNP	_	Hebrew	hebrew	NNP	11	NAME	_	_	_	_	_
+11	University	university	NNP	_	University	university	NNP	8	CONJ	_	_	_	_	_
+12	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_
+13	built	built	VBN	_	built	build	VBN	12	VC	build.01	_	_	A2	_
+14	in	in	IN	_	in	in	IN	13	LOC	_	_	_	_	AM-LOC
+15	West	west	NNP	_	West	west	NNP	16	NAME	_	_	_	_	_
+16	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	14	PMOD	_	_	_	_	_
+17	,	,	,	_	,	,	,	16	P	_	_	_	_	_
+18	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_
+19	new	new	JJ	_	new	new	JJ	21	NMOD	_	_	_	_	_
+20	Jewish	jewish	JJ	_	Jewish	jewish	JJ	21	NMOD	_	_	_	_	_
+21	enclave	enclave	NN	_	enclave	enclave	NN	16	APPO	_	_	_	_	_
+22	.	.	.	_	.	.	.	12	P	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	12	DEP	_	_	_	_	_	_	_
+2	Arab	arab	JJ	_	Arab	arab	JJ	3	NMOD	_	_	_	_	_	_	_
+3	opposition	opposition	NN	_	opposition	opposition	NN	12	SBJ	opposition.01	_	_	_	A0	_	_
+4	to	to	TO	_	to	to	TO	3	NMOD	_	A1	_	_	_	_	_
+5	new	new	JJ	_	new	new	JJ	7	NMOD	_	_	AM-TMP	AM-TMP	_	_	_
+6	Jewish	jewish	JJ	_	Jewish	jewish	JJ	7	NMOD	_	_	A0	_	_	_	_
+7	immigration	immigration	NN	_	immigration	immigration	NN	4	PMOD	immigration.01	_	_	_	_	_	_
+8	and	and	CC	_	and	and	CC	7	COORD	_	_	_	_	_	_	_
+9	construction	construction	NN	_	construction	construction	NN	8	CONJ	construction.02	_	_	_	_	_	_
+10	in	in	IN	_	in	in	IN	7	LOC	_	_	_	A1	_	_	_
+11	Palestine	palestine	NNP	_	Palestine	palestine	NNP	10	PMOD	_	_	_	_	_	_	_
+12	led	led	VBD	_	led	lead	VBD	0	ROOT	lead.03	_	_	_	_	_	_
+13	to	to	TO	_	to	to	TO	12	ADV	_	_	_	_	A2	_	_
+14	increasing	increasing	VBG	_	increasing	increase	VBG	15	NMOD	_	_	_	_	_	_	_
+15	strife	strife	NN	_	strife	strife	NN	13	PMOD	_	_	_	_	_	_	_
+16	;	;	,	_	;	;	,	12	P	_	_	_	_	_	_	_
+17	by	by	IN	_	by	by	IN	21	TMP	_	_	_	_	_	AM-TMP	_
+18	1946	1946	CD	_	1946	1946	CD	17	PMOD	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_	_
+20	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	21	SBJ	_	_	_	_	_	A1	_
+21	was	was	VBD	_	was	be	VBD	12	COORD	be.01	_	_	_	_	_	_
+22	an	an	DT	_	an	an	DT	24	NMOD	_	_	_	_	_	_	_
+23	armed	armed	JJ	_	armed	arm	VBN	24	NMOD	arm.01	_	_	_	_	_	_
+24	camp	camp	NN	_	camp	camp	NN	21	PRD	_	_	_	_	_	A2	A1
+25	.	.	.	_	.	.	.	12	P	_	_	_	_	_	_	_
+
+1	In	in	IN	_	In	in	IN	6	TMP	_	AM-TMP	_
+2	1947	1947	CD	_	1947	1947	CD	1	PMOD	_	_	_
+3	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+4	United	united	NNP	_	United	united	NNP	5	NAME	_	_	_
+5	Nations	nations	NNP	_	Nations	nation	NNP	6	SBJ	_	A0	_
+6	voted	voted	VBD	_	voted	vote	VBD	0	ROOT	vote.01	_	_
+7	for	for	IN	_	for	for	IN	6	ADV	_	A2	_
+8	the	the	DT	_	the	the	DT	9	NMOD	_	_	_
+9	partition	partition	NN	_	partition	partition	NN	7	PMOD	_	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	_
+11	Palestine	palestine	NNP	_	Palestine	palestine	NNP	10	PMOD	_	_	_
+12	into	into	IN	_	into	into	IN	9	NMOD	_	_	_
+13	two	two	CD	_	two	two	CD	14	NMOD	_	_	_
+14	states	states	NNS	_	states	state	NNS	12	PMOD	_	_	_
+15	,	,	,	_	,	,	,	14	P	_	_	_
+16	one	one	CD	_	one	one	CD	14	APPO	_	_	_
+17	Jewish	jewish	JJ	_	Jewish	jewish	JJ	16	APPO	_	_	_
+18	and	and	CC	_	and	and	CC	16	COORD	_	_	_
+19	one	one	CD	_	one	one	CD	18	CONJ	_	_	_
+20	Arab	arab	JJ	_	Arab	arab	JJ	19	APPO	_	_	_
+21	,	,	,	_	,	,	,	9	P	_	_	_
+22	with	with	IN	_	with	with	IN	9	NMOD	_	_	_
+23	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	22	PMOD	_	_	_
+24	as	as	IN	_	as	as	IN	23	NMOD	_	_	_
+25	an	an	DT	_	an	an	DT	27	NMOD	_	_	_
+26	international	international	JJ	_	international	international	JJ	27	NMOD	_	_	_
+27	city	city	NN	_	city	city	NN	24	PMOD	_	_	A0
+28	that	that	WDT	_	that	that	WDT	29	SBJ	_	_	_
+29	belonged	belonged	VBD	_	belonged	belong	VBD	27	NMOD	belong.01	_	_
+30	to	to	TO	_	to	to	TO	29	ADV	_	_	A1
+31	neither	neither	DT	_	neither	neither	DT	30	PMOD	_	_	_
+32	.	.	.	_	.	.	.	6	P	_	_	_
+
+1	But	but	CC	_	But	but	CC	13	DEP	_	_	_	_	_	_	_	_	_
+2	lacking	lacking	VBG	_	lacking	lack	VBG	13	ADV	lack.01	_	_	_	_	_	_	_	_
+3	the	the	DT	_	the	the	DT	4	NMOD	_	_	_	_	_	_	_	_	_
+4	means	means	NNS	_	means	means	NNS	2	OBJ	_	A1	A0	_	_	_	_	_	_
+5	to	to	TO	_	to	to	TO	4	NMOD	_	_	_	_	_	_	_	_	_
+6	enforce	enforce	VB	_	enforce	enforce	VB	5	IM	enforce.01	_	_	_	_	_	_	_	_
+7	its	its	PRP$	_	its	its	PRP$	8	NMOD	_	_	_	A0	_	_	_	_	_
+8	decision	decision	NN	_	decision	decision	NN	6	OBJ	decision.01	_	A1	_	_	_	_	_	_
+9	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_	_	_
+10	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_
+11	United	united	NNP	_	United	united	NNP	12	NAME	_	_	_	_	_	_	_	_	_
+12	Nations	nations	NNP	_	Nations	nation	NNP	13	SBJ	_	A0	_	_	A1	A0	_	_	_
+13	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_	_	_
+14	powerless	powerless	JJ	_	powerless	powerless	JJ	13	PRD	_	_	_	_	A2	_	_	_	_
+15	to	to	TO	_	to	to	TO	14	AMOD	_	_	_	_	_	_	_	_	_
+16	halt	halt	VB	_	halt	halt	VB	15	IM	halt.01	_	_	_	_	_	_	_	_
+17	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_	_	_	_	_	_
+18	fighting	fighting	NN	_	fighting	fighting	NN	16	OBJ	_	_	_	_	_	A1	A1	_	_
+19	that	that	WDT	_	that	that	WDT	20	SBJ	_	_	_	_	_	_	_	_	_
+20	erupted	erupted	VBD	_	erupted	erupt	VBD	18	NMOD	erupt.01	_	_	_	_	_	_	_	_
+21	as	as	IN	_	as	as	IN	20	TMP	_	_	_	_	_	_	AM-TMP	_	_
+22	the	the	DT	_	the	the	DT	23	NMOD	_	_	_	_	_	_	_	_	_
+23	British	british	NNPS	_	British	british	NNPS	24	SBJ	_	_	_	_	_	_	_	A0	_
+24	withdrew	withdrew	VBD	_	withdrew	withdraw	VBD	21	SUB	withdraw.01	_	_	_	_	_	_	_	_
+25	their	their	PRP$	_	their	their	PRP$	26	NMOD	_	_	_	_	_	_	_	_	A1
+26	troops	troops	NNS	_	troops	troops	NNS	24	OBJ	troop.01	_	_	_	_	_	_	A1	_
+27	in	in	IN	_	in	in	IN	24	TMP	_	_	_	_	_	_	_	AM-TMP	_
+28	1948	1948	CD	_	1948	1948	CD	27	PMOD	_	_	_	_	_	_	_	_	_
+29	.	.	.	_	.	.	.	13	P	_	_	_	_	_	_	_	_	_
+
+1	Modern	modern	JJ	_	Modern	modern	JJ	2	NMOD	_
+2	Israel	israel	NNP	_	Israel	israel	NNP	0	ROOT	_
+
+1	The	the	DT	_	The	the	DT	2	NMOD	_	_	_
+2	State	state	NNP	_	State	state	NNP	5	SBJ	_	A1	A0
+3	of	of	IN	_	of	of	IN	2	NMOD	_	_	_
+4	Israel	israel	NNP	_	Israel	israel	NNP	3	PMOD	_	_	_
+5	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+6	declared	declared	VBN	_	declared	declare	VBN	5	VC	declare.01	A2	_
+7	during	during	IN	_	during	during	IN	6	TMP	_	_	AM-TMP
+8	this	this	DT	_	this	this	DT	10	NMOD	_	_	_
+9	difficult	difficult	JJ	_	difficult	difficult	JJ	10	NMOD	_	_	_
+10	time	time	NN	_	time	time	NN	7	PMOD	_	_	_
+11	.	.	.	_	.	.	.	5	P	_	_	_
+
+1	In	in	IN	_	In	in	IN	10	ADV	_	_	AM-LOC	_
+2	response	response	NN	_	response	response	NN	1	PMOD	_	_	_	_
+3	,	,	,	_	,	,	,	10	P	_	_	_	_
+4	member	member	NN	_	member	member	NN	5	NMOD	_	A3	_	_
+5	states	states	NNS	_	states	state	NNS	10	SBJ	state.01	A2	A0	_
+6	of	of	IN	_	of	of	IN	5	NMOD	_	A1	_	_
+7	the	the	DT	_	the	the	DT	9	NMOD	_	_	_	_
+8	Arab	arab	NNP	_	Arab	arab	NNP	9	NAME	_	_	_	_
+9	League	league	NNP	_	League	league	NNP	6	PMOD	_	_	_	_
+10	sent	sent	VBD	_	sent	send	VBD	0	ROOT	send.01	_	_	_
+11	troops	troops	NNS	_	troops	troops	NNS	10	OBJ	_	_	A1	A0
+12	to	to	TO	_	to	to	TO	11	NMOD	_	_	_	_
+13	help	help	VB	_	help	help	VB	12	IM	help.01	_	_	_
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_
+15	Palestinian	palestinian	JJ	_	Palestinian	palestinian	JJ	16	NMOD	_	_	_	_
+16	Arabs	arabs	NNPS	_	Arabs	arab	NNPS	13	OBJ	_	_	_	A1
+17	.	.	.	_	.	.	.	10	P	_	_	_	_
+
+1	West	west	NNP	_	West	west	NNP	2	NAME	_	_	_	_	_	_	_	_
+2	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	14	SBJ	_	A1	_	_	A0	_	_	_
+3	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_	_	_
+4	separated	separated	VBN	_	separated	separate	VBN	2	APPO	separate.01	_	_	_	_	_	_	_
+5	from	from	IN	_	from	from	IN	4	ADV	_	A2	_	_	_	_	_	_
+6	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_	_	_
+7	rest	rest	NN	_	rest	rest	NN	5	PMOD	rest.01	_	_	_	_	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A1	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_
+10	new	new	JJ	_	new	new	JJ	12	NMOD	_	_	_	_	_	_	_	_
+11	Jewish	jewish	JJ	_	Jewish	jewish	JJ	12	NMOD	_	_	_	A1	_	_	_	_
+12	nation	nation	NN	_	nation	nation	NN	8	PMOD	nation.01	_	_	_	_	_	_	_
+13	,	,	,	_	,	,	,	14	P	_	_	_	_	_	_	_	_
+14	held	held	VBD	_	held	hold	VBD	0	ROOT	hold.01	_	_	_	_	_	_	_
+15	out	out	RP	_	out	out	RP	14	PRT	_	_	_	_	_	_	_	_
+16	under	under	IN	_	under	under	IN	14	ADV	_	_	_	_	A1	_	_	_
+17	siege	siege	NN	_	siege	siege	NN	16	PMOD	_	_	_	_	_	_	_	_
+18	for	for	IN	_	for	for	IN	14	TMP	_	_	_	_	AM-TMP	_	_	_
+19	several	several	JJ	_	several	several	DT	20	NMOD	_	_	_	_	_	_	_	_
+20	months	months	NNS	_	months	month	NNS	18	PMOD	_	_	_	_	_	_	_	_
+21	until	until	IN	_	until	until	IN	14	TMP	_	_	_	_	AM-TMP	_	_	_
+22	Israeli	israeli	JJ	_	Israeli	israeli	JJ	23	NMOD	_	_	_	_	_	A1	_	_
+23	forces	forces	NNS	_	forces	force	NNS	24	SBJ	force.02	_	_	_	_	A2	A0	_
+24	secured	secured	VBD	_	secured	secure	VBD	21	SUB	secure.01	_	_	_	_	_	_	_
+25	a	a	DT	_	a	a	DT	27	NMOD	_	_	_	_	_	_	_	_
+26	land	land	NN	_	land	land	NN	27	NMOD	_	_	_	_	_	_	_	_
+27	corridor	corridor	NN	_	corridor	corridor	NN	24	OBJ	_	_	_	_	_	_	A1	A0
+28	connecting	connecting	VBG	_	connecting	connect	VBG	27	APPO	connect.01	_	_	_	_	_	_	_
+29	the	the	DT	_	the	the	DT	30	NMOD	_	_	_	_	_	_	_	_
+30	city	city	NN	_	city	city	NN	28	OBJ	_	_	_	_	_	_	_	A1
+31	to	to	TO	_	to	to	TO	28	ADV	_	_	_	_	_	_	_	AM-DIR
+32	the	the	DT	_	the	the	DT	34	NMOD	_	_	_	_	_	_	_	_
+33	coastal	coastal	JJ	_	coastal	coastal	JJ	34	NMOD	_	_	_	_	_	_	_	_
+34	areas	areas	NNS	_	areas	area	NNS	31	PMOD	_	_	_	_	_	_	_	_
+35	.	.	.	_	.	.	.	14	P	_	_	_	_	_	_	_	_
+
+1	Jews	jews	NNPS	_	Jews	jew	NNPS	2	SBJ	_	A1	A0	_	_	_
+2	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_	_
+3	evacuated	evacuated	VBN	_	evacuated	evacuate	VBN	2	VC	evacuate.01	A2	_	_	_	_
+4	from	from	IN	_	from	from	IN	3	ADV	_	_	A1	_	_	_
+5	the	the	DT	_	the	the	DT	7	NMOD	_	_	_	_	_	_
+6	Old	old	NNP	_	Old	old	NNP	7	NAME	_	_	_	_	_	_
+7	City	city	NNP	_	City	city	NNP	10	NMOD	_	_	_	_	_	_
+8	's	's	POS	_	's	's	POS	7	SUFFIX	_	_	_	_	_	_
+9	Jewish	jewish	NNP	_	Jewish	jewish	NNP	10	NAME	_	_	_	_	_	_
+10	Quarter	quarter	NNP	_	Quarter	quarter	NNP	4	PMOD	_	_	_	_	_	_
+11	,	,	,	_	,	,	,	2	P	_	_	_	_	_	_
+12	and	and	CC	_	and	and	CC	2	COORD	_	_	_	_	_	_
+13	thousands	thousands	NNS	_	thousands	thousand	NNS	17	SBJ	thousands.01	_	_	_	A0	_
+14	of	of	IN	_	of	of	IN	13	NMOD	_	_	_	A1	_	_
+15	Arab	arab	JJ	_	Arab	arab	JJ	16	NMOD	_	_	_	_	_	_
+16	families	families	NNS	_	families	family	NNS	14	PMOD	_	_	_	_	_	_
+17	fled	fled	VBD	_	fled	flee	VBD	12	CONJ	flee.01	_	_	_	_	_
+18	their	their	PRP$	_	their	their	PRP$	19	NMOD	_	_	_	_	_	A0
+19	homes	homes	NNS	_	homes	home	NNS	17	OBJ	home.01	_	_	_	A1	A1
+20	in	in	IN	_	in	in	IN	19	LOC	_	_	_	_	_	_
+21	West	west	NNP	_	West	west	NNP	22	NAME	_	_	_	_	_	_
+22	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	20	PMOD	_	_	_	_	_	_
+23	.	.	.	_	.	.	.	2	P	_	_	_	_	_	_
+
+1	As	as	IN	_	As	as	IN	11	PRP	_	_	_	_
+2	a	a	DT	_	a	a	DT	3	NMOD	_	_	_	_
+3	result	result	NN	_	result	result	NN	1	PMOD	result.01	_	AM-TMP	_
+4	of	of	IN	_	of	of	IN	3	NMOD	_	A1	_	_
+5	armistice	armistice	NN	_	armistice	armistice	NN	6	NMOD	_	_	_	_
+6	agreements	agreements	NNS	_	agreements	agreement	NNS	4	PMOD	_	_	_	_
+7	in	in	IN	_	in	in	IN	6	TMP	_	_	_	_
+8	1949	1949	CD	_	1949	1949	CD	7	PMOD	_	_	_	_
+9	,	,	,	_	,	,	,	11	P	_	_	_	_
+10	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	11	SBJ	_	_	A1	A0
+11	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_
+12	divided	divided	VBN	_	divided	divide	VBN	11	VC	divide.01	_	A2	_
+13	:	:	:	_	:	:	:	11	P	_	_	_	_
+
+1	West	west	NNP	_	West	west	NNP	2	NAME	_	_	_	_	_	_	_
+2	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	3	SBJ	_	A1	A1	_	_	_	_
+3	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_	_
+4	to	to	TO	_	to	to	TO	3	VC	_	_	_	_	_	_	_
+5	be	be	VB	_	be	be	VB	4	IM	be.01	_	_	_	_	_	_
+6	under	under	IN	_	under	under	IN	5	PRD	_	_	A2	_	_	_	_
+7	Israeli	israeli	JJ	_	Israeli	israeli	JJ	8	NMOD	_	_	_	A1	_	_	_
+8	control	control	NN	_	control	control	NN	6	PMOD	control.01	_	_	_	_	_	_
+9	,	,	,	_	,	,	,	3	P	_	_	_	_	_	_	_
+10	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_	_	_
+11	East	east	NNP	_	East	east	NNP	12	NAME	_	_	_	_	_	_	_
+12	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	31	SBJ	_	_	_	_	_	A0	_
+13	(	-lrb-	(	_	(	-lrb-	(	14	P	_	_	_	_	_	_	_
+14	including	including	VBG	_	including	include	VBG	12	NMOD	include.01	_	_	_	_	_	_
+15	the	the	DT	_	the	the	DT	17	NMOD	_	_	_	_	_	_	_
+16	Old	old	NNP	_	Old	old	NNP	17	NAME	_	_	_	_	_	_	_
+17	City	city	NNP	_	City	city	NNP	14	PMOD	_	_	_	_	A1	_	_
+18	,	,	,	_	,	,	,	17	P	_	_	_	_	_	_	_
+19	with	with	IN	_	with	with	IN	17	NMOD	_	_	_	_	_	_	_
+20	its	its	PRP$	_	its	its	PRP$	29	NMOD	_	_	_	_	_	_	_
+21	Jewish	jewish	JJ	_	Jewish	jewish	JJ	29	NMOD	_	_	_	_	_	_	_
+22	,	,	,	_	,	,	,	21	P	_	_	_	_	_	_	_
+23	Muslim	muslim	JJ	_	Muslim	muslim	JJ	21	COORD	_	_	_	_	_	_	_
+24	,	,	,	_	,	,	,	23	P	_	_	_	_	_	_	_
+25	Christian	christian	JJ	_	Christian	christian	NN	23	COORD	_	_	_	_	_	_	_
+26	,	,	,	_	,	,	,	25	P	_	_	_	_	_	_	_
+27	and	and	CC	_	and	and	CC	25	COORD	_	_	_	_	_	_	_
+28	Armenian	armenian	JJ	_	Armenian	armenian	JJ	27	CONJ	_	_	_	_	_	_	_
+29	quarters	quarters	NNS	_	quarters	quarters	NNS	19	PMOD	_	_	_	_	_	_	_
+30	)	-rrb-	)	_	)	-rrb-	)	14	P	_	_	_	_	_	_	_
+31	came	came	VBD	_	came	come	VBD	10	CONJ	come.02	_	_	_	_	_	_
+32	under	under	IN	_	under	under	IN	31	ADV	_	_	_	_	_	A1	_
+33	Jordanian	jordanian	JJ	_	Jordanian	jordanian	JJ	34	NMOD	_	_	_	_	_	_	A0
+34	authority	authority	NN	_	authority	authority	NN	32	PMOD	authority.01	_	_	_	_	_	_
+35	.	.	.	_	.	.	.	3	P	_	_	_	_	_	_	_
+
+1	Free	free	JJ	_	Free	free	JJ	2	NMOD	_	_	_	_	_
+2	access	access	NN	_	access	access	NN	11	SBJ	access.01	_	_	A1	A0
+3	to	to	TO	_	to	to	TO	2	NMOD	_	A1	_	_	_
+4	holy	holy	JJ	_	holy	holy	JJ	5	NMOD	_	_	_	_	_
+5	sites	sites	NNS	_	sites	site	NNS	3	PMOD	_	_	_	_	_
+6	for	for	IN	_	for	for	IN	2	NMOD	_	A0	_	_	_
+7	members	members	NNS	_	members	member	NNS	6	PMOD	member.01	_	_	_	_
+8	of	of	IN	_	of	of	IN	7	NMOD	_	_	A1	_	_
+9	all	all	DT	_	all	all	DT	10	NMOD	_	_	_	_	_
+10	religions	religions	NNS	_	religions	religion	NNS	8	PMOD	_	_	_	_	_
+11	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_
+12	guaranteed	guaranteed	VBN	_	guaranteed	guarantee	VBN	11	VC	guarantee.01	_	_	A2	_
+13	by	by	IN	_	by	by	IN	12	LGS	_	_	_	_	_
+14	the	the	DT	_	the	the	DT	16	NMOD	_	_	_	_	_
+15	armistice	armistice	NN	_	armistice	armistice	NN	16	NMOD	_	_	_	_	_
+16	agreements	agreements	NNS	_	agreements	agreement	NNS	13	PMOD	_	_	_	_	A1
+17	.	.	.	_	.	.	.	11	P	_	_	_	_	_
+
+1	However	however	RB	_	However	however	RB	18	ADV	_	AM-MNR	_	_	_
+2	,	,	,	_	,	,	,	18	P	_	_	_	_	_
+3	with	with	IN	_	with	with	IN	18	ADV	_	AM-MNR	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_
+5	city	city	NN	_	city	city	NN	6	SBJ	_	_	_	_	_
+6	partitioned	partitioned	VBN	_	partitioned	partition	VBD	3	SUB	_	_	_	_	_
+7	by	by	IN	_	by	by	IN	6	MNR	_	_	_	_	_
+8	fortifications	fortifications	NNS	_	fortifications	fortification	NNS	7	PMOD	_	_	_	_	_
+9	and	and	CC	_	and	and	CC	8	COORD	_	_	_	_	_
+10	barbed	barbed	JJ	_	barbed	barbed	JJ	11	NMOD	_	_	_	_	_
+11	wire	wire	NN	_	wire	wire	NN	9	CONJ	_	_	_	_	_
+12	,	,	,	_	,	,	,	18	P	_	_	_	_	_
+13	no	no	DT	_	no	no	DT	17	NMOD	_	_	_	_	_
+14	Israeli	israeli	JJ	_	Israeli	israeli	JJ	17	NMOD	_	_	_	_	_
+15	or	or	CC	_	or	or	CC	14	COORD	_	_	_	_	_
+16	Jewish	jewish	JJ	_	Jewish	jewish	JJ	15	CONJ	_	_	_	_	_
+17	pilgrims	pilgrims	NNS	_	pilgrims	pilgrim	NNS	18	SBJ	_	A1	A0	A0	_
+18	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_	_
+19	allowed	allowed	VBN	_	allowed	allow	VBN	18	VC	allow.01	A2	_	_	_
+20	to	to	TO	_	to	to	TO	19	OPRD	_	_	_	_	_
+21	visit	visit	VB	_	visit	visit	VB	20	IM	visit.01	_	_	_	_
+22	the	the	DT	_	the	the	DT	24	NMOD	_	_	_	_	_
+23	Western	western	NNP	_	Western	western	NNP	24	NAME	_	_	_	_	_
+24	Wall	wall	NNP	_	Wall	wall	NNP	21	OBJ	_	_	_	A1	_
+25	or	or	CC	_	or	or	CC	24	COORD	_	_	_	_	_
+26	other	other	JJ	_	other	other	JJ	28	NMOD	_	_	_	_	_
+27	Jewish	jewish	JJ	_	Jewish	jewish	JJ	28	NMOD	_	_	_	_	A1
+28	sites	sites	NNS	_	sites	site	NNS	25	CONJ	site.02	_	_	_	_
+29	in	in	IN	_	in	in	IN	28	LOC	_	_	_	_	_
+30	East	east	NNP	_	East	east	NNP	31	NAME	_	_	_	_	_
+31	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	29	PMOD	_	_	_	_	_
+32	.	.	.	_	.	.	.	18	P	_	_	_	_	_
+
+1	For	for	IN	_	For	for	IN	8	TMP	_	_	AM-TMP
+2	the	the	DT	_	the	the	DT	5	NMOD	_	_	_
+3	next	next	JJ	_	next	next	JJ	5	NMOD	_	AM-TMP	_
+4	19	19	CD	_	19	19	CD	5	NMOD	_	_	_
+5	years	years	NNS	_	years	years	NNS	1	PMOD	year.04	A2	_
+6	,	,	,	_	,	,	,	8	P	_	_	_
+7	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	8	SBJ	_	A1	A1
+8	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_
+9	two	two	CD	_	two	two	CD	10	NMOD	_	_	_
+10	cities	cities	NNS	_	cities	city	NNS	8	PRD	_	_	A2
+11	.	.	.	_	.	.	.	8	P	_	_	_
+
+1	Political	political	JJ	_	Political	political	JJ	4	NMOD	_	_	_	_
+2	and	and	CC	_	and	and	CC	1	COORD	_	_	_	_
+3	religious	religious	JJ	_	religious	religious	JJ	2	CONJ	_	_	_	_
+4	boundaries	boundaries	NNS	_	boundaries	boundary	NNS	5	SBJ	_	A1	A0	_
+5	were	were	VBD	_	were	be	VBD	0	ROOT	be.01	_	_	_
+6	aggravated	aggravated	VBN	_	aggravated	aggravate	VBN	5	VC	aggravate.01	A2	_	_
+7	by	by	IN	_	by	by	IN	6	LGS	_	_	_	_
+8	occasional	occasional	JJ	_	occasional	occasional	JJ	9	NMOD	_	_	_	AM-TMP
+9	incidents	incidents	NNS	_	incidents	incident	NNS	7	PMOD	incident.01	_	A1	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	_	A1
+11	terrorism	terrorism	NN	_	terrorism	terrorism	NN	10	PMOD	_	_	_	_
+12	or	or	CC	_	or	or	CC	11	COORD	_	_	_	_
+13	sniping	sniping	NN	_	sniping	sniping	NN	12	CONJ	_	_	_	_
+14	until	until	IN	_	until	until	IN	6	TMP	_	_	AM-TMP	_
+15	the	the	DT	_	the	the	DT	18	NMOD	_	_	_	_
+16	Six	six	NNP	_	Six	six	NNP	17	NAME	_	_	_	_
+17	Day	day	NNP	_	Day	day	NNP	18	NMOD	_	_	_	_
+18	War	war	NNP	_	War	war	NNP	14	PMOD	_	_	_	_
+19	in	in	IN	_	in	in	IN	18	TMP	_	_	_	_
+20	June	june	NNP	_	June	june	NNP	21	NMOD	_	_	_	_
+21	1967	1967	CD	_	1967	1967	CD	19	PMOD	_	_	_	_
+22	.	.	.	_	.	.	.	5	P	_	_	_	_
+
+1	Within	within	IN	_	Within	within	IN	6	TMP	_	AM-TMP	_	_	_	_
+2	three	three	CD	_	three	three	CD	3	NMOD	_	_	_	_	_	_
+3	days	days	NNS	_	days	days	NNS	1	PMOD	_	_	_	_	_	_
+4	the	the	DT	_	the	the	DT	5	NMOD	_	_	_	_	_	_
+5	city	city	NN	_	city	city	NN	6	SBJ	_	A1	_	_	_	_
+6	was	was	VBD	_	was	be	VBD	0	ROOT	be.01	_	_	_	_	_
+7	completely	completely	RB	_	completely	completely	RB	6	MNR	_	AM-MNR	_	_	_	_
+8	in	in	IN	_	in	in	IN	6	PRD	_	A2	_	_	_	_
+9	Israeli	israeli	JJ	_	Israeli	israeli	JJ	10	NMOD	_	_	A1	_	_	_
+10	hands	hands	NNS	_	hands	hands	NNS	8	PMOD	hand.06	_	A2	_	_	_
+11	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_
+12	and	and	CC	_	and	and	CC	6	COORD	_	_	_	_	_	_
+13	in	in	IN	_	in	in	IN	17	TMP	_	_	_	_	AM-TMP	_
+14	two	two	CD	_	two	two	CD	15	NMOD	_	_	_	_	_	_
+15	weeks	weeks	NNS	_	weeks	week	NNS	13	PMOD	week.03	_	_	A2	_	_
+16	it	it	PRP	_	it	it	PRP	17	SBJ	_	_	_	A1	A1	A0
+17	was	was	VBD	_	was	be	VBD	12	CONJ	be.01	_	_	_	_	_
+18	physically	physically	RB	_	physically	physically	RB	17	MNR	_	_	_	_	AM-MNR	_
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_
+20	administratively	administratively	RB	_	administratively	administratively	RB	19	CONJ	_	_	_	_	_	_
+21	reunited	reunited	VBN	_	reunited	reunite	VBN	17	VC	reunite.01	_	_	_	A2	_
+22	.	.	.	_	.	.	.	6	P	_	_	_	_	_	_
+
+1	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	3	NMOD	_	A2	_	_	_	_	_	_	_	_	_	_
+2	's	's	POS	_	's	's	POS	1	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_
+3	mayor	mayor	NN	_	mayor	mayor	NN	6	TITLE	mayor.01	A0	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	_	,	,	,	6	P	_	_	_	_	_	_	_	_	_	_	_	_
+5	Teddy	teddy	NNP	_	Teddy	teddy	NNP	6	NAME	_	_	_	_	_	_	_	_	_	_	_	_
+6	Kollek	kollek	NNP	_	Kollek	kollek	NNP	8	SBJ	_	_	A0	_	A0	_	A0	A0	_	_	A0	_
+7	,	,	,	_	,	,	,	8	P	_	_	_	_	_	_	_	_	_	_	_	_
+8	spent	spent	VBD	_	spent	spend	VBD	0	ROOT	spent.01	_	_	_	_	_	_	_	_	_	_	_
+9	the	the	DT	_	the	the	DT	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+10	next	next	JJ	_	next	next	JJ	12	NMOD	_	_	_	AM-TMP	_	_	_	_	_	_	_	_
+11	25	25	CD	_	25	25	CD	12	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+12	years	years	NNS	_	years	years	NNS	8	OBJ	year.04	_	AM-TMP	A2	_	_	_	_	_	_	_	_
+13	orchestrating	orchestrating	VBG	_	orchestrating	orchestrate	VBG	8	OPRD	orchestrate.01	_	A1	_	_	_	_	_	_	_	_	_
+14	a	a	DT	_	a	a	DT	16	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+15	vast	vast	JJ	_	vast	vast	JJ	16	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+16	program	program	NN	_	program	program	NN	13	OBJ	program.01	_	_	_	A1	_	_	_	_	_	_	_
+17	of	of	IN	_	of	of	IN	16	NMOD	_	_	_	_	_	A1	_	_	_	_	_	_
+18	development	development	NN	_	development	development	NN	17	PMOD	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	,	,	_	,	,	,	13	P	_	_	_	_	_	_	_	_	_	_	_	_
+20	adding	adding	VBG	_	adding	add	VBG	13	COORD	add.02	_	_	_	_	_	_	_	_	_	_	_
+21	new	new	JJ	_	new	new	JJ	23	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+22	cultural	cultural	JJ	_	cultural	cultural	JJ	23	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+23	institutions	institutions	NNS	_	institutions	institution	NNS	20	OBJ	_	_	_	_	_	_	A1	_	_	_	_	_
+24	and	and	CC	_	and	and	CC	23	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+25	parks	parks	NNS	_	parks	parks	NNS	24	CONJ	_	_	_	_	_	_	_	_	_	_	_	_
+26	and	and	CC	_	and	and	CC	20	COORD	_	_	_	_	_	_	_	_	_	_	_	_
+27	instituting	instituting	VBG	_	instituting	institute	VBG	26	CONJ	institute.01	_	_	_	_	_	_	_	_	_	_	_
+28	neighborhood	neighborhood	NN	_	neighborhood	neighborhood	NN	30	NMOD	neighborhood.02	_	_	_	_	_	_	_	_	_	_	_
+29	restoration	restoration	NN	_	restoration	restoration	NN	30	NMOD	_	_	_	_	_	_	_	_	A1	A1	_	_
+30	projects	projects	NNS	_	projects	project	NNS	27	OBJ	project.01	_	_	_	_	_	_	A1	_	_	_	_
+31	while	while	IN	_	while	while	IN	13	TMP	_	_	_	_	AM-TMP	_	AM-TMP	AM-TMP	_	_	_	_
+32	tirelessly	tirelessly	RB	_	tirelessly	tirelessly	RB	33	MNR	_	_	_	_	_	_	_	_	_	_	AM-MNR	_
+33	mediating	mediating	VBG	_	mediating	mediate	VBG	31	SUB	mediate.01	_	_	_	_	_	_	_	_	_	_	_
+34	the	the	DT	_	the	the	DT	35	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+35	concerns	concerns	NNS	_	concerns	concern	NNS	33	OBJ	_	_	_	_	_	_	_	_	_	_	A1	_
+36	of	of	IN	_	of	of	IN	35	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+37	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	40	NMOD	_	_	_	_	_	_	_	_	_	_	_	A2
+38	's	's	POS	_	's	's	POS	37	SUFFIX	_	_	_	_	_	_	_	_	_	_	_	_
+39	many	many	JJ	_	many	many	DT	40	NMOD	_	_	_	_	_	_	_	_	_	_	_	_
+40	communities	communities	NNS	_	communities	community	NNS	36	PMOD	community.01	_	_	_	_	_	_	_	_	_	_	_
+41	.	.	.	_	.	.	.	8	P	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Today	today	NN	_	Today	today	NN	7	TMP	_	AM-TMP	_	_	_	_	_	_	_	_
+2	,	,	,	_	,	,	,	1	P	_	_	_	_	_	_	_	_	_	_
+3	as	as	IN	_	as	as	IN	1	NMOD	_	_	_	_	_	_	_	_	_	_
+4	always	always	RB	_	always	always	RB	3	PMOD	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	_	,	,	,	7	P	_	_	_	_	_	_	_	_	_	_
+6	Jerusalem	jerusalem	NNP	_	Jerusalem	jerusalem	NNP	7	SBJ	_	A1	_	_	_	_	_	_	_	_
+7	is	is	VBZ	_	is	be	VBZ	0	ROOT	be.01	_	_	_	_	_	_	_	_	_
+8	a	a	DT	_	a	a	DT	9	NMOD	_	_	_	_	_	_	_	_	_	_
+9	city	city	NN	_	city	city	NN	7	PRD	city.01	A2	_	_	_	_	_	_	_	_
+10	of	of	IN	_	of	of	IN	9	NMOD	_	_	A1	_	_	_	_	_	_	_
+11	controversies	controversies	NNS	_	controversies	controversy	NNS	10	PMOD	_	_	_	_	_	_	_	_	_	_
+12	:	:	:	_	:	:	:	9	P	_	_	_	_	_	_	_	_	_	_
+13	religious	religious	JJ	_	religious	religious	JJ	14	NMOD	_	_	_	_	_	_	_	_	_	_
+14	Jews	jews	NNS	_	Jews	jew	NNS	15	SBJ	_	_	_	_	_	_	_	_	_	_
+15	in	in	IN	_	in	in	IN	9	NMOD	_	_	_	_	_	_	_	_	_	_
+16	conflict	conflict	NN	_	conflict	conflict	NN	15	PMOD	conflict.01	_	_	_	_	_	_	_	_	_
+17	with	with	IN	_	with	with	IN	16	NMOD	_	_	_	A2	_	_	_	_	_	_
+18	secular	secular	JJ	_	secular	secular	JJ	19	NMOD	_	_	_	_	_	_	_	_	_	_
+19	Jews	jews	NNS	_	Jews	jew	NNS	17	PMOD	_	_	_	_	_	_	_	_	_	_
+20	;	;	:	_	;	;	:	15	P	_	_	_	_	_	_	_	_	_	_
+21	Palestinians	palestinians	NNPS	_	Palestinians	palestinian	NNPS	22	SBJ	_	_	_	_	A0	_	_	_	_	_
+22	calling	calling	VBG	_	calling	call	VBG	15	COORD	call.01	_	_	_	_	_	_	_	_	_
+23	for	for	IN	_	for	for	IN	22	ADV	_	_	_	_	A1	_	_	_	_	_
+24	independence	independence	NN	_	independence	independence	NN	23	PMOD	_	_	_	_	_	_	_	_	_	_
+25	;	;	:	_	;	;	:	22	P	_	_	_	_	_	_	_	_	_	_
+26	many	many	JJ	_	many	many	DT	27	NMOD	_	_	_	_	_	_	_	_	_	_
+27	residents	residents	NNS	_	residents	resident	NNS	28	SBJ	_	_	_	_	_	A0	_	_	_	_
+28	protesting	protesting	VBG	_	protesting	protest	VBG	22	COORD	protest.01	_	_	_	_	_	_	_	_	_
+29	a	a	DT	_	a	a	DT	30	NMOD	_	_	_	_	_	_	_	_	_	_
+30	wave	wave	NN	_	wave	wave	NN	28	OBJ	wave.01	_	_	_	_	A1	_	_	_	A0
+31	of	of	IN	_	of	of	IN	30	NMOD	_	_	_	_	_	_	A1	_	_	_
+32	high-rise	high-rise	NN	_	high	high	JJ	34	HMOD	_	_	_	_	_	_	_	_	_	_
+33	_	_	_	_	-	-	HYPH	32	HYPH	_	_	_	_	_	_	_	_	_	_
+34	_	_	_	_	rise	rise	NN	35	NMOD	_	_	_	_	_	_	_	A1	_	_
+35	development	development	NN	_	development	development	NN	31	PMOD	development.02	_	_	_	_	_	_	_	_	_
+36	that	that	WDT	_	that	that	WDT	38	DEP	_	_	_	_	_	_	_	_	_	_
+37	many	many	JJ	_	many	many	DT	38	SBJ	_	_	_	_	_	_	_	_	A0	_
+38	claim	claim	VBP	_	claim	claim	VBP	30	NMOD	claim.01	_	_	_	_	_	_	_	_	_
+39	will	will	MD	_	will	will	MD	38	OBJ	_	_	_	_	_	_	_	_	_	_
+40	turn	turn	VB	_	turn	turn	VB	39	VC	turn.16	_	_	_	_	_	_	SU	_	_
+41	the	the	DT	_	the	the	DT	43	NMOD	_	_	_	_	_	_	_	_	_	_
+42	Holy	holy	NNP	_	Holy	holy	NNP	43	NAME	_	_	_	_	_	_	_	_	_	_
+43	City	city	NNP	_	City	city	NNP	40	OBJ	_	_	_	_	_	_	_	A0	_	A1
+44	into	into	IN	_	into	into	IN	40	ADV	_	_	_	_	_	_	_	_	_	AM-DIR
+45	a	a	DT	_	a	a	DT	47	NMOD	_	_	_	_	_	_	_	_	_	_
+46	holy	holy	JJ	_	holy	holy	JJ	47	NMOD	_	_	_	_	_	_	_	_	_	_
+47	megalopolis	megalopolis	NN	_	megalopolis	megalopolis	NN	44	PMOD	_	_	_	_	_	_	_	_	_	_
+48	.	.	.	_	.	.	.	7	P	_	_	_	_	_	_	_	_	_	_
+
+1	But	but	CC	_	But	but	CC	15	DEP	_	_	_	_	_	_	_
+2	the	the	DT	_	the	the	DT	3	NMOD	_	_	_	_	_	_	_
+3	ideas	ideas	NNS	_	ideas	idea	NNS	15	SBJ	_	A0	_	A1	_	_	_
+4	and	and	CC	_	and	and	CC	3	COORD	_	_	_	_	_	_	_
+5	mystique	mystique	NN	_	mystique	mystique	NN	4	CONJ	_	_	_	_	_	_	_
+6	that	that	WDT	_	that	that	WDT	7	SBJ	_	_	_	_	_	_	_
+7	have	have	VBP	_	have	have	VBP	3	NMOD	have.03	_	_	_	_	_	_
+8	always	always	RB	_	always	always	RB	7	TMP	_	AM-TMP	_	_	_	_	_
+9	made	made	VBN	_	made	make	VBN	7	VC	make.08	A1	_	_	_	_	_
+10	this	this	DT	_	this	this	DT	9	OBJ	_	_	_	_	_	_	_
+11	an	an	DT	_	an	an	DT	14	NMOD	_	_	_	_	_	_	_
+12	extraordinarily	extraordinarily	RB	_	extraordinarily	extraordinarily	RB	13	AMOD	_	_	_	_	_	_	_
+13	special	special	JJ	_	special	special	JJ	14	NMOD	_	_	_	_	_	_	_
+14	place	place	NN	_	place	place	NN	9	OPRD	_	_	A2	_	_	_	_
+15	rise	rise	VBP	_	rise	rise	VBP	0	ROOT	rise.01	_	_	_	_	_	_
+16	above	above	IN	_	above	above	IN	15	LOC	_	_	_	AM-ARGM	_	_	_
+17	the	the	DT	_	the	the	DT	21	NMOD	_	_	_	_	_	_	_
+18	ebbing	ebbing	VBG	_	ebbing	ebb	VBG	21	NMOD	_	_	_	_	_	_	_
+19	and	and	CC	_	and	and	CC	18	COORD	_	_	_	_	_	_	_
+20	flowing	flowing	VBG	_	flowing	flow	VBG	19	CONJ	_	_	_	_	_	_	_
+21	concerns	concerns	NNS	_	concerns	concern	NNS	16	PMOD	concern.02	_	_	_	_	_	_
+22	of	of	IN	_	of	of	IN	21	NMOD	_	_	_	_	A1	_	_
+23	present	present	JJ	_	present	present	JJ	25	NMOD	_	_	_	_	_	_	_
+24	-	-	HYPH	_	-	-	HYPH	25	NMOD	_	_	_	_	_	_	_
+25	day	day	NN	_	day	day	NN	26	NMOD	_	_	_	_	_	_	_
+26	Jerusalem	jerusalem	NN	_	Jerusalem	jerusalem	NNP	22	PMOD	_	_	_	_	_	_	_
+27	as	as	IN	_	as	as	IN	15	TMP	_	_	_	AM-TMP	_	_	_
+28	it	it	PRP	_	it	it	PRP	29	SBJ	_	_	_	_	_	A0	A0
+29	continues	continues	VBZ	_	continues	continue	VBZ	27	SUB	continue.02	_	_	_	_	_	_
+30	to	to	TO	_	to	to	TO	29	OPRD	_	_	_	_	_	A1	_
+31	tug	tug	VB	_	tug	tug	VB	30	IM	tug.01	_	_	_	_	_	_
+32	at	at	IN	_	at	at	IN	31	ADV	_	_	_	_	_	_	A1
+33	the	the	DT	_	the	the	DT	34	NMOD	_	_	_	_	_	_	_
+34	world	world	NN	_	world	world	NN	36	NMOD	_	_	_	_	_	_	_
+35	's	's	POS	_	's	's	POS	34	SUFFIX	_	_	_	_	_	_	_
+36	attention	attention	NN	_	attention	attention	NN	32	PMOD	_	_	_	_	_	_	_
+37	into	into	IN	_	into	into	IN	31	TMP	_	_	_	_	_	_	AM-TMP
+38	the	the	DT	_	the	the	DT	40	NMOD	_	_	_	_	_	_	_
+39	new	new	JJ	_	new	new	JJ	40	NMOD	_	_	_	_	_	_	_
+40	millennium	millennium	NN	_	millennium	millennium	NN	37	PMOD	_	_	_	_	_	_	_
+41	.	.	.	_	.	.	.	15	P	_	_	_	_	_	_	_
