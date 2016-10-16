@@ -1,6 +1,7 @@
 import nltk, pdb
 from nltk.corpus import treebank
 import spacy
+from spacy.en import English
 
 def unicode2ascii(text):
   return "".join([str(ch) if ord(ch) < 128 else ' ' for ch in text])
@@ -8,7 +9,7 @@ def unicode2ascii(text):
 def run2():
   f = open('wsj_0027.txt')
   text = ''.join(f.readlines())
-  en_doc = en_nlp(text)
+  n_doc = en_nlp(text)
 
 class doc_words:
   def __init__(self, sent, names):
@@ -36,6 +37,7 @@ def is_name_generator():
 is_comp_name = is_name_generator()
     
 
+print ('running')
 if __name__ == '__main__':
   en_nlp = spacy.load('en')
   
@@ -44,7 +46,7 @@ if __name__ == '__main__':
     for sent in treebank.sents(f):
       count += 1
       sent = ' '.join(sent)
-  #    pdb.set_trace()
+      pdb.set_trace()
 
       doc = en_nlp(sent)
       name, names, flag = [], [], False
